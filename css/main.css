@@ -1,0 +1,137 @@
+
+
+/* ==========================================================================
+   C
+   ========================================================================== */
+body{
+	font-family: "Courier New", Courier, monospace;
+}
+
+
+h1, h2, h3, h4, h4, h5, h6, p, ul, li, a{
+	font-family: "Courier New", Courier, monospace !important;
+
+}
+
+.today{
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+
+}
+
+.spacer{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 10%;
+	max-height: 100px;
+}
+
+.t-ideas{
+	text-align: right;
+}
+
+.ideas{
+	float: left;
+	max-height: 100px;
+	max-width: 100px;
+}
+
+footer{
+	text-align: center;
+}
+
+.suggestions{
+	text-align: center;
+}
+
+.suggestions-i{
+	display: block;
+	margin: auto;
+}
+
+.suggestions-d{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.polygon{
+	position: absolute;
+	right: 40%;
+	max-width: 311px;
+	width: 100%;
+	opacity: 0.25;
+	-webkit-animation: coolPolygon 7.5s linear infinite;
+	animation: coolPolygon 7.5s linear infinite;
+}
+
+.circle {
+	position: absolute;
+	right: 40%;
+	max-width: 292px;
+	width: 100%;
+	opacity: 1;
+	-webkit-animation: coolCircle 7.5s linear infinite;
+	animation: coolCircle 7.5s linear infinite;
+}
+
+@keyframes coolPolygon {
+    0% {
+        -webkit-transform: rotate3d(0, 0, 0) scale(1);
+        transform: rotate3d(0, 0, 0) scale(1)
+    }
+
+    25% {
+        -webkit-transform: rotate3d(-0.25, -0.5, -0.25, 90deg) scale(1);
+        transform: rotate3d(-0.25, -0.5, -0.25, 90deg) scale(1)
+    }
+
+    50% {
+        -webkit-transform: rotate3d(-0.5, -1, -0.5, 180deg) scale(1.5);
+        transform: rotate3d(-0.5, -1, -0.5, 180deg) scale(1.5)
+    }
+
+    75% {
+        -webkit-transform: rotate3d(-0.75, -1.5, -0.75, 270deg) scale(1);
+        transform: rotate3d(-0.75, -1.5, -0.75, 270deg) scale(1)
+    }
+
+    100% {
+        -webkit-transform: rotate3d(-1, -2, -1, 360deg) scale(1);
+        transform: rotate3d(-1, -2, -1, 360deg) scale(1)
+    }
+}
+
+@keyframes coolCircle {
+    0% {
+        -webkit-transform: rotate3d(0, 0, 0) scale(1);
+        transform: rotate3d(0, 0, 0) scale(1)
+    }
+
+    25% {
+        -webkit-transform: rotate3d(0.25, 0.5, 0.25, 90deg) scale(1);
+        transform: rotate3d(0.25, 0.5, 0.25, 90deg) scale(1)
+    }
+
+    50% {
+        -webkit-transform: rotate3d(0.5, 1, 0.5, 180deg) scale(1.5);
+        transform: rotate3d(0.5, 1, 0.5, 180deg) scale(1.5)
+    }
+
+    75% {
+        -webkit-transform: rotate3d(0.75, 1.5, 0.25, 270deg) scale(1);
+        transform: rotate3d(0.75, 1.5, 0.25, 270deg) scale(1)
+    }
+
+    100% {
+        -webkit-transform: rotate3d(1, 2, 1, 360deg) scale(1);
+        transform: rotate3d(1, 2, 1, 360deg) scale(1)
+    }
+}
