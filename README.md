@@ -1,6 +1,9 @@
-# This is Ferruccio's personal website
-All the code powering https://ferrucc.io is right here in this repository. 
+# gatsby-starter-blog
+Gatsby starter for creating a blog
 
-It's just some HTML, a sprinkle of CSS and a couple of lines of Javascript. 
+Install this starter (assuming Gatsby is installed) by running from your CLI:
 
-Feel free to look around, but there's not much to see. The code for this website is not optimised in any way. When I feel like sometimes I change something in the pages. 
+`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+
+## Running in development
+`gatsby develop`
