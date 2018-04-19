@@ -1,9 +1,18 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# Ferruccio's Blog
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+This Blog is almost entirely based on "Gatsby Starter Blog".
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+To install this (assuming Gatsby is installed) by run from your CLI:
+
+`gatsby new gatsby-blog https://github.com/ferrucc-io/ferruccio`
 
 ## Running in development
+
 `gatsby develop`
+
+## Building for production
+
+Run:
+`gatsby build`
+And the website will be compiled in the /public directory.
+You can also setup deployment via the CLI if you set up you AWS credentials.
