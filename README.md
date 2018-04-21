@@ -14,5 +14,6 @@ To install this (assuming Gatsby is installed) by run from your CLI:
 
 Run:
 `gatsby build`
+
 And the website will be compiled in the /public directory.
 You can also setup deployment via the CLI if you set up you AWS credentials.
