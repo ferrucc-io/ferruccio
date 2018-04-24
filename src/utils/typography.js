@@ -16,6 +16,10 @@ Wordpress2016.overrideThemeStyles = () => ({
   },
   'a:hover': {
       backgroundColor: '#E0E0E0',
+  },
+
+  'a.gatsby-resp-image-link': {
+      backgroundColor: '#FFFFFF',
   }
 
 
