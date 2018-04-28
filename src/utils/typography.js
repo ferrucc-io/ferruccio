@@ -20,7 +20,13 @@ Wordpress2016.overrideThemeStyles = () => ({
 
   'a.gatsby-resp-image-link': {
       backgroundColor: '#FFFFFF',
-  }
+  },
+
+  '.mainMenuIcon:hover': {
+      WebkitTransform: 'rotate(180deg)',
+      transform: 'rotate(180deg)',
+      transition: '.3s all',
+  },
 
 
 })

@@ -3,6 +3,8 @@ import Link from 'gatsby-link'
 import { Container } from 'react-responsive-grid'
 
 import { rhythm, scale } from '../utils/typography'
+import MainMenu from '../components/MainMenu'
+
 
 class Template extends React.Component {
   render() {
@@ -16,25 +18,30 @@ class Template extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-              background: '#FFFFFF',
-            }}
-            to={'/'}
-          >
-            Hey there!
-          </Link>
-        </h1>
+        <section>
+            <div>
+                <MainMenu/>
+            </div>
+            <h1
+              style={{
+                ...scale(1.5),
+                marginBottom: rhythm(1.5),
+                marginTop: 0,
+              }}
+            >
+              <Link
+                style={{
+                  boxShadow: 'none',
+                  textDecoration: 'none',
+                  color: 'inherit',
+                  background: '#FFFFFF',
+                }}
+                to={'/'}
+              >
+                Hey there!
+              </Link>
+            </h1>
+        </section>
       )
     } else {
       header = (
