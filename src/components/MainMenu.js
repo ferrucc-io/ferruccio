@@ -24,12 +24,15 @@ class MainMenu extends React.Component {
                 marginRight: 'auto'
             }}
         >
-            <img src={infoPic}
-                 style={{
-                     maxHeight: '40px',
-                 }}
-                 className="mainMenuIcon"
-            />
+            <a href="./about" className="no-underline">
+                <img src={infoPic}
+                     style={{
+                         maxHeight: '40px',
+                     }}
+                      className="mainMenuIcon mainMenuIconFlip"
+                />
+            </a>
+
         </div>
         <div
             style={{
@@ -37,13 +40,16 @@ class MainMenu extends React.Component {
                 marginRight: 'auto'
             }}
         >
-            <img src={lifePic}
-                 style={{
-                     maxHeight: '40px',
-                     marginLeft: 'auto',
-                     marginRight: 'auto'
-                 }}
-            />
+            <a href="./life" className="no-underline">
+                <img src={lifePic}
+                     style={{
+                         maxHeight: '40px',
+                         marginLeft: 'auto',
+                         marginRight: 'auto'
+                     }}
+                     className="mainMenuIcon"
+                />
+            </a>
         </div>
         <div
             style={{
@@ -51,11 +57,14 @@ class MainMenu extends React.Component {
                 marginRight: 'auto'
             }}
         >
-            <img src={mailPic}
-                 style={{
-                     maxHeight: '40px'
-                 }}
-            />
+            <a href="mailto:hi@ferrucc.io" className="no-underline">
+                <img src={mailPic}
+                     style={{
+                         maxHeight: '40px'
+                     }}
+                     className="mainMenuIcon"
+                />
+            </a>
         </div>
       </div>
     )

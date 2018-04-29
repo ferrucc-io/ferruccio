@@ -22,10 +22,13 @@ Wordpress2016.overrideThemeStyles = () => ({
       backgroundColor: '#FFFFFF',
   },
 
-  '.mainMenuIcon:hover': {
+  '.mainMenuIconFlip:hover': {
       WebkitTransform: 'rotate(180deg)',
       transform: 'rotate(180deg)',
       transition: '.3s all',
+  },
+  'a.no-underline':{
+      backgroundColor: '#FFFFFF',
   },
 
 
