@@ -13,7 +13,7 @@ class LifeKanban extends React.Component {
             <section>
                 <Helmet title="Life Kanban - Ferrucc.io"/>
                 <div className="container">
-                    <h4>Here's my past, my present and my future.</h4>
+                    <h1>Here's my past, my present and my future.</h1>
                 </div>
                 <section className="container">
                         <div className="row-fluid">
