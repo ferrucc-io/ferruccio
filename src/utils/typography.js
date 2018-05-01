@@ -31,6 +31,19 @@ Wordpress2016.overrideThemeStyles = () => ({
       backgroundColor: '#FFFFFF',
   },
 
+  'code.language-text':{
+      width: "60%",
+      textAlign: "left",
+      color: "white",
+      padding: "7px 1rem",
+      marginRight:"5px",
+      marginLeft:"5px",
+      borderRadius: "4px",
+      backgroundColor: "#232323",
+      minHeight: "60px",
+      boxShadow: "0px 12px 36.8px 9.2px rgba(0, 0, 0, 0.1)",
+  },
+
 
 })
 

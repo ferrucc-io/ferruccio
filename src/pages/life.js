@@ -24,6 +24,7 @@ class LifeKanban extends React.Component {
                                                 <li>Learn how to speak fluently in 5 languages</li>
                                                 <li>Figure out how to make cool 3D videos</li>
                                                 <li>Design and manifacture a fashion line, sourcing high quality products</li>
+
                                         </ul>
                                 </div>
 
@@ -31,10 +32,10 @@ class LifeKanban extends React.Component {
                                         <h2>Things I'm doing:</h2>
                                         <ul>
                                                 <li>Get a degree in Control Engineering</li>
-                                                <li>Get at an HSK4 level in Chinese</li>
-                                                <li>Building high quality cryptocurrency financial data APIs</li>
-                                                <li>Writing a little bit of code everyday</li>
-                                                <li><a href="https://cryptopals.com">The Cryptopals Challenge</a></li>
+                                                <li>Get at an HSK4 level in Chinese (on standby)</li>
+                                                <li>Writing a little bit of code everyday to stay sharp</li>
+                                                <li>Start writing a series of "explainer" blog posts</li>
+                                                <li>Learning React Native by making some apps</li>
                                         </ul>
                                 </div>
                                 <div className="col-md-4">
@@ -47,8 +48,8 @@ class LifeKanban extends React.Component {
                                                 <li>Became a "professional" UI/UX and graphic designer. (sold some logos and mockups)</li>
                                                 <li>Reached 365.000 people in a year on Quora (it took three months).</li>
                                                 <li>Quit Social Media</li>
-                                                <li>Learned Django Development and React</li>
-                                                <li>Created <a href="https://wodstreak.com">WodStreak</a></li>
+                                                <li>Learned Django/Flask Development and React</li>
+                                                <li>Created <a href="https://wodstreak.com">WodStreak</a> and <a href="https://draftbunny.xyz">DraftBunny</a></li>
                                         </ul>
                                 </div>
                         </div>
