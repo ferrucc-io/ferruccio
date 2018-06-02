@@ -1,6 +1,6 @@
 ---
 title: What is the Crypto of Bitcoin [WIP]
-date: "2018-05-11T16:46:03.284Z"
+date: "2018-06-02T16:46:03.284Z"
 ---
 
 # This is a draft don't take *too* seriously
