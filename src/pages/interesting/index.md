@@ -3,7 +3,7 @@ title: What is wrong with Italy?
 date: "2018-06-04T19:12:03.284Z"
 ---
 
-We now finally have a government in Italy.
+We now have a government in Italy.
 
 Everyone around me is talking about this, so I figured out I might as well try to analyse what are the biggest problems the country is facing.
 
