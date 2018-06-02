@@ -27,10 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          I'm <strong>Ferruccio</strong> and I like to make things. I also enjoy doing random experiments and writing about wild ideas. To learn more about them {' '}
-          <a href="https://twitter.com/frcbls">
-            you should follow me on Twitter
-          </a>
+          I'm <strong>Ferruccio</strong> and I like to make things. I also enjoy doing random experiments and writing about wild ideas.
         </p>
       </div>
     )

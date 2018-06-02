@@ -1,7 +1,11 @@
 ---
-title: What is the Crypto of Bitcoin
+title: What is the Crypto of Bitcoin [WIP]
 date: "2018-05-11T16:46:03.284Z"
 ---
+
+# This is a draft don't take *too* seriously
+
+# CAUTION WET FLOOR 🚧🚧
 
 As the term crypto, is now widely used to refer to cryptocurrencies I thought it would be interesting to write a simple blog post explaining the cryptography behind Bitcoin, which is one of the many layers of the digital gold we all love.
 
@@ -51,14 +55,43 @@ Output of RIPEMD-160 on "338fc17627ab215e5cb0c4ef807dfd161ef96febdb00e997c50db5f
 
 A Merkle Tree is a signature of all the transactions contained in a block.
 
-Step 1) hash all the transaction.
-Step 2) pair the hashes and hash together
-Step 3) if you have more than 1 element left repeat step 2
-Step 4) you now have the merkle root
-
+I tried to understand Merkle trees from definitions on the internet and textbooks, but couldn't understand how they worked until I visualised them:
 ![](./merkle.gif)
+
+1. hash all the transaction.
+2. pair the hashes and hash together.
+3. if you have more than 1 element left go back to step one using the combined hashes as "transactions".
+4. you now have the merkle root.
 
 If you change the value of the transaction in a block, the merkle root changes.
 For this reason if you want to verify the validity of a transaction you can simply check the validity of the branch on which a transaction is on:
 ![](./tx-validity.png)
-## 
+
+## Elliptic Curve Cyptography
+
+To explain Bitcoin's ECDSA (Elliptic Curve Digital Signature Algorithm) we have to understand what a Signature Algorithm is.
+
+A **Signature Algorithm** is composed by three parts:
+
+* a key generation algorithm, which can be shared with other public-key algorithms
+* a signature generation algorithm
+* a signature verification algorithm
+
+We can build signature algorithms using hashing functions.
+Using the private key we generate a unique text using the hash function on the message we want to sign.
+
+Anyone can then use the public key to see the content of the message and the signature proves that someone with the private key of the corresponding public key signed the message.
+
+A cryptographic system with a public and a private key is an asymmetric system.
+
+These systems work because it's easy to calculate outputs in one direction, extremely hard in the other.
+ A -> B easy
+ B -> A extremely hard
+ 
+ A property of elliptic curves is that if a line crosses an elliptic curve twice, it will cross it in another point, unless the points are opposite to each other.
+ 
+ The Elliptic Curve used in Bitcoin is called secp256k1 here is its plot:
+
+![](./secp256k1.png)
+ 
+ # This is a draft don't take *too* seriously
