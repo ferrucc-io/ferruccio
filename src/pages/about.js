@@ -37,6 +37,22 @@ class Info extends React.Component {
                 id: 1,
                 message: "but I try to learn lessons and new things every time I make something",
             }), // Gray bubble
+            new Message({
+                id: 0,
+                message: "What is your favorite programming language?"
+            }), // Blue bubble
+            new Message({
+                id: 1,
+                message: "Probably Clojure, but I'm more productive with Python",
+            }), // Gray bubble
+            new Message({
+                id: 0,
+                message: "What do you do for a living?"
+            }), // Blue bubble
+            new Message({
+                id: 1,
+                message: "I study engineering and work",
+            }), // Gray bubble
           ],
       };
   }
