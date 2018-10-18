@@ -2,127 +2,32 @@ import React from 'react'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
-import { ChatFeed, Message, ChatBubbleProps } from 'react-chat-ui';
-
-import Bio from '../components/Bio'
 import { rhythm } from '../utils/typography'
 
 
 class Info extends React.Component {
   constructor(props){
       super(props);
-      this.state = {
-          messages: [
-            new Message({
-                id: 0,
-                message: "Where are you from?!"
-            }),
-            new Message({
-                id: 1,
-                message: "I'm from Milan, Italy 🇮🇹!",
-            }), // Gray bubble
-            new Message({
-                id: 0,
-                message: "How would you describe yourself?"
-            }), // Blue bubble
-            new Message({
-                id: 1,
-                message: "I like to make things",
-            }), // Gray bubble
-            new Message({
-                id: 1,
-                message: "Most of the things I make are useless",
-            }), // Gray bubble
-            new Message({
-                id: 1,
-                message: "but I try to learn lessons and new things every time I make something",
-            }), // Gray bubble
-            new Message({
-                id: 0,
-                message: "What is your favorite programming language?"
-            }), // Blue bubble
-            new Message({
-                id: 1,
-                message: "Probably Clojure, but I'm more productive with Python",
-            }), // Gray bubble
-            new Message({
-                id: 0,
-                message: "What do you do for a living?"
-            }), // Blue bubble
-            new Message({
-                id: 1,
-                message: "I study engineering and work",
-            }), // Gray bubble
-          ],
-      };
   }
-
-  /*componentDidMount(){
-      const messagesArr = [
-          new Message({
-                id: 0,
-                message: "Where are you from?!"
-            }),
-            new Message({
-                id: 1,
-                message: "I'm from Milan, Italy 🇮🇹!",
-            }), // Gray bubble
-            new Message({
-                id: 0,
-                message: "How would you describe yourself?"
-            }), // Blue bubble
-            new Message({
-                id: 1,
-                message: "I like to make things",
-            }), // Gray bubble
-            new Message({
-                id: 1,
-                message: "Most of the things I make are useless",
-            }), // Gray bubble
-            new Message({
-                id: 1,
-                message: "but I try to learn lessons and new things every time I make something",
-            }), // Gray bubble
-      ];
-      for (let i=0; i< messagesArr.length; i++) {
-        let start = new Date().getTime();
-        for (let e = 0; e < 1e7; e++) {
-            if ((new Date().getTime() - start) > 2000){
-                break;
-            }
-        }
-        this.setState(prevState => ({
-            messages: [prevState.messages, messagesArr[i]]
-        }));
-      }
-  }*/
 
   render() {
 
     return (
       <div>
         <Helmet title="About Ferruccio" />
-        <div>
-            <h2>Things about me:</h2>
-            <ChatFeed
-                messages={this.state.messages} // Boolean: list of message objects
-                isTyping={this.state.is_typing} // Boolean: is the recipient typing
-                hasInputField={false} // Boolean: use our input, or use your own
-                showSenderName // show the name of the user who sent the message
-                bubblesCentered={false}
-                bubbleStyles={
-                    {
-                        text: {
-                            fontSize: 30
-                        },
-                        chatbubble: {
-                            borderRadius: 70,
-                            padding: 40
-                        }
-                    }
-                }
-            />
-        </div>
+        <h2>About Me</h2>
+        <p>I'm a maker.</p>
+
+        <p>I like to build things in code.</p>
+
+        <p>I like to experiment new things and take risks. I thrive in high pressure environments and always push myself to do the things that will challenge me the most.</p>
+
+        <p>In the last couple of months my biggest challenge has been trying to build a profitable product. I haven't been able to do that yet.</p>
+
+        <p>I'm sharing everything I'm learning on sales, design and development on my <a href="https://twitter.com/0xferruccio">Twitter Profile</a></p>
+
+        <p>On this blog you can find some thoughts I have or had during the years.</p>
+
       </div>
     )
   }

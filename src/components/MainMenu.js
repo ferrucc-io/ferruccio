@@ -5,7 +5,6 @@ import 'typeface-montserrat'
 import 'typeface-merriweather'
 
 import infoPic from './info.svg'
-import lifePic from './life.svg'
 import mailPic from './mail.svg'
 import { rhythm } from '../utils/typography'
 
@@ -34,23 +33,7 @@ class MainMenu extends React.Component {
             </a>
 
         </div>
-        <div
-            style={{
-                marginLeft: 'auto',
-                marginRight: 'auto'
-            }}
-        >
-            <a href="./life" className="no-underline">
-                <img src={lifePic}
-                     style={{
-                         maxHeight: '40px',
-                         marginLeft: 'auto',
-                         marginRight: 'auto'
-                     }}
-                     className="mainMenuIcon"
-                />
-            </a>
-        </div>
+        
         <div
             style={{
                 marginLeft: 'auto',
