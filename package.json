@@ -14,6 +14,7 @@
     "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-sharp": "^1.6.41",
+    "gatsby-plugin-twitter": "^2.0.6",
     "gatsby-plugin-typography": "^1.7.19",
     "gatsby-remark-copy-linked-files": "^1.5.37",
     "gatsby-remark-images": "^1.5.67",

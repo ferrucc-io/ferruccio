@@ -44,6 +44,16 @@ Wordpress2016.overrideThemeStyles = () => ({
       boxShadow: "0px 12px 36.8px 9.2px rgba(0, 0, 0, 0.1)",
   },
 
+  '.gatsby-highlight-code-line': {
+    backgroundColor: "#feb",
+    display: "block",
+    marginRight: "-1em",
+    marginLeft: "-1em",
+    paddingRight: "1em",
+    paddingLeft: "0.75em",
+    borderLeft: "0.25em solid #f99",
+  }
+
 
 })
 
