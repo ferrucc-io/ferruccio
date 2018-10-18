@@ -55,4 +55,16 @@ Here's a more readable version of it:
 
 These attacks usually are aimed towards large corporations that are attacked, either directly, or in indirect ways.
 
-An example of indirect attack that happened a couple of weeks ago was 
+An example of indirect attack that happened this September, when the group targeted Shopper Approved, a plugin for customer rating.
+
+In this case the attack targeted a static resource that was used by multiple websites.
+
+Researchers at [RiskIQ](https://www.riskiq.com) found obfuscated javascript code included in the `certificate.js` file.
+
+Original file 👇
+
+![](sa-clean.png)
+
+Malicious file 👇
+
+![](sa-obfuscated.png)
