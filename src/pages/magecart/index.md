@@ -71,20 +71,23 @@ Malicious file 👇
 
 ![](sa-obfuscated.png)
 
+The code shown operates exactly how you'd imagine and can be roughly translated as the readable reconstruction shown above.
+
+### Newegg Breach
+
 In the Newegg attack, the criminals registered a domain called **neweggstats.com** and used it paired with a paid Comodo TLS certificate to give legitimacy to their page.
 
-> I'm not sure why they would need to pay for a TLS certificate (and not use something like Let's Encrypt) as their website only appears on client side code and the data goes directly to them. So it shouldn't appear on any logs on the victims servers. 
-*Contact me if you know!*
+This time the card skimmer was placed directly inside the source code of the payment processing page, this means Newegg was compromised **directly**.
 
-The card skimmer in this attack was placed directly inside the payment processing page.
+The code used in this attack was the same as the one used in the British Airways hack, adapted to fit the new victim's website.
 
-The code used in this attack was the same as the one used in the British Airways attack adapted for the new victim's website.
+### Ticketmaster Attack
 
 A fourth attack targeted Ticketmaster through Inbenta, a third party tool that "Uses Artificial Intelligence and NLP to increase customer happiness and your company's bottomline".
 
-This service is integrated through custom subdomains for every client they have.
+This service is integrates through custom subdomains for every client.
 
-These were the Ticketmaster subdomains:
+So we should check for the Ticketmaster subdomains that are:
 ```markdown
 ticketmasterat.inbenta.com
 ticketmasterau.inbenta.com
@@ -105,7 +108,7 @@ ticketmasteruk.inbenta.com
 ticketmasterus.inbenta.com
 ```
 
-Inside the Ticketmaster js resources there's a function that inserts an external script from Inbenta.
+Inside the Ticketmaster UK js resources there was a function that inserted an external script from Inbenta.
 
 ![](inbenta.png)
 
@@ -117,7 +120,9 @@ The attackers initially (on June 12th) even deleted the original code by Inbenta
 
 ![](inbenta-deleted.png)
 
-The Ticketmaster websites around the world were also breached via another third party plugin called SOCIAPlus an "E-commerce Big & Social analysis service".
+In this case Inbenta's operations were surely compromised directly as the hackers gained enough access to edit as their pleasing the static assets multiple times.
+
+Other Ticketmaster websites around the world were also breached either via Inbenta or via another third party plugin called SOCIAPlus, an "E-commerce Big & Social analysis service".
 
 These breaches are only the tip of the Iceberg.
 
@@ -126,6 +131,8 @@ Magecart is now targeting the backbones of the internet.
 Sometimes they even have the audacity of blackmailing website admins, like in this case:
 
 ![](magecart-blackmail.png)
+
+It's clear that these attacks are a dangerous problem, so let's try and figure out the best way organisations can tackle them.
 
 ## Neutralising Attacks
 
