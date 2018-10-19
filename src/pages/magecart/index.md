@@ -127,4 +127,16 @@ Sometimes they even have the audacity of blackmailing website admins, like in th
 
 ![](magecart-blackmail.png)
 
-## Preventing Attacks
+## Neutralising Attacks
+
+Now that we've understood how the group organises its attacks let's figure out and evaluate strategies to tackle them.
+
+### Subresource Integrity
+
+### Crawling
+
+### Detecting Code Obfuscation
+
+### Avoiding external CDNs
+
+### Hashing Values and checking diffs
