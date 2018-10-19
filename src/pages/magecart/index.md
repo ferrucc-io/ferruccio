@@ -5,9 +5,11 @@ date: "2018-10-19T19:12:03.284Z"
 
 In the last month a group of hackers called Magecart came back striking in full force.
 
+They first came in the news back in 2015 when [RiskIQ](https://riskiq.com) found out they injected code in Magento's "Magecart" shopping software.
+
 The attacks they architected have caused massive damages to companies like British Airways, Ticketmaster and even Newegg.
 
-This group is specialised in card skimming from payments forms on the internet.
+This group is specialised in card skimming payment forms on the internet.
 
 ## How?
 
@@ -17,7 +19,7 @@ Their attacks are all based on injecting malicious javascript into websites.
 
 The main attack vector are hacked CDNs and third party plugins on websites.
 
-The js inserted in websites usually is pretty straightforward: on form submission, it sends a POST request with all the sensitive information to an external server that is set up to receive it.
+The js inserted in websites usually is pretty straightforward: on form submission, a POST request with all the sensitive information is sent to an external server that is set up to receive it.
 
 ![](./on-payment.png)
 
@@ -53,9 +55,9 @@ Here's a more readable version of it:
 
 ## CDN Security
 
-These attacks usually are aimed towards large corporations that are attacked, either directly, or in indirect ways.
+These attacks usually are aimed towards large corporations that are attacked, either **directly**, or in **indirect ways**.
 
-An example of indirect attack that happened this September, when the group targeted Shopper Approved, a plugin for customer rating.
+An example of indirect attack that happened this September, when the group targeted [Shopper Approved](https://www.shopperapproved.com), an ecommerce plugin for customer rating.
 
 In this case the attack targeted a static resource that was used by multiple websites.
 
@@ -68,3 +70,61 @@ Original file 👇
 Malicious file 👇
 
 ![](sa-obfuscated.png)
+
+In the Newegg attack, the criminals registered a domain called **neweggstats.com** and used it paired with a paid Comodo TLS certificate to give legitimacy to their page.
+
+> I'm not sure why they would need to pay for a TLS certificate (and not use something like Let's Encrypt) as their website only appears on client side code and the data goes directly to them. So it shouldn't appear on any logs on the victims servers. 
+*Contact me if you know!*
+
+The card skimmer in this attack was placed directly inside the payment processing page.
+
+The code used in this attack was the same as the one used in the British Airways attack adapted for the new victim's website.
+
+A fourth attack targeted Ticketmaster through Inbenta, a third party tool that "Uses Artificial Intelligence and NLP to increase customer happiness and your company's bottomline".
+
+This service is integrated through custom subdomains for every client they have.
+
+These were the Ticketmaster subdomains:
+```markdown
+ticketmasterat.inbenta.com
+ticketmasterau.inbenta.com
+ticketmasterbe.inbenta.com
+ticketmasterde.inbenta.com
+ticketmasterdk.inbenta.com
+ticketmasterfi.inbenta.com
+ticketmasterfr.inbenta.com
+ticketmasterie.inbenta.com
+ticketmasternl.inbenta.com
+ticketmasterno.inbenta.com
+ticketmasternz.inbenta.com
+ticketmasterpl.inbenta.com
+ticketmasterse-avatar.inbenta.com
+ticketmasterse.inbenta.com
+ticketmastertr.inbenta.com
+ticketmasteruk.inbenta.com
+ticketmasterus.inbenta.com
+```
+
+Inside the Ticketmaster js resources there's a function that inserts an external script from Inbenta.
+
+![](inbenta.png)
+
+And right there you could find the malicious code by Magecart above the original script:
+
+![](malicious-inbenta.png)
+
+The attackers initially (on June 12th) even deleted the original code by Inbenta and only included their code.
+
+![](inbenta-deleted.png)
+
+The Ticketmaster websites around the world were also breached via another third party plugin called SOCIAPlus an "E-commerce Big & Social analysis service".
+
+These breaches are only the tip of the Iceberg.
+
+Magecart is now targeting the backbones of the internet.
+
+Sometimes they even have the audacity of blackmailing website admins, like in this case:
+
+![](magecart-blackmail.png)
+
+## Preventing Attacks

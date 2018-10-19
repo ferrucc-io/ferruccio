@@ -5,7 +5,7 @@ date: "2018-09-22T19:18:03.284Z"
 
 Two months ago I hadn't launched any solo project that got users.
 
-Until lately everything I had ever done was with someone else, usally with a compatible skillset.
+Until lately everything I had ever done was with someone else, usually with a compatible skillset.
 The problem with this approach is that if someone on the team loses interest or is busy the project dies out.
 
 As this happened a couple of times I decided to take some time and work on projects by myself.
