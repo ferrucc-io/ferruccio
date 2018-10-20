@@ -5,9 +5,9 @@ date: "2018-10-19T19:12:03.284Z"
 
 In the last month a group of hackers called Magecart came back striking in full force.
 
-They first came in the news back in 2015 when [RiskIQ](https://riskiq.com) found out they injected code in Magento's "Magecart" shopping software.
+They first appeared in the news back in 2015 when [RiskIQ](https://riskiq.com) found out they injected code in Magento's "Magecart" shopping software. Thus the name.
 
-The attacks they architected have caused massive damages to companies like British Airways, Ticketmaster and even Newegg.
+The attacks they architected have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.
 
 This group is specialised in card skimming payment forms on the internet.
 
@@ -35,11 +35,11 @@ Here's a more readable version of it:
 
 ## CDN Security
 
-These attacks usually are aimed towards large corporations that are attacked, either **directly**, or in **indirect ways**.
+These attacks usually are aimed towards large corporations that are attacked, either **directly**, or in **indirectly**.
 
-An example of indirect attack that happened this September, when the group targeted [Shopper Approved](https://www.shopperapproved.com), an ecommerce plugin for customer rating.
+An example of indirect attack, that happened this September, is when the group targeted [Shopper Approved](https://www.shopperapproved.com), an ecommerce plugin for customer rating.
 
-In this case the attack targeted a static resource that was used by multiple websites.
+In this case the operation targeted a static resource that was used by multiple websites.
 
 Researchers at [RiskIQ](https://www.riskiq.com) found obfuscated javascript code included in the `certificate.js` file.
 
@@ -51,11 +51,11 @@ Malicious file 👇
 
 ![](sa-obfuscated.png)
 
-The code shown operates exactly how you'd imagine and can be roughly translated as the readable reconstruction shown above.
+The code shown operates exactly how you'd imagine and can be roughly translated as the readable reconstruction already shown above for the BA incident.
 
 ### Newegg Breach
 
-In the Newegg attack, the criminals registered a domain called **neweggstats.com** and used it paired with a paid Comodo TLS certificate to give legitimacy to their page.
+In the Newegg attack, the criminals registered the domain **neweggstats.com** and used it paired with a paid Comodo TLS certificate to seem more legitimate.
 
 This time the card skimmer was placed directly inside the source code of the payment processing page, this means Newegg was compromised **directly**.
 
@@ -172,7 +172,7 @@ Similarly to check what static assets are loaded and what's their content we cou
 
 The software should have the following features:
 
-* It should visit a our website and download all of its javascript.
+* It should visit a our website and download all of its javascript. Even the inline scripts.
 
 * Every x minutes it should load our website, download its static assets and compare them with the ones it has in memory. If there's a change in any of these files it should be able to send an alert.
 
