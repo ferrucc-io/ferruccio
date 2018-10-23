@@ -23,6 +23,18 @@ Businesses think in terms of revenue growth, so it's easy to pitch something tha
 
 It's much harder to convince someone that they have a possible security problem and that they should try to address it. Managers don't care and unless it isn't a common security practice companies are skeptical.
 
-So Magehash is like a superfood, if it becomes trendy it's something like Goji Berries, if it fails it becomes something like Cordyceps (Sinensis) Extracts (a superfood nobody eats).
+So Magehash is like a superfood, if it becomes trendy it's something like Goji Berries, if it fails it becomes something like Cordyceps Extracts (a superfood nobody eats).
 
 ## 2) Cold Emailing
+
+Magehash's main application is to protect websites from credit card skimmers.
+
+One thing I'm trying to gather data for is what threat monitoring dashboards companies are using.
+
+The problem is that when you ask people "What platform are you using to host your videos?" it sounds innocuous.
+
+When you ask "How are you protecting yourself from x attacks?" or "What is your Security Information and Event Management (SIEM) system?" people get suspicious.
+
+It's perfectly acceptable for possible leads to be skeptical when receiving this kind of emails.
+
+The only way I've seen cold emailing work for this kind of products is with **introductions**.
