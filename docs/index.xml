@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ferrucc.io</title>
+    <link>https://ferrucc.io/</link>
+    <description>Recent content on ferrucc.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Oct 2018 19:12:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sales for Cybersecurity Saas</title>
+      <link>https://ferrucc.io/posts/sales-for-cybersecurity-saas/</link>
+      <pubDate>Tue, 23 Oct 2018 19:12:03 +0000</pubDate>
+      
+      <guid>https://ferrucc.io/posts/sales-for-cybersecurity-saas/</guid>
+      <description>It&amp;rsquo;s been almost I month after I started working on Magehash
+This is my first cybersecurity product I&amp;rsquo;ve ever developed so I decided to share what I learned so far!
+1) Selling Pain Points We can divide products into three different groups: candies, painkillers and vitamins.
+We don&amp;rsquo;t want to have much to do with candies.
+Vitamins are interesting.
+We love Painkillers.
+For Cyber security software it&amp;rsquo;s hard to be a painkiller as what we&amp;rsquo;re generally trying to do is prevent attacks.</description>
+    </item>
+    
+    <item>
+      <title>Everything you need to know on Magecart Attacks</title>
+      <link>https://ferrucc.io/posts/magecart/</link>
+      <pubDate>Fri, 19 Oct 2018 19:12:03 +0000</pubDate>
+      
+      <guid>https://ferrucc.io/posts/magecart/</guid>
+      <description>In the last month a group of hackers called Magecart came back striking in full force.
+They first appeared in the news back in 2015 when RiskIQ found out they injected code in Magento&amp;rsquo;s &amp;ldquo;Magecart&amp;rdquo; shopping software. Thus the name.
+The attacks they architected have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.
+This group is specialised in card skimming payment forms on the internet.</description>
+    </item>
+    
+    <item>
+      <title>Lessons from launching on Product Hunt</title>
+      <link>https://ferrucc.io/posts/lessons-from-ph/</link>
+      <pubDate>Sat, 22 Sep 2018 19:18:03 +0000</pubDate>
+      
+      <guid>https://ferrucc.io/posts/lessons-from-ph/</guid>
+      <description>Two months ago I hadn&amp;rsquo;t launched any solo project that got users.
+Until lately everything I had ever done was with someone else, usually with a compatible skillset. The problem with this approach is that if someone on the team loses interest or is busy the project dies out.
+As this happened a couple of times I decided to take some time and work on projects by myself.
+The products I launched Klipped.</description>
+    </item>
+    
+    <item>
+      <title>Dripform - No Bullshit Forms</title>
+      <link>https://ferrucc.io/posts/dripform/</link>
+      <pubDate>Sat, 25 Aug 2018 16:46:03 +0000</pubDate>
+      
+      <guid>https://ferrucc.io/posts/dripform/</guid>
+      <description>A little more than two months ago Konstantin asked me how long would it take for me to develop something that would let him receive forms on his website as Telegram messages.
+I wasn&amp;rsquo;t sure how long it would take, but finding the task interesting I decided to just do it.
+In an afternoon of work I made the first version of &amp;ldquo;Dripform&amp;rdquo;.
+After making it I started exchanging ideas via email with Marc-Antoine who is working on a similar product.</description>
+    </item>
+    
+    <item>
+      <title>What is wrong with Italy?</title>
+      <link>https://ferrucc.io/posts/italy-s-problems/</link>
+      <pubDate>Mon, 04 Jun 2018 19:12:03 +0000</pubDate>
+      
+      <guid>https://ferrucc.io/posts/italy-s-problems/</guid>
+      <description>We now have a government in Italy.
+Everyone around me is talking about this, so I figured out I might as well try to analyse what are the biggest problems the country is facing.
+Here is a list of existential problems we face:
+ Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
+ Organised Crime, Tax evasion, Corruption and waste of public money plague the country.</description>
+    </item>
+    
+    <item>
+      <title>From Idea to MVP in a Saturday Night</title>
+      <link>https://ferrucc.io/posts/6-dollar-mvp/</link>
+      <pubDate>Tue, 24 Apr 2018 16:46:03 +0000</pubDate>
+      
+      <guid>https://ferrucc.io/posts/6-dollar-mvp/</guid>
+      <description>Every time you finish writing a blog post you get that feeling that it&amp;rsquo;s not ready to post it.
+It&amp;rsquo;s time for proofreading, but it&amp;rsquo;s painful to proofread your own writings.
+What is fun instead is reading someone else&amp;rsquo;s writings.
+So how great would it be if you could post your drafts somewhere, read and comment a couple of blog posts by people with your same interests, while your own get proofread by people like you?</description>
+    </item>
+    
+  </channel>
+</rss>
