@@ -25,7 +25,25 @@ It's much harder to convince someone that they have a possible security problem 
 
 So Magehash is like a superfood, if it becomes trendy it's something like Goji Berries, if it fails it becomes something like Cordyceps Extracts (a superfood nobody eats).
 
-## 2) Cold Emailing
+When companies spend money on Cyber security they are interested in the following aspects:
+
+* Does this save us money?
+* Does this increase our margins?
+* Are we really forced to address this problem?
+
+So the solutions that can sell are either substitutes to existing products or bug bounty programs.
+
+Bug bounty programs are extremely interesting to analyse as they're a cheap way to only pay to get many eyes on your website. At the same time every expense is justified and much cheaper than getting exploited.
+
+## 2) Content Marketing & Ads
+
+A way of getting in touch with leads is getting them to come to you by starting conversations on communities around the internet.
+
+To do this you have to instill some deep fear of being vulnerable. The more the attack sounds practical and imminent the easier it is to sell a solution, as there is urgency to act.
+
+Ads are usually a terrible idea for enterprise products unless you buy a stand in some cybersecurity conference or anyways something really targeted.
+
+## 3) Cold Emailing
 
 Magehash's main application is to protect websites from credit card skimmers.
 
@@ -38,3 +56,9 @@ When you ask "How are you protecting yourself from x attacks?" or "What is your 
 It's perfectly acceptable for possible leads to be skeptical when receiving this kind of emails.
 
 The only way I've seen cold emailing work for this kind of products is with **introductions**.
+
+**Introductions are awesome because they help you establish trust**.
+
+Cybersecurity products are not really about security, but about trust and transparency. And the best way to gain trust is to be transparent and honest about your product capabilities and gain the respect of other professionals through your work.
+
+If your product is good enough for people to feel like introducing you to possible clients you're doing this right!
