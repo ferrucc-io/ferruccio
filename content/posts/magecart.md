@@ -2,6 +2,7 @@
 title: Everything you need to know on Magecart Attacks
 date: "2018-10-19T19:12:03.284Z"
 draft: false
+description: "An analysis of Magecart attacks and possible measures to prevent them."
 aliases: [
     "/magecart/"
 ]
@@ -17,7 +18,7 @@ This group is specialised in card skimming payment forms on the internet.
 
 ## How?
 
-![](./threat.png)
+![](/threat.png)
 
 Their attacks are all based on injecting malicious javascript into websites.
 
@@ -25,11 +26,11 @@ The main attack vector are hacked CDNs and third party plugins on websites.
 
 The js inserted in websites usually is pretty straightforward: on form submission, a POST request with all the sensitive information is sent to an external server that is set up to receive it.
 
-![](./on-payment.png)
+![](/on-payment.png)
 
 The code in the British Airways attack was the following:
 
-![](./british-airways.png)
+![](/british-airways.png)
 
 Here's a more readable version of it:
 

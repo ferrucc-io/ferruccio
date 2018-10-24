@@ -3,5 +3,5 @@ googleAnalytics = "100447722"
 
 baseURL = "https://ferrucc.io/"
 languageCode = "en-us"
-title = "Ferrucc.io - Ferruccio Balesteri"
+title = "ferrucc.io"
 theme = "ananke"
