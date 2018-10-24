@@ -1,45 +1,29 @@
-# This references the default golang container from
-# the Docker Hub: https://registry.hub.docker.com/u/library/golang/
-# If you want Google's container you would reference google/golang
-# Read more about containers on our dev center
-# https://devcenter.wercker.com/overview-and-core-concepts/containers/
-box: golang
-# This is the build pipeline. Pipelines are the core of wercker
-# Read more about pipelines on our dev center
-# https://devcenter.wercker.com/development/pipelines/
-
-# You can also use services such as databases. Read more on our dev center:
-# https://devcenter.wercker.com/administration/services/
-# services:
-    # - postgres
-    # https://devcenter.wercker.com/administration/services/examples/postgresql/
-
-    # - mongo
-    # https://devcenter.wercker.com/administration/services/examples/mongodb/
+box: debian:stable-slim
 build:
-  # The steps that will be executed on build
-  # Steps make up the actions in your pipeline
-  # Read more about steps on our dev center:
-  # https://devcenter.wercker.com/development/steps/
   steps:
-    # Sets the go workspace and places you package
-    # at the right place in the workspace tree
-    - setup-go-workspace
-
-    # Gets the dependencies
-    - script:
-        name: go get
-        code: |
-          go get
-
-    # Build the project
-    - script:
-        name: go build
-        code: |
-          go build ./...
-
-    # Test the project
-    - script:
-        name: go test
-        code: |
-          go test ./...
+  - shellcheck:
+      files: run.sh
+  - install-packages:
+      packages: openssl curl
+  - script:
+      name: Install latest 2 versions of Hugo
+      code: |
+        CURRENT_HUGO_VERSION="0.49.2"
+        PREVIOUS_HUGO_VERSION="0.49.1"
+        mkdir bin
+        curl -L https://github.com/gohugoio/hugo/releases/download/v${CURRENT_HUGO_VERSION}/hugo_${CURRENT_HUGO_VERSION}_Linux-64bit.tar.gz -o hugo_${CURRENT_HUGO_VERSION}_Linux-64bit.tar.gz
+        mkdir ${CURRENT_HUGO_VERSION}
+        tar xzf hugo_${CURRENT_HUGO_VERSION}_Linux-64bit.tar.gz --directory ${CURRENT_HUGO_VERSION}
+        mv ${CURRENT_HUGO_VERSION}/hugo bin/hugo_${CURRENT_HUGO_VERSION}
+        curl -L https://github.com/gohugoio/hugo/releases/download/v${PREVIOUS_HUGO_VERSION}/hugo_${PREVIOUS_HUGO_VERSION}_Linux-64bit.tar.gz -o hugo_${PREVIOUS_HUGO_VERSION}_Linux-64bit.tar.gz
+        mkdir ${PREVIOUS_HUGO_VERSION}
+        tar xzf hugo_${PREVIOUS_HUGO_VERSION}_Linux-64bit.tar.gz --directory ${PREVIOUS_HUGO_VERSION}
+        mv ${PREVIOUS_HUGO_VERSION}/hugo bin/hugo_${PREVIOUS_HUGO_VERSION}
+  - script:
+      name: Move the important stuff to output
+      code: |
+        mv README.md run.sh step.yml wercker.yml bin/ helpers/ $WERCKER_OUTPUT_DIR
+        ls -lh $WERCKER_OUTPUT_DIR
+publish:
+  steps:
+    - internal/publish-step
