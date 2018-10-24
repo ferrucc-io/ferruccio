@@ -1,0 +1,7 @@
+pygmentsCodeFences = true
+googleAnalytics = "100447722"
+
+baseURL = "https://ferrucc.io/"
+languageCode = "en-us"
+title = "ferrucc.io"
+theme = "new-theme"
