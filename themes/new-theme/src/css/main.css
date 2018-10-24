@@ -1,0 +1,9 @@
+@import '_tachyons';
+@import '_code';
+@import '_hugo-internal-templates';
+@import '_social-icons';
+@import '_styles';
+
+.cover-size-auto{
+    background-size: 100% !important;
+}
