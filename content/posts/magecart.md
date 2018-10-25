@@ -50,11 +50,11 @@ Researchers at [RiskIQ](https://www.riskiq.com) found obfuscated javascript code
 
 Original file 👇
 
-![](sa-clean.png)
+![](/sa-clean.png)
 
 Malicious file 👇
 
-![](sa-obfuscated.png)
+![](/sa-obfuscated.png)
 
 The code shown operates exactly how you'd imagine and can be roughly translated as the readable reconstruction already shown above for the BA incident.
 
