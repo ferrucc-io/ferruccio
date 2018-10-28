@@ -12,9 +12,9 @@ In the last month a group of hackers called Magecart came back striking in full 
 
 They first appeared in the news back in 2015 when [RiskIQ](https://riskiq.com) found out they injected code in Magento's "Magecart" shopping software. Thus the name.
 
-The attacks they architected have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.
+The attacks they organized have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.
 
-This group is specialised in card skimming payment forms on the internet.
+This group is specialized in card skimming payment forms on the internet.
 
 ## How?
 
@@ -183,7 +183,7 @@ The software should have the following features:
 
 * It should integrate with the deployment and Version Control system and notified when a new deployment happens, to understand when changes are legitimate.
 
-Obviously building and mantaining something like this comes at a cost.
+Obviously building and maintaining something like this comes at a cost.
 
 For this reason I decided to build it as a service. The advantages of this approach is that focusing on this problem I can add more sophisticated features to increase security like:
 
