@@ -95,11 +95,11 @@ ticketmasterus.inbenta.com
 
 Inside the Ticketmaster UK js resources there was a function that inserted an external script from Inbenta.
 
-![](inbenta.png)
+![](/inbenta.png)
 
 And right there you could find the malicious code by Magecart above the original script:
 
-![](malicious-inbenta.png)
+![](/malicious-inbenta.png)
 
 The attackers initially (on June 12th) even deleted the original code by Inbenta and only included their code.
 
@@ -115,7 +115,7 @@ Magecart is now targeting the backbones of the internet.
 
 Sometimes they even have the audacity of blackmailing website admins, like in this case:
 
-![](magecart-blackmail.png)
+![](/magecart-blackmail.png)
 
 It's clear that these attacks are a dangerous problem, so let's try and figure out the best way organisations can tackle them.
 
