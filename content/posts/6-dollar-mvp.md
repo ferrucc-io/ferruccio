@@ -1,6 +1,7 @@
 ---
 title: From Idea to MVP in a Saturday Night
 date: "2018-04-24T16:46:03.284Z"
+draft: false
 ---
 
 Every time you finish writing a blog post you get that feeling that it's not ready to post it.

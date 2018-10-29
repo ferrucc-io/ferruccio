@@ -1,6 +1,7 @@
 ---
 title: Lessons from launching on Product Hunt
 date: "2018-09-22T19:18:03.284Z"
+draft: false
 ---
 
 Two months ago I hadn't launched any solo project that got users.
