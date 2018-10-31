@@ -58,8 +58,8 @@ There is no evalutation of the technological value of a project, not even of its
 
 ### VC
 
-No one looks at the CV of the founder of a *Startup*. Neither the industry or academic experience count. It's not particularly important to have worked in similar companies or the degree. What counts is being part of *"the Silicon Valley culture"*, even a disastrous past is ignored because of a positive "failure culture", the idea that a failure is testimony of *courage and of a risk taking attitude.*
+No one looks at the CV of the founder of a *Startup*. Neither the industry or academic experience count. It's not particularly important to have worked in similar companies or holding a degree. What counts is being part of *"the Silicon Valley culture"*, even a disastrous past is ignored because of a positive "failure culture", the idea that a failure is testimony of *courage and of a risk taking attitude.*
 
 ### URSS
 
-No one looks at the CV of the founder of a *factory*. Neither the industry or academic experience count. It's not particularly important to have worked in similar companies or the degree. What counts is being part of *"the Communist ideology"*, even a disastrous past is ignored because of a positive "failure culture", the idea that a failure is testimony of *heroism and trust in the Communist system.*
+No one looks at the CV of the founder of a *factory*. Neither the industry or academic experience count. It's not particularly important to have worked in similar companies or holding a degree. What counts is being part of *"the Communist ideology"*, even a disastrous past is ignored because of a positive "failure culture", the idea that a failure is testimony of *heroism and trust in the Communist system.*
