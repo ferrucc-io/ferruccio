@@ -28,7 +28,7 @@ Showing some *building, a product and have employees (working or not)* the money
 
 **They gain ownership forcibly.**
 In exchange for money, for the bet they gain equity (this doesn't always have to happen, when a bank gives you credit it doesn't become a partner).
-In this way if the *company* becomes * a "Unicorn"*, the equity values increases so much that it covers the losses from the other failed *startup*s, that got money, but failed.
+In this way if the *company* becomes *a "Unicorn"*, the *equity value increases so much* that it covers the losses from the other failed *startups*, that got money, but failed.
 
 ### URSS
 
