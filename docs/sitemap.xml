@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ferrucc.io/posts/vc-is-urss/</loc>
+    <lastmod>2018-10-31T23:37:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ferrucc.io/posts/sales-for-cybersecurity-saas/</loc>
     <lastmod>2018-10-23T19:12:03+00:00</lastmod>
   </url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>https://ferrucc.io/posts/</loc>
-    <lastmod>2018-10-23T19:12:03+00:00</lastmod>
+    <lastmod>2018-10-31T23:37:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,7 +55,7 @@
   
   <url>
     <loc>https://ferrucc.io/</loc>
-    <lastmod>2018-10-23T19:12:03+00:00</lastmod>
+    <lastmod>2018-10-31T23:37:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   

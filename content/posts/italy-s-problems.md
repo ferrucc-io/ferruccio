@@ -1,6 +1,7 @@
 ---
 title: What is wrong with Italy?
 date: "2018-06-04T19:12:03.284Z"
+draft: false
 ---
 
 We now have a government in Italy.
