@@ -6,7 +6,7 @@ featured_image: "/communist-vc.png"
 ---
 
 
-VCs do everything you expect the URSS would do, while being a private company.
+VCs do everything you would expect the URSS would do, while being a private company.
 
 ### VC
 
@@ -44,17 +44,17 @@ They just follow the *Blog* for announcements, but not really understanding what
 ### URSS
 
 After this financing operation the *State* doesn't check their investment too much.
-They just follow the *Public Commisar* for announcements, but not really understanding what the *startup* is really about they set a time frame for the investment to generate "returns" or become an *example for the country* in case of success.
+They just follow the *Public Commisar* for announcements, but not really understanding what the *factory* is really about they set a time frame for the investment to generate "returns" or become an *example for the country* in case of success.
 
 ### VC
 
-There is no valutation for the techonlogical value of a project, not even of it's feasability.
-Theranos, for example promised something that anyone that has spent 5 minutes in *medical research* a lab would find impossible. The results were fake. But no one really experimented the technology with indipendent scientists BEFORE investing. And also when researchers talked, they were ignored.
+There is no evalutation of the technological value of a project, not even of its feasability.
+*Theranos,* for example promised something that anyone that has spent 5 minutes in *medical research* lab would find impossible. The results were fake. But no one really experimented the technology with indipendent scientists BEFORE investing. And also when researchers talked, they were ignored.
 
 ### URSS
 
-There is no valutation for the techonlogical value of a project, not even of it's feasability.
-Lysenko, for example promised something that anyone that has spent 5 minutes in a *agrarian biology* lab would find impossible. The results were fake. But no one really experimented the technology with indipendent scientists BEFORE investing. And also when researchers talked, they were ignored.
+There is no evalutation of the technological value of a project, not even of its feasability.
+*Lysenko,* for example promised something that anyone that has spent 5 minutes in a *agrarian biology* lab would find impossible. The results were fake. But no one really experimented the technology with indipendent scientists BEFORE investing. And also when researchers talked, they were ignored.
 
 ### VC
 
