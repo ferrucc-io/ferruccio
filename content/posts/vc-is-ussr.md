@@ -6,7 +6,7 @@ featured_image: "/communist-vc.png"
 ---
 
 
-VCs do everything you would expect the URSS would do, while being a private company.
+VCs do everything you would expect the USSR would do, while being a private company.
 
 ### VC
 
@@ -16,7 +16,7 @@ Showing some *APIs, an app with users (real or fake)* the money flows him.
 
 **With no real technical evaluation.**
 
-### URSS
+### USSR
 
 Financing projects without asking too many questions. Sometimes people refer to this as *Social welfare*.
 If a company puts the right combination of *"surplus", "proletarians" in their presentations* they receive funding.
@@ -30,7 +30,7 @@ Showing some *building, a product and have employees (working or not)* the money
 In exchange for money, for the bet they gain equity (this doesn't always have to happen, when a bank gives you credit it doesn't become a partner).
 In this way if the *company* becomes *a "Unicorn"*, the *equity value increases so much* that it covers the losses from the other failed *startups*, that got money, but failed.
 
-### URSS
+### USSR
 
 **They gain ownership forcibly.**
 In exchange for money, for the bet they gain equity (this doesn't always have to happen, when a bank gives you credit it doesn't become a partner).
@@ -41,7 +41,7 @@ In this way if the *factory* becomes *an "Example for the nation"*, the **five y
 After this financing operation the *VC* doesn't check their investment too much.
 They just follow the *Blog* for announcements, but not really understanding what the *startup* is really about they set a time frame for the investment to generate "returns" or *either exit or go public* in case of success.
 
-### URSS
+### USSR
 
 After this financing operation the *State* doesn't check their investment too much.
 They just follow the *Public Commisar* for announcements, but not really understanding what the *factory* is really about they set a time frame for the investment to generate "returns" or become an *example for the country* in case of success.
@@ -51,7 +51,7 @@ They just follow the *Public Commisar* for announcements, but not really underst
 There is no evalutation of the technological value of a project, not even of its feasability.
 *Theranos,* for example promised something that anyone that has spent 5 minutes in *medical research* lab would find impossible. The results were fake. But no one really experimented the technology with indipendent scientists BEFORE investing. And also when researchers talked, they were ignored.
 
-### URSS
+### USSR
 
 There is no evalutation of the technological value of a project, not even of its feasability.
 *Lysenko,* for example promised something that anyone that has spent 5 minutes in a *agrarian biology* lab would find impossible. The results were fake. But no one really experimented the technology with indipendent scientists BEFORE investing. And also when researchers talked, they were ignored.
@@ -60,7 +60,7 @@ There is no evalutation of the technological value of a project, not even of its
 
 No one looks at the CV of the founder of a *Startup*. Neither the industry or academic experience count. It's not particularly important to have worked in similar companies or holding a degree. What counts is being part of *"the Silicon Valley culture"*, even a disastrous past is ignored because of a positive "failure culture", the idea that a failure is testimony of *courage and of a risk taking attitude.*
 
-### URSS
+### USSR
 
 No one looks at the CV of the founder of a *factory*. Neither the industry or academic experience count. It's not particularly important to have worked in similar companies or holding a degree. What counts is being part of *"the Communist ideology"*, even a disastrous past is ignored because of a positive "failure culture", the idea that a failure is testimony of *heroism and trust in the Communist system.*
 
