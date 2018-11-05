@@ -64,3 +64,8 @@ The only way I've seen cold emailing work for this kind of products is with **in
 Cybersecurity products are not really about security, but about trust and transparency. And the best way to gain trust is to be transparent and honest about your product capabilities and gain the respect of other professionals through your work.
 
 If your product is good enough for people to feel like introducing you to possible clients you're doing this right!
+
+
+**Enjoyed this post? Got any content to suggest?**
+
+My articles are always a work in progress, and almost never complete so if you know about any other good content hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)

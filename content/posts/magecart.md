@@ -201,7 +201,9 @@ You can find the service I developed here [Magehash](https://magehash.com)
 
 At the moment it's a service on its own, with its own login and dashboard panel, but I'm looking forward to find out and research what threat monitoring platforms I can integrate with to integrate better in different workflows.
 
-For any feedback or ideas of any kind you can also DM me on twitter or email me at hi \[at] [this domain]
+**Enjoyed this post? Got any content to suggest?**
+
+My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)
 
 #### Footnotes
 **This analysis would've not been possible without the amazing work done over the years at [RiskIQ](https://riskiq.com) by [Yonathan Klijnsma](https://twitter.com/ydklijnsma)**

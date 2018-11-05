@@ -56,3 +56,7 @@ You can check it out at: [Dripform](https://dripform.ga)
 
 And on Product Hunt:
 <iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/131617?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+**Enjoyed this post? Got any content to suggest?**
+
+My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)

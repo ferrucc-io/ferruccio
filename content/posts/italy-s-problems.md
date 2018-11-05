@@ -23,3 +23,7 @@ Here is a list of existential problems we face:
 * The pension system is a Ponzi Scheme, the money that gets deposited every year is spent to pay for the people that are retired. The money is not invested. Birth rates are also decreasing, so at some point the whole system will become unsustainable.
 
 * The country's position on immigration is not clear. Borders are open, but the state provides extensive welfare. As far as I know one thing should make the other unfeasable.
+
+**Enjoyed this post? Got any content to suggest?**
+
+My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)

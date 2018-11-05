@@ -65,6 +65,10 @@ Both projects got nice feedback from users, but I couldn't figure out any viable
 
 The next thing I'm going to make will have to be something that people or businesses are willing to pay for.
 
+**Enjoyed this post? Got any content to suggest?**
+
+My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)
+
 ## EXTRA
 ### Here are some useful tools to launch your next product on Product Hunt
 

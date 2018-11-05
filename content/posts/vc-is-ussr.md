@@ -64,4 +64,6 @@ No one looks at the CV of the founder of a *Startup*. Neither the industry or ac
 
 No one looks at the CV of the founder of a *factory*. Neither the industry or academic experience count. It's not particularly important to have worked in similar companies or holding a degree. What counts is being part of *"the Communist ideology"*, even a disastrous past is ignored because of a positive "failure culture", the idea that a failure is testimony of *heroism and trust in the Communist system.*
 
-**Enjoyed this post? Follow me on [Twitter](https://twitter.com/0xferruccio)**
+**Enjoyed this post? Got any fun ideas for further comparisons?**
+
+My articles are always a work in progress, and almost never complete so if you know about any other good content hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)
