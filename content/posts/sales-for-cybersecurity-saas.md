@@ -68,4 +68,4 @@ If your product is good enough for people to feel like introducing you to possib
 
 **Enjoyed this post? Got any content to suggest?**
 
-My articles are always a work in progress, and almost never complete so if you know about any other good content hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)
+*My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)*

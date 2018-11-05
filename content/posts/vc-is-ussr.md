@@ -66,4 +66,4 @@ No one looks at the CV of the founder of a *factory*. Neither the industry or ac
 
 **Enjoyed this post? Got any fun ideas for further comparisons?**
 
-My articles are always a work in progress, and almost never complete so if you know about any other good content hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)
+*My articles are always a work in progress, and almost never complete so if you got any fun ideas for further comparisons hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)*

@@ -203,7 +203,7 @@ At the moment it's a service on its own, with its own login and dashboard panel,
 
 **Enjoyed this post? Got any content to suggest?**
 
-My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)
+*My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)*
 
 #### Footnotes
 **This analysis would've not been possible without the amazing work done over the years at [RiskIQ](https://riskiq.com) by [Yonathan Klijnsma](https://twitter.com/ydklijnsma)**

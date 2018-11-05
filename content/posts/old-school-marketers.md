@@ -10,7 +10,7 @@ So let's go back a hundred years to get some inspiration.
 
 ## Inspiration from the 1920s
 
-After selling **100 million books** of his series Little Blue Book marketer Julius Hadleman wrote a book analysing all the data he had collected.
+After selling **100 million books** of his series Little Blue Book marketer [Julius Hadleman](https://en.wikipedia.org/wiki/E._Haldeman-Julius) wrote a book analysing all the data he had collected.
 
 The book title is "The First Hundred Million" and it came out in 1928 (email me if you need help finding it) and features an interesting collection of proven Titles that work and insights on what we're interested in reading.
 
