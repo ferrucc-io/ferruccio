@@ -14,7 +14,7 @@
           */}}
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </p>
-      <h1 class="f1 sans-serif mb1">
+      <h1 class="lh-solid f1 sans-serif mb1">
         {{- .Title -}}
       </h1>
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
@@ -23,7 +23,7 @@
       </time>
     </header>
 
-    <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img black pr4-l w-two-thirds-l">
+    <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img pr4-l w-two-thirds-l">
         {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6">

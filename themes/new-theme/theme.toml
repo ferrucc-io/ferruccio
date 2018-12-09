@@ -1,10 +1,10 @@
 
-name = "Ananke / Ferruccio Gohugo Theme"
+name = "Ferruccio Gohugo Theme"
 license = "MIT"
-licenselink = "https://github.com/budparr/gohugo-theme-ananke/blob/master/LICENSE.md"
+licenselink = "https://github.com/ferrucc-io/ferruccio-theme/blob/master/LICENSE.md"
 description = "A Base theme for building full featured Hugo sites"
 features = ["posts", "shortcodes", "related content", "comments"]
 
 [author]
-  name = "Bud Parr"
-  homepage = "https://github.com/budparr"
+  name = "Ferruccio Balestreri"
+  homepage = "https://github.com/ferrucc-io"

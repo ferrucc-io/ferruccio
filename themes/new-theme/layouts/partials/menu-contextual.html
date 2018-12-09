@@ -4,7 +4,7 @@
 */}}
 
 {{- if .Params.toc -}}
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <div class="pa3 nested-list-reset nested-copy-line-height nested-links">
     <p class="f5 b mb3">What's in this {{ humanize .Type }}</p>
       {{ .TableOfContents }}
   </div>
@@ -18,7 +18,7 @@
 {{ $related := .Site.RegularPages.Related . | first 15 }}
 
 {{ with $related }}
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  <div class="pa3 nested-list-reset nested-copy-line-height nested-links">
     <p class="f5 b mb3">Related</p>
     <ul class="pa0 list">
 	   {{ range . }}

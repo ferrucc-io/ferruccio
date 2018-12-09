@@ -18,10 +18,10 @@ The main reason hashing algorithms were introduced was that if in a program you 
 **How do they work ?**
 
 Imagine an enourmous library that has a librarian that for every book can tell you its unique position.
-![](./library.png)
+![](/library.png)
 
 In programming if we didn't have hashing functions we would have to sift through everything we have saved on our computers and check if it's what we're looking for:
-![](./digital-dictionary.png)
+![](/digital-dictionary.png)
 
 With hashing functions we can find or know that we don't have what we need in only one step, whatever the size of our "library".
 
@@ -57,7 +57,7 @@ Output of RIPEMD-160 on "338fc17627ab215e5cb0c4ef807dfd161ef96febdb00e997c50db5f
 A Merkle Tree is a signature of all the transactions contained in a block.
 
 I tried to understand Merkle trees from definitions on the internet and textbooks, but couldn't understand how they worked until I visualised them:
-![](./merkle.gif)
+![](/merkle.gif)
 
 1. hash all the transaction.
 2. pair the hashes and hash together.
@@ -66,7 +66,7 @@ I tried to understand Merkle trees from definitions on the internet and textbook
 
 If you change the value of the transaction in a block, the merkle root changes.
 For this reason if you want to verify the validity of a transaction you can simply check the validity of the branch on which a transaction is on:
-![](./tx-validity.png)
+![](/tx-validity.png)
 
 ## Elliptic Curve Cyptography
 
@@ -93,6 +93,6 @@ These systems work because it's easy to calculate outputs in one direction, extr
  
  The Elliptic Curve used in Bitcoin is called secp256k1 here is its plot:
 
-![](./secp256k1.png)
+![](/secp256k1.png)
  
  # This is a draft don't take *too* seriously

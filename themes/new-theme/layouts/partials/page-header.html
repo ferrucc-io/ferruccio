@@ -2,7 +2,7 @@
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
-  <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
+  <div class="{{ .Site.Params.background_color_class | default "" }}">
     {{ partial "site-navigation.html" . }}
   </div>
   <div>
@@ -10,7 +10,7 @@
   </div>
 {{ else }}
   <header>
-    <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
+    <div class="{{ .Site.Params.background_color_class | default "" }}">
       {{ partial "site-navigation.html" . }}
     </div>
   </header>

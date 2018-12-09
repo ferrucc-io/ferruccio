@@ -4,6 +4,16 @@
 @import '_social-icons';
 @import '_styles';
 
+body {
+    background: hsl(215, 45%, 40%);
+    color: white;
+    font: 17px/30px 'Fira Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    margin: 50px auto;
+}
+
 .cover-size-auto{
     background-size: 100% !important;
 }

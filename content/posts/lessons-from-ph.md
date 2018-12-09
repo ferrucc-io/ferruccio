@@ -13,12 +13,12 @@ As this happened a couple of times I decided to take some time and work on proje
 
 ## The products I launched
 #### Klipped.in ([https://klipped.in](https://klipped.in))
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/134414?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+![](/klipped-in.png)
 
 * * *
 
 #### Dripform ([https:/dripform.ga](https:/dripform.ga))
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/131617?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+![](/dripform.png)
 
 Here are 3 things I learned in this short journey.
 

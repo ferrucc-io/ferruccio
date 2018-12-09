@@ -2,7 +2,6 @@
 title: "VC is like Soviet Statism"
 date: 2018-10-31T23:37:21+01:00
 draft: false
-featured_image: "/communist-vc.png"
 ---
 
 
