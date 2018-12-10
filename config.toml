@@ -1,5 +1,5 @@
 pygmentsCodeFences = true
-googleAnalytics = "100447722"
+googleAnalytics = "UA-100447722-1"
 
 baseURL = "https://ferrucc.io/"
 languageCode = "en-us"
