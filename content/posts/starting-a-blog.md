@@ -6,10 +6,12 @@ draft: true
 
 I've been blogging for almost 10 years and what I've written on the internet has reached millions of people.
 
-Most of what I've written is in Italian, but I was also mildly successful with my Quora profile, reaching 400k people in three months.
+Most of what I've written is in Italian, but I was also quite successful with my Quora profile, reaching 400k people in three months.
 
-## 👘  I'm now opening up the kimono
-#### Here's all I know about Blogging.
+I find that blogging is still among the best ways to get your message out there and meet interesting people.
+
+## 👘  I'm now opening up the kimono.
+#### Here's all I know about Blogging
 
 * No one has time to read your article, write the first lines like they're a TLDR.
 * The design of your site is irrelevant.
@@ -32,7 +34,7 @@ The power of writing is that it's a drug.
 
 You'll know you're doing it right, when you'll have people refreshing the content of your website every day to check if you've posted something new.
 
-You're doing it right if you get messages thanking you for what you wrote. Once you get unsolicited messages like: 
+You're doing it right if you get messages thanking you for what you wrote. Unsolicited messages like: 
 
 > "This was illuminating, it opened up a world of possibilities in my mind." 
 
@@ -47,7 +49,9 @@ If your goal is to get to this point then this article is all you need.
 **The first step** when starting out a blog is figuring out who's your audience.
 Most people I know skip this step, but it's essential. It's easy to blurt out some words and sharing them on your social media.
 
-To explain how to do this I'll show you how I'm doing it right now for my personal blog.
+It's much harder to create articles that resonate with the people you want to reach.
+
+To explain how to do this I'll show you how I'm doing it right now for this personal blog.
 
 Up until now I used this blog to help me think, but for the new year I decided to treat it more seriously.
 
@@ -108,4 +112,71 @@ It's not really important to have any illustrations, but the fact that I can mak
 
 ## 📝 The Writing Process
 
-After having figured out all the basics for your blog you're ready to jump
+After having figured out all the basics for your blog you're ready to jump to the writing part.
+
+The best way to do this is to Brainstorm a couple of Titles that your audience and ideally also you find interesting and start writing.
+
+The title doesn't really have to describe what the content of the article is.
+
+Obviously your article can't be completely off topic, but your goal with it has to be to captivate and inform.
+
+Depending on where your target audience hangs out you also have to figure out how your articles should be.
+For instance if your target readers are on a subreddit you can write posts in the 700-800 word range.
+
+If you want to be successful on search engines though you might want to make your content much longer.
+
+Here's some data that shows the ideal word count:
+![](/starting-a-blog/shares-data.png)
+
+As you can see srticles in the >1000 words range get much more shares than shorter content. The 3000 words mark looks like the best equilibrium point for (word count)/(shares)
+
+Longer content clearly correlates to more organic traffic too:
+
+![](/starting-a-blog/hubspot.png)
+
+So my suggestions if you want your blog to grow is to write long content.
+
+Although keep in mind that this correlation could also be due to external factors. *Maybe to write longer articles on average more research is required*, ensuring a higher quality of content and thus more shares.
+
+If you have no clue on how to write a blog post you can run a search for articles you like targeted to the audience and deconstruct them trying to figure out a recurring theme or template structure you can follow.
+
+Your blog posts are going to be a personal thing so I don't think I can give other suggestions that can help you.
+
+## 🔨  Fixing your Drafts
+
+Once you finished writing wait for a day and start reading everything you wrote fixing typos, trimming out useless words.
+
+If a sentence doesn't add any value remove it. If a sentence is too long split it up.
+
+To improve readability highlight important words with **bold** and *italics*.
+
+Sometimes it's also good practice to have a couple of short paragraphs that lead to a longer one, like I just did here.
+
+Once you've finished your post, sleep another night over it and post it the next day.
+
+If you feel sick at reading it the n-th time you've done a great job here.
+
+## 🌎 Promote your Work
+
+As you identified your audience, you also know where your audience hangs out.
+
+Repost your article on the platforms that allow it, like Medium and subreddits in your niche.
+
+Share your content on Social Media and even text it to the friends you have that might care about it.
+
+Another must, is to collect emails of your readers.
+
+If someone gets on your website and leaves, they'll likely never come back, unless you manage to get your hands on their email.
+
+An email is important because it gives you direct contact with people and reduces the impact on your audience of any algorithm change by large media companies or social media.
+
+Also start reaching out to people with blogs similar to yours and pitch them guest posts.
+
+Guest posts are a great opportunity to tap in wider audiences and gain backlinks to your website.
+
+# Conclusion
+
+Blogging is really about consistently putting out quality content with your own signature style, there aren't any shortcuts to success.
+
+**If you enjoyed reading this make sure you leave me your email, so I can let you know when I write something new!**
+
