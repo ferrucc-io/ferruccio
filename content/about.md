@@ -27,4 +27,5 @@ Now I'll get back to work on something more meaningful than the about section of
 
 ## My Biggest Influences and fav 💕 blogs:
 [Paul Graham's essays](http://www.paulgraham.com/articles.html): These essays are what made me think that I should learn a Lisp, eventually this brought me to Clojure.
+
 [Raw Nerve](http://archive.is/8uu5x)
