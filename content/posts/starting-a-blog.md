@@ -17,14 +17,14 @@ And it was because of my Wordpress websites that I was pushed towards learning h
 I find that it's still among the best ways to get your message out there and meet interesting people.
 
 ## 👘  I'm now opening up the kimono.
-#### Here's all I know about Blogging
+#### Here's all I know about Blogging:
 
 * No one has time to read your article, write the first lines like they're a TLDR.
 * The design of your site is irrelevant.
 * To start out you don't need any software.
 * Define your audience.
 * Figure out where your audience is.
-* For SEO don't write short articles (>2000 words) for Social Media keep your articles shorter
+* For SEO don't write short articles (>2000 words)
 * One well researched article is better than a lot of mediocre content
 * Spend half of the time writing, half promoting.
 * Spend 50% of the writing time actually writing, the rest tweaking, reading and illustrating. Details are important.
@@ -35,8 +35,9 @@ I find that it's still among the best ways to get your message out there and mee
 * Do what everyone else is afraid to do.
 * Reach out to people asking for things or offering tips.
 
+---
 
-What is hard, but valuable is carefully crafting something timeless that really penetrates your readers minds.
+Carefully crafting something timeless that really penetrates your readers minds is hard, but worth it.
 
 The power of writing is that it's a drug.
 
@@ -89,15 +90,15 @@ The downside is that Americans have no clue on how to say it, but I'm okay with 
 
 ## 💅 The Style
 
-The style of your blog doesn't really count too much at the beginning.
+The styling of your blog, as in how it looks doesn't really count too much at the beginning.
 
 Your writing style on the other hand makes all the difference.
 
-Depending on who your audience is you have to adjust the tone of your conversation.
+Depending on who your audience is, you have to adjust the tone of your conversation.
 
 For example as I picked someone much older and experienced then me as a target audience it would make no sense if I had a "know it all" tone. My audience isn't native english speakers so I won't be complicating my language and I'll limit my vocabulary in an effort to be as clear and accessible as possible.
 
-If you really want to make something unique you can have custom illustrations in your style. Having a coherent style for illustrations in your blog can be something that makes people remember about you.
+If you really want to make something unique one thing you can do is have custom illustrations in your style. Having a coherent style for illustrations in your blog can be something that makes people remember about you.
 
 Other than big corporate blogs [Wait But Why](https://waitbutwhy.com/) does this very well.
 
@@ -108,15 +109,29 @@ I'm still coming up with a design style for the illustrations on this website, b
 ![](/starting-a-blog/chat.png)
 ![](/starting-a-blog/tree.png)
 
-I'm a little obsessed with design, but if you have no design skills feel free to keep everything simple sticking with text content. Illustrations are only one of the things you can do to stand out.
+I'm a little obsessed with design, but illustrations are only one of the things you can do to stand out.
 
-To prove this point here are some ugly blogs with great content: 
+If you are a coder you can try and make your posts interactive with small programs inside of them or interactive visualizations.
+
+A great example of this is [Neal Agarawall](https://twitter.com/nealagarwal)'s blog [Neal.fun](https://neal.fun/). Look at this lottery simulator he made, that visually explains you why gambling is a bad idea:
+
+![](/starting-a-blog/powerball.gif)
+
+
+If you don't have any of the above skills either learn them by doing or feel free to keep everything simple sticking with text content.
+To prove the point that you don't need to do any of these things here are some ugly blogs with great content: 
 
 * [Paul Graham's Blog](http://www.paulgraham.com/articles.html)
 * [Patio11's Blog](https://www.kalzumeus.com/)
 * [Derek Sivers's Blog](https://sivers.org/)
+* [Gwern's blog](https://www.gwern.net/)
+
+Here's how the Gwern blog looks like:
+![](/starting-a-blog/gwern-ugly.png)
 
 It's not really important to have any illustrations, but the fact that I can make them and express my messages visually helps me stand out.
+
+So find something unique you can do, and add it to your site! **An idea that requires no particular skills for example is to add an audio version of your posts.**
 
 ## 📝 The Writing Process
 
