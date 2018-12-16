@@ -1,14 +1,20 @@
 ---
-title: "Everything I've learned in 10 years of Blogging"
-date: 2018-12-13T20:57:56+01:00
-draft: true
+title: "Everything I've learned in 10 years of Blogging (WIP currently under review)"
+date: 2018-12-15T20:57:56+01:00
+draft: false
 ---
 
-I've been blogging for almost 10 years and what I've written on the internet has reached millions of people.
+I'm 21, but I've been blogging for almost 10 years. 
 
-Most of what I've written is in Italian, but I was also quite successful with my Quora profile, reaching 400k people in three months.
+I grew up doing this.
 
-I find that blogging is still among the best ways to get your message out there and meet interesting people.
+What I've written on the internet has reached millions of people. Most of what I've written is in Italian, but I was also quite successful when writing in english. My Quora profile, reached 400k people in three months.
+
+Through blogging I had the opportunity to travel the world, getting free tickets to all the biggest music festivals (Ultra, Tomorrowland.. you name it), getting promos from the Majors and interviewing my favorite artists.
+
+And it was because of my Wordpress websites that I was pushed towards learning how to code. Without blogging, I wouldn't be who I am today.
+
+I find that it's still among the best ways to get your message out there and meet interesting people.
 
 ## 👘  I'm now opening up the kimono.
 #### Here's all I know about Blogging
@@ -26,6 +32,8 @@ I find that blogging is still among the best ways to get your message out there 
 * There are no rules, slowly craft your unique style.
 * Go back in your old posts and link them to newer ones.
 * Start a Newsletter.
+* Do what everyone else is afraid to do.
+* Reach out to people asking for things or offering tips.
 
 
 What is hard, but valuable is carefully crafting something timeless that really penetrates your readers minds.
@@ -100,9 +108,9 @@ I'm still coming up with a design style for the illustrations on this website, b
 ![](/starting-a-blog/chat.png)
 ![](/starting-a-blog/tree.png)
 
-I'm a little obsessed with design, so if you have no design skills feel free to keep everything simple sticking with text content. 
+I'm a little obsessed with design, but if you have no design skills feel free to keep everything simple sticking with text content. Illustrations are only one of the things you can do to stand out.
 
-Here are some ugly blogs with great content: 
+To prove this point here are some ugly blogs with great content: 
 
 * [Paul Graham's Blog](http://www.paulgraham.com/articles.html)
 * [Patio11's Blog](https://www.kalzumeus.com/)
@@ -128,9 +136,9 @@ If you want to be successful on search engines though you might want to make you
 Here's some data that shows the ideal word count:
 ![](/starting-a-blog/shares-data.png)
 
-As you can see srticles in the >1000 words range get much more shares than shorter content. The 3000 words mark looks like the best equilibrium point for (word count)/(shares)
+As you can see articles in the >1000 words range get much more shares than shorter content. Over the 3000 words mark looks like the reward for (word count)/(shares) starts to decrease, but there are no strict rules, do how you see fit.
 
-Longer content clearly correlates to more organic traffic too:
+What you can't ignore is that longer content clearly correlates to more organic traffic:
 
 ![](/starting-a-blog/hubspot.png)
 
@@ -142,6 +150,24 @@ If you have no clue on how to write a blog post you can run a search for article
 
 Your blog posts are going to be a personal thing so I don't think I can give other suggestions that can help you.
 
+On the other hand if you are starting a company blog a good tip is to write content related to what your product does.
+
+For example my friends at **[Boxy Suite](https://boxysuite.com)** make Google Apps that are native apps for Mac OS.
+
+They also recently decided to start a blog for their company to attract more customers.
+
+In their case the goal of the blog is to be found by Gmail power users. 
+So their blog posts will be content like: 
+
+> *"10 Gmail shortcuts to maximize productivity"*
+
+> *"The best Chrome extensions for Gmail"*
+
+At the beginning of your posts sometimes it's also a good idea to qualify yourself as an expert, showing some context on why you're talking about something and why people should listen to you. 
+
+This is something you can do and that can help in many cases, but it doesn't mean you **have** to do this
+
+
 ## 🔨  Fixing your Drafts
 
 Once you finished writing wait for a day and start reading everything you wrote fixing typos, trimming out useless words.
@@ -150,11 +176,11 @@ If a sentence doesn't add any value remove it. If a sentence is too long split i
 
 To improve readability highlight important words with **bold** and *italics*.
 
-Sometimes it's also good practice to have a couple of short paragraphs that lead to a longer one, like I just did here.
+Sometimes it's also good practice to have a couple of short paragraphs that lead to a longer one, like I just did here. Avoid long sentences and long paragraphs, they're not easy on the eyes of the reader and will cause people to mindlessly scroll through your content.
 
 Once you've finished your post, sleep another night over it and post it the next day.
 
-If you feel sick at reading it the n-th time you've done a great job here.
+**If you feel sick at reading it the n-th time you've likely done a great job.**
 
 ## 🌎 Promote your Work
 
@@ -164,9 +190,7 @@ Repost your article on the platforms that allow it, like Medium and subreddits i
 
 Share your content on Social Media and even text it to the friends you have that might care about it.
 
-Another must, is to collect emails of your readers.
-
-If someone gets on your website and leaves, they'll likely never come back, unless you manage to get your hands on their email.
+Another must, is to collect emails of your readers. If someone gets on your website and leaves, they'll likely never come back, unless you manage to get your hands on their email.
 
 An email is important because it gives you direct contact with people and reduces the impact on your audience of any algorithm change by large media companies or social media.
 
@@ -174,9 +198,25 @@ Also start reaching out to people with blogs similar to yours and pitch them gue
 
 Guest posts are a great opportunity to tap in wider audiences and gain backlinks to your website.
 
+## Tips from my friends:
+
+As I want to make this article the best resource out there on blogging I decided to reach out to some people I admire.
+
+Here are some awesome tips from my friends:
+
+### [Ethan](https://twitter.com/Booligoosh) of [Code the Web](https://codetheweb.blog/)
+<em>Code the Web has **insert achievement here**</em>
+
+### [Pat Walls](https://twitter.com/thepatwalls) of [Starter Story](https://www.starterstory.com/)
+
+### [Hugo Di Francesco](https://twitter.com/hugo__df) of [Code with Hugo](https://codewithhugo.com/)
+
+..more pending
+
+
 # Conclusion
 
 Blogging is really about consistently putting out quality content with your own signature style, there aren't any shortcuts to success.
 
-**If you enjoyed reading this make sure you leave me your email, so I can let you know when I write something new!**
+**🚨 If you enjoyed reading this make sure you leave me your email, so I can let you know when I write something new! I promise it will be worth your time**
 
