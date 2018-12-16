@@ -225,9 +225,40 @@ Here are some awesome tips from my friends:
 ### [Pat Walls](https://twitter.com/thepatwalls) of [Starter Story](https://www.starterstory.com/)
 
 ### [Hugo Di Francesco](https://twitter.com/hugo__df) of [Code with Hugo](https://codewithhugo.com/)
+**0-12k Unique users/month in 7 months**
+
+Doing ads isn't bad, as long as there's nothing you can do instead of them.
+
+Basing everything around ads will make you focus purely on volume, not quality of traffic. The issue with trying for a "let's get another 100,000 users on the site" is that, 100,000 is harder than 10 or 100.
+
+If you've got anything to sell, sell it, an advertiser paying you means they value the attention more than whatever amount of money they're spending (never mind all the wasted $$ in middlemen and fees).
+
+Value your audiences attention, get the ad money but use it as a crutch until you've got better things to offer.
 
 ..more pending
 
+
+# Why ads are a bad idea
+
+An ad on your website means the following.
+
+Someone through a platform (that generally keeps 50% of the money) is paying 2x what it's giving to you to promote a product.
+
+These people aren't dumb, they're doing it because they're expecting a return on investment. To my knowledge they've been doing it for more than 30 years and still haven't stopped.
+
+This means that these ads are effective even if they're poorly targeted and sold at what seems to you as an inflated price.
+
+So my suggestion here is simple. You know your reader better than any advertiser, so sell them something you know they want.
+
+I talked about this with [Hugo Di Francesco](https://twitter.com/hugo__df) of [Code with Hugo](https://codewithhugo.com/) and he told me that for him on most of his site ads make sense.
+
+Here's why: "Advertisers took on the risk. I de-risked the user interaction. I make money without having to build trust and sell something".
+
+The thing is the writer of an article that you found useful, surely has more trust than an advertiser.
+
+In fact after talking with Hugo, we realised together that his strategy works well on posts that aren't related to things he's selling.
+
+On posts that are related to things he's selling, instead of a generic ad, he fills that space with an ad for himself. He's going to try this out know, but it's 100% going to increase his conversion rates and probably make him more money than selling ads.
 
 # Conclusion
 
