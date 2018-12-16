@@ -12,7 +12,13 @@ What I've written on the internet has reached millions of people. Most of what I
 
 Through blogging I had the opportunity to travel the world, getting free tickets to all the biggest music festivals (Ultra, Tomorrowland.. you name it), getting promos from the Majors and interviewing my favorite artists.
 
-And it was because of my Wordpress websites that I was pushed towards learning how to code. Without blogging, I wouldn't be who I am today.
+Here are the numbers of my first blog [EDMnews.it](http://edmnews.it) these are the only ones I could find as my other domains expired 😅
+
+![](/starting-a-blog/edmnews-views.png)
+
+Eventually as I didn't have time to blog anymore and my personal interests moved away from EDM the website got assimilated into [This is EDM](https://thisisedm.it) which was a Google News source and had more than 100k pageviews a month.
+
+It was because of my Wordpress websites that I was pushed towards learning how to code. Without blogging, I wouldn't be who I am today.
 
 I find that it's still among the best ways to get your message out there and meet interesting people.
 
@@ -117,6 +123,7 @@ A great example of this is [Neal Agarawall](https://twitter.com/nealagarwal)'s b
 
 ![](/starting-a-blog/powerball.gif)
 
+For an Italian cryptocurrency blog I created a while back and grew to 10k uniques in a month I created an interactive explanation of what a Blockchain is. You can find the [blockchain simulator here](https://lab-cryptotrend.herokuapp.com/) (its in Italian).
 
 If you don't have any of the above skills either learn them by doing or feel free to keep everything simple sticking with text content.
 To prove the point that you don't need to do any of these things here are some ugly blogs with great content: 
@@ -223,6 +230,16 @@ Here are some awesome tips from my friends:
 <em>Code the Web has **insert achievement here**</em>
 
 ### [Pat Walls](https://twitter.com/thepatwalls) of [Starter Story](https://www.starterstory.com/)
+**19,470 uniques in November 2018 on [Starter Story](https://www.starterstory.com/)**
+
+I don't do any keyword research. Most of my content is interviews, so I have other people write the content. This allows me to make much more of it because I don't have to do all of the hard work of writing. Most of my work is to make sure the content is good and work with the writer to make it better.
+I promote mainly on Reddit and social media. On Reddit I post "case studies" that are mostly reposts of my blog content to a subreddit as a self post.
+
+The fact that my content has a recurring format is a double edged sword.
+
+👍 It allowed me to systemize the content creation process. 
+
+👎 It also hurts my growth though as people get tired of the same format.
 
 ### [Hugo Di Francesco](https://twitter.com/hugo__df) of [Code with Hugo](https://codewithhugo.com/)
 
