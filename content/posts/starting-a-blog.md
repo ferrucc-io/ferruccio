@@ -259,7 +259,7 @@ The thing is the writer of an article that you found useful, surely has more tru
 
 In fact after talking with Hugo, we realised together that his strategy works well on posts that aren't related to things he's selling.
 
-On posts that are related to things he's selling, instead of a generic ad, he fills that space with an ad for himself. He's going to try this out know, but it's 100% going to increase his conversion rates and probably make him more money than selling ads.
+On posts that are related to things he's selling, instead of a generic ad, he fills that space with an ad for himself. He's going to try this out now, but it's 100% going to increase his conversion rates and probably make him more money than selling ads.
 
 # Conclusion
 
