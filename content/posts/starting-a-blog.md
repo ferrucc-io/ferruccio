@@ -225,6 +225,7 @@ Here are some awesome tips from my friends:
 ### [Pat Walls](https://twitter.com/thepatwalls) of [Starter Story](https://www.starterstory.com/)
 
 ### [Hugo Di Francesco](https://twitter.com/hugo__df) of [Code with Hugo](https://codewithhugo.com/)
+
 **0-12k Unique users/month in 7 months**
 
 Doing ads isn't bad, as long as there's nothing you can do instead of them.
