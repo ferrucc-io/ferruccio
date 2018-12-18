@@ -1,7 +1,9 @@
 ---
-title: "Everything I've learned in 10 years of Blogging (WIP currently under review)"
+title: "Everything I've learned in 10 years of Blogging"
 date: 2018-12-15T20:57:56+01:00
 draft: false
+description: "What I've written on the internet has reached millions of people and today I'm opening up the kimono, here's all I know about blogging."
+featured_image: "/starting-a-blog/secrets.png"
 ---
 
 I'm 21, but I've been blogging for almost 10 years. 
@@ -45,11 +47,15 @@ I find that it's still among the best ways to get your message out there and mee
 
 Carefully crafting something timeless that really penetrates your readers minds is hard, but worth it.
 
-The power of writing is that it's a drug.
+Most of the time when you read something you already know everything.
 
-You'll know you're doing it right, when you'll have people refreshing the content of your website every day to check if you've posted something new.
+10% of the time things are different, you feel like a switch turns on in your head and suddenly see things differently.
 
-You're doing it right if you get messages thanking you for what you wrote. Unsolicited messages like: 
+When I find content that makes me feel this way I'll refresh the page of the website every day to check if I missed something new. 
+
+I feel hooked, like an addict.
+
+This is what we're going for.. getting unsolicited messages like: 
 
 > "This was illuminating, it opened up a world of possibilities in my mind." 
 
@@ -57,12 +63,12 @@ You're doing it right if you get messages thanking you for what you wrote. Unsol
 
 > "Your words made me finally what's the big deal about X, thanks"
 
-If your goal is to get to this point then this article is all you need.
+Let's dive in and learn how to make this happen.
 
 ## 🕵️‍♂️ The Audience
 
 **The first step** when starting out a blog is figuring out who's your audience.
-Most people I know skip this step, but it's essential. It's easy to blurt out some words and sharing them on your social media.
+Most people I know skip this step, but it's essential. It's easy to blurt out some words and share them on your social media.
 
 It's much harder to create articles that resonate with the people you want to reach.
 
@@ -70,11 +76,24 @@ To explain how to do this I'll show you how I'm doing it right now for this pers
 
 Up until now I used this blog to help me think, but for the new year I decided to treat it more seriously.
 
-**So what is my audience?**
+**What is my goal?**
+
+This is my personal blog. 
+
+The fact that it's a "personal" blog doesn't mean that it's about me.
+
+In fact it means its about what I can offer to you.
+
+My **first practical tip** is related to this:
+
+Your about page in your blog has to be about how you can help and what people can expect from you. Then eventually about you..
+
+**But let's be honest, no one gives a shit about you, or me.**
+
+
+**What is my audience?**
 
 If you're starting a blog for your company you have to see who your customers generally are, or which customers would be your ideal audience and cater to them.
-
-In my case this is a personal blog and my goal is to meet people like me.
 
 Here's a description of who my realistic reader:
 
@@ -82,7 +101,7 @@ Here's a description of who my realistic reader:
 
 Once you defined your audience you have ~~to figure out if it's large enough.~~
 
-**No, it's the internet, don't worry about it it's big enough.**
+**Come on, it's the internet, don't worry about it it's big enough.**
 
 In fact if it seems big enough for you, I'd consider to niche down.
 
@@ -123,7 +142,7 @@ A great example of this is [Neal Agarawall](https://twitter.com/nealagarwal)'s b
 
 ![](/starting-a-blog/powerball.gif)
 
-For an Italian cryptocurrency blog I created a while back and grew to 10k uniques in a month I created an interactive explanation of what a Blockchain is. You can find the [blockchain simulator here](https://lab-cryptotrend.herokuapp.com/) (its in Italian).
+Another example is this [blockchain simulator](https://lab-cryptotrend.herokuapp.com/) (in Italian) I created as a promotional product for an Italian cryptocurrency blog I created a while back and grew to 10k uniques in a month. I was also creating unique illustrations for that one.
 
 If you don't have any of the above skills either learn them by doing or feel free to keep everything simple sticking with text content.
 To prove the point that you don't need to do any of these things here are some ugly blogs with great content: 
@@ -147,6 +166,8 @@ After having figured out all the basics for your blog you're ready to jump to th
 The best way to do this is to Brainstorm a couple of Titles that your audience and ideally also you find interesting and start writing.
 
 The title doesn't really have to describe what the content of the article is.
+
+A good way to pick titles is using the content from ["The First Hundred Million"](/posts/old-school-marketers/) which is a book from the 1920s by [Julius Haldeman](https://en.wikipedia.org/wiki/E._Haldeman-Julius).
 
 Obviously your article can't be completely off topic, but your goal with it has to be to captivate and inform.
 
@@ -198,9 +219,11 @@ If a sentence doesn't add any value remove it. If a sentence is too long split i
 
 To improve readability highlight important words with **bold** and *italics*.
 
-Sometimes it's also good practice to have a couple of short paragraphs that lead to a longer one, like I just did here. Avoid long sentences and long paragraphs, they're not easy on the eyes of the reader and will cause people to mindlessly scroll through your content.
+Sometimes it's also good practice to have a couple of short paragraphs that lead to a longer one, like I just did here. Avoid long sentences and long paragraphs, they're not easy on the eyes of the reader and will cause people to scroll through your content.
 
-Once you've finished your post, sleep another night over it and post it the next day.
+Once you've finished your post. Sleep another night over it. 
+
+Post it the next day.
 
 **If you feel sick at reading it the n-th time you've likely done a great job.**
 
@@ -226,9 +249,6 @@ As I want to make this article the best resource out there on blogging I decided
 
 Here are some awesome tips from my friends:
 
-### [Ethan](https://twitter.com/Booligoosh) of [Code the Web](https://codetheweb.blog/)
-<em>Code the Web has **insert achievement here**</em>
-
 ### [Pat Walls](https://twitter.com/thepatwalls) of [Starter Story](https://www.starterstory.com/)
 **19,470 uniques in November 2018 on [Starter Story](https://www.starterstory.com/)**
 
@@ -253,8 +273,6 @@ If you've got anything to sell, sell it, an advertiser paying you means they val
 
 Value your audiences attention, get the ad money but use it as a crutch until you've got better things to offer.
 
-..more pending
-
 
 # Why ads are a bad idea
 
@@ -276,11 +294,18 @@ The thing is the writer of an article that you found useful, surely has more tru
 
 In fact after talking with Hugo, we realised together that his strategy works well on posts that aren't related to things he's selling.
 
-On posts that are related to things he's selling, instead of a generic ad, he fills that space with an ad for himself. He's going to try this out now, but it's 100% going to increase his conversion rates and probably make him more money than selling ads.
+On posts that are related to things he's selling, instead of a generic ad, he fills that space with an ad for himself.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Had a chat with <a href="https://twitter.com/0xferruccio?ref_src=twsrc%5Etfw">@0xferruccio</a> the other day<br><br>Doing what I do best, nicking CSS and copy from people (<a href="https://twitter.com/codefundio?ref_src=twsrc%5Etfw">@codefundio</a>) and trying to make some 💸 <a href="https://t.co/6rtcXa2us5">pic.twitter.com/6rtcXa2us5</a></p>&mdash; Hugo Di Francesco (@hugo__df) <a href="https://twitter.com/hugo__df/status/1074786797018845186?ref_src=twsrc%5Etfw">December 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 # Conclusion
 
-Blogging is really about consistently putting out quality content with your own signature style, there aren't any shortcuts to success.
+There aren't any rules in blogging.
 
-**🚨 If you enjoyed reading this make sure you leave me your email, so I can let you know when I write something new! I promise it will be worth your time**
+You can take some cues from what I learned over the years, or ignore everything and do things your own way.
 
+In fact if you're breaking the rules email me a link to your posts. I'm constantly looking for inspiration and fascinated by people that change the rules and still get results.
+
+If you're not getting results, reread this post and figure out what you're doing wrong.
