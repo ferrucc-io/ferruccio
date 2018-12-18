@@ -273,6 +273,11 @@ If you've got anything to sell, sell it, an advertiser paying you means they val
 
 Value your audiences attention, get the ad money but use it as a crutch until you've got better things to offer.
 
+### [KP](https://twitter.com/thisiskp_) of [KP](http://thisiskp.com/)
+
+**>1000 posts written over the years - 18k unique users a year on his new blog**
+
+Make sure you use momentum as a hack for consistency. Create a simple routine with a clear recurring cue. My cue was "8:30am" every day and the hack I used was to "open my laptop and type 1 complete sentence. Since this was such an achievable goal, it became so easy to stick with the habit. Of course, I wrote way more than 1 sentence but it's a great way to start.
 
 # Why ads are a bad idea
 
