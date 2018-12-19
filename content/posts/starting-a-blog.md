@@ -273,7 +273,7 @@ If you've got anything to sell, sell it, an advertiser paying you means they val
 
 Value your audiences attention, get the ad money but use it as a crutch until you've got better things to offer.
 
-### [KP](https://twitter.com/thisiskp_) of [KP](http://thisiskp.com/)
+### [KP](https://twitter.com/thisiskp_) of [KP](http://thisiskp.com/)
 
 **>1000 posts written over the years - 18k unique users a year on his new blog**
 
@@ -301,9 +301,7 @@ In fact after talking with Hugo, we realised together that his strategy works we
 
 On posts that are related to things he's selling, instead of a generic ad, he fills that space with an ad for himself.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Had a chat with <a href="https://twitter.com/0xferruccio?ref_src=twsrc%5Etfw">@0xferruccio</a> the other day<br><br>Doing what I do best, nicking CSS and copy from people (<a href="https://twitter.com/codefundio?ref_src=twsrc%5Etfw">@codefundio</a>) and trying to make some 💸 <a href="https://t.co/6rtcXa2us5">pic.twitter.com/6rtcXa2us5</a></p>&mdash; Hugo Di Francesco (@hugo__df) <a href="https://twitter.com/hugo__df/status/1074786797018845186?ref_src=twsrc%5Etfw">December 17, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+![](/starting-a-blog/hugo.png)
 
 # Conclusion
 
