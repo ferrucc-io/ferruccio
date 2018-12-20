@@ -6,3 +6,4 @@ languageCode = "en-us"
 title = "ferrucc.io"
 theme = "new-theme"
 publishDir = "docs"
+enableRobotsTXT = true
