@@ -279,7 +279,7 @@ Value your audiences attention, get the ad money but use it as a crutch until yo
 
 Make sure you use momentum as a hack for consistency. Create a simple routine with a clear recurring cue. My cue was "8:30am" every day and the hack I used was to "open my laptop and type 1 complete sentence. Since this was such an achievable goal, it became so easy to stick with the habit. Of course, I wrote way more than 1 sentence but it's a great way to start.
 
-# Why ads are a bad idea
+## Why ads are a bad idea
 
 An ad on your website means the following.
 
@@ -303,7 +303,7 @@ On posts that are related to things he's selling, instead of a generic ad, he fi
 
 ![](/starting-a-blog/hugo.png)
 
-# Conclusion
+## Conclusion
 
 There aren't any rules in blogging.
 
