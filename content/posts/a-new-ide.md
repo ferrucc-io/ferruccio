@@ -16,9 +16,9 @@ This concept is still mind blowing to me.
 
 ![](/a-new-ide/light-table.gif)
 
-Up until now I always thought about code as a lot of files, that you divide in components.
+Up until now I always thought about code as collection of files, that you connect through imports.
 
-But when working on a functional project we could try and consider it a collection of functions instead.
+But really we import files instead of files because they're a convenient way to serialize code. They're not the best representation of code, in fact functions might provide a better one.
 
 As no IDEs think this way I decided to try and create a prototype for a *new* kind of IDE taking this idea as its guiding principle. 
 
