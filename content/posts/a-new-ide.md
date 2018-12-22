@@ -135,3 +135,5 @@ Light Table is almost abandoned and half baked, but it's in ClojureScript, so th
 I'm going to reach out to as many developers as possible to measure how much interest there is for something like this. 
 
 If you're interested in getting notified about what happens next you can either leave your email in the form under the post or email me at *[hi] @ th1s domain* with any feedback, or ideas for features or on how to make this happen.
+
+*Special thanks to Sean Walker for reviewing this article and giving me the initial inspiration to write this*
