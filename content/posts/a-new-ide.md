@@ -1,5 +1,5 @@
 ---
-title: "A functional IDE [Draft]"
+title: "A functional IDE for React"
 date: 2018-12-21T20:43:10+01:00
 draft: false
 description: "Re-Imagining IDEs for functional programming. What happens when functions replace files and become the smallest unit of code."
@@ -45,7 +45,7 @@ These two projects at the time of inception have definitely paved the way for so
 
 When Chris Granger first posted about Light Table on Hacker News a lot of people started saying that he wasn't inventing anything new..
 
-In [All ideas are old ideas](http://www.chris-granger.com/2012/10/05/all-ideas-are-old-ideas/) Chris goes forward to say that Light Table is as much about rediscovering the past as about creating something for the future.
+In "[All ideas are old ideas](http://www.chris-granger.com/2012/10/05/all-ideas-are-old-ideas/)" Chris goes forward to say that Light Table is as much about rediscovering the past as about creating something for the future.
 
 I also found [some insightful comments](https://news.ycombinator.com/item?id=3837202) providing additional ideas that still haven't been implemented in most workflows, that can be summed up with.
 
