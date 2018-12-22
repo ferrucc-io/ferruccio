@@ -20,7 +20,9 @@ Up until now I always thought about code as a lot of files, that you divide in c
 
 But when working on a functional project we could try and consider it a collection of functions instead.
 
-As no IDEs think this way I decided to try and create a prototype taking this conceptas guidance. This is not a new idea, but maybe in the past it wasn't the right time for it.
+As no IDEs think this way I decided to try and create a prototype for a *new* kind of IDE taking this idea as its guiding principle. 
+
+This is not a new idea, but maybe in the past it wasn't the right time for it.
 
 ## 💡 Here's my concept for a functional text editor
 
