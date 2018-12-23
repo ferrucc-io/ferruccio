@@ -108,7 +108,7 @@ Creating an IDE from scratch there are the things you have to build, because use
 
 * An extensible plugin system
 * Code Highlighting
-* Code Autocomplete (for the language, the external libraries and local functions )
+* Code Autocomplete (for the language, the external libraries, and local functions )
 * A theme system to customize the look
 * Search and Replace features
 * A preview system for all types of file
