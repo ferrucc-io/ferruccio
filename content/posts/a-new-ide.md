@@ -18,7 +18,8 @@ This concept is still mind blowing to me.
 
 Up until now I always thought about code as collection of files, that you connect through imports.
 
-But really we import files instead of files because they're a convenient way to serialize code. They're not the best representation of code, in fact functions might provide a better one.
+But really we import functions, not files.  
+We use files to store code because they're a convenient way to serialize code. They're not the best representation, in fact functions might provide a better one.
 
 As no IDEs think this way I decided to try and create a prototype for a *new* kind of IDE taking this idea as its guiding principle. 
 
@@ -34,7 +35,7 @@ This is not a new idea, but maybe in the past it wasn't the right time for it.
 ## 🏛 Taking inspiration from the past
 There are two people working on fundamentally different software development experiences, Bret Victor and Chris Granger, there are others too, but these two people have had an outsized impact on new ways of thinking about programming.
 
-Let’s focus on what Chris Granger has done in this space: [Light Table](https://lighttable.com/) and [Eve](https://witheve.com/).
+Let’s focus on what Chris Granger has done in this space: [Light Table](http://lighttable.com/) and [Eve](http://witheve.com/).
 
 * Light Table: is an IDE that came before Atom/VS Code and Brackets.
 * Eve: a programming language with an IDE that has a radically more human friendly approach to coding
@@ -54,9 +55,9 @@ I also found [some insightful comments](https://news.ycombinator.com/item?id=383
 * Multiple editors with just one function in it. Show code in an "area of concern" not just in a file.
 * Never have to look for documentation
 
-There's also an extra point which is "*The coding environment can show also results, app windows, graphics, other tools.*". I'll skip this as I think it's okay to have a distinction between things like Jupyter Notebooks and IDEs for web development.
+I removed an extra point which is "*The coding environment can also show results, app windows, graphics, other tools.*". I'll skip this as I think it's okay to have a distinction between things like Jupyter Notebooks and IDEs for web development.
 
-With [Eve](https://witheve.com/) Chris Granger is trying to break this division and while I think it's a great idea, there's not much adoption.
+With [Eve](http://witheve.com/), Chris Granger is trying to break this division and while I think it's a great idea, there's not much adoption.
 
 ## 𝑓 The shift from files to functions
 
