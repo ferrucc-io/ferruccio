@@ -58,7 +58,7 @@ if (!doNotTrack) {
 
 <meta itemprop="datePublished" content="2018-12-21T20:43:10&#43;01:00" />
 <meta itemprop="dateModified" content="2018-12-21T20:43:10&#43;01:00" />
-<meta itemprop="wordCount" content="990">
+<meta itemprop="wordCount" content="963">
 
 
 
@@ -135,14 +135,14 @@ if (!doNotTrack) {
 
 <p><img src="/a-new-ide/light-table.gif" alt="" /></p>
 
-<p>Up until now I always thought about code as collection of files, that you connect through imports.</p>
+<p>Up until now I always thought about code as a collection of files, connected through imports.</p>
 
 <p>But really we import functions, not files.<br />
 We use files to store code because they&rsquo;re a convenient way to serialize code. They&rsquo;re not the best representation, in fact functions might provide a better one.</p>
 
 <p>As no IDEs think this way I decided to try and create a prototype for a <em>new</em> kind of IDE taking this idea as its guiding principle.</p>
 
-<p>This is not a new idea, but maybe in the past it wasn&rsquo;t the right time for it.</p>
+<p>This is not a new idea, but maybe in the past, it wasn&rsquo;t the right time for it.</p>
 
 <h2 id="here-s-my-concept-for-a-functional-text-editor">💡 Here&rsquo;s my concept for a functional text editor</h2>
 
@@ -204,7 +204,7 @@ We use files to store code because they&rsquo;re a convenient way to serialize c
 
 <p><img src="/a-new-ide/file-structure.png" alt="" /></p>
 
-<p>An example use case would be creating a board with the component code, the styling and the tests.</p>
+<p>An example use case would be creating a board with the component code, the styling, and the tests.</p>
 
 <p>Here&rsquo;s how it would look like:</p>
 
@@ -235,7 +235,7 @@ We use files to store code because they&rsquo;re a convenient way to serialize c
 <p><strong>How can I make this happen?</strong></p>
 </blockquote>
 
-<p>Building an IDE here are the things you have to build, because people expect them:</p>
+<p>Creating an IDE from scratch there are the things you have to build, because users expect them:</p>
 
 <ul>
 <li>An extensible plugin system</li>
@@ -250,7 +250,7 @@ We use files to store code because they&rsquo;re a convenient way to serialize c
 <li>Tooling for Debugging</li>
 </ul>
 
-<p>So after a basic analysis it&rsquo;s not hard to figure out that starting from scratch is too much work for a solo developer with no external funding.</p>
+<p>So it&rsquo;s not hard to figure out that starting from scratch is too much work for a solo developer with no external funding.</p>
 
 <p><strong>The solution is clearly to build on top of existing solutions</strong></p>
 
@@ -262,9 +262,7 @@ We use files to store code because they&rsquo;re a convenient way to serialize c
 <li><a href="http://lighttable.com/"><strong>Light Table</strong></a></li>
 </ul>
 
-<p>The disadvantage of all three is that they&rsquo;re all non native Apps built on Electron. It&rsquo;s great because of the cross platform part of it, but I have a personal preference for native apps when free to pick.</p>
-
-<p>Atom and VS Code have a good customization and plugin ecosystem, which is also well documented.</p>
+<p>Atom and VS Code have a good customization and plugin ecosystem, which is also well documented. So the IDE could be simply a plugin and a theme alongside existing tooling.</p>
 
 <p>Light Table is almost abandoned and half baked, but it&rsquo;s in ClojureScript, so the irrational part of me is drawn to it.</p>
 

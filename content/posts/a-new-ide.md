@@ -16,14 +16,14 @@ This concept is still mind blowing to me.
 
 ![](/a-new-ide/light-table.gif)
 
-Up until now I always thought about code as collection of files, that you connect through imports.
+Up until now I always thought about code as a collection of files, connected through imports.
 
 But really we import functions, not files.  
 We use files to store code because they're a convenient way to serialize code. They're not the best representation, in fact functions might provide a better one.
 
 As no IDEs think this way I decided to try and create a prototype for a *new* kind of IDE taking this idea as its guiding principle. 
 
-This is not a new idea, but maybe in the past it wasn't the right time for it.
+This is not a new idea, but maybe in the past, it wasn't the right time for it.
 
 ## 💡 Here's my concept for a functional text editor
 
@@ -77,7 +77,7 @@ A standard for many React developers is to structure components in the following
 
 ![](/a-new-ide/file-structure.png)
 
-An example use case would be creating a board with the component code, the styling and the tests.
+An example use case would be creating a board with the component code, the styling, and the tests.
 
 Here's how it would look like:
 
@@ -104,7 +104,7 @@ After having this idea and creating a mockup concept of it I started asking myse
 
 > **How can I make this happen?**   
 
-Building an IDE here are the things you have to build, because people expect them:
+Creating an IDE from scratch there are the things you have to build, because users expect them:
 
 * An extensible plugin system
 * Code Highlighting
@@ -117,7 +117,7 @@ Building an IDE here are the things you have to build, because people expect the
 * REPL support
 * Tooling for Debugging
 
-So after a basic analysis it's not hard to figure out that starting from scratch is too much work for a solo developer with no external funding.
+So it's not hard to figure out that starting from scratch is too much work for a solo developer with no external funding.
 
 **The solution is clearly to build on top of existing solutions**
 
@@ -127,9 +127,7 @@ The options I consider viable are:
 * [**Visual Studio Code**](https://code.visualstudio.com/)
 * [**Light Table**](http://lighttable.com/)
 
-The disadvantage of all three is that they're all non native Apps built on Electron. It's great because of the cross platform part of it, but I have a personal preference for native apps when free to pick.
-
-Atom and VS Code have a good customization and plugin ecosystem, which is also well documented.
+Atom and VS Code have a good customization and plugin ecosystem, which is also well documented. So the IDE could be simply a plugin and a theme alongside existing tooling.
 
 Light Table is almost abandoned and half baked, but it's in ClojureScript, so the irrational part of me is drawn to it.
 
