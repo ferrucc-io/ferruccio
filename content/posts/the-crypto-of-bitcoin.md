@@ -4,10 +4,6 @@ date: "2018-06-02T16:46:03.284Z"
 draft: true
 ---
 
-# This is a draft don't take *too* seriously
-
-# CAUTION WET FLOOR 🚧🚧
-
 As the term crypto, is now widely used to refer to cryptocurrencies I thought it would be interesting to write a simple blog post explaining the cryptography behind Bitcoin, which is one of the many layers of the digital gold we all love.
 
 ## Hashing Algorithms
@@ -27,29 +23,44 @@ With hashing functions we can find or know that we don't have what we need in on
 
 In Bitcoin there are two hashing functions used: SHA256 and RIPEMD-160.
 Here's the output of SHA256 when the input is "bitcoin": 
-`6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b`
+```
+6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b
+```
 
 In Bitcoin generally the SHA256 is applied twice:
 
 Initial input:
-`bitcoin`
+```
+bitcoin
+```
 
 Output of first round of SHA256 on "bitcoin":
-`6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b` 
+```
+6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b
+``` 
 
-Output of second round of SHA256 on "6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b":
-`a23b7f87e4250b3a64b737f349c06422f752f419cbb25ae9169a6cf1e23f4462` 
+Output of second round of SHA256 on it is:
+```
+a23b7f87e4250b3a64b737f349c06422f752f419cbb25ae9169a6cf1e23f4462
+```
 
 When we want to get a shorter output from our hashing function, like when a Bitcoin address is created the RIPEMD-160 hash function is used in the second round:
 
 Initial input:
-`bitoin address`
+```
+bitcoin address
+```
 
 Output of SHA256 on "bitcoin address":
-`338fc17627ab215e5cb0c4ef807dfd161ef96febdb00e997c50db5f4bf76f383`
+```
+338fc17627ab215e5cb0c4ef807dfd161ef96febdb00e997c50db5f4bf76f383
+```
 
-Output of RIPEMD-160 on "338fc17627ab215e5cb0c4ef807dfd161ef96febdb00e997c50db5f4bf76f383":
-`edb33402f008c1fed31f57f625aa30403f3a9b33`
+And the output of RIPEMD-160 on it is:
+
+```
+edb33402f008c1fed31f57f625aa30403f3a9b33
+```
 
 
 ## Merkle Tree
