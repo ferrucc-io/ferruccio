@@ -273,6 +273,38 @@ If you've got anything to sell, sell it, an advertiser paying you means they val
 
 Value your audiences attention, get the ad money but use it as a crutch until you've got better things to offer.
 
+### [Ethan](https://twitter.com/booligoosh) of [Code The Web](https://codetheweb.blog/)
+
+### Create a mailing list
+When somebody comes to your blog, it’s quite unlikely that they’ll come back regularly. Unless you start an email list! Make sure to put a subscribe form on your blog right from the start. You can also incentivize people to join by offering some special content in a small PDF.
+
+With Code The Web, I eventually realized that people who signed up didn’t just want to be notified of new articles, they wanted to learn to code. So I changed up the format and turned it into a weekly email with 5-10 links to web development tutorials. I would include a few of my old articles, as well as a link up the top to my latest article. It took more effort, but my email list started growing much faster after that change. I also launched it on Product Hunt and got about 500 sign-ups (I still get a few from there every week!)
+
+Having an email list is not only good for engagement, but it can also help a lot if you decide to look for sponsors in the future!
+
+### Connect personally with readers
+This is an important (and often overlooked) aspect of running a blog. Remember to appear like a real human – in your articles, emails, and interactions. Every time a new person signed up to my email list, I would send them an email inviting them to introduce themselves and ask me any questions. I ended up helping a lot of people via email!! This makes your readers much more loyal, and gives you a first-hand look at your audience. It also got me some great feedback, a lot of which I could use as testimonials! Things like:
+
+"Thanks for putting in the time to create something useful. Content creators are what makes this society better, especially when they share the fruit of their labour for free."
+
+"I had a really hard time understanding and wrapping my head around it all. I understood somewhat. But not confidently enough until I came across your explanations. Thanks to you, I feel like I finally understand it and the concepts aren't as foreign as I once thought. I'm now encouraged that I can stick it out and grasp more concepts along the way!"
+
+"I hope that you can continue to create amazing, easy to understand content for a very long time"
+
+### Have massive idea brainstorms
+
+Before I even wrote my first article on Code The Web, I did a massive brainstorm. I set a goal to write down 60 blog post ideas (!) by the end of the day. And it was hard!! I tried to completely remove any mental filter, and only judged which ones were good or bad once I had them down.
+
+I’ve made sure that the number never gets below 50. I also made it a habit to write ideas down the idea on that page as soon as they randomly popped into my head. I got to over 100!! Having a massive list of blog post ideas really helps with motivation. Not knowing what to write about can be really scary, and is another mental barrier between you and writing that blog post. For extra motivation, you can also assign each idea a date and then you have a schedule to stick to! If you skip one week, you’re going to have to re-shuffle all the other weeks 😅😜
+
+### Start with the headings
+
+This tip is related to actually writing your blog posts. Starting with a blank screen can often seem very overwhelming. In fact, it can actually lead to procrastination or writer’s block! To combat this, I always start by writing down the headings that I want to have in an article. This gives me an overview of how I want the article to flow, and also gives me a plan so I’m less likely to give up or not know what to write next! In fact, I used that very technique when writing this ;)
+
+### Blogging helps you learn
+
+This isn’t really a tip, but just something I’d like to share. I started Code The Web as a blog to teach web development to beginners. And through the process, I became a much better web developer myself. I believe that teaching is the best way to learn stuff, and that by creating a complete path for learning web development, I managed to fill many gaps in my knowledge. I learned about cool things like CSS flexbox, CSS grids, CSS variables, JavaScript arrow functions and more. Blogging is beneficial for both the reader and the writer!
+
 ### [KP](https://twitter.com/thisiskp_) of [KP](http://thisiskp.com/)
 
 **>1000 posts written over the years - 18k unique users a year on his new blog**

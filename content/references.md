@@ -6,13 +6,18 @@ type: "page"
 layout: "page"
 ---
 
-# Design Inspiration
+## Blog Posts
+
+[The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
+
+
+## Design Inspiration
 
 As I want to improve my UX skills for the next projects I'll be using some standard frameworks like:
 * [Ant Design](https://ant.design/)
 * [Material UI](https://material-ui.com/)
 
-## Landing Pages
+### Landing Pages
 
 This is a list of landing pages I look to when trying to find inspiration:
 
