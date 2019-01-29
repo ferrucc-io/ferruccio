@@ -8,7 +8,7 @@ The music I like isn’t that ordinary, but I'd say it's popular among developer
 
 I found that every time I meet someone in person that codes professionally the discussion at a certain point moves to “What do you listen when you code?”, “What is your favourite genre/artist?”.
 
-I also found that developers in my age group 20-30 from big cities tend to listen to my same music.
+Here's what developers from big cities in the 20-30 age group tend to listen.
 
 {{< youtube BjhMp-FlBEk >}}
 
