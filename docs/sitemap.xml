@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ferrucc.io/posts/music/</loc>
+    <lastmod>2019-01-29T20:47:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ferrucc.io/posts/a-new-ide/</loc>
     <lastmod>2018-12-21T20:43:10+01:00</lastmod>
   </url>
@@ -69,7 +74,7 @@
   
   <url>
     <loc>https://ferrucc.io/posts/</loc>
-    <lastmod>2018-12-21T20:43:10+01:00</lastmod>
+    <lastmod>2019-01-29T20:47:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +85,7 @@
   
   <url>
     <loc>https://ferrucc.io/</loc>
-    <lastmod>2018-12-21T20:43:10+01:00</lastmod>
+    <lastmod>2019-01-29T20:47:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
