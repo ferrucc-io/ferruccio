@@ -106,9 +106,8 @@ article {
 .project-link:hover{
     text-decoration: underline;
     transform: scale(1.02);
-    font-weight: 600;
+    font-weight:600;
 }
-
 
 
 .logo{
@@ -215,6 +214,18 @@ h2.title {
     color:white;
 }
 
+img.project-social-icon{
+    margin-top:2px;
+    height:18px;
+    width:18px;
+    border-radius:100%;
+}
+
+a.project-social-icon-link{
+    text-decoration: none !important;
+    border: none !important;
+}
+
 </style>
 
 <h2 class="title">📦 Products</h2>
@@ -235,7 +246,11 @@ h2.title {
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">November 2018</div>
                     <div style="margin-right: 0.4375rem;">·</div>
-                    <a href="https://kit.st" class="project-link">https://kit.st</a>
+                    <a href="https://kit.st" class="project-link" style="margin-right: 0.4375rem;">https://kit.st</a>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://www.producthunt.com/posts/keep-in-touch" class="project-social-icon-link">
+                        <img src="/projects/ph.png" class="project-social-icon"/>
+                    </a>
                 </div>
             </div>
         </div>
@@ -275,7 +290,11 @@ h2.title {
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">September 2018</div>
                     <div style="margin-right: 0.4375rem;">·</div>
-                    <a href="https://klipped.in" class="project-link">https://klipped.in</a>
+                    <a href="https://klipped.in" class="project-link" style="margin-right: 0.4375rem;">https://klipped.in</a>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://www.producthunt.com/posts/klipped-in" class="project-social-icon-link">
+                        <img src="/projects/ph.png" class="project-social-icon"/>
+                    </a>
                 </div>
             </div>
         </div>
@@ -295,7 +314,11 @@ h2.title {
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">July 2018</div>
                     <div style="margin-right: 0.4375rem;">·</div>
-                    <a href="https://dripform.ga" class="project-link">https://dripform.ga</a>
+                    <a href="https://dripform.ga" class="project-link" style="margin-right: 0.4375rem;">https://dripform.ga</a>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://www.producthunt.com/posts/dripform" class="project-social-icon-link">
+                        <img src="/projects/ph.png" class="project-social-icon"/>
+                    </a>
                 </div>
             </div>
         </div>
