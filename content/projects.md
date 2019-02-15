@@ -222,10 +222,8 @@ setInterval(draw, 1);
 
     @media (max-width: 576px) {
         #canvas {
-        position: absolute;    
         width: 100%;
         margin-top: -280px;
-        margin-left: -16px;
     }
 
         .project-preview {
