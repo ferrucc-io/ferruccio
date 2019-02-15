@@ -14,6 +14,20 @@ At the moment there's only some links to my latest products, but I'm working on 
 
 <style>
 
+.flex-l.justify-between.items-center.center{
+    text-align:center;
+}
+
+a.f3.no-underline.white.dib{
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
+
+ul.pl0.mr3{
+    display: none;
+}
+
 img.w-100{
     display: none;
 }
@@ -326,7 +340,7 @@ a.project-social-icon-link{
     <div class="project">
         <div class="project-preview">
             <div class="preview-logo">
-                <img src="/projects/cryptotrend.webp" class="logo">
+                <img src="/projects/cryptotrend.png" class="logo">
             </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://web.archive.org/web/20180426034700/http://cryptotrend.it/">
