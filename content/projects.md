@@ -106,6 +106,7 @@ article {
 .project-link:hover{
     text-decoration: underline;
     transform: scale(1.02);
+    font-weight: 600;
 }
 
 
