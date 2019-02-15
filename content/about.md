@@ -9,11 +9,11 @@ menu: "main"
 
 Hello my name is Ferruccio Balestreri.
 
-I come from Milan, Italy 🇮🇹 but this doesn't mean I'm a great cook.
+I come from Milan, Italy and I write code, design and write blog posts.
 
-I like to code and my favorite programming language is Clojure. If you're interested in learning it [start from here](https://www.braveclojure.com/).
+My favorite programming language is Clojure. If you're interested in learning it [start from here](https://www.braveclojure.com/).
 
-Over the years I've made so many projects that I've lost the count. In this website you can find some articles on what I've learned.
+Over the years I've made [so many projects](/projects) that I've lost count. In this website you can find some articles on what I've learned.
 
 I'm actively collecting a list of useful resources that I take inspiration from and you can find it [here](/references).
 
@@ -23,11 +23,11 @@ In fact I don't read newspapers, but I like to expose myself to large amounts of
 
 I'm more interested about macro trends then what happens in the day to day as I find that the world moves to certain equilibriums.
 
-After reading this you might think I love high level discussions, but truth is I really enjoy everything that is practical.
+After reading this you might think I love high level, dreamy discussions, but truth is I really enjoy getting my hands dirty and creating things.
 
 Now I'll get back to work on something more meaningful than the about section of my blog. And I'd suggest you did that too.
 
 ## My Biggest Influences and fav 💕 blogs:
 [Paul Graham's essays](http://www.paulgraham.com/articles.html): These essays are what made me think that I should learn a Lisp, eventually this brought me to Clojure.
 
-[Raw Nerve](http://archive.is/8uu5x)
+[Raw Nerve](http://archive.is/8uu5x): Aaron Swartz was always a big inspiration for me.
