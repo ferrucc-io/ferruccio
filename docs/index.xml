@@ -17,9 +17,7 @@
       <pubDate>Fri, 15 Feb 2019 13:59:23 +0100</pubDate>
       
       <guid>https://ferrucc.io/projects/</guid>
-      <description>Here you can find an overview of all the projects I made over the years.
-At the moment there&amp;rsquo;s only some links to my latest products, but I&amp;rsquo;m working on making this more interesting.
- .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr3{ display: none; } img.w-100{ display: none; } body{ background-color: black; } a{ border-color: #fee18b; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.</description>
+      <description>var canvas = document.getElementById(&#34;canvas&#34;); var ctx = canvas.getContext(&#34;2d&#34;); var w = ctx.canvas.width; var h = ctx.canvas.height; var MAX_LINES = 3; var amplitude = 30; var freq = 0.02; var rate = 0; var ctr = 0; function draw() { w = ctx.canvas.width = window.innerWidth; h = ctx.canvas.height = 400; ctx.moveTo(0, h/2); //start at left center ctr++; for (var i = 1; i  .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.</description>
     </item>
     
     <item>
