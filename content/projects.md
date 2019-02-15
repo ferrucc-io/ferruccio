@@ -323,6 +323,53 @@ a.project-social-icon-link{
             </div>
         </div>
     </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="preview-logo">
+                <img src="/projects/cryptotrend.webp" class="logo">
+            </div>
+            <div class="project-content-container">
+                <a class="project-title-link" href="https://web.archive.org/web/20180426034700/http://cryptotrend.it/">
+                  <h3 class="project-title">Cryptotrend</h3>
+                </a>
+                <div class="project-description">
+                    Educational Cryptocurrency site in Italian (10k monthly uniques)
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">September 2017 - January 2018</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://web.archive.org/web/20180426034700/http://cryptotrend.it/" class="project-link" >Archived</a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="preview-logo">
+                <img src="/projects/edmnews.png" class="logo">
+            </div>
+            <div class="project-content-container">
+                <a class="project-title-link" href="https://edmnews.it">
+                  <h3 class="project-title">EDM News Italy</h3>
+                </a>
+                <div class="project-description">
+                    The biggest EDM Music blog in Italy
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">2012-2015</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://edmnews.it" class="project-link" >https://edmnews.it</a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+                  <h3 class="project-title">💀 and many more failed ones..</h3>
+        </div>
+    </div>
 </div>
 
 <h2 class="title">👨🏼‍💻 My Work</h2>
