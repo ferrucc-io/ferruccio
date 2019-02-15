@@ -6,10 +6,19 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 20:47:34 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 13:59:23 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ferrucc.io/projects/</link>
+      <pubDate>Fri, 15 Feb 2019 13:59:23 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/projects/</guid>
+      <description>body{ background-color: black; } a{ border-color: #fee18b; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .preview-logo{ width: 90px; height: 90px; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; background: rgb(245, 245, 245); border-radius: 4px; margin-right: 1.16667rem; img { width: 46px; height: 46px; } } .project{ :not(:last-child) { margin-bottom: 2.625rem; } } .project-content-container{ display: flex; flex-direction: column; align-items: flex-start; flex-shrink: 0; } .</description>
+    </item>
     
     <item>
       <title>Music I like</title>

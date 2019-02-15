@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2019-02-15T13:59:23+01:00
-draft: true
+draft: false
 type: "page"
 layout: "page"
 ---
