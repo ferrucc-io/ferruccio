@@ -24,7 +24,7 @@ a.f3.no-underline.white.dib{
     float: none;
 }
 
-ul.pl0.mr3{
+ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l{
     display: none;
 }
 

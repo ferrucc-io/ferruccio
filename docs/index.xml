@@ -19,7 +19,7 @@
       <guid>https://ferrucc.io/projects/</guid>
       <description>Here you can find an overview of all the projects I made over the years.
 At the moment there&amp;rsquo;s only some links to my latest products, but I&amp;rsquo;m working on making this more interesting.
- .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr3{ display: none; } img.w-100{ display: none; } body{ background-color: black; } a{ border-color: #fee18b; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.</description>
+ .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l{ display: none; } img.w-100{ display: none; } body{ background-color: black; } a{ border-color: #fee18b; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.</description>
     </item>
     
     <item>
