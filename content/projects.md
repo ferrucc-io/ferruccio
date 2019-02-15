@@ -69,11 +69,14 @@ article {
     margin-bottom: 0.4375rem;
     text-decoration: none;
     border-bottom: none;
-    :hover, :active{
-        color: white;
-        text-decoration: none;
-    }
 }
+
+.project-title-link :hover, .project-title-link :focus, .project-title-link :active {
+    color: white;
+    text-decoration: none;
+    transform: scale(1.05)
+}
+
 .project-title {
         margin: 0px;
         margin-block-start: 0px;
@@ -96,9 +99,16 @@ article {
 }
 
 .project-link {
-        color: #fee18b !important;
-        border-bottom: none;
+    color: #fee18b !important;
+    border-bottom: none;
 }
+
+.project-link:hover{
+    text-decoration: underline;
+    transform: scale(1.02);
+}
+
+
 
 .logo{
     max-height: 60px;
@@ -198,6 +208,10 @@ h2.title {
     float:right;
     margin: -20px;
     margin-left: -120px;
+}
+
+.nested-links a:hover{
+    color:white;
 }
 
 </style>
