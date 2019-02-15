@@ -59,7 +59,7 @@ if (!doNotTrack) {
 
 <meta itemprop="datePublished" content="2019-02-15T13:59:23&#43;01:00" />
 <meta itemprop="dateModified" content="2019-02-15T13:59:23&#43;01:00" />
-<meta itemprop="wordCount" content="285">
+<meta itemprop="wordCount" content="384">
 
 
 
@@ -213,6 +213,54 @@ article {
     max-width: 60px !important;
 }
 
+
+h2.title {
+    font-size: 3rem;
+}
+
+.skills {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.skill{
+    display: block;
+    margin-right: 0.875rem;
+}
+
+.preview-skill{
+    width: 90px;
+    height: 90px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgb(245, 245, 245);
+    border-radius: 4px;
+    img {
+        width: 46px;
+        height: 46px;
+    }
+}
+
+.skill-icon {
+    max-height: 60px;
+    max-width: 60px !important;
+}
+
+.skill-name {
+    display: block;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px;
+    margin-top: 0.2rem;
+}
+
 @media (max-width: 576px) {
     .project-preview {
         flex-direction: column;
@@ -227,11 +275,24 @@ article {
     .project-content-container{
         margin-top: 1rem;
     }
+
+
+    .preview-skill{
+        width: 64px;
+        height: 64px;
+            img {
+                width: 46px;
+                height: 46px;
+            }
+        }
+
+    .skill-icon {
+        max-height: 45px;
+        max-width: 45px !important;
+    }
 }
 
-h2.title {
-    font-size: 3rem;
-}
+
 
 </style>
 
@@ -323,6 +384,36 @@ h2.title {
 <h2 class="title">👨🏼‍💻 My Work</h2>
 
 <p>Working on this..</p>
+
+<h2 class="title">🤹‍♂️ My Skills</h2>
+
+<p><h3>Programming Languages</h3>
+<div class="skills">
+    <div class="skill">
+        <div class="preview-skill">
+            <img src="/projects/clj.png" class="skill-icon"/>
+        </div>
+        <p class="skill-name">Clojure</p>
+    </div>
+    <div class="skill">
+        <div class="preview-skill">
+            <img src="/projects/js.png"/>
+        </div>
+        <p class="skill-name">JS</p>
+    </div>
+    <div class="skill">
+        <div class="preview-skill">
+            <img src="/projects/py.png" class="skill-icon"/>
+        </div>
+        <p class="skill-name">Python</p>
+    </div>
+    <div class="skill">
+        <div class="preview-skill">
+            <img src="/projects/c.png" class="skill-icon"/>
+        </div>
+        <p class="skill-name">C</p>
+    </div>
+</div></p>
 
 <h2 class="title">🗺 Around The Internet</h2>
 
