@@ -44,7 +44,7 @@ article {
     -webkit-box-align: center;
     align-items: center;
     background: rgb(245, 245, 245);
-    border-radius: 4px;
+    border-radius: 2px;
     margin-right: 1.16667rem;
     img {
         width: 46px;
@@ -130,7 +130,7 @@ h2.title {
     -webkit-box-align: center;
     align-items: center;
     background: rgb(245, 245, 245);
-    border-radius: 4px;
+    border-radius: 2px;
     img {
         width: 46px;
         height: 46px;
@@ -182,9 +182,23 @@ h2.title {
         max-height: 45px;
         max-width: 45px !important;
     }
+
+    .skill-name {
+        font-size: 0.6em;
+    }
 }
 
-
+.radius2 {
+    border-radius: 2px;
+}
+.label {
+    background-color: #385e94;
+    border-radius: 8px;
+    padding: 0 8px;
+    float:right;
+    margin: -20px;
+    margin-left: -120px;
+}
 
 </style>
 
@@ -275,7 +289,7 @@ h2.title {
 
 <h2 class="title">👨🏼‍💻 My Work</h2>
 
-Working on this..
+Working on this.. Will fill this soon!
 
 <h2 class="title">🤹‍♂️ My Skills</h2>
 
@@ -289,7 +303,7 @@ Working on this..
     </div>
     <div class="skill">
         <div class="preview-skill">
-            <img src="/projects/js.png"/>
+            <img src="/projects/js.png" class="radius2"/>
         </div>
         <p class="skill-name">JS</p>
     </div>
@@ -304,6 +318,36 @@ Working on this..
             <img src="/projects/c.png" class="skill-icon"/>
         </div>
         <p class="skill-name">C</p>
+    </div>
+</div>
+
+<h3>Languages</h3>
+
+<div class="skills">
+    <div class="skill">
+        <div class="preview-skill">
+            <h2>🇮🇹</h2>
+        </div>
+        <p class="skill-name">Italiano</p>
+    </div>
+    <div class="skill">
+        <div class="preview-skill">
+            <h2>🇺🇸</h2>
+        </div>
+        <p class="skill-name">English</p>
+    </div>
+    <div class="skill">
+        <div class="preview-skill">
+            <h2>🇫🇷</h2>
+        </div>
+        <p class="skill-name">Français</p>
+    </div>
+    <div class="skill">
+        <span class="label">basic</span>
+        <div class="preview-skill">
+            <h2>🇨🇳</h2>
+        </div>
+        <p class="skill-name">中文 (不错)</p>
     </div>
 </div>
 
