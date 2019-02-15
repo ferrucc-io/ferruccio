@@ -17,7 +17,9 @@
       <pubDate>Fri, 15 Feb 2019 13:59:23 +0100</pubDate>
       
       <guid>https://ferrucc.io/projects/</guid>
-      <description>body{ background-color: black; } a{ border-color: #fee18b; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .preview-logo{ width: 90px; height: 90px; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; background: rgb(245, 245, 245); border-radius: 4px; margin-right: 1.16667rem; img { width: 46px; height: 46px; } } .project{ :not(:last-child) { margin-bottom: 2.625rem; } } .project-content-container{ display: flex; flex-direction: column; align-items: flex-start; flex-shrink: 0; } .</description>
+      <description>Here you can find an overview of all the projects I made over the years.
+At the moment there&amp;rsquo;s only some links to my latest products, but I&amp;rsquo;m working on making this more interesting.
+ img.w-100{ display: none; } body{ background-color: black; } a{ border-color: #fee18b; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .preview-logo{ width: 90px; height: 90px; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; background: rgb(245, 245, 245); border-radius: 4px; margin-right: 1.</description>
     </item>
     
     <item>

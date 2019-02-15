@@ -4,9 +4,20 @@ date: 2019-02-15T13:59:23+01:00
 draft: false
 type: "page"
 layout: "page"
+featured_image: "/projects/projects-social.png"
+description: "Here you can find an overview of all the projects I made over the years"
 ---
 
+Here you can find an overview of all the projects I made over the years.
+
+At the moment there's only some links to my latest products, but I'm working on making this more interesting.
+
 <style>
+
+img.w-100{
+    display: none;
+}
+
 body{
     background-color: black;
 }
@@ -110,8 +121,13 @@ article {
     }
 }
 
+h2.title {
+    font-size: 3rem;
+}
 
 </style>
+
+<h2 class="title">📦 Products</h2>
 
 <div class="projects">
     <div class="project">
@@ -196,6 +212,10 @@ article {
     </div>
 </div>
 
-# Around The Internet
+<h2 class="title">👨🏼‍💻 My Work</h2>
+
+Working on this..
+
+<h2 class="title">🗺 Around The Internet</h2>
 
 You can find me on [twitter](https://twitter.com/0xferruccio), [github](https://github.com/ferrucc-io) and monthly in your inbox, if you subscribe to my newsletter.
