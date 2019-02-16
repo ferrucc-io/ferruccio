@@ -37,10 +37,14 @@ body{
 	height: 90vh;
     background-color: black;
     background: linear-gradient(-45deg, #000000, #000000, #000000, #000000, #000000, #1D3461, #274690, #1F487E, #385e94, #385e94);
-	background-size: 1000% 1000%;
+	background-size: 2000% 2000%;
 	-webkit-animation: Gradient 12s ease 1 forwards;
 	-moz-animation: Gradient 12s ease 1 forwards;
 	animation: Gradient 12s ease 1 forwards;
+    -webkit-background-size: 2000% 2000%;
+	-moz-background-size: 2000% 2000%;
+	-o-background-size: 2000% 2000%;
+
 }
 
 @-webkit-keyframes Gradient {
