@@ -44,6 +44,8 @@ body{
     -webkit-background-size: 2000% 2000%;
 	-moz-background-size: 2000% 2000%;
 	-o-background-size: 2000% 2000%;
+    -webkit-backface-visibility: hidden;
+    overflow: hidden;
 
 }
 
@@ -74,13 +76,11 @@ body{
 	}
 }
 
-footer.bottom-0.w-100.pa3{
-    background: black;
-    padding-top: 0px;
-}
-
 main.pb1{
     padding-bottom:0px;
+    overflow-y: scroll;
+    width: 100%;
+    height: 100%;
 }
 
 
