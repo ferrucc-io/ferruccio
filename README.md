@@ -28,11 +28,11 @@ hugo
 To add a blog post run the following command:
 
 ```
-hugo new posts/[your post title]
+hugo new posts/[your post title].md
 ```
 
 To add a page run the following command:
 
 ```
-hugo new [your page title]
+hugo new [your page title].md
 ```
