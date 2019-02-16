@@ -70,6 +70,11 @@ body{
 	}
 }
 
+footer.bottom-0.w-100.pa3{
+    background: black;
+}
+
+
 article.center.cf.pv5.ph3.ph4-ns.mw7{
         -webkit-animation: reveal 2s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: reveal 2s; /* Firefox < 16 */
