@@ -19,7 +19,7 @@
       <guid>https://ferrucc.io/projects/</guid>
       <description>Here you can find an overview of all the projects I made over the years.
 At the moment there&amp;rsquo;s only some links to my latest products, but I&amp;rsquo;m working on making this more interesting.
- .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l{ display: none; } img.w-100{ display: none; } body{ background-color: black; } a{ border-color: #fee18b; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.</description>
+ .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l{ display: none; } img.w-100{ display: none; } body{ width: 100wh; height: 90vh; background-color: black; background: linear-gradient(-45deg, #000000, #000000, #000000, #000000, #000000, #1D3461, #1D3461, #274690, #1F487E, #1F487E, #385e94, #385e94, #385e94); background-size: 1000% 1000%; -webkit-animation: Gradient 15s ease 1 forwards; -moz-animation: Gradient 15s ease 1 forwards; animation: Gradient 15s ease 1 forwards; } @-webkit-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @-moz-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } a{ border-color: #fee18b; } article { padding-top: 0.</description>
     </item>
     
     <item>

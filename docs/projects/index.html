@@ -59,7 +59,7 @@ if (!doNotTrack) {
 
 <meta itemprop="datePublished" content="2019-02-15T13:59:23&#43;01:00" />
 <meta itemprop="dateModified" content="2019-02-15T13:59:23&#43;01:00" />
-<meta itemprop="wordCount" content="510">
+<meta itemprop="wordCount" content="598">
 
 
 
@@ -141,8 +141,44 @@ img.w-100{
 }
 
 body{
+    width: 100wh;
+    height: 90vh;
     background-color: black;
+    background: linear-gradient(-45deg, #000000, #000000, #000000, #000000, #000000, #1D3461, #1D3461, #274690, #1F487E, #1F487E, #385e94, #385e94, #385e94);
+    background-size: 1000% 1000%;
+    -webkit-animation: Gradient 15s ease 1 forwards;
+    -moz-animation: Gradient 15s ease 1 forwards;
+    animation: Gradient 15s ease 1 forwards;
 }
+
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    100% {
+        background-position: 100% 50%
+    }
+}
+
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    100% {
+        background-position: 100% 50%
+    }
+}
+
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    100% {
+        background-position: 100% 50%
+    }
+}
+
+
 
 a{
     border-color: #fee18b;
