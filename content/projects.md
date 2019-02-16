@@ -24,11 +24,7 @@ a.f3.no-underline.white.dib{
     float: none;
 }
 
-ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l{
-    display: none;
-}
-
-img.w-100{
+ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{
     display: none;
 }
 
