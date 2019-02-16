@@ -72,6 +72,7 @@ body{
 
 footer.bottom-0.w-100.pa3{
     background: black;
+    padding-top: 0px;
 }
 
 main.pb1{
