@@ -74,6 +74,11 @@ footer.bottom-0.w-100.pa3{
     background: black;
 }
 
+main.pb1{
+    padding-bottom:0px;
+}
+
+
 
 article.center.cf.pv5.ph3.ph4-ns.mw7{
         -webkit-animation: reveal 2s; /* Safari, Chrome and Opera > 12.1 */
