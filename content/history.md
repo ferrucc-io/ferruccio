@@ -1,7 +1,7 @@
 ---
 title: "History"
 date: 2019-02-19T01:00:40+01:00
-draft: true
+draft: false
 ---
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
@@ -37,5 +37,6 @@ How am I doing this? [This script](https://github.com/ferrucc-io/chrome-history-
 
 This page loads the data from there using an API generated using a service called [Sheety](https://sheety.co).
 
+## My Browsing History sorted by the latest site I've visited:
 
 <div id="items">Loading History...</div>

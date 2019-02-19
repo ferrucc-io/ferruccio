@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ferrucc.io/history/</loc>
+    <lastmod>2019-02-19T01:00:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ferrucc.io/projects/</loc>
     <lastmod>2019-02-15T13:59:23+01:00</lastmod>
   </url>
@@ -90,7 +95,7 @@
   
   <url>
     <loc>https://ferrucc.io/</loc>
-    <lastmod>2019-02-15T13:59:23+01:00</lastmod>
+    <lastmod>2019-02-19T01:00:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
