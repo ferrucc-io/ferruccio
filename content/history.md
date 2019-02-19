@@ -4,6 +4,25 @@ date: 2019-02-19T01:00:40+01:00
 draft: false
 ---
 
+<style>
+.dont-break-out {
+
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+}
+</style>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
@@ -18,8 +37,7 @@ $(document).ready(function(){
 <ul>
 	{{#each this}}
     <div>
-		<p class="b">{{title}}</p>
-        <p>{{address}}</p>
+		<p class="dont-break-out"><span class="b dont-break-out">{{title}}</span> - {{address}}</p>
     </div>
 	{{/each}}
 </ul>
