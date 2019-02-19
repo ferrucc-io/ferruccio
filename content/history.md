@@ -1,0 +1,41 @@
+---
+title: "History"
+date: 2019-02-19T01:00:40+01:00
+draft: true
+---
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$.getJSON('https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33', function(data) {
+		var template = Handlebars.compile($('#item-template').html())
+		$('#items').html(template(data.reverse()))
+	})
+})
+</script>
+<script id="item-template" type="text/x-handlebars-template">
+<ul>
+	{{#each this}}
+    <div>
+		<p class="b">{{title}}</p>
+        <p>{{address}}</p>
+    </div>
+	{{/each}}
+</ul>
+</script>
+
+This is my full browsing history! 
+
+Why? 
+
+**Why not?**
+
+I think it might be fun for people wanting to introduce themselves via email to know where I'm hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
+
+How am I doing this? [This script](https://github.com/ferrucc-io/chrome-history-to-sheets) runs every hour and updates a [Google Sheet](https://docs.google.com/spreadsheets/d/13HW9eVSUiUe_i0yiiuzPj_C3oCl-CcgH4GZLHA8kTUc/edit).
+
+This page loads the data from there using an API generated using a service called [Sheety](https://sheety.co).
+
+
+<div id="items">Loading History...</div>
