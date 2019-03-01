@@ -17,8 +17,11 @@
       <pubDate>Tue, 19 Feb 2019 01:00:40 +0100</pubDate>
       
       <guid>https://ferrucc.io/history/</guid>
-      <description>.dont-break-out { /* These are technically the same, but use both */ overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-word; /* Adds a hyphen where the word breaks, if supported (No Blink) */ -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto; }    $(document).ready(function(){ $.getJSON(&#39;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#39;, function(data) { var template = Handlebars.compile($(&#39;#item-template&#39;).html()) $(&#39;#items&#39;).html(template(data.reverse())) }) })   {{#each this}}  {{title}} - {{address}}
- {{/each}}   This is my full browsing history!</description>
+      <description>This is my full browsing history!
+Why?
+Why not?
+I think it might be fun for people wanting to introduce themselves via email to know where I&amp;rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
+How am I doing this? This script runs every hour and updates a Google Sheet.</description>
     </item>
     
     <item>
@@ -194,6 +197,20 @@ Here is a list of existential problems we face:
 It&amp;rsquo;s time for proofreading, but it&amp;rsquo;s painful to proofread your own writings.
 What is fun instead is reading someone else&amp;rsquo;s writings.
 So how great would it be if you could post your drafts somewhere, read and comment a couple of blog posts by people with your same interests, while your own get proofread by people like you?</description>
+    </item>
+    
+    <item>
+      <title>Reading List</title>
+      <link>https://ferrucc.io/reading/</link>
+      <pubDate>Fri, 12 Feb 2010 14:31:50 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/reading/</guid>
+      <description>I spend a lot of time reading things on the internet and on books.
+What had a strong influence on me?
+What is something that shaped who I am?
+Everything below here is my answer to those questions:
+When Breath Becomes Air At the end of 2018 Ryan Kulp suggested that I read this book.
+I&amp;rsquo;m so glad I followed his advice as reading it touched me. Being a fairly happy person, I almost always the topic of death and health, in my reading list and even in my daily thoughts.</description>
     </item>
     
   </channel>

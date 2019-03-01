@@ -47,16 +47,22 @@ if (!doNotTrack) {
     
 
     <meta property="og:title" content="History" />
-<meta property="og:description" content=".dont-break-out { /* These are technically the same, but use both */ overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-word; /* Adds a hyphen where the word breaks, if supported (No Blink) */ -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto; }    $(document).ready(function(){ $.getJSON(&#39;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#39;, function(data) { var template = Handlebars.compile($(&#39;#item-template&#39;).html()) $(&#39;#items&#39;).html(template(data.reverse())) }) })   {{#each this}}  {{title}} - {{address}}
- {{/each}}   This is my full browsing history!" />
+<meta property="og:description" content="This is my full browsing history!
+Why?
+Why not?
+I think it might be fun for people wanting to introduce themselves via email to know where I&rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
+How am I doing this? This script runs every hour and updates a Google Sheet." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ferrucc.io/history/" />
 <meta property="article:published_time" content="2019-02-19T01:00:40&#43;01:00"/>
 <meta property="article:modified_time" content="2019-02-19T01:00:40&#43;01:00"/>
 
 <meta itemprop="name" content="History">
-<meta itemprop="description" content=".dont-break-out { /* These are technically the same, but use both */ overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-word; /* Adds a hyphen where the word breaks, if supported (No Blink) */ -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto; }    $(document).ready(function(){ $.getJSON(&#39;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#39;, function(data) { var template = Handlebars.compile($(&#39;#item-template&#39;).html()) $(&#39;#items&#39;).html(template(data.reverse())) }) })   {{#each this}}  {{title}} - {{address}}
- {{/each}}   This is my full browsing history!">
+<meta itemprop="description" content="This is my full browsing history!
+Why?
+Why not?
+I think it might be fun for people wanting to introduce themselves via email to know where I&rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
+How am I doing this? This script runs every hour and updates a Google Sheet.">
 
 
 <meta itemprop="datePublished" content="2019-02-19T01:00:40&#43;01:00" />
@@ -68,8 +74,11 @@ if (!doNotTrack) {
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="History"/>
-<meta name="twitter:description" content=".dont-break-out { /* These are technically the same, but use both */ overflow-wrap: break-word; word-wrap: break-word; -ms-word-break: break-all; word-break: break-word; /* Adds a hyphen where the word breaks, if supported (No Blink) */ -ms-hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto; hyphens: auto; }    $(document).ready(function(){ $.getJSON(&#39;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#39;, function(data) { var template = Handlebars.compile($(&#39;#item-template&#39;).html()) $(&#39;#items&#39;).html(template(data.reverse())) }) })   {{#each this}}  {{title}} - {{address}}
- {{/each}}   This is my full browsing history!"/>
+<meta name="twitter:description" content="This is my full browsing history!
+Why?
+Why not?
+I think it might be fun for people wanting to introduce themselves via email to know where I&rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
+How am I doing this? This script runs every hour and updates a Google Sheet."/>
 
   </head>
 
@@ -118,45 +127,6 @@ if (!doNotTrack) {
     <div class="nested-copy-line-height lh-copy f4 nested-links nested-img">
       
 
-<style>
-.dont-break-out {
-
-  /* These are technically the same, but use both */
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-
-  -ms-word-break: break-all;
-  word-break: break-word;
-
-  /* Adds a hyphen where the word breaks, if supported (No Blink) */
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-
-}
-</style>
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-    $.getJSON('https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33', function(data) {
-        var template = Handlebars.compile($('#item-template').html())
-        $('#items').html(template(data.reverse()))
-    })
-})
-</script>
-<script id="item-template" type="text/x-handlebars-template">
-<ul>
-    {{#each this}}
-    <div>
-        <p class="dont-break-out"><span class="b dont-break-out">{{title}}</span> - {{address}}</p>
-    </div>
-    {{/each}}
-</ul>
-</script>
-
 <p>This is my full browsing history!</p>
 
 <p>Why?</p>
@@ -170,6 +140,44 @@ $(document).ready(function(){
 <p>This page loads the data from there using an API generated using a service called <a href="https://sheety.co">Sheety</a>.</p>
 
 <h2 id="my-browsing-history-sorted-by-the-latest-site-i-ve-visited">My Browsing History sorted by the latest site I&rsquo;ve visited:</h2>
+
+<p><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $.getJSON(&lsquo;<a href="https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33'">https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33'</a>, function(data) {
+        var template = Handlebars.compile($(&lsquo;#item-template&rsquo;).html())
+        $(&lsquo;#items&rsquo;).html(template(data.reverse()))
+    })
+})
+</script>
+<script id="item-template" type="text/x-handlebars-template">
+<ul>
+    {{#each this}}
+    <div>
+        <p class="dont-break-out"><span class="b dont-break-out">{{title}}</span> - {{address}}</p>
+    </div>
+    {{/each}}
+</ul>
+</script>
+<style>
+.dont-break-out {</p>
+
+<p>/* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;</p>
+
+<p>-ms-word-break: break-all;
+  word-break: break-word;</p>
+
+<p>/* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;</p>
+
+<p>}
+</style></p>
 
 <div id="items">Loading History...</div>
 

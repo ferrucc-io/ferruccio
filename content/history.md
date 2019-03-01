@@ -4,24 +4,19 @@ date: 2019-02-19T01:00:40+01:00
 draft: false
 ---
 
-<style>
-.dont-break-out {
+This is my full browsing history! 
 
-  /* These are technically the same, but use both */
-  overflow-wrap: break-word;
-  word-wrap: break-word;
+Why? 
 
-  -ms-word-break: break-all;
-  word-break: break-word;
+**Why not?**
 
-  /* Adds a hyphen where the word breaks, if supported (No Blink) */
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
+I think it might be fun for people wanting to introduce themselves via email to know where I'm hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
 
-}
-</style>
+How am I doing this? [This script](https://github.com/ferrucc-io/chrome-history-to-sheets) runs every hour and updates a [Google Sheet](https://docs.google.com/spreadsheets/d/13HW9eVSUiUe_i0yiiuzPj_C3oCl-CcgH4GZLHA8kTUc/edit).
+
+This page loads the data from there using an API generated using a service called [Sheety](https://sheety.co).
+
+## My Browsing History sorted by the latest site I've visited:
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -42,19 +37,23 @@ $(document).ready(function(){
 	{{/each}}
 </ul>
 </script>
+<style>
+.dont-break-out {
 
-This is my full browsing history! 
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 
-Why? 
+  -ms-word-break: break-all;
+  word-break: break-word;
 
-**Why not?**
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 
-I think it might be fun for people wanting to introduce themselves via email to know where I'm hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
-
-How am I doing this? [This script](https://github.com/ferrucc-io/chrome-history-to-sheets) runs every hour and updates a [Google Sheet](https://docs.google.com/spreadsheets/d/13HW9eVSUiUe_i0yiiuzPj_C3oCl-CcgH4GZLHA8kTUc/edit).
-
-This page loads the data from there using an API generated using a service called [Sheety](https://sheety.co).
-
-## My Browsing History sorted by the latest site I've visited:
+}
+</style>
 
 <div id="items">Loading History...</div>
