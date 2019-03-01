@@ -18,7 +18,9 @@ Everything below here is my answer to those questions:
 
 At the end of 2018 [Ryan Kulp](https://www.ryanckulp.com/) suggested that I read this book.
 
-I'm so glad I followed his advice as reading it touched me. Being a fairly happy person, I almost always the topic of death and health, in my reading list and even in my daily thoughts.
+I'm so glad I followed his advice as it was moving to read this.
+
+Being a fairly happy person, I almost always the topic of death and health, in my reading list and even in my daily thoughts.
 
 I think this spans from the fact that my ideas on religion and faith are very confused.
 
@@ -72,3 +74,7 @@ He adds a new dimension to the two values I listed before, adding "openness" to 
 * [Derek Sivers](https://sivers.org)
 * [Kevin Lynagh](https://kevinlynagh.com/)
 * [Patio11's Blog](https://www.kalzumeus.com/greatest-hits/)
+* Surely You're Joking Mr. Feynman
+
+Hope there's something you didn't already know in this list..
+Enjoy!
