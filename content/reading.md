@@ -75,6 +75,9 @@ He adds a new dimension to the two values I listed before, adding "openness" to 
 * [Kevin Lynagh](https://kevinlynagh.com/)
 * [Patio11's Blog](https://www.kalzumeus.com/greatest-hits/)
 * Surely You're Joking Mr. Feynman
+* [Manuel Frigerio's blog](https://manuel.friger.io/blog)
+* [Francesco Di Lorenzo's blog](https://frankdilo.xyz/)
+* [Leonardo Federico's blog](http://leonardofed.io/)
 
 Hope there's something you didn't already know in this list..
 Enjoy!
