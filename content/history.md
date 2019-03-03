@@ -2,7 +2,19 @@
 title: "History"
 date: 2019-02-19T01:00:40+01:00
 draft: false
+description: "This is my full browsing history! If you want to introduce yourself and don't know what to say, pick something from here as an inspiration"
 ---
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$.getJSON("https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33", function(data) {
+		var template = Handlebars.compile($("#item-template").html())
+		$("#items").html(template(data.reverse()))
+	})
+})
+</script>
 
 This is my full browsing history! 
 
@@ -18,16 +30,7 @@ This page loads the data from there using an API generated using a service calle
 
 ## My Browsing History sorted by the latest site I've visited:
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function(){
-	$.getJSON('https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33', function(data) {
-		var template = Handlebars.compile($('#item-template').html())
-		$('#items').html(template(data.reverse()))
-	})
-})
-</script>
+
 <script id="item-template" type="text/x-handlebars-template">
 <ul>
 	{{#each this}}
