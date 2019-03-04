@@ -8,9 +8,11 @@ featured_image: "/projects/projects-social.png"
 description: "Here you can find an overview of all the projects I made over the years"
 ---
 
-Here you can find an overview of all the projects I made over the years.
+As soon as I got on the internet I started creating.
 
-At the moment there's only some links to my latest products, but I'm working on making this more interesting.
+First it was just putting out content, now it's mostly shipping production code. 
+
+Here are most of my **products**, **jobs** and **skills**.
 
 <style>
 
@@ -542,7 +544,64 @@ a.project-social-icon-link{
 
 <h2 class="title">👨🏼‍💻 My Work</h2>
 
-Working on this.. Will fill this soon!
+
+<div class="projects">
+    <div class="project">
+        <div class="project-preview">
+            <div class="project-content-container">
+                <a class="project-title-link" href="https://kit.st">
+                  <h3 class="project-title">Creators Never Die</h3>
+                </a>
+                <div class="project-description">
+                    I developed a full stack Javascript application, with Next.js on the frontend, GraphQL APIs and Adonis JS on the backend.
+                </div>     
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">October 2018 - Now</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://creatorsneverdie.com" class="project-link" style="margin-right: 0.4375rem;">https://creatorsneverdie.com</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="project-content-container">
+                <a class="project-title-link" href="http://in-dialog.com">
+                  <h3 class="project-title">In-Dialog</h3>
+                </a>
+                <div class="project-description">
+                    I worked in Paris with an amazing team of artists and developers as a Python developer on an art installation.
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">August 2018</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="http://in-dialog.com" class="project-link">http://in-dialog.com</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="preview-logo">
+                <p class="f1">🍦</p>
+            </div>
+            <div class="project-content-container">
+                <a class="project-title-link" href="https://venchi.com">
+                  <h3 class="project-title">Venchi</h3>
+                </a>
+                <div class="project-description">
+                    As soon as I turned 16 I got my first job selling and making Ice Cream in London
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">Summer 2014</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://venchi.com" class="project-link">https://venchi.com</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <h2 class="title">🤹‍♂️ My Skills</h2>
 
@@ -603,6 +662,8 @@ Working on this.. Will fill this soon!
         <p class="skill-name">中文 (不错)</p>
     </div>
 </div>
+
+<h3>Lastly I think you noticed I have a knack for design 👨‍🎨</h3>
 
 <h2 class="title">🗺 Around The Internet</h2>
 

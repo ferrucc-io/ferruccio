@@ -29,8 +29,9 @@ I think it might be fun for people wanting to introduce themselves via email to 
       <pubDate>Fri, 15 Feb 2019 13:59:23 +0100</pubDate>
       
       <guid>https://ferrucc.io/projects/</guid>
-      <description>Here you can find an overview of all the projects I made over the years.
-At the moment there&amp;rsquo;s only some links to my latest products, but I&amp;rsquo;m working on making this more interesting.
+      <description>As soon as I got on the internet I started creating.
+First it was just putting out content, now it&amp;rsquo;s mostly shipping production code.
+Here are most of my products, jobs and skills.
  .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; background-color: black; background: linear-gradient(-45deg, #000000, #000000, #000000, #000000, #000000, #1D3461, #274690, #1F487E, #385e94, #385e94, #385e94); background-size: 2000% 2000%; -webkit-animation: Gradient 12s ease 1 forwards; -moz-animation: Gradient 12s ease 1 forwards; animation: Gradient 12s ease 1 forwards; -webkit-background-size: 2000% 2000%; -moz-background-size: 2000% 2000%; -o-background-size: 2000% 2000%; -webkit-backface-visibility: hidden; overflow: hidden; } @-webkit-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @-moz-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } main.</description>
     </item>
     
