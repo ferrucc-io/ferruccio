@@ -17,7 +17,7 @@
       <pubDate>Tue, 19 Feb 2019 01:00:40 +0100</pubDate>
       
       <guid>https://ferrucc.io/history/</guid>
-      <description>$(document).ready(function(){ $.getJSON(&#34;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#34;, function(data) { var template = Handlebars.compile($(&#34;#item-template&#34;).html()) $(&#34;#items&#34;).html(template(data.reverse())) }) })  This is my full browsing history!
+      <description>$(document).ready(function(){ $.getJSON(&#34;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#34;, function(data) { var template = Handlebars.compile($(&#34;#item-template&#34;).html()) $(&#34;#items&#34;).html(template(data.reverse())) }) })  This is my full browsing history! (Until March 4th 2019)
 Why?
 Why not?
 I think it might be fun for people wanting to introduce themselves via email to know where I&amp;rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.</description>

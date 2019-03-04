@@ -16,7 +16,7 @@ $(document).ready(function(){
 })
 </script>
 
-This is my full browsing history! 
+This is my full browsing history! (Until March 4th 2019)
 
 Why? 
 
