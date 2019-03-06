@@ -1,7 +1,7 @@
 ---
 title: "Is Universal Basic Income a free lunch?"
 date: 2019-03-05T21:41:47+01:00
-draft: false
+draft: true
 featured_image: "/ubi/ubi.png"
 ---
 
@@ -159,3 +159,8 @@ The UBI policy is not a libertarian policy and it's not better than the welfare 
 In practice, it's unclear what will happen when such a policy is enacted as there has never been a large scale experiment like the American one.
 
 So the effect of this on the economy isn't known yet and it could be disastrous as it could be positive.
+
+
+Embrace the meme:
+
+![](/ubi/yang.jpg)
