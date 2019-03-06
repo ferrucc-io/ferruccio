@@ -18,7 +18,7 @@ But what makes him stand out is the proposal he wants to bring to the table: "Un
 
 This is in stark contrast and incompatible with a core belief of mine. So I decided to dig deeper and try to argue both sides.
 
-## The case for UBI (as promoted by Andrew Yang)
+## The case for UBI (as promoted by Andrew Yang)
 
 **The Proposal**
 
@@ -43,8 +43,7 @@ The proposal is to pay for Universal Basic Income with money coming from:
 4.  The US currently spends over one trillion dollars on health care, incarceration, homelessness services and the like. $100 – 200 billion would be saved as people would take better care of themselves and avoid the emergency room, jail, and the street and would generally be more functional. Universal Basic Income would pay for itself by helping people avoid institutions, which is when our costs shoot up. Some studies have shown that $1 to a poor parent will result in as much as $7 in cost-savings and economic growth.
 
 
-
-## The counter case for UBI
+## The counter case for UBI
 
 ### The practical argument
 
@@ -132,7 +131,7 @@ And remember:
 
 A government big enough to give you all you need is also big enough to take away all you have.
 
-### But UBI is better than current Welfare Laws
+### Is UBI better than current Welfare Laws?
 
 Universal Basic Income is worse than the status quo. 
 
@@ -158,4 +157,4 @@ The UBI policy is not a libertarian policy and it's not better than the welfare 
 
 In practice, it's unclear what will happen when such a policy is enacted as there has never been a large scale experiment like the American one.
 
-So the effect of this on the economy isn't clear yet and it could be disastrous as it could be positive.
+So the effect of this on the economy isn't known yet and it could be disastrous as it could be positive.
