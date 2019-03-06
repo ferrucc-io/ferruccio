@@ -62,9 +62,9 @@ To make this even scarier with a practical example, Italy introduced VAT in 1972
 
 The year after it increased to 14% then it increased to 20%. Today it's 22% and it's already approved by law to become 25% in 2021.
 
-Essentially what VAT brought to Italy is what we call "in nero", black market transactions. Many Italians receive their salary on the black market, with tax-free payments.
+Essentially VAT brought to Italy is what we call "in nero" (aka black market) transactions. Many Italians receive their salary on the black market, with tax-free payments. It's normalised.
 
-It's quite normal for a plumber to tell you when the job is done "It's 2100€ with VAT or 2000€ cash".
+Over here it's quite ordinary for a plumber to tell you when the job is done "It's 2100€ with VAT or 2000€ cash".
 
 This means it invalidates minimum wage and job security policies and creates a big tax evasion problem. 
 
