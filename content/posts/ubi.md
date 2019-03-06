@@ -9,7 +9,7 @@ If there's something that I held as a deep belief growing up is that there is no
 
 I also developed an instinct to spot trends. 
 
-Now I'm interested in trends, mostly to find opportunities, but also for fun.
+Mostly to find opportunities, but also for fun.
 
 So when I stumbled upon [Andrew Yang](https://www.yang2020.com/). I listened to a couple of his interviews and realised his ideas are powerful and bipartisan.
 
