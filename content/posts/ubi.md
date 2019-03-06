@@ -1,7 +1,7 @@
 ---
 title: "Is Universal Basic Income a free lunch?"
 date: 2019-03-05T21:41:47+01:00
-draft: true
+draft: false
 featured_image: "/ubi/ubi.png"
 ---
 
@@ -110,6 +110,8 @@ More generally people that don't produce wealth are able to continue to consume 
 
 The UBI here proposed is a tool to solve the problem of unproductive people.
 
+Andrew Yang argues that Milton Friedman was in support of such a policy, but was he really?
+
 The Milton Friedman proposal was of a Negative Income Tax up to a certain threshold.
 
 He explained it pretty clearly in 1968 during an interview:
@@ -135,14 +137,13 @@ A government big enough to give you all you need is also big enough to take away
 ### Is UBI better than current Welfare Laws?
 
 Universal Basic Income is worse than the status quo. 
-
 All the fundamental criticisms of the welfare state apply with even greater force:
 
-1. Some forced charity is more unjust than other forced charity. Forcing people to help others who can't help themselves - like kids from poor families or the severely disabled - is at least defensible. Forcing people to help everyone is not. And for all its faults, at least the status quo makes some effort to target people who can't help themselves. The whole idea of the Universal Basic Income, in contrast, is, to give money to everyone whether they need it or not. Of course, the UBI formula normally reduces the net payment as income rises; but if a perfectly able-bodied person chooses never to work and play Fortnite all day long, the UBI never stops.
+1. Some forced charity is more unjust than other forced charity. Forcing people to help those who can't help themselves is defensible (like kids from poor families or the severely disabled). Forcing people to help everyone is not. The status quo makes some effort to target people who can't help themselves. Universal Basic Income, instead  gives money to everyone whether they need it or not. Of course, the UBI formula reduces the payments due as income rises. But if an able-bodied person chooses never to work and play Fortnite all day long, the UBI still rolls in.
 
-2. The UBI is an extremely wasteful form of forced charity. Helping the small minority of people who can't help themselves don't cost much. Giving an unconditional grant to every citizen wastes an enormous amount of money. If you were running a private charity, it would never even occur to you to "help everyone," because it's such frivolous use of scarce charitable resources. Instead, you'd target spending to do the most good. And unlike the UBI, the status quo makes some effort to target its resources.
+2. The UBI is a wasteful form of forced charity. Helping the small minority of people who can't help themselves doesn't cost much. Giving an unconditional grant to every citizen wastes an enormous amount of money. If you were running a private charity,  you would never "help everyone," because it's a frivolous use of scarce resources. Instead, you'd target spending to do the most good. And unlike the UBI, the status quo makes some effort to target its resources.
 
-3. Overall, the UBI probably gives even worse incentives than the status quo. Defenders of the UBI correctly point out that it might improve incentives for people who are already on welfare. Under the status quo, earning another $1 of legal income can easily reduce your welfare by a $1, implying a marginal tax rate of 100%. But under the status quo, vast populations are ineligible for most programs. Such as? You! If you're an able-bodied adult, aged 18-64, who doesn't have custody of any minor children, the current system doesn't give you much. Switching to a UBI would expand the familiar perverse effects of the welfare state to the entire population - including you. And if taxes rise to pay for the UBI, the population-wide disincentives are even worse.
+3. The UBI gives even worse incentives than the status quo. Defenders of the UBI point out that it might improve incentives for people who are already on welfare. Now earning another $1 of legal income can reduce your welfare by a $1, implying a marginal tax rate of 100%. But under the status quo, vast populations are ineligible for most programs. Such as? You! Able-bodied adult, aged 18-64, who don't have custody of any minor children, don't get anything from the current system. Switching to a UBI would expand the familiar perverse effects of the welfare state to the entire population - including you. And if taxes rise to pay for the UBI, the population-wide disincentives are even worse.
 
 ### The good
 
