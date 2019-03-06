@@ -2,6 +2,7 @@
 title: "Is Universal Basic Income a free lunch?"
 date: 2019-03-05T21:41:47+01:00
 draft: false
+featured_image: "/ubi/ubi.png"
 ---
 
 If there's something that I held as a deep belief growing up is that there is not such a thing as a free lunch.
