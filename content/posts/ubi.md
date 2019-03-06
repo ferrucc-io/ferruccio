@@ -66,9 +66,9 @@ Essentially what VAT brought to Italy is what we call "in nero", black market tr
 
 It's quite normal for a plumber to tell you when the job is done "It's 2100€ with VAT or 2000€ cash".
 
-This means it invalidates minimum wage and job security policies. That are considered important for the most vulnerable in society by the same UBI supporters.
+This means it invalidates minimum wage and job security policies and creates a big tax evasion problem. 
 
-In 2021 if the American market will have VAT, online services might want to start using Bitcoin Lightning Network and be tax-free.
+On a side note, in 2021 if the American market will have VAT, online services might accelerate Bitcoin adoption in order to be tax-free.
 
 
 ### The theoretical argument
