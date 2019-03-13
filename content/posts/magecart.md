@@ -34,7 +34,7 @@ The code in the British Airways attack was the following:
 
 Here's a more readable version of it:
 
-<iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/0xtswebj/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<div class="mw100"><iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/0xtswebj/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe></div>
 
 
 
@@ -73,6 +73,7 @@ A fourth attack targeted Ticketmaster through Inbenta, a third party tool that "
 This service is integrates through custom subdomains for every client.
 
 So we should check for the Ticketmaster subdomains that are:
+
 ```markdown
 ticketmasterat.inbenta.com
 ticketmasterau.inbenta.com
@@ -103,7 +104,7 @@ And right there you could find the malicious code by Magecart above the original
 
 The attackers initially (on June 12th) even deleted the original code by Inbenta and only included their code.
 
-![](inbenta-deleted.png)
+![](/inbenta-deleted.png)
 
 In this case Inbenta's operations were surely compromised directly as the hackers gained enough access to edit as their pleasing the static assets multiple times.
 

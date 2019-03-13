@@ -15,7 +15,9 @@ My favorite programming language is Clojure. If you're interested in learning it
 
 Over the years I've made [so many projects](/projects) that I've lost count. In this website you can find some articles on what I've learned.
 
-I'm actively collecting a list of useful resources that I take inspiration from and you can find it [here](/references). And this is my [browsing history](/history).
+I'm actively collecting a list of useful resources that I take inspiration from and you can find it [here](/references). 
+
+I also like to run experiments, like publicly streaming my [browsing history](/history).
 
 I'm only 21 so it would be pretentious to say I've got all the answers on life, but I hope you'll find my experiences and findings useful. I don't trust anyone that gives orders on how to think or do things, I'm also not interested in most opinions. 
 
