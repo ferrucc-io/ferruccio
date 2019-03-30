@@ -6,10 +6,25 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2019 21:41:47 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 15:58:06 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create a Development Gmail Account for Testing</title>
+      <link>https://ferrucc.io/posts/create-a-testing-gmail-account/</link>
+      <pubDate>Sat, 30 Mar 2019 15:58:06 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/posts/create-a-testing-gmail-account/</guid>
+      <description>You are developing an app that uses emails, and need a testing account?
+What&amp;rsquo;s the fastest and easiest way to get a test account up and running?
+By default Gmail doesn&amp;rsquo;t support email importing from a file.
+So the first step we&amp;rsquo;ll have to go through is creating an Outlook email account here:
+Create an Outlook Account
+After creating an Outlook account we need to import data into it.
+The reason I suggest you use Outlook is that it supports a format called .</description>
+    </item>
     
     <item>
       <title>Is Universal Basic Income a free lunch?</title>
