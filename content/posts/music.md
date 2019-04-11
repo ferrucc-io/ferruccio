@@ -84,7 +84,7 @@ I really enjoy live electronic music performances, so his Darkside tracks are re
 
 **Mask**
 
-I really like Vaal, she’s an elusive producer from Italy that keeps a super low profile as a personality. Her music is a sci-fi soundtrack that brings me in an immersive emotional state that I find really hard to describe.
+I really like Vaal, she’s an elusive producer that keeps a super low profile as a personality. Her music is a sci-fi soundtrack that brings me in an immersive emotional state that I find really hard to describe. (Some rumors say she's Sting's daughter)
 
 Anyway’s Vaal is signed by Tale Of Us which are also another eclectic duo I really like.
 
