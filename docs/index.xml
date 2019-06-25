@@ -6,10 +6,20 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2019 15:58:06 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:03:29 +0200</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Experiments</title>
+      <link>https://ferrucc.io/experiments/</link>
+      <pubDate>Wed, 12 Jun 2019 00:03:29 +0200</pubDate>
+      
+      <guid>https://ferrucc.io/experiments/</guid>
+      <description>Here&amp;rsquo;s a list of experiments I did:
+ Publicly Sharing my browsing history - more about this here Fiverr profile - The goal of this experiment was to see how efficient the internet is at talent discovery and monetization of hard skills. I didn&amp;rsquo;t manage to get any clients except for a friend, so it was a failed experiment. Original tweet Fiverr Profile Calls with strangers Original Tweet - Post Recap coming soon Log every 30 minutes of my life on Twitter Auto delete all my tweets after one week Grow an instagram account to 10k followers using fake quotes  Not many other experiments come to my mind.</description>
+    </item>
     
     <item>
       <title>Create a Development Gmail Account for Testing</title>
@@ -120,9 +130,11 @@ You can find out about everything that gets added here by receiving my monthly e
       <pubDate>Mon, 10 Dec 2018 14:31:50 +0100</pubDate>
       
       <guid>https://ferrucc.io/about/</guid>
-      <description>Hello my name is Ferruccio Balestreri.
-I come from Milan, Italy and I write code, design and write blog posts.
-My favorite programming language is Clojure. If you&amp;rsquo;re interested in learning it start from here.
+      <description>I&amp;rsquo;m Ferruccio Balestreri.
+I come from Milan and live in Dublin.
+I write code, design and write blog posts.
+My favorite tool on the job is Clojure, but I don&amp;rsquo;t get to use it much professionally.
+If you&amp;rsquo;re interested in learning it start from here.
 Over the years I&amp;rsquo;ve made so many projects that I&amp;rsquo;ve lost count. In this website you can find some articles on what I&amp;rsquo;ve learned.
 I&amp;rsquo;m actively collecting a list of useful resources that I take inspiration from and you can find it here.</description>
     </item>
