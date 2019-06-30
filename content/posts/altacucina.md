@@ -5,9 +5,9 @@ featured_image: "/altacucina/altacucina-thumb.png"
 draft: false
 ---
 
-This is a roundup of my experience as a 👨🏻‍🍳 Chef Technology Officer, building the tech side of Al.ta Cucina, the fastest growing recipe site in Italy!
+This is a roundup of my experience as a 👨🏻‍🍳 Chef Technology Officer, building the tech side of [Al.ta Cucina](https://altacucina.co), the fastest growing recipe site in Italy!
 
-In two months we went from idea 💡, to product:
+In two months we went from idea 💡, to [product](https://altacucina.co):
 
 ![](/altacucina/site.png)
 
