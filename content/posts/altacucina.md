@@ -39,13 +39,15 @@ I like challenges so I tell the guys to give me a “trial week” and that in o
 
 On day one I draw down the data models, think about the simplest architecture.
 
-I had experience with Python and Django. I also had a great experience building things with NextJS (great for SEO and overall speed of development).
+I already had some experience with Python and Django and loved the admin panel and boilerplate it comes with. I also had a great experience building things with NextJS (great for SEO and overall speed and simplicity of development).
 
-It’s also easy to teach Python to anyone that will come after me.
+It’s also easy to teach Python or Javascript to anyone that will come after me.
 
 So I break down things in tasks, load them to Trello and start basic repositories to get v0.0001 up and running.
 
-After that it’s time to build a small, but great team of developers.
+For easy deployment I decided to go with [Render](https://render.com), an alternative to Heroku that has a fair pricing and easily lets you run and scale any app you want.
+
+After having something up and running it was time to build a small and great team of developers.
 
 I contacted a couple of really smart friends, but everyone was busy, so decided to start interviewing some contractors on Upwork.
 
