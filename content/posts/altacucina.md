@@ -153,7 +153,7 @@ I found that a team of 4 great developers, with me bridging the gaps and filling
 
 ## Finding a good replacement for myself
 
-Around the same time I started working on Al.ta Cucina I also accepted an offer from [Intercom](https://intercom.com), to move to Dublin and work as a product engineer.
+Around the same time I started working on Al.ta Cucina I also accepted an offer to move to Dublin and work as a product engineer.
 
 I made this very clear with Simone and Alessandro, so we all had this <3 month deadline to find another Ferruccio.
 
