@@ -1,6 +1,6 @@
 ---
 title: "From idea to 100k uniques per week in two months"
-date: 2019-06-25T20:06:19+01:00
+date: 2019-06-30T15:06:19+01:00
 featured_image: "/altacucina/altacucina-thumb.png"
 draft: false
 ---
