@@ -17,9 +17,11 @@ In two months we went from idea 💡, to [product](https://altacucina.co):
 
 ### The Story
 
-April 15th. I just finished interviewing for a bunch of tech companies to move away from Italy.
+April 15th.
 
-Trying to figure out where I want to go and what I want to do next.
+I just finished interviewing for a bunch of tech companies to move away from Italy.
+
+I'm trying to figure out where I want to go and what I want to do next.
 
 I hit up my friend Simone and ask him “How’s your CTO hunt moving forward?”
 
