@@ -1,24 +1,37 @@
 ---
 title: "From idea to 100k uniques per week in two months"
 date: 2019-06-25T20:06:19+01:00
-draft: true
+featured_image: "/altacucina/altacucina-thumb.png"
+draft: false
 ---
 
-This is a roundup of my experience as a 👨🏻‍🍳 Chef Technology Officer
+This is a roundup of my experience as a 👨🏻‍🍳 Chef Technology Officer, building the tech side of Al.ta Cucina, the fastest growing recipe site in Italy!
 
-April 15th. I just finished interviewing for a bunch of tech companies.
+In two months we went from idea 💡, to product:
 
-Trying to figure out where I want to go and what I want to do.
+![](/altacucina/site.png)
+
+![](/altacucina/recipe-view.gif)
+
+![](/altacucina/step-by-step.gif)
+
+### The Story
+
+April 15th. I just finished interviewing for a bunch of tech companies to move away from Italy.
+
+Trying to figure out where I want to go and what I want to do next.
 
 I hit up my friend Simone and ask him “How’s your CTO hunt moving forward?”
 
-Simone and his cofounder Alessandro built over the course of 3 years a community of 3 million Italian food lovers. After raising a seed round they now had to try to build their own platform and bring their community on it.
+Simone and his co-founder Alessandro built over the course of 3 years a community of 3 million Italian food lovers. After raising a seed round they now had to try to build their own platform and bring their community on it.
+
+![](/altacucina/alta-banner.png)
 
 So we’re at their office, talking looking at their applicants CVs and sifting through all their proposals on how to implement their ideas.
 
-I look at the budgets to build the MVP and timeframes and tell Alessandro: 
+I look at the budgets to build the MVP and time frames for development and tell Alessandro: 
 
-“This is insane! I can do this with 1/6th of the budget in 1/6th of the budget” 
+> “This is insane! I can do this with 1/6th of the budget in 1/6th of the budget” 
 
 I like challenges so I tell the guys to give me a “trial week” and that in one month I’d have an MVP ready.
 
@@ -57,46 +70,57 @@ Here’s the job description we wrote for the backend job posting:
     
  >   Reach out if you're a hungry and motivated developer. If you are ready to take initiative and share your crazy ideas with our team and build a product that will be used by millions!
 
->    Eat pasta, ship faster!
+>    Eat pasta, ship fasta!
 >    Join us now
 
 ## How did I screen people?
 Github profile link. 
 
-## Empty profile or no personal projects?
-Heavy next.
+## What if they had an empty profile or no personal projects?
+Skipped to next applicant.
 
 ## How did I pick people?
-I opened these people’s Github and looked at code asking myself “am I learning something reading this code?” and “is the experience on a similar tech stack?”
+I opened these people’s Github and looked at code asking myself “Am I learning something reading this code?” and “Is the experience on a similar tech stack?”
 
 On day one we hired the frontend developer and a backend developer.
 
 My only rule and requirement for day one was, whatever happens, push something to the repository on day one (even something small like an improvement on the readme).
 
-One of the two developers (the backend guy) didn’t deliver on this, so we let him go. So I spent more time finding a good fit fo the project and hired a replacement on day 2.
+The strict time requirements required us to be ruthless with this.
+
+One of the two developers (the backend guy) didn’t deliver on this, so we let him go.
 
 I don’t think this is by any means a great way to evaluate people, but I also didn’t care about evaluating people. I only wanted to be sure I didn’t make a bad hiring decision, limiting risk.
 
-## Lesson Learned: The time spent finding the best fit for the project has a 10x effect on productivity.
+## Lesson Learned: When on the other side of the deal (contracting) don't take things personally
 
-After 2 days I didn’t have to juggle anymore between hiring, developing, architecting and managing people.
+After 3 days I didn’t have to juggle anymore between hiring, developing, architecting and managing people.
 
-One month of work passed quite quickly and we managed to have a “launch” ready version on the exact day I had predicted!
+We created a very simple workflow:
+
+**Everyone first thing of the day had to post on our #general Slack channel what they did in the previous day and what they expected to get done in the following day.**
+
+A month of work passed quite quickly and we managed to have a “launch” ready version on the exact day I had predicted!
 
 The night before of our launch, we all went for dinner with our friends from [Superlinear](https://superlinear.co/). Fortunately or unfortunately we found out from them that we had made a terrible mistake!
 
 We were using GIFs to show step by step recipes, but by using compressed .mp4 and .webm videos we could’ve cut the size of media files by 10x. While gaining more control over looping and autoplay of recipe steps.
 
-So we decided to delay launch by 3 days. In 2 days we managed to get a worker up and running compressing and generating all the video types we needed, create a custom video player and deploy!
+So we decided to delay launch by 3 days. In 2 days we managed to get a worker up and running compressing and generating all the video types we needed, create a custom video on the frontend player and deploy!
 
-Unsurprisingly, the biggest trouble we had was with CSS and Html.. It turns out that autoplay of videos on iOS Safari is extremely tricky to implement and test!
+Unsurprisingly, the biggest trouble we had was with CSS and HTML.. It turns out that autoplay of videos on iOS Safari is extremely tricky to implement and test!
 
-## Lesson Learned: Never use GIFs
-#### Not even Giphy uses them anymore, autoplay muted .mp4 or .webm videos. Also always talk about your projects and work to get advice.
+## Lesson Learned: Never use GIFs for serious projects
 
-How can you squeeze out maximum productivity from developers
+#### Not even Giphy uses them anymore, autoplay muted .mp4 or .webm videos.
 
-As this was a short term “rush” project, my goal was to squeeze out the maximum results from myself and everyone involved with the product.
+## Lesson Learned: Safari sucks, test things on it, they will break.
+
+## Extra Lesson: Also always talk about your projects with friends to get advice.
+
+How can you squeeze out maximum productivity from developers.
+
+As this was a short term rushed project, my goal was to squeeze out the maximum results from myself and everyone involved with the product.
 
 If I had to build a team for the longer term I would’ve probably not cared about the programming languages the developers I hired had experience in.
 
@@ -115,7 +139,7 @@ From my previous experiences I tried to list out what were the biggest bottlenec
 
 Over time we also added peer (or external) review to code.
 
-I also specifically told everyone during onboarding that my role, other than being a collaborator, was to get rid of any blockers. 
+I also specifically told everyone during onboarding that my role, other than being a collaborator and coworker, was to get rid of any blockers. 
 
 **So stuck on a dumb bug?** Happy to help.
 
@@ -123,7 +147,7 @@ I also specifically told everyone during onboarding that my role, other than bei
 
 ## Growing the team
 
-After two weeks I also felt a bit cocky about how things were going, so I decided to hire two more developers. One developer would start the iOS app, and another one would work on the frontend, completing the React implementation of our Design System and focusing on reusability of our components.
+After two weeks I also felt very confident about how things were going, so I decided to hire two more developers. One developer would start the iOS app, and another one would work on the frontend, completing the React implementation of our Design System and focusing solely on the reusability of our components.
 
 I found that a team of 4 great developers, with me bridging the gaps and filling any need that comes up to be extremely efficient. Adding any other developers would have had diminished returns.
 
@@ -137,9 +161,11 @@ I reached out to my contacts to find possible candidates and found a smart frien
 
 Simone also found an acquaintance that wanted to move back to Milan.
 
-He also ran a Linkedin job post ad that led us to find some candidates, but only one had skills and experience that matched the ones of our two other candidates.
+He also ran a Linkedin job post ad that led us to find some candidates.
 
-To make a hiring decision we created a tailored and very informal interview process to help us answer the following questions about each candidate:
+We also tried to post an ad on Stackoverflow, but after having a call with their sales team, we decided it wasn't worth the money for us.
+
+To make a hiring decision we created a very informal and flexible interview process to help us answer the following questions about each candidate:
 
 - Has strong technical skills?
 - Is a good product manager?
@@ -150,49 +176,49 @@ To make a hiring decision we created a tailored and very informal interview proc
 - Are they proactive?
 - Are they a good cultural fit with the company?
 
-Depending on the background of each person we tried to find ways to break through the “interview” mask and find answers.
+Depending on the background of each person we tried to find ways to break through the “interview facade” and find the real answers.
 
-With one person I pair programmed, with one I created an assignment and the other one I came up with a tricky a coding puzzle.
+For instance, with one person I pair programmed, with one I created an assignment and the other one I came up with a tricky a coding puzzle etc...
 
 I also prepared some questions on the thought process and heuristics they use to translate data and requirements in product decisions.
-
-After scoring each candidate I sent a message to Alessandro and Simone with my opinion.
-
-They then made their mind up and made an offer to the person they thought was the best fit.
 
 ## Being Creative
 
 Simone’s background is a creative one.
 
-He used to be a creative for Anomaly coming up with crazy ideas for the biggest brands in the world.
+He used to be a creative for [Anomaly](https://anomaly.com) coming up with crazy ideas for the biggest brands in the world.
 
 I am a bit of a creative person too. But being exposed every day at the office to his insanely cool ideas was priceless!
 
-I think that working with someone like him really levels up your output.
+I think that working with someone like him really levels up your creative output.
+
+I found myself thinking a lot about what makes a creative idea, creative.
 
 Creative ideas are about realizing what everyone else is doing, finding a pattern and then doing the exact opposite.
 
-Other ideas come from breaking down words and looking at their actual meaning. 
+Other ideas come from breaking down words and looking at their actual meaning.
 
-This leads you to our cookie policy “free cookies for all” (actually sending cookies to people).
+An example of this leads you to our cookie policy “free cookies for all” (actually sending cookies to people).
 
-Or to moonshot, dreamed up collaborations, that with a cold mail can turn into reality.
+Or to moonshot, dreamed up collaborations, that with a some cold emails can turn into reality.
 
 Creativity is hard to define though.
 
-In fact creative ideas can only be defined via negativa.
+In fact my conclusion is that creative ideas can only be defined via negativa.
 
 Most ideas are derivative from other ideas.
 
 **Creative ideas are the non derivative ones.**
 
+Most non derivative ideas though are also bad ideas, so the sweet spot is finding something non derivative, but effective.
 
 ## Results
 
 I could spend a couple of days writing about the many things I learned working with this team, but I’ll cut things short and summarise results.
 
 Unique users from my start to my departure:
-**297,545**
+
+**410.000**
 
 Best day in terms of unique users:
 **25,883**
@@ -200,8 +226,19 @@ Best day in terms of unique users:
 Avg. Session Time:
 **1 minute 15 seconds**
 
+Uniques in the last 30 days:
+
+![](/altacucina/30-days.png)
+
+Uniques in the last 7 days:
+
+![](/altacucina/7-days.png)
+
 Expenses compared to estimates by other developers and agencies:
 **85% Less**
+
+iOS App state:
+**App is on TestFlight and being actively tested, hopefully will do the launch to the public in September (it smakes no sense to launch MVPs on App Store)**
 
 A win? **A win**
 
@@ -225,10 +262,12 @@ I now unlocked a new achievement:
 
 ✅ **100.000 people per week**
 
-Overall, this was a great adventure, but I just got off for a new one. 
+Overall, this was a great adventure, and I just got off for a new one. 
 
-Joining the lovely people at [Intercom](https://intercom.com)! 
+![](/altacucina/new-adventure.png)
 
-Hopefully I'll be shipping something to millions of end users before Altacucina does!
+Joining the lovely people at [Intercom](https://intercom.com)!
 
-Let’s see how much time it will take to win the next (and last) 3 levels.
+### Er Mejo Deve Ancora Arrivà
+![](/altacucina/er-mejo.jpg)
+*The best is yet to come (in Roman Dialect), a gift from [Simone](https://twitter.com/SimoneMascagni) & Alessandro*
