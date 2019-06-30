@@ -216,6 +216,10 @@ Most non derivative ideas though are also bad ideas, so the sweet spot is findin
 
 I could spend a couple of days writing about the many things I learned working with this team, but I’ll cut things short and summarise results.
 
+I had tons of fun and made friends with a great team:
+
+![Our Team](/altacucina/team.jpg)
+
 Unique users from my start to my departure:
 
 **410.000**
@@ -266,8 +270,8 @@ Overall, this was a great adventure, and I just got off for a new one.
 
 ![](/altacucina/new-adventure.png)
 
-Joining the lovely people at [Intercom](https://intercom.com)!
+Joining the most friendly people ever at [Intercom](https://intercom.com)!
 
 ### Er Mejo Deve Ancora Arrivà
 ![](/altacucina/er-mejo.jpg)
-*The best is yet to come (in Roman Dialect), a gift from [Simone](https://twitter.com/SimoneMascagni) & Alessandro*
+*The best is yet to come (in Roman Dialect), a gift, and reminder from [Simone](https://twitter.com/SimoneMascagni) & Alessandro*
