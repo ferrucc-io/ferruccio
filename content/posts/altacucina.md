@@ -31,7 +31,7 @@ So we’re at their office, talking looking at their applicants CVs and sifting 
 
 I look at the budgets to build the MVP and time frames for development and tell Alessandro: 
 
-> “This is insane! I can do this with 1/6th of the budget in 1/6th of the budget” 
+> “This is insane! I can do this with 1/6th of the budget in 1/6th of the time” 
 
 I like challenges so I tell the guys to give me a “trial week” and that in one month I’d have an MVP ready.
 
@@ -274,6 +274,9 @@ Overall, this was a great adventure, and I just got off for a new one.
 
 Joining the most friendly people ever at [Intercom](https://intercom.com)!
 
+Want to join the Al.ta Cucina team? Get in touch with simone at altacucina.co
+
 ### Er Mejo Deve Ancora Arrivà
 ![](/altacucina/er-mejo.jpg)
+
 *The best is yet to come (in Roman Dialect), a gift, and reminder from [Simone](https://twitter.com/SimoneMascagni) & Alessandro*
