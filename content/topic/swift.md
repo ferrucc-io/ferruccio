@@ -14,3 +14,12 @@ func sendMessage (text: String, user: User) -> (Result) {
     return res
 }
 ```
+
+What I found a bit counter intuitive was variable declaration which works in the following way:
+
+```swift
+// for variables
+var text : String = "a string of text"
+// for constants
+let number : Int = 21
+```
