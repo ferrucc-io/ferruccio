@@ -1,0 +1,3 @@
+[submodule "themes/ferruccio"]
+	path = themes/ferruccio
+	url = https://github.com/ferrucc-io/hugo-theme
