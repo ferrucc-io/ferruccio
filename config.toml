@@ -9,3 +9,8 @@ theme = "ferruccio"
 publishDir = "docs"
 enableRobotsTXT = true
 HUGO_ENV="production"
+
+[params]
+    twitterHandle="0xferruccio"
+    socialLink="https://twitter.com/0xferruccio"
+    socialMedia="twitter"
