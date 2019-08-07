@@ -583,7 +583,7 @@ a.project-social-icon-link{
     <div class="project">
         <div class="project-preview">
             <div class="project-content-container">
-                <a class="project-title-link" href="https://kit.st">
+                <a class="project-title-link" href="https://creatorsneverdie.com">
                   <h3 class="project-title">Creators Never Die</h3>
                 </a>
                 <div class="project-description">
@@ -624,7 +624,7 @@ a.project-social-icon-link{
                   <h3 class="project-title">Venchi</h3>
                 </a>
                 <div class="project-description">
-                    As soon as I turned 16 I got my first job selling and making Ice Cream in London
+                    As soon as I turned 16 I got my first job selling and making gelato in London
                 </div>
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">Summer 2014</div>
