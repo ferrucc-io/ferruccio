@@ -1,5 +1,5 @@
 ---
-title: "Company Size"
+title: "What's your company size?"
 date: 2019-08-25T17:53:51+01:00
 draft: true
 ---
@@ -45,13 +45,57 @@ Here's a table showing all the different "critical points".
 | 📦  Size Name     |  | 👥  Employee Count |  | 🕸  Number of Layers  |
 | :-------------:|---|:-------------: |---| :----------------------:|
 | Solo   ||  1-8  ||  1 |
-| Small  || 8-64 || 2 |
-| Medium  || 64-512 || 3 |
-| Large || 512-4096 || 4  |
+| Small Enterprise  || 8-64 || 2 |
+| Mid Market Enterprise  || 64-512 || 3 |
+| Large Enterprise || 512-4096 || 4  |
 |  Mega Corp ||   4096-32768  ||  5  |
 
 
 At each point we add a new layer of bureaucracy.
+
+# Solo
+
+I have some experience in early stage companies and wrote a [blog post](/altacucina) about my most recent one.
+
+Here is the best part of it:
+
+* Direct Communication with the leaders
+* You go from idea to feature in a couple of hours
+* No one thinks about career or anything like that, if the company succeeds you know you'll do alright
+* No part of the development process is not your responsibility
+
+Here are the worst things:
+
+* You lose track of time because of work (forget meals, sleep and physical activity). Every hour of every day is work.
+* You don't have much guidance or someone to look up to (which is also a good thing)
+* It's quite stressful
+
+add X experience of someone else
+
+## Small Enterprise
+
+I don't have direct experience with companies of this size, but talked with Jean Elie about this and these are some key notes from our conversation on 🇫🇷 French startups.
+
+The organization is mostly flat, but you have some tech leads
+
+
+## Mid Market Enterprise
+
+
+![](/company-size/team.png)
+
+Figma
+
+Large Enterprise
+
+Jon Luca Pinterest
+Find someone @ spotify
+Find someone @ netflix
+
+Mega Corp
+
+Jon Luca G and Apple. Someone at MS
+AWS?
 
 In scaleup phase:
 
@@ -59,7 +103,7 @@ French startups
 
 Engineer entered for most Saas companies
 
-Sales first orgs engineers would just crunch through work
+Sales first orgs engineers would crunch through work
 
 Planning
 
@@ -69,11 +113,13 @@ Mostly flat, but you have some tech leads
 
 Engineers specialized on specific features already
 
-Not many meetings at this stage, not many designers. PM was doing most of design. Freelance designer and using it 1-2 years without hiring someone else.
+Few meetings at this stage. Designers are generally a scarce resource at this point. 
 
-After 50-60 engineers, one real designer
+PMs did most of design. The company hired a freelance designer . 
 
-Getting one design system and using it forever
+Kept using his work and design system 1-2 years without hiring someone else.
+
+After 50-60 engineers, they finally hired one real designer
 
 Collaboration between engineers
 
