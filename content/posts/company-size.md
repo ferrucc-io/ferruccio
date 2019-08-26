@@ -76,7 +76,7 @@ add X experience of someone else
 
 I don't have direct experience with companies of this size, but talked with Jean Elie about this and these are some key notes from our conversation on 🇫🇷 French startups.
 
-The organization is mostly flat, but you have some tech leads
+The organization is mostly flat, but you have some tech leads.
 
 
 ## Mid Market Enterprise
