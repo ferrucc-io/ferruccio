@@ -4,17 +4,11 @@ date: 2019-08-25T17:53:51+01:00
 draft: true
 ---
 
-Software at Scale
-
-How teams build software at different scales
-
-An engineer's quest to find the right company size
-
-What's your company size? 
+## An engineer's quest to find the right company size
 
 The best proxy to understand what kind of work a software engineer will do is company size.
 
-So before looking for work opportunities ICs have to understand where they belong.
+So before looking for work opportunities it's worth spending time understanding where does one belong.
 
 Not doing this will result in getting positions that aren't a good fit. 
 
@@ -22,7 +16,7 @@ Leading to bad morale, poor performance or unhappiness.
 
 There aren't many resources to figure out what to expect from positions, so I decided to put together a guide.
 
-Teams
+## Teams
 
 Let's start small.
 
@@ -34,13 +28,15 @@ When you reach the 10-16 people mark its starts to get a bit harder to have in m
 
 At this point teams are split in groups, with managers, that start reporting to C-Level.
 
-The next level
+### The next level
 
 As soon as you have 8-10 Managers it becomes harder for leadership to understand what's going on.
 
 So another layer gets introduced.
 
-Here's a table showing all the different "critical points".
+Every time an organization adds a layer, we have a *critical point*.
+
+Here's a table showing a breakdown of when this happens:
 
 | 📦  Size Name     |  | 👥  Employee Count |  | 🕸  Number of Layers  |
 | :-------------:|---|:-------------: |---| :----------------------:|
