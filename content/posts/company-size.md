@@ -70,9 +70,34 @@ add X experience of someone else
 
 ## Small Enterprise
 
-I don't have direct experience with companies of this size, but talked with Jean Elie about this and these are some key notes from our conversation on 🇫🇷 French startups.
+I don't have direct experience with companies of this size, but talked with engineers at Brex and Payfit about this and these are some key notes from our conversations.
+
+### PayFit
 
 The organization is mostly flat, but you have some tech leads.
+
+When starting out there were around 50 employees and no real leadership. If you were working on something that touched someone else's code you'd just sit at their same table for the day.
+
+At this stage there weren't almost any meetings. There weren't any designers at the company, so PMs were doing design work based off of a design system that a freelance designer had made.
+
+Not much planning at this stage, whatever it takes to finish this feature, we’ll do.
+
+No one was really thinking about career. If things work out, everyone knows that they'll be in a good place. They’re taking a bet!
+
+
+### Brex
+
+~60 Engineers
+
+Michael works as a software engineer on the Onboard and Engage team, which mostly does backend product work, like dealing with compliance and onboarding experience, rewards and customer engagement (e.g. email campaigns)
+
+His team currently is composed of 4 full-stack engineers, 1 front-end engineer shared across 2 teams, 1 eng manager, 1 PM, 1 designer shared across 3 teams.
+
+On average in his work day he has around 2 meetings excluding standup.
+
+Once a month he gets semi structured feedback and twice a year he has to go through the whole performance review process.
+
+Engineering levels aren't public and he doesn't know his own.
 
 
 ## Mid Market Enterprise
@@ -80,15 +105,15 @@ The organization is mostly flat, but you have some tech leads.
 
 ![](/company-size/team.png)
 
-Figma
+### Figma
 
-Large Enterprise
+## Large Enterprise
 
 Jon Luca Pinterest
 Find someone @ spotify
 Find someone @ netflix
 
-Mega Corp
+## Mega Corp
 
 Jon Luca G and Apple. Someone at MS
 AWS?
