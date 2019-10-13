@@ -92,7 +92,7 @@ War and foreign politics look a lot like Go.
 
 In the sense that a winning approach is probabilistic.
 
-The determinism of Chess instead makes it a bad metaphor of the real world.
+The determinism of Chess makes it a bad metaphor of the real world.
 
 Americans think about conflict in a way that is more similar to chess.
 
