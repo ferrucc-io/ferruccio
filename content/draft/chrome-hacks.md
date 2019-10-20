@@ -15,7 +15,7 @@ After looking into my RescueTime activity I realised I spend around 50% of my ti
 3 - My tricks might turn out to be useful to you
 4 - I might be missing out on something
 
-## Developer Shortcuts
+## Basic Shortcuts
 
 | | Command |  Shortcut      |
 | :-------------: | :------------- |  :-------------: | 
