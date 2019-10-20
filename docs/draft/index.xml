@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drafts on ferrucc.io</title>
+    <link>https://ferrucc.io/draft/</link>
+    <description>Recent content in Drafts on ferrucc.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2019 21:42:44 +0100</lastBuildDate>
+    
+	<atom:link href="https://ferrucc.io/draft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go, Chess - East, West</title>
+      <link>https://ferrucc.io/draft/go-and-chess/</link>
+      <pubDate>Sun, 13 Oct 2019 21:42:44 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/draft/go-and-chess/</guid>
+      <description>Board games shape the concept of conflict in the western world and China.
+Let&amp;rsquo;s start with two photos:
+Who won?
+Try and guess who won in the two games.
+In the first picture, even if you don&amp;rsquo;t understand the game you can guess who won.
+You can tell that the white is smashing the black into a corner.
+And has more pieces in play.
+Chess is a game based on domination.</description>
+    </item>
+    
+  </channel>
+</rss>

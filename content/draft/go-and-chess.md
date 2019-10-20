@@ -1,7 +1,7 @@
 ---
 title: "Go, Chess - East, West"
 date: 2019-10-13T21:42:44+01:00
-draft: true
+draft: false
 featured_image: "/go-and-chess/taiwhat.png"
 ---
 
@@ -78,7 +78,7 @@ In [1979](https://en.wikipedia.org/wiki/Taiwan_Relations_Act) the US stopped off
 
 Today any country that recognizes Taiwan automatically ends their diplomatic relations with China.
 
-And as this doesn't happen Taiwan finds itself..
+So Taiwan finds itself..
 
 Slowly encircled!
 
@@ -102,8 +102,6 @@ As Kissinger says in his book "On China"
 
 > “Chess produces single-mindedness; wei qi generates strategic flexibility.”
 
-There's no such a thing as a good deal if you don't consider the long term consequences.
-
 —
 
 ## Further readings
@@ -122,4 +120,4 @@ and recent examples like the NBA scandal
 
 —
 
-Special thanks to Niall Moore
+Special thanks to Niall Moore, Tom McCarthy..
