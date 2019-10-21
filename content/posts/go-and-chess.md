@@ -5,7 +5,7 @@ draft: false
 featured_image: "/go-and-chess/taiwhat.png"
 ---
 
-Board games shape the concept of conflict in the western world and China.
+How two board games shape the concept of conflict in the western world and China.
 
 Let's start with two photos:
 
