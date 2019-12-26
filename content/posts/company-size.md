@@ -4,6 +4,34 @@ date: 2019-08-25T17:53:51+01:00
 draft: true
 ---
 
+
+You’ve got 4 offers from four companies at different stages.
+
+All offers have “Software Engineer” as a title. They even have the same requirements:
+You’ve got 4 offers from four companies at different stages.
+
+All offers have “Software Engineer” as a title. They even have the same requirements:
+
+* 2-4 years experience in a high level programming language 
+* Experience with modern frontend tooling
+* Experience with designing and scaling REST APIs
+* Experience with microservices based architectures
+* Looking for a self starter, that takes ownership of projects
+
+**Are these the same job?**
+
+**Which company should you pick?**
+
+There’s a lot of literature and blog posts around how to pass the job interviews, how to negotiate a great salary, but few people talk about the difference in what you’ll end up working on in the day to day.
+
+Depending on the scale of a company you'll have to solve different problems.
+
+The incentives and expectations on your output will also vary extremely.
+
+So the answer to “Are these the same job?” is no.
+
+The rest of the article will focus on answering "*Which company should you pick?".
+
 ## An engineer's quest to find the right company size
 
 The best proxy to understand what kind of work a software engineer will do is company size.
@@ -38,13 +66,13 @@ Every time an organization adds a layer, we have a *critical point*.
 
 Here's a table showing a breakdown of when this happens:
 
-| 📦  Size Name     |  | 👥  Employee Count |  | 🕸  Number of Layers  |
+| 📦  Size Name     |  | 👥  Engineer Count |  | 🕸  Number of Layers  |
 | :-------------:|---|:-------------: |---| :----------------------:|
 | Solo   ||  1-8  ||  1 |
 | Small Enterprise  || 8-64 || 2 |
 | Mid Market Enterprise  || 64-512 || 3 |
 | Large Enterprise || 512-4096 || 4  |
-|  Mega Corp ||   4096-32768  ||  5  |
+| Mega Corp ||   4096-32768  ||  5  |
 
 
 At each point we add a new layer of bureaucracy.
@@ -59,143 +87,72 @@ Here is the best part of it:
 * You go from idea to feature in a couple of hours
 * No one thinks about career or anything like that, if the company succeeds you know you'll do alright
 * No part of the development process is not your responsibility
+* You're innovating and building something new, you don't have a lot of bug fixing or maintenance work to do
+* You'll likely have to directly do some Customer Support work, which will increase your understanding and empathy with the problem you're solving for users.
 
 Here are the worst things:
 
-* You lose track of time because of work (forget meals, sleep and physical activity). Every hour of every day is work.
-* You don't have much guidance or someone to look up to (which is also a good thing)
+* Unless you're disciplined you lose track of time because of work (forget meals, sleep and physical activity). Every hour of every day is work.
+* You don't have much guidance or someone to look up to (which is also a good thing). You'll actively have to look for mentorship outwards.
 * It's quite stressful
 
-add X experience of someone else
+In this role you’ll make questionable choices around introducing new technologies you read about on Hacker News.
 
 ## Small Enterprise
 
-I don't have direct experience with companies of this size, but talked with engineers at Brex and Payfit about this and these are some key notes from our conversations.
+I don't have direct experience with companies of this size, but talked with around 20 engineers about this and these are some key notes from our conversations.
 
-### PayFit
+Here are the best parts of working at companies of this size:
 
-The organization is mostly flat, but you have some tech leads.
+* Leadership can still have a clear vision of what's going on
+* There aren't many meetings at this stage and you know everyone in the office by name and know what they're working on
+* Things are structured enough for long term planning
+* The distance between your work and measurable outcomes is still very small
 
-When starting out there were around 50 employees and no real leadership. If you were working on something that touched someone else's code you'd just sit at their same table for the day.
+Here are the worst parts of working at companies at this size:
 
-At this stage there weren't almost any meetings. There weren't any designers at the company, so PMs were doing design work based off of a design system that a freelance designer had made.
+* Bad leaders might be still be micro-managing and making decisions they shouldn't be making
+* You won't have as much autonomy as you'd have in a smaller organization, and you won't have the resources and mentorship a structured company will have
+* You'll have to find role models on your own and learn from them.
 
-Not much planning at this stage, whatever it takes to finish this feature, we’ll do.
-
-No one was really thinking about career. If things work out, everyone knows that they'll be in a good place. They’re taking a bet!
-
-
-### Brex
-
-~60 Engineers
-
-Michael works as a software engineer on the Onboard and Engage team, which mostly does backend product work, like dealing with compliance and onboarding experience, rewards and customer engagement (e.g. email campaigns)
-
-His team currently is composed of 4 full-stack engineers, 1 front-end engineer shared across 2 teams, 1 eng manager, 1 PM, 1 designer shared across 3 teams.
-
-On average in his work day he has around 2 meetings excluding standup.
-
-Once a month he gets semi structured feedback and twice a year he has to go through the whole performance review process.
-
-Engineering levels aren't public and he doesn't know his own.
-
+Resource allocation becomes a problem here. You might have to share a designer or PM with other teams, but things are still flexible enough that you'll be able to do their job.
 
 ## Mid Market Enterprise
 
-
 ![](/company-size/team.png)
 
-### Figma
+At this stage there are three layers of management.
+
+This is the first stage of a company where work done on organizational design actually pays off.
+
+This is where leaderships that micromanage crash.
+
+There are is enough work going on for you to not know about big projects. 
+
+At this stage it becomes important for teams to have clear KPIs and missions. Ideally each team here should have an exciting end goal.
+
+The best parts of working at a company of this stage are:
+
+* Mentorship and support become a formal part of work
+* You start having the resources of a larger organization (eg. a content team that can help you define and refine your blog posts)
+* Your work starts to become highly specialized, you'll have to proactively find time and space to work on things that aren't your job
+
+The worst parts of working at a company of this stage are:
+
+* If the company is well staffed you won't be wearing many hats
+* A lot of energy will be spent on keeping up with what other teams are working on and coordinating
+* You might have to work on getting rid of a lot of technical debt and cleaning up bugs things that you don't fully understand! If risk isn't handled properly this can be highly stressful. This kind of work is also less rewarding than creating something new from the ground up.
+* You're likely not doing any customer support. In many cases you might not even use the product you work on a daily basis. You have to actively make an effort to get a better product vision and understanding, or be a code monkey (and perform poorly).
+
+If the organisation has a good engineering culture a lot of technical decisions will be made trying to reuse technologies that engineers are already familiar with. So you won't be working with the newest and shiniest tools.
 
 ## Large Enterprise
 
-Jon Luca Pinterest
-Find someone @ spotify
-Find someone @ netflix
+Working at a large enterprise the best parts will be:
+
+* You'll have a lot of benefits
+* Most of your life and interactions within the company have been designed and thought about
+* 
 
 ## Mega Corp
 
-Jon Luca G and Apple. Someone at MS
-AWS?
-
-In scaleup phase:
-
-French startups
-
-Engineer entered for most Saas companies
-
-Sales first orgs engineers would crunch through work
-
-Planning
-
-40 engineers in Saas companies
-
-Mostly flat, but you have some tech leads
-
-Engineers specialized on specific features already
-
-Few meetings at this stage. Designers are generally a scarce resource at this point. 
-
-PMs did most of design. The company hired a freelance designer . 
-
-Kept using his work and design system 1-2 years without hiring someone else.
-
-After 50-60 engineers, they finally hired one real designer
-
-Collaboration between engineers
-
-Spotify model (squads) group of people working on the same stuff
-
-2-3 years ago Netflix started mixing teams with Design / PM and Sales. Each team is like a small startup
-
-In Paris startups are not doing this yet.
-
-Not much planning, whatever it takes to finish this feature, we’ll do.
-
-Not really thinking about of career, but not too consciously. You’re taking a bet!
-
-200 eng
-
-A lot more meetings. Problems max 5 designers, you need to wait for designers to be available. Resource allocation becomes a problem.
-
-You start having hierarchies, between developers.
-
-More structure for work. You don’t have as much freedom.
-
-1 tech lead, 1 em , 2-3 eng, product manager (no designer)
-
-Performance reviews vary a lot among different styles of companies
-
-Transparently giving a raise to people
-
-Other companies to grades. What do you want to do to the next level
-
-This is a checklist of things you have to prove you’re able to do.
-
-1 
-
-What we really need and just do the minimal work necessary
-
- 
-
-Communication is always bad at a large scale
-
-1 manager 1 SW + shared PM
-
-1
-
-7 eng 
-
-2 PR a year
-
-10 people 1 EM
-
-10 EM
-
-1
-
-joel on software
-
-danluu
-
-a16z
