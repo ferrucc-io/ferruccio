@@ -6,10 +6,24 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2019 21:42:44 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 14:53:51 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What&#39;s your company size?</title>
+      <link>https://ferrucc.io/posts/company-size/</link>
+      <pubDate>Sat, 28 Dec 2019 14:53:51 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/posts/company-size/</guid>
+      <description>Let&#39;s say you&#39;re early in your Software Engineer career.
+You&#39;re a competent programmer looking for a change in working environment.
+You’ve got 4 offers from four companies at different stages.
+All offers have “Software Engineer” as a title.
+They even have the same job description:
+ 2-4 years experience in a high level programming language Experience with modern frontend tooling Experience with designing and scaling REST APIs Experience with microservices based architectures Looking for a self starter, that takes ownership of projects  Are these the same job?</description>
+    </item>
     
     <item>
       <title>Go, Chess - East, West</title>

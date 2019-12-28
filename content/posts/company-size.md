@@ -1,11 +1,13 @@
 ---
 title: "What's your company size?"
-date: 2019-08-25T17:53:51+01:00
-draft: true
+date: 2019-12-28T14:53:51+01:00
+draft: false
 featured_image: "/company-size/company-size-convo.png"
 ---
 
-Let's say you're two years in your Software Engineer career. Looking for a change in working environment.
+Let's say you're early in your Software Engineer career.
+
+You're a competent programmer looking for a change in working environment.
 
 You’ve got 4 offers from four companies at different stages.
 
@@ -41,7 +43,7 @@ So before looking for work opportunities it's worth spending time understanding 
 
 Not doing this will result in getting positions that aren't a good fit. 
 
-Leading to bad morale, poor performance or unhappiness.
+Leading to bad morale, poor performance and unhappiness.
 
 There aren't many resources to figure out what to expect from positions, so I decided to put together a guide.
 
@@ -82,6 +84,8 @@ Here's a table showing a breakdown of when this happens:
 
 At each point we add a new layer of bureaucracy.
 
+Bureaucracy means shittier communication and less nuance, but larger scale.
+
 ## Solo
 
 I have some experience in early stage companies and wrote a [blog post](/altacucina) about my most recent one.
@@ -104,11 +108,13 @@ Here are the worst things:
 
 In this role you’ll make questionable choices around introducing new technologies you read about on Hacker News.
 
+I once created a Rest API and called it using [GraphQL queries](https://www.apollographql.com/docs/link/links/rest/) 🤦‍♂️
+
 ## Small Enterprise
 
-I don't have direct experience with companies of this size, but talked with around 20 engineers about this and these are some key notes from our conversations.
+I have a lot less experience with companies of this size, but talked with around 10 engineers about this and these are some key notes from our conversations.
 
-Here are the best parts of working at companies of this size:
+The best parts of working at companies of this size:
 
 * Leadership can still have a clear vision of what's going on
 * There aren't many meetings at this stage and you know everyone in the office by name and know what they're working on
@@ -128,13 +134,13 @@ Resource allocation becomes a problem here. You might have to share a designer o
 
 At this stage there are three layers of management.
 
-This is the first stage of a company where work done on organizational design actually pays off.
+This is where work done on organizational design and culture starts to pay off.
 
 This is where leaderships that micromanage crash.
 
 There are is enough work going on for you to not know about big projects. 
 
-At this stage it becomes important for teams to have clear KPIs and missions. Ideally each team here should have an exciting end goal.
+It becomes important for teams to have clear KPIs and missions. Ideally each team here should have an exciting end goal.
 
 The best parts of working at a company of this stage are:
 
@@ -178,4 +184,8 @@ I set out to write this article by interviewing 40+ engineers at companies of al
 
 The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
 
-**Special thanks to everyone I've talked to when writing this post** 
+That being said depending on what stage you're at in your life, you can add this list of pros and cons when making a decision about what company you should join!
+
+If you have something you'd like to add feel free to reach out via email at "hi" at this domain. Or DM me on Twitter :)
+
+**Special thanks to everyone I've talked to when writing this** 
