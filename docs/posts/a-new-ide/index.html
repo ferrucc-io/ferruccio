@@ -27,7 +27,7 @@ if (!doNotTrack) {
     <meta name="twitter:image" content="https://ferrucc.io/a-new-ide/functions-not-files.png">
     <meta property="og:image" content="https://ferrucc.io/a-new-ide/functions-not-files.png">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.55.6" />
+    <meta name="generator" content="Hugo 0.60.1" />
     
     
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -50,21 +50,17 @@ if (!doNotTrack) {
 <meta property="og:description" content="Re-Imagining IDEs for functional programming. What happens when functions replace files and become the smallest unit of code." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ferrucc.io/posts/a-new-ide/" />
-<meta property="article:published_time" content="2018-12-21T20:43:10&#43;01:00"/>
-<meta property="article:modified_time" content="2018-12-21T20:43:10&#43;01:00"/>
-
+<meta property="article:published_time" content="2018-12-21T20:43:10+01:00" />
+<meta property="article:modified_time" content="2018-12-21T20:43:10+01:00" />
 <meta itemprop="name" content="A functional IDE for React">
 <meta itemprop="description" content="Re-Imagining IDEs for functional programming. What happens when functions replace files and become the smallest unit of code.">
-
-
 <meta itemprop="datePublished" content="2018-12-21T20:43:10&#43;01:00" />
 <meta itemprop="dateModified" content="2018-12-21T20:43:10&#43;01:00" />
 <meta itemprop="wordCount" content="963">
 
 
 
-<meta itemprop="keywords" content="" />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="A functional IDE for React"/>
 <meta name="twitter:description" content="Re-Imagining IDEs for functional programming. What happens when functions replace files and become the smallest unit of code."/>
 
@@ -120,124 +116,75 @@ if (!doNotTrack) {
       <time class="f6 mv4 dib tracked" datetime="2018-12-21T20:43:10&#43;01:00">December 21, 2018</time>
     </header>
 
-    <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img pr4-l w-two-thirds-l">
-
-<p>6 years ago this video came out.</p>
-
+    <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img pr4-l w-two-thirds-l"><p>6 years ago this video came out.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/H58-n7uldoU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/H58-n7uldoU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
 <p>At the time I couldn’t code yet.</p>
-
 <p>This concept is still mind blowing to me.</p>
-
-<p><img src="/a-new-ide/light-table.gif" alt="" /></p>
-
+<p><img src="/a-new-ide/light-table.gif" alt=""></p>
 <p>Up until now I always thought about code as a collection of files, connected through imports.</p>
-
-<p>But really we import functions, not files.<br />
-We use files to store code because they&rsquo;re a convenient way to serialize code. They&rsquo;re not the best representation, in fact functions might provide a better one.</p>
-
+<p>But really we import functions, not files.<br>
+We use files to store code because they're a convenient way to serialize code. They're not the best representation, in fact functions might provide a better one.</p>
 <p>As no IDEs think this way I decided to try and create a prototype for a <em>new</em> kind of IDE taking this idea as its guiding principle.</p>
-
-<p>This is not a new idea, but maybe in the past, it wasn&rsquo;t the right time for it.</p>
-
-<h2 id="here-s-my-concept-for-a-functional-text-editor">💡 Here&rsquo;s my concept for a functional text editor</h2>
-
-<p><img src="/a-new-ide/ide-mockup.png" alt="" /></p>
-
-<p><img src="/a-new-ide/add-function.png" alt="" /></p>
-
-<h2 id="taking-inspiration-from-the-past">🏛 Taking inspiration from the past</h2>
-
+<p>This is not a new idea, but maybe in the past, it wasn't the right time for it.</p>
+<h2 id="-heres-my-concept-for-a-functional-text-editor">💡 Here's my concept for a functional text editor</h2>
+<p><img src="/a-new-ide/ide-mockup.png" alt=""></p>
+<p><img src="/a-new-ide/add-function.png" alt=""></p>
+<h2 id="-taking-inspiration-from-the-past">🏛 Taking inspiration from the past</h2>
 <p>There are two people working on fundamentally different software development experiences, Bret Victor and Chris Granger, there are others too, but these two people have had an outsized impact on new ways of thinking about programming.</p>
-
 <p>Let’s focus on what Chris Granger has done in this space: <a href="http://lighttable.com/">Light Table</a> and <a href="http://witheve.com/">Eve</a>.</p>
-
 <ul>
 <li>Light Table: is an IDE that came before Atom/VS Code and Brackets.</li>
 <li>Eve: a programming language with an IDE that has a radically more human friendly approach to coding</li>
 </ul>
 
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/TWAMr72VaaU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/TWAMr72VaaU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
 <p>These two projects at the time of inception have definitely paved the way for something better than the current paradigm of files and folders to take hold.</p>
-
-<p>When Chris Granger first posted about Light Table on Hacker News a lot of people started saying that he wasn&rsquo;t inventing anything new..</p>
-
+<p>When Chris Granger first posted about Light Table on Hacker News a lot of people started saying that he wasn't inventing anything new..</p>
 <p>In &ldquo;<a href="http://www.chris-granger.com/2012/10/05/all-ideas-are-old-ideas/">All ideas are old ideas</a>&rdquo; Chris goes forward to say that Light Table is as much about rediscovering the past as about creating something for the future.</p>
-
-<p>I also found <a href="https://news.ycombinator.com/item?id=3837202">some insightful comments</a> providing additional ideas that still haven&rsquo;t been implemented in most workflows, that can be summed up with.</p>
-
+<p>I also found <a href="https://news.ycombinator.com/item?id=3837202">some insightful comments</a> providing additional ideas that still haven't been implemented in most workflows, that can be summed up with.</p>
 <ul>
 <li>The smallest unit of code is the function.</li>
 <li>Able to get instant feedback on code changes (results, app windows, graphics, other tools.</li>
 <li>Multiple editors with just one function in it. Show code in an &ldquo;area of concern&rdquo; not just in a file.</li>
 <li>Never have to look for documentation</li>
 </ul>
-
-<p>I removed an extra point which is &ldquo;<em>The coding environment can also show results, app windows, graphics, other tools.</em>&rdquo;. I&rsquo;ll skip this as I think it&rsquo;s okay to have a distinction between things like Jupyter Notebooks and IDEs for web development.</p>
-
-<p>With <a href="http://witheve.com/">Eve</a>, Chris Granger is trying to break this division and while I think it&rsquo;s a great idea, there&rsquo;s not much adoption.</p>
-
-<h2 id="𝑓-the-shift-from-files-to-functions">𝑓 The shift from files to functions</h2>
-
+<p>I removed an extra point which is &ldquo;<em>The coding environment can also show results, app windows, graphics, other tools.</em>&quot;. I'll skip this as I think it's okay to have a distinction between things like Jupyter Notebooks and IDEs for web development.</p>
+<p>With <a href="http://witheve.com/">Eve</a>, Chris Granger is trying to break this division and while I think it's a great idea, there's not much adoption.</p>
+<h2 id="-the-shift-from-files-to-functions">𝑓 The shift from files to functions</h2>
 <p>I think that VS Code at the moment is the best IDE experience out there so took some user experience cues from it and added this “functional view” of a project.</p>
-
 <p><strong>What is a “functional view”?</strong></p>
-
 <p>The idea is to treat functions like you would treat files and folders like files.</p>
-
 <p>Other than having a normal file view, one can create some boards that contain functions or full files.</p>
-
 <p>A killer application of this is in React.</p>
-
 <p>For React developers this would be great to have a quick overview of components.</p>
-
 <p>A standard for many React developers is to structure components in the following way:</p>
-
-<p><img src="/a-new-ide/file-structure.png" alt="" /></p>
-
+<p><img src="/a-new-ide/file-structure.png" alt=""></p>
 <p>An example use case would be creating a board with the component code, the styling, and the tests.</p>
-
-<p>Here&rsquo;s how it would look like:</p>
-
-<p><img src="/a-new-ide/react-example.png" alt="" /></p>
-
+<p>Here's how it would look like:</p>
+<p><img src="/a-new-ide/react-example.png" alt=""></p>
 <p>Taking cues from the list of points previously mentioned this JS development workflow would have the following traits:</p>
-
 <ul>
 <li>Embrace functions as a unit of code</li>
 <li>Instant rendering of changes with Hot Reloading</li>
 </ul>
-
 <p>The only missing point for a front end workflow is <strong>&ldquo;Never have to look for Documentation&rdquo;</strong>.</p>
-
-<p>This is a little challenging because across libraries at the moment there isn&rsquo;t a standard documentation format for each function.</p>
-
+<p>This is a little challenging because across libraries at the moment there isn't a standard documentation format for each function.</p>
 <p>For Clojure code where the documentation of functions is generally the function code, this is easy. It gets more tricky for React Components.</p>
-
-<p>I&rsquo;ll leave how to solve this problem to the collective imagination.</p>
-
-<p>I&rsquo;m curious to find out how people feel about this and if this makes any sense to build.</p>
-
-<h2 id="building-an-ide-from-scratch-is-a-ton-of-work">👷‍♂️ Building an IDE from scratch is a ton of work.</h2>
-
+<p>I'll leave how to solve this problem to the collective imagination.</p>
+<p>I'm curious to find out how people feel about this and if this makes any sense to build.</p>
+<h2 id="-building-an-ide-from-scratch-is-a-ton-of-work">👷‍♂️ Building an IDE from scratch is a ton of work.</h2>
 <p>After having this idea and creating a mockup concept of it I started asking myself the question:</p>
-
 <blockquote>
 <p><strong>How can I make this happen?</strong></p>
 </blockquote>
-
 <p>Creating an IDE from scratch there are the things you have to build, because users expect them:</p>
-
 <ul>
 <li>An extensible plugin system</li>
 <li>Code Highlighting</li>
@@ -250,29 +197,19 @@ We use files to store code because they&rsquo;re a convenient way to serialize c
 <li>REPL support</li>
 <li>Tooling for Debugging</li>
 </ul>
-
-<p>So it&rsquo;s not hard to figure out that starting from scratch is too much work for a solo developer with no external funding.</p>
-
+<p>So it's not hard to figure out that starting from scratch is too much work for a solo developer with no external funding.</p>
 <p><strong>The solution is clearly to build on top of existing solutions</strong></p>
-
 <p>The options I consider viable are:</p>
-
 <ul>
 <li><a href="https://atom.io"><strong>Atom</strong></a></li>
 <li><a href="https://code.visualstudio.com/"><strong>Visual Studio Code</strong></a></li>
 <li><a href="http://lighttable.com/"><strong>Light Table</strong></a></li>
 </ul>
-
 <p>Atom and VS Code have a good customization and plugin ecosystem, which is also well documented. So the IDE could be simply a plugin and a theme alongside existing tooling.</p>
-
-<p>Light Table is almost abandoned and half baked, but it&rsquo;s in ClojureScript, so the irrational part of me is drawn to it.</p>
-
-<h2 id="what-s-next">🔜 What&rsquo;s next?</h2>
-
-<p>I&rsquo;m going to reach out to as many developers as possible to measure how much interest there is for something like this.</p>
-
-<p>If you&rsquo;re interested in getting notified about what happens next you can either leave your email in the form under the post or email me at <em>[hi] @ th1s domain</em> with any feedback, or ideas for features or on how to make this happen.</p>
-
+<p>Light Table is almost abandoned and half baked, but it's in ClojureScript, so the irrational part of me is drawn to it.</p>
+<h2 id="-whats-next">🔜 What's next?</h2>
+<p>I'm going to reach out to as many developers as possible to measure how much interest there is for something like this.</p>
+<p>If you're interested in getting notified about what happens next you can either leave your email in the form under the post or email me at <em>[hi] @ th1s domain</em> with any feedback, or ideas for features or on how to make this happen.</p>
 <p><em>Special thanks to Sean Walker for reviewing this article and giving me the initial inspiration to write this</em></p>
 <ul class="pa0">
   
@@ -282,8 +219,8 @@ We use files to store code because they&rsquo;re a convenient way to serialize c
           method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
           novalidate>
           <div id="mc_embed_signup_scroll">
-            <h2>I write a Monthly email with the most interesting content on the internet</h2>
-            <h3>If you'd like to receive it subscribe here:</h3>
+            <h2>Would you like to keep in touch?</h2>
+            <h3>If you'd like to receive my monthly email update subscribe:</h3>
             <div class="mc-field-group">
               <label for="mce-FNAME" class="db fw6 lh-copy f6">Your Name </label>
               <input type="text" value="" name="FNAME" class="pa2 input-reset ba b--white bg-transparent hover-bg-white hover-black w-100 white" id="mce-FNAME">

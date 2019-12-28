@@ -2,15 +2,16 @@
 title: "What's your company size?"
 date: 2019-08-25T17:53:51+01:00
 draft: true
+featured_image: "/company-size/company-size-convo.png"
 ---
 
+Let's say you're two years in your Software Engineer career. Looking for a change in working environment.
 
 You’ve got 4 offers from four companies at different stages.
 
-All offers have “Software Engineer” as a title. They even have the same requirements:
-You’ve got 4 offers from four companies at different stages.
+All offers have “Software Engineer” as a title.
 
-All offers have “Software Engineer” as a title. They even have the same requirements:
+They even have the same job description:
 
 * 2-4 years experience in a high level programming language 
 * Experience with modern frontend tooling
@@ -20,7 +21,7 @@ All offers have “Software Engineer” as a title. They even have the same requ
 
 **Are these the same job?**
 
-**Which company should you pick?**
+**Which job should you pick?**
 
 There’s a lot of literature and blog posts around how to pass the job interviews, how to negotiate a great salary, but few people talk about the difference in what you’ll end up working on in the day to day.
 
@@ -56,6 +57,10 @@ When you reach the 10-16 people mark its starts to get a bit harder to have in m
 
 At this point teams are split in groups, with managers, that start reporting to C-Level.
 
+![](/company-size/team.png)
+
+*In some organisations the EM is more of a tech lead, and the PMs and Designers report to PM and Design managers*
+
 ### The next level
 
 As soon as you have 8-10 Managers it becomes harder for leadership to understand what's going on.
@@ -77,7 +82,7 @@ Here's a table showing a breakdown of when this happens:
 
 At each point we add a new layer of bureaucracy.
 
-# Solo
+## Solo
 
 I have some experience in early stage companies and wrote a [blog post](/altacucina) about my most recent one.
 
@@ -89,6 +94,7 @@ Here is the best part of it:
 * No part of the development process is not your responsibility
 * You're innovating and building something new, you don't have a lot of bug fixing or maintenance work to do
 * You'll likely have to directly do some Customer Support work, which will increase your understanding and empathy with the problem you're solving for users.
+* After interviewing you know who you'll be working with.
 
 Here are the worst things:
 
@@ -108,6 +114,7 @@ Here are the best parts of working at companies of this size:
 * There aren't many meetings at this stage and you know everyone in the office by name and know what they're working on
 * Things are structured enough for long term planning
 * The distance between your work and measurable outcomes is still very small
+* After interviewing you know who you'll be working with.
 
 Here are the worst parts of working at companies at this size:
 
@@ -118,8 +125,6 @@ Here are the worst parts of working at companies at this size:
 Resource allocation becomes a problem here. You might have to share a designer or PM with other teams, but things are still flexible enough that you'll be able to do their job.
 
 ## Mid Market Enterprise
-
-![](/company-size/team.png)
 
 At this stage there are three layers of management.
 
@@ -136,6 +141,7 @@ The best parts of working at a company of this stage are:
 * Mentorship and support become a formal part of work
 * You start having the resources of a larger organization (eg. a content team that can help you define and refine your blog posts)
 * Your work starts to become highly specialized, you'll have to proactively find time and space to work on things that aren't your job
+* You'll most likely have very relaxed working hours, so lots of free time and holidays to grow as a person
 
 The worst parts of working at a company of this stage are:
 
@@ -143,16 +149,33 @@ The worst parts of working at a company of this stage are:
 * A lot of energy will be spent on keeping up with what other teams are working on and coordinating
 * You might have to work on getting rid of a lot of technical debt and cleaning up bugs things that you don't fully understand! If risk isn't handled properly this can be highly stressful. This kind of work is also less rewarding than creating something new from the ground up.
 * You're likely not doing any customer support. In many cases you might not even use the product you work on a daily basis. You have to actively make an effort to get a better product vision and understanding, or be a code monkey (and perform poorly).
+* After interviewing many times you won't know who you'll be working with, so your perceptions on how the people are might be wrong
 
 If the organisation has a good engineering culture a lot of technical decisions will be made trying to reuse technologies that engineers are already familiar with. So you won't be working with the newest and shiniest tools.
 
-## Large Enterprise
+## Large Enterprise & Mega Corporations
+
+Currently I haven't had any interest or experience in working in an organisation like these, but I have many friends that work for companies like this.
 
 Working at a large enterprise the best parts will be:
 
 * You'll have a lot of benefits
 * Most of your life and interactions within the company have been designed and thought about
-* 
+* As the organisation is mature, and few people actually care about the company your working hours will be relaxed
 
-## Mega Corp
+The worst part will be:
 
+* Everything you do at work as about "impact", and the only thing that counts is your performance review. There's no human side of things.
+* Your career path is planned from the top. If something is not within your title responsibilities you won't get the opportunity to pursue it. Or if you are, you won't get much credit for it.
+* You have no idea of who your customers are, the only way you can understand the impact of your work will be reading data from dashboards.
+* People at the top reason about you as a fungible resource that can and will be reallocated and reorganised
+* The people that interviewed you aren't the ones you'll work with on a day to day basis, so the risk of ending up in a toxic environment are greater
+
+
+## Conclusion
+
+I set out to write this article by interviewing 40+ engineers at companies of all sizes.
+
+The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
+
+**Special thanks to everyone I've talked to when writing this post** 
