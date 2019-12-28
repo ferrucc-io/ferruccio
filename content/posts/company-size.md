@@ -2,6 +2,7 @@
 title: "What's your company size?"
 date: 2019-12-28T14:53:51+01:00
 draft: false
+description: "Depending on the scale of a company you'll have to solve different problems. Understand what size fits you the most!"
 featured_image: "/company-size/company-size-convo.png"
 ---
 
