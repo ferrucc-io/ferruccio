@@ -1,14 +1,22 @@
 ---
 title: "What's your company size?"
-date: 2019-12-28T14:53:51+01:00
+date: 2019-12-29T11:53:51+01:00
 draft: false
 description: "Depending on the scale of a company you'll have to solve different problems. Understand what size fits you the most!"
 featured_image: "/company-size/company-size-convo.png"
 ---
 
+> *I set out to write this article by interviewing 40+ engineers at companies of all sizes.*
+
+> *The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.*
+
+
+
 Let's say you're early in your Software Engineer career.
 
 You're a competent programmer looking for a change in working environment.
+
+There aren't many resources to figure out what to expect from positions, so I decided to put together a guide.
 
 You’ve got 4 offers from four companies at different stages.
 
@@ -25,6 +33,8 @@ They even have the same job description:
 **Are these the same job?**
 
 **Which job should you pick?**
+
+{{< tweet 1165639344197160961 >}}
 
 There’s a lot of literature and blog posts around how to pass the job interviews, how to negotiate a great salary, but few people talk about the difference in what you’ll end up working on in the day to day.
 
@@ -45,8 +55,6 @@ So before looking for work opportunities it's worth spending time understanding 
 Not doing this will result in getting positions that aren't a good fit. 
 
 Leading to bad morale, poor performance and unhappiness.
-
-There aren't many resources to figure out what to expect from positions, so I decided to put together a guide.
 
 ## Teams
 
@@ -88,6 +96,7 @@ At each point we add a new layer of bureaucracy.
 Bureaucracy means shittier communication and less nuance, but larger scale.
 
 ## Solo
+### Companies like [Render](https://render.com), [Tandem](https://tandem.chat) and [Al.ta Cucina](https://altacucina.co)
 
 I have some experience in early stage companies and wrote a [blog post](/altacucina) about my most recent one.
 
@@ -95,7 +104,7 @@ Here is the best part of it:
 
 * Direct Communication with the leaders
 * You go from idea to feature in a couple of hours
-* No one thinks about career or anything like that, if the company succeeds you know you'll do alright
+* There's political manoeuvring within the company. Very little careerism, people are just focused on doing their job well.
 * No part of the development process is not your responsibility
 * You're innovating and building something new, you don't have a lot of bug fixing or maintenance work to do
 * You'll likely have to directly do some Customer Support work, which will increase your understanding and empathy with the problem you're solving for users.
@@ -112,6 +121,7 @@ In this role you’ll make questionable choices around introducing new technolog
 I once created a Rest API and called it using [GraphQL queries](https://www.apollographql.com/docs/link/links/rest/) 🤦‍♂️
 
 ## Small Enterprise
+### Companies like [Notion](https://notion.so) and [Superhuman](https://superhuman.com)
 
 I have a lot less experience with companies of this size, but talked with around 10 engineers about this and these are some key notes from our conversations.
 
@@ -132,6 +142,7 @@ Here are the worst parts of working at companies at this size:
 Resource allocation becomes a problem here. You might have to share a designer or PM with other teams, but things are still flexible enough that you'll be able to do their job.
 
 ## Mid Market Enterprise
+### Companies like [Intercom](https://intercom.com) and [Brex](https://brex.com)
 
 At this stage there are three layers of management.
 
@@ -139,7 +150,7 @@ This is where work done on organizational design and culture starts to pay off.
 
 This is where leaderships that micromanage crash.
 
-There are is enough work going on for you to not know about big projects. 
+There is enough work going on for you to not know about big projects. 
 
 It becomes important for teams to have clear KPIs and missions. Ideally each team here should have an exciting end goal.
 
@@ -161,6 +172,7 @@ The worst parts of working at a company of this stage are:
 If the organisation has a good engineering culture a lot of technical decisions will be made trying to reuse technologies that engineers are already familiar with. So you won't be working with the newest and shiniest tools.
 
 ## Large Enterprise & Mega Corporations
+### Companies like Stripe and Pinterest
 
 Currently I haven't had any interest or experience in working in an organisation like these, but I have many friends that work for companies like this.
 
@@ -175,18 +187,17 @@ The worst part will be:
 * Everything you do at work as about "impact", and the only thing that counts is your performance review. There's no human side of things.
 * Your career path is planned from the top. If something is not within your title responsibilities you won't get the opportunity to pursue it. Or if you are, you won't get much credit for it.
 * You have no idea of who your customers are, the only way you can understand the impact of your work will be reading data from dashboards.
-* People at the top reason about you as a fungible resource that can and will be reallocated and reorganised
+* Leadership reasons about you as a fungible resource that can and will be reallocated and reorganised
 * The people that interviewed you aren't the ones you'll work with on a day to day basis, so the risk of ending up in a toxic environment are greater
+* As the stakes are high, your way of working will be extremely conservative and risk averse.
 
 
 ## Conclusion
 
-I set out to write this article by interviewing 40+ engineers at companies of all sizes.
+Depending on what stage you're at in your life, you can add this list of pros and cons when making a decision about what company you should join!
 
-The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
+That being said writing this sparked a personal interest in organizational design, so I'll likely follow up with a blog post on that!
 
-That being said depending on what stage you're at in your life, you can add this list of pros and cons when making a decision about what company you should join!
+If you have some constructive feedback, or some comments feel free to reach out via email at "hi" at this domain. Or DM me on Twitter :)
 
-If you have something you'd like to add feel free to reach out via email at "hi" at this domain. Or DM me on Twitter :)
-
-**Special thanks to everyone I've talked to when writing this** 
+**Special thanks to everyone I've talked to when writing this. To Tom McCarthy, Rory Hughes and Pietro Capece Galeota for reviewing drafts of this post.** 

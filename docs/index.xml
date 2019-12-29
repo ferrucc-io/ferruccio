@@ -6,7 +6,7 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Dec 2019 14:53:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 11:53:51 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,15 +14,14 @@
     <item>
       <title>What&#39;s your company size?</title>
       <link>https://ferrucc.io/posts/company-size/</link>
-      <pubDate>Sat, 28 Dec 2019 14:53:51 +0100</pubDate>
+      <pubDate>Sun, 29 Dec 2019 11:53:51 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/company-size/</guid>
-      <description>Let&#39;s say you&#39;re early in your Software Engineer career.
+      <description>I set out to write this article by interviewing 40+ engineers at companies of all sizes.
+  The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
+ Let&#39;s say you&#39;re early in your Software Engineer career.
 You&#39;re a competent programmer looking for a change in working environment.
-You’ve got 4 offers from four companies at different stages.
-All offers have “Software Engineer” as a title.
-They even have the same job description:
- 2-4 years experience in a high level programming language Experience with modern frontend tooling Experience with designing and scaling REST APIs Experience with microservices based architectures Looking for a self starter, that takes ownership of projects  Are these the same job?</description>
+There aren&#39;t many resources to figure out what to expect from positions, so I decided to put together a guide.</description>
     </item>
     
     <item>
