@@ -14,7 +14,7 @@ Let's say you're early in your Software Engineer career.
 
 You're a competent programmer looking for a change in working environment.
 
-There aren't many resources to figure out what to expect from positions, so I decided to put together a guide.
+There aren't many resources to figure out what to expect from different positions, so I decided to share my take.
 
 You’ve got 4 offers from four companies at different stages.
 
@@ -102,7 +102,7 @@ Here is the best part of it:
 
 * Direct Communication with the leaders
 * You go from idea to feature in a couple of hours
-* There's political manoeuvring within the company. Very little careerism, people are just focused on doing their job well.
+* There's no political manoeuvring within the company. Very little careerism, people are just focused on doing their job well.
 * No part of the development process is not your responsibility
 * You're innovating and building something new, you don't have a lot of bug fixing or maintenance work to do
 * You'll likely have to directly do some Customer Support work, which will increase your understanding and empathy with the problem you're solving for users.
