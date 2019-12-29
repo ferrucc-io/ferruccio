@@ -14,8 +14,6 @@ Let's say you're early in your Software Engineer career.
 
 You're a competent programmer looking for a change in working environment.
 
-There aren't many resources to figure out what to expect from different positions, so I decided to share my take.
-
 You’ve got 4 offers from four companies at different stages.
 
 All offers have “Software Engineer” as a title.
