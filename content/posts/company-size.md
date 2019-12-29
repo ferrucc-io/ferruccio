@@ -10,8 +10,6 @@ featured_image: "/company-size/company-size-convo.png"
 
 > *The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.*
 
-
-
 Let's say you're early in your Software Engineer career.
 
 You're a competent programmer looking for a change in working environment.
@@ -200,4 +198,8 @@ That being said writing this sparked a personal interest in organizational desig
 
 If you have some constructive feedback, or some comments feel free to reach out via email at "hi" at this domain. Or DM me on Twitter :)
 
-**Special thanks to everyone I've talked to when writing this. To Tom McCarthy, Rory Hughes and Pietro Capece Galeota for reviewing drafts of this post.** 
+**Do you think a role in a great Mid Market Enterprise company would suit you?** You can join me at Intercom, [we're hiring!](https://www.intercom.com/careers?ref=ferrucc.io).
+
+Alternatively if something else excites you I still might be able to help!
+
+**Thanks to everyone I've talked to when writing this. And special thanks to Tom McCarthy, Rory Hughes and Pietro Capece Galeota for reviewing drafts of this post.** 
