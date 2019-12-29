@@ -18,7 +18,7 @@ You’ve got 4 offers from four companies at different stages.
 
 All offers have “Software Engineer” as a title.
 
-They even have the same job description:
+They even have the same job requirements:
 
 * 2-4 years experience in a high level programming language 
 * Experience with modern frontend tooling
