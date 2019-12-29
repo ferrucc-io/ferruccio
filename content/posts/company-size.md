@@ -98,7 +98,7 @@ Bureaucracy means shittier communication and less nuance, but larger scale.
 ## Solo
 ### Companies like [Render](https://render.com), [Tandem](https://tandem.chat) and [Al.ta Cucina](https://altacucina.co)
 
-I have some experience in early stage companies and wrote a [blog post](/altacucina) about my most recent one.
+I have some experience in early stage companies and wrote a [blog post](https://ferrucc.io/posts/altacucina) about my most recent one.
 
 Here is the best part of it:
 
