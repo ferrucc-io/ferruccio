@@ -44,7 +44,7 @@ The rest of the article will focus on answering "*Which company should you pick?
 
 ## An engineer's quest to find the right company size
 
-The best proxy to understand what kind of work a software engineer will do is company size.
+A great proxy to understand what kind of work a software engineer will do is company size.
 
 So before looking for work opportunities it's worth spending time understanding where does one belong.
 
