@@ -56,7 +56,7 @@ if (!doNotTrack) {
 <meta itemprop="description" content="This is my full browsing history! If you want to introduce yourself and don&#39;t know what to say, pick something from here as an inspiration">
 <meta itemprop="datePublished" content="2019-02-19T01:00:40&#43;01:00" />
 <meta itemprop="dateModified" content="2019-02-19T01:00:40&#43;01:00" />
-<meta itemprop="wordCount" content="101">
+<meta itemprop="wordCount" content="162">
 
 
 
@@ -109,10 +109,16 @@ if (!doNotTrack) {
       </h1>
     </header>
     <div class="nested-copy-line-height lh-copy f4 nested-links nested-img">
-      <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$.getJSON("https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33", function(data) {
+		var template = Handlebars.compile($("#item-template").html())
+		$("#items").html(template(data.reverse()))
+	})
+})
+</script>
 <p>This is my full browsing history! (Until March 4th 2019)</p>
 <p>Why?</p>
 <p><strong>Why not?</strong></p>
@@ -120,12 +126,34 @@ if (!doNotTrack) {
 <p>How am I doing this? <a href="https://github.com/ferrucc-io/chrome-history-to-sheets">This script</a> runs every hour and updates a <a href="https://docs.google.com/spreadsheets/d/13HW9eVSUiUe_i0yiiuzPj_C3oCl-CcgH4GZLHA8kTUc/edit">Google Sheet</a>.</p>
 <p>This page loads the data from there using an API generated using a service called <a href="https://sheety.co">Sheety</a>.</p>
 <h2 id="my-browsing-history-sorted-by-the-latest-site-ive-visited">My Browsing History sorted by the latest site I've visited:</h2>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<script id="item-template" type="text/x-handlebars-template">
+<ul>
+	{{#each this}}
+    <div>
+		<p class="dont-break-out"><span class="b dont-break-out">{{title}}</span> - {{address}}</p>
+    </div>
+	{{/each}}
+</ul>
+</script>
+<style>
+.dont-break-out {
 
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+}
+</style>
+<div id="items">Loading History...</div>
     </div>
     <div id="mc_embed_signup">
       <form action="https://ferrucc.us7.list-manage.com/subscribe/post?u=2f094364ff04cd330f8d29b0c&amp;id=02a63a0f8c"

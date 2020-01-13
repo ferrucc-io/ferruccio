@@ -14,3 +14,8 @@ HUGO_ENV="production"
     twitterHandle="0xferruccio"
     socialLink="https://twitter.com/0xferruccio"
     socialMedia="twitter"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

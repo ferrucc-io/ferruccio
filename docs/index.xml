@@ -113,11 +113,10 @@ The way he talks makes him likable both on the left and on the right.</descripti
       <pubDate>Tue, 19 Feb 2019 01:00:40 +0100</pubDate>
       
       <guid>https://ferrucc.io/history/</guid>
-      <description>This is my full browsing history! (Until March 4th 2019)
+      <description>$(document).ready(function(){ $.getJSON(&#34;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#34;, function(data) { var template = Handlebars.compile($(&#34;#item-template&#34;).html()) $(&#34;#items&#34;).html(template(data.reverse())) }) })  This is my full browsing history! (Until March 4th 2019)
 Why?
 Why not?
-I think it might be fun for people wanting to introduce themselves via email to know where I&#39;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
-How am I doing this? This script runs every hour and updates a Google Sheet.</description>
+I think it might be fun for people wanting to introduce themselves via email to know where I&#39;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.</description>
     </item>
     
     <item>
@@ -129,7 +128,7 @@ How am I doing this? This script runs every hour and updates a Google Sheet.</de
       <description>As soon as I got on the internet I started creating.
 First it was just putting out content, now it&#39;s mostly shipping production code.
 Here are most of my products, jobs and skills.
- &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;project&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;project-preview&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;preview-logo&amp;quot;&amp;gt; &amp;lt;img src=&amp;quot;/projects/edmnews.png&amp;quot; class=&amp;quot;logo&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;project-content-container&amp;quot;&amp;gt; &amp;lt;a class=&amp;quot;project-title-link&amp;quot; href=&amp;quot;https://edmnews.it&amp;quot;&amp;gt; &amp;lt;h3 class=&amp;quot;project-title&amp;quot;&amp;gt;EDM News Italy&amp;lt;/h3&amp;gt; &amp;lt;/a&amp;gt; &amp;lt;div class=&amp;quot;project-description&amp;quot;&amp;gt; The biggest EDM Music blog in Italy &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;project-meta&amp;quot;&amp;gt; &amp;lt;div style=&amp;quot;margin-right: 0.</description>
+ .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; background-color: black; background: linear-gradient(-45deg, #000000, #000000, #000000, #000000, #000000, #1D3461, #274690, #1F487E, #385e94, #385e94, #385e94); background-size: 2000% 2000%; -webkit-animation: Gradient 12s ease 1 forwards; -moz-animation: Gradient 12s ease 1 forwards; animation: Gradient 12s ease 1 forwards; -webkit-background-size: 2000% 2000%; -moz-background-size: 2000% 2000%; -o-background-size: 2000% 2000%; -webkit-backface-visibility: hidden; overflow: hidden; } @-webkit-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @-moz-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } main.</description>
     </item>
     
     <item>

@@ -126,7 +126,7 @@ if (!doNotTrack) {
 <p>The code in the British Airways attack was the following:</p>
 <p><img src="/british-airways.png" alt=""></p>
 <p>Here's a more readable version of it:</p>
-<!-- raw HTML omitted -->
+<div class="mw100"><iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/0xtswebj/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe></div>
 <h2 id="cdn-security">CDN Security</h2>
 <p>These attacks usually are aimed towards large corporations that are attacked, either <strong>directly</strong>, or in <strong>indirectly</strong>.</p>
 <p>An example of indirect attack, that happened this September, is when the group targeted <a href="https://www.shopperapproved.com">Shopper Approved</a>, an ecommerce plugin for customer rating.</p>
@@ -180,7 +180,7 @@ ticketmasterus.inbenta.com
 <h3 id="subresource-integrity">Subresource Integrity</h3>
 <p>To protect static assets on CDNs like jQuery or other libraries the easiest thing to do is to use the &ldquo;integrity&rdquo; tag inside your HTML code.</p>
 <p>Here's an example of this used in practice:</p>
-<!-- raw HTML omitted -->
+<iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/tp0Lndj6/embedded/html/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <p>The idea is to include the script along with its cryptographic hash (e.g. SHA-384) when creating the web page.</p>
 <p>The browser can then download the script and compute the hash over the downloaded file. The script will only be executed if both hashes match.</p>
 <p>The problem of this approach is that if the subresource integrity breaks you need to setup a failover, to make sure the website continues working properly in case the resource breaks. And also the failover can be targeted.</p>
@@ -192,7 +192,7 @@ ticketmasterus.inbenta.com
 <h4 id="so-can-we-detect-that">So can we detect that?</h4>
 <p>Code obfuscation can be done in infinite different ways.</p>
 <p>Up to now Magecart converted the code into unicode to make it less understandable, but if we wrote something to detect suspect unicode inside javascript they could start obfuscating code in countless other ways like this:</p>
-<!-- raw HTML omitted -->
+<iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/48q7pdym/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <p>So the short answer is NO, we can't detect all kinds of code obfuscation and hackers learn fast how to circumvent these measures.</p>
 <h3 id="avoiding-external-cdns">Avoiding external CDNs</h3>
 <p>We could avoid completely hosting files on external CDNs, but in many cases websites depend on external services for Customer Support, to Analytics.</p>
