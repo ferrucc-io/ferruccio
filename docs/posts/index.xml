@@ -6,10 +6,26 @@
     <description>Recent content in Posts on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 11:53:51 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 11:44:01 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Product Metrics for Dummies</title>
+      <link>https://ferrucc.io/posts/product-metrics/</link>
+      <pubDate>Wed, 29 Jan 2020 11:44:01 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/posts/product-metrics/</guid>
+      <description>&amp;ldquo;When a measure becomes a target, it ceases to be a good measure.&amp;rdquo;
+ This is Goodhart&#39;s law.
+If you have a product and want to start setting up some metrics that mean something this article for you.
+Here&#39;s an easy and effective metrics system that you can adopt today:
+  Leading Metric
+  Lagging Metric
+  Health Metric
+  These three metrics should fit in a triangle, counterbalancing each other.</description>
+    </item>
     
     <item>
       <title>What&#39;s your company size?</title>
