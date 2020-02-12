@@ -508,8 +508,7 @@ a.project-social-icon-link{
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">September 2017 - January 2018</div>
                     <div style="margin-right: 0.4375rem;">·</div>
-                    <a href="https://web.archive.org/web/20180426034700/http://cryptotrend.it/" class="project-link" >Archived</a>
-                    
+                    <a href="https://web.archive.org/web/20180426034700/http://cryptotrend.it/" class="project-link"> Archived</a>
                 </div>
             </div>
         </div>
@@ -530,7 +529,6 @@ a.project-social-icon-link{
                     <div style="margin-right: 0.4375rem;">2012-2015</div>
                     <div style="margin-right: 0.4375rem;">·</div>
                     <a href="https://edmnews.it" class="project-link" >https://edmnews.it</a>
-                    
                 </div>
             </div>
         </div>
