@@ -10,7 +10,7 @@ description: "Here you can find an overview of all the projects I made over the 
 
 As soon as I got on the internet I started creating.
 
-First it was just putting out content, now it's mostly shipping production code. 
+First it was just putting out content, now it's mostly shipping code.
 
 Here are most of my **products**, **jobs** and **skills**.
 
@@ -34,44 +34,7 @@ body{
     width: 100wh;
 	height: 90vh;
     background-color: black;
-    background: linear-gradient(-45deg, #000000, #000000, #000000, #000000, #000000, #1D3461, #274690, #1F487E, #385e94, #385e94, #385e94);
-	background-size: 2000% 2000%;
-	-webkit-animation: Gradient 12s ease 1 forwards;
-	-moz-animation: Gradient 12s ease 1 forwards;
-	animation: Gradient 12s ease 1 forwards;
-    -webkit-background-size: 2000% 2000%;
-	-moz-background-size: 2000% 2000%;
-	-o-background-size: 2000% 2000%;
-    -webkit-backface-visibility: hidden;
     overflow: hidden;
-
-}
-
-@-webkit-keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	100% {
-		background-position: 100% 50%
-	}
-}
-
-@-moz-keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	100% {
-		background-position: 100% 50%
-	}
-}
-
-@keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	100% {
-		background-position: 100% 50%
-	}
 }
 
 main.pb1{
@@ -85,19 +48,19 @@ main.pb1{
 
 
 article.center.cf.pv5.ph3.ph4-ns.mw7{
-        -webkit-animation: reveal 2s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: reveal 2s; /* Firefox < 16 */
-        -ms-animation: reveal 2s; /* Internet Explorer */
-         -o-animation: reveal 2s; /* Opera < 12.1 */
-            animation: reveal 2s;
+        -webkit-animation: fadein 1s;; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 1s; /* Firefox < 16 */
+        -ms-animation: fadein 1s; /* Internet Explorer */
+         -o-animation: fadein 1s; /* Opera < 12.1 */
+            animation: fadein 1s;
 }
 
 nav.pv3.ph3.ph4-ns{
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 2s; /* Firefox < 16 */
-        -ms-animation: fadein 2s; /* Internet Explorer */
-         -o-animation: fadein 2s; /* Opera < 12.1 */
-            animation: fadein 2s;
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 1s; /* Firefox < 16 */
+        -ms-animation: fadein 1s; /* Internet Explorer */
+         -o-animation: fadein 1s; /* Opera < 12.1 */
+            animation: fadein 1s;
 }
 
 
@@ -475,7 +438,7 @@ a.project-social-icon-link{
                 <img src="/projects/dripform.png" class="logo">
             </div>
             <div class="project-content-container">
-                <a class="project-title-link" href="https://dripform.ga">
+                <a class="project-title-link" href="https://www.producthunt.com/posts/dripform">
                   <h3 class="project-title">Dripform</h3>
                 </a>
                 <div class="project-description">
@@ -484,7 +447,7 @@ a.project-social-icon-link{
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">July 2018</div>
                     <div style="margin-right: 0.4375rem;">·</div>
-                    <a href="https://dripform.ga" class="project-link" style="margin-right: 0.4375rem;">https://dripform.ga</a>
+                    <a href="https://www.producthunt.com/posts/dripform" class="project-link" style="margin-right: 0.4375rem;">Archived</a>
                     <div style="margin-right: 0.4375rem;">·</div>
                     <a href="https://www.producthunt.com/posts/dripform" class="project-social-icon-link">
                         <img src="/projects/ph.png" class="project-social-icon"/>
@@ -528,7 +491,7 @@ a.project-social-icon-link{
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">2012-2015</div>
                     <div style="margin-right: 0.4375rem;">·</div>
-                    <a href="https://edmnews.it" class="project-link" >https://edmnews.it</a>
+                    <a href="https://web.archive.org/web/20160430172559/http://edmnews.it/" class="project-link" >https://edmnews.it</a>
                 </div>
             </div>
         </div>
@@ -552,7 +515,7 @@ a.project-social-icon-link{
                 </a>
                 <div class="project-description">
                     Joined the Marketplace and the Product Tours teams. Settled on the Messages team.
-                </div>     
+                </div>
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">June 2019 - Now</div>
                     <div style="margin-right: 0.4375rem;">·</div>
@@ -569,7 +532,7 @@ a.project-social-icon-link{
                 </a>
                 <div class="project-description">
                     From zero to a product and a team, reaching millions of people <a href="https://ferrucc.io/posts/altacucina/">[read more here]</a>
-                </div>     
+                </div>
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">March 2019 - September 2019</div>
                     <div style="margin-right: 0.4375rem;">·</div>
@@ -586,7 +549,7 @@ a.project-social-icon-link{
                 </a>
                 <div class="project-description">
                     I developed a full stack Javascript application, with Next.js on the frontend, GraphQL APIs and Adonis JS on the backend.
-                </div>     
+                </div>
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">October 2018 - March 2019</div>
                     <div style="margin-right: 0.4375rem;">·</div>
