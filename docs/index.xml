@@ -6,26 +6,10 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2020 11:44:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 11:53:51 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Product Metrics for Dummies</title>
-      <link>https://ferrucc.io/posts/product-metrics/</link>
-      <pubDate>Wed, 29 Jan 2020 11:44:01 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/product-metrics/</guid>
-      <description>&amp;ldquo;When a measure becomes a target, it ceases to be a good measure.&amp;rdquo;
- This is Goodhart&#39;s law.
-If you have a product and want to start setting up some metrics that mean something this article for you.
-Here&#39;s an easy and effective metrics system that you can adopt today:
-  Leading Metric
-  Lagging Metric
-  Health Metric
-  These three metrics should fit in a triangle, counterbalancing each other.</description>
-    </item>
     
     <item>
       <title>What&#39;s your company size?</title>
@@ -35,8 +19,8 @@ Here&#39;s an easy and effective metrics system that you can adopt today:
       <guid>https://ferrucc.io/posts/company-size/</guid>
       <description>I set out to write this article by interviewing 40+ engineers at companies of all sizes.
   The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
- Let&#39;s say you&#39;re early in your Software Engineer career.
-You&#39;re a competent programmer looking for a change in working environment.
+ Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.
+You&amp;rsquo;re a competent programmer looking for a change in working environment.
 You’ve got 4 offers from four companies at different stages.</description>
     </item>
     
@@ -47,10 +31,10 @@ You’ve got 4 offers from four companies at different stages.</description>
       
       <guid>https://ferrucc.io/posts/go-and-chess/</guid>
       <description>How two board games shape the concept of conflict in the western world and China.
-Let&#39;s start with two photos:
+Let&amp;rsquo;s start with two photos:
 Who won?
 Try and guess who won in the two games.
-In the first picture, even if you don&#39;t understand the game you can guess who won.
+In the first picture, even if you don&amp;rsquo;t understand the game you can guess who won.
 You can tell that the white is smashing the black into a corner.
 And has more pieces in play.
 Chess is a game based on domination.</description>
@@ -63,10 +47,10 @@ Chess is a game based on domination.</description>
       
       <guid>https://ferrucc.io/draft/go-and-chess/</guid>
       <description>How two board games shape the concept of conflict in the western world and China.
-Let&#39;s start with two photos:
+Let&amp;rsquo;s start with two photos:
 Who won?
 Try and guess who won in the two games.
-In the first picture, even if you don&#39;t understand the game you can guess who won.
+In the first picture, even if you don&amp;rsquo;t understand the game you can guess who won.
 You can tell that the white is smashing the black into a corner.
 And has more pieces in play.
 Chess is a game based on domination.</description>
@@ -82,7 +66,7 @@ Chess is a game based on domination.</description>
 In two months we went from idea 💡, to product:
 The Story April 15th.
 I just finished interviewing for a bunch of tech companies to move away from Italy.
-I&#39;m trying to figure out where I want to go and what I want to do next.</description>
+I&amp;rsquo;m trying to figure out where I want to go and what I want to do next.</description>
     </item>
     
     <item>
@@ -91,8 +75,8 @@ I&#39;m trying to figure out where I want to go and what I want to do next.</des
       <pubDate>Wed, 12 Jun 2019 00:03:29 +0200</pubDate>
       
       <guid>https://ferrucc.io/experiments/</guid>
-      <description>Here&#39;s a list of experiments I did:
- Publicly Sharing my browsing history - more about this here Fiverr profile - The goal of this experiment was to see how efficient the internet is at talent discovery and monetization of hard skills. I didn&#39;t manage to get any clients except for a friend, so it was a failed experiment. Original tweet Fiverr Profile Calls with strangers Original Tweet - Post Recap coming soon Log every 30 minutes of my life on Twitter Auto delete all my tweets after one week Grow an instagram account to 10k followers using fake quotes  Not many other experiments come to my mind.</description>
+      <description>Here&amp;rsquo;s a list of experiments I did:
+ Publicly Sharing my browsing history - more about this here Fiverr profile - The goal of this experiment was to see how efficient the internet is at talent discovery and monetization of hard skills. I didn&amp;rsquo;t manage to get any clients except for a friend, so it was a failed experiment. Original tweet Fiverr Profile Calls with strangers Original Tweet - Post Recap coming soon Log every 30 minutes of my life on Twitter Auto delete all my tweets after one week Grow an instagram account to 10k followers using fake quotes  Not many other experiments come to my mind.</description>
     </item>
     
     <item>
@@ -102,9 +86,9 @@ I&#39;m trying to figure out where I want to go and what I want to do next.</des
       
       <guid>https://ferrucc.io/posts/create-a-testing-gmail-account/</guid>
       <description>You are developing an app that uses emails, and need a testing account?
-What&#39;s the fastest and easiest way to get a test account up and running?
-By default Gmail doesn&#39;t support email importing from a file.
-So the first step we&#39;ll have to go through is creating an Outlook email account here:
+What&amp;rsquo;s the fastest and easiest way to get a test account up and running?
+By default Gmail doesn&amp;rsquo;t support email importing from a file.
+So the first step we&amp;rsquo;ll have to go through is creating an Outlook email account here:
 Create an Outlook Account
 After creating an Outlook account we need to import data into it.
 The reason I suggest you use Outlook is that it supports a format called .</description>
@@ -116,7 +100,7 @@ The reason I suggest you use Outlook is that it supports a format called .</desc
       <pubDate>Tue, 05 Mar 2019 21:41:47 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/ubi/</guid>
-      <description>If there&#39;s something that I held as a deep belief growing up is that there is not such a thing as a free lunch.
+      <description>If there&amp;rsquo;s something that I held as a deep belief growing up is that there is not such a thing as a free lunch.
 I also developed an instinct to spot trends.
 Mostly to find opportunities, but also for fun.
 So when I stumbled upon Andrew Yang. I listened to a couple of his interviews and realised his ideas are powerful and bipartisan.
@@ -132,7 +116,7 @@ The way he talks makes him likable both on the left and on the right.</descripti
       <description>$(document).ready(function(){ $.getJSON(&#34;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#34;, function(data) { var template = Handlebars.compile($(&#34;#item-template&#34;).html()) $(&#34;#items&#34;).html(template(data.reverse())) }) })  This is my full browsing history! (Until March 4th 2019)
 Why?
 Why not?
-I think it might be fun for people wanting to introduce themselves via email to know where I&#39;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.</description>
+I think it might be fun for people wanting to introduce themselves via email to know where I&amp;rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.</description>
     </item>
     
     <item>
@@ -142,7 +126,7 @@ I think it might be fun for people wanting to introduce themselves via email to 
       
       <guid>https://ferrucc.io/projects/</guid>
       <description>As soon as I got on the internet I started creating.
-First it was just putting out content, now it&#39;s mostly shipping production code.
+First it was just putting out content, now it&amp;rsquo;s mostly shipping production code.
 Here are most of my products, jobs and skills.
  .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; background-color: black; background: linear-gradient(-45deg, #000000, #000000, #000000, #000000, #000000, #1D3461, #274690, #1F487E, #385e94, #385e94, #385e94); background-size: 2000% 2000%; -webkit-animation: Gradient 12s ease 1 forwards; -moz-animation: Gradient 12s ease 1 forwards; animation: Gradient 12s ease 1 forwards; -webkit-background-size: 2000% 2000%; -moz-background-size: 2000% 2000%; -o-background-size: 2000% 2000%; -webkit-backface-visibility: hidden; overflow: hidden; } @-webkit-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @-moz-keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } @keyframes Gradient { 0% { background-position: 0% 50% } 100% { background-position: 100% 50% } } main.</description>
     </item>
@@ -153,9 +137,9 @@ Here are most of my products, jobs and skills.
       <pubDate>Tue, 29 Jan 2019 20:47:34 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/music/</guid>
-      <description>The music I like isn’t that ordinary, but I&#39;d say it&#39;s popular among developers in my age group.
+      <description>The music I like isn’t that ordinary, but I&amp;rsquo;d say it&amp;rsquo;s popular among developers in my age group.
 I found that every time I meet someone in person that codes professionally the discussion at a certain point moves to “What do you listen when you code?”, “What is your favourite genre/artist?”.
-Here&#39;s what developers from big cities in the 20-30 age group tend to listen.
+Here&amp;rsquo;s what developers from big cities in the 20-30 age group tend to listen.
   Take it easy my brother Charlie</description>
     </item>
     
@@ -170,7 +154,7 @@ Here&#39;s what developers from big cities in the 20-30 age group tend to listen
 This concept is still mind blowing to me.
 Up until now I always thought about code as a collection of files, connected through imports.
 But really we import functions, not files.
-We use files to store code because they&#39;re a convenient way to serialize code. They&#39;re not the best representation, in fact functions might provide a better one.</description>
+We use files to store code because they&amp;rsquo;re a convenient way to serialize code. They&amp;rsquo;re not the best representation, in fact functions might provide a better one.</description>
     </item>
     
     <item>
@@ -179,9 +163,9 @@ We use files to store code because they&#39;re a convenient way to serialize cod
       <pubDate>Sat, 15 Dec 2018 20:57:56 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/starting-a-blog/</guid>
-      <description>I&#39;m 21, but I&#39;ve been blogging for almost 10 years.
+      <description>I&amp;rsquo;m 21, but I&amp;rsquo;ve been blogging for almost 10 years.
 I grew up doing this.
-What I&#39;ve written on the internet has reached millions of people. Most of what I&#39;ve written is in Italian, but I was also quite successful when writing in english. My Quora profile, reached 400k people in three months.
+What I&amp;rsquo;ve written on the internet has reached millions of people. Most of what I&amp;rsquo;ve written is in Italian, but I was also quite successful when writing in english. My Quora profile, reached 400k people in three months.
 Through blogging I had the opportunity to travel the world, getting free tickets to all the biggest music festivals (Ultra, Tomorrowland.</description>
     </item>
     
@@ -192,9 +176,9 @@ Through blogging I had the opportunity to travel the world, getting free tickets
       
       <guid>https://ferrucc.io/references/</guid>
       <description>Blog Posts The Matrix Calculus You Need For Deep Learning
-Design Inspiration As I want to improve my UX skills for the next projects I&#39;ll be using some standard frameworks like:
+Design Inspiration As I want to improve my UX skills for the next projects I&amp;rsquo;ll be using some standard frameworks like:
  Ant Design Material UI  Landing Pages This is a list of landing pages I look to when trying to find inspiration:
- Pitch Not Pot  Don&#39;t want to miss any of this?
+ Pitch Not Pot  Don&amp;rsquo;t want to miss any of this?
 You can find out about everything that gets added here by receiving my monthly email.</description>
     </item>
     
@@ -204,13 +188,13 @@ You can find out about everything that gets added here by receiving my monthly e
       <pubDate>Mon, 10 Dec 2018 14:31:50 +0100</pubDate>
       
       <guid>https://ferrucc.io/about/</guid>
-      <description>I&#39;m Ferruccio Balestreri.
+      <description>I&amp;rsquo;m Ferruccio Balestreri.
 I come from Milan and live in Dublin.
 I write code, design and write blog posts.
-My favorite tool on the job is Clojure, but I don&#39;t get to use it much professionally.
-If you&#39;re interested in learning it start from here.
-Over the years I&#39;ve made so many projects that I&#39;ve lost count. In this website you can find some articles on what I&#39;ve learned.
-I&#39;m actively collecting a list of useful resources that I take inspiration from and you can find it here.</description>
+My favorite tool on the job is Clojure, but I don&amp;rsquo;t get to use it much professionally.
+If you&amp;rsquo;re interested in learning it start from here.
+Over the years I&amp;rsquo;ve made so many projects that I&amp;rsquo;ve lost count. In this website you can find some articles on what I&amp;rsquo;ve learned.
+I&amp;rsquo;m actively collecting a list of useful resources that I take inspiration from and you can find it here.</description>
     </item>
     
     <item>
@@ -219,10 +203,10 @@ I&#39;m actively collecting a list of useful resources that I take inspiration f
       <pubDate>Mon, 05 Nov 2018 11:44:01 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/old-school-marketers/</guid>
-      <description>Marketing on the internet isn&#39;t much different from Marketing on any other medium.
-So let&#39;s go back a hundred years to get some inspiration.
+      <description>Marketing on the internet isn&amp;rsquo;t much different from Marketing on any other medium.
+So let&amp;rsquo;s go back a hundred years to get some inspiration.
 Inspiration from the 1920s After selling 100 million books of his series Little Blue Book marketer Julius Hadleman wrote a book analysing all the data he had collected.
-The book title is &amp;ldquo;The First Hundred Million&amp;rdquo; and it came out in 1928 (email me if you need help finding it) and features an interesting collection of proven Titles that work and insights on what we&#39;re interested in reading.</description>
+The book title is &amp;ldquo;The First Hundred Million&amp;rdquo; and it came out in 1928 (email me if you need help finding it) and features an interesting collection of proven Titles that work and insights on what we&amp;rsquo;re interested in reading.</description>
     </item>
     
     <item>
@@ -243,13 +227,13 @@ USSR Financing projects without asking too many questions.</description>
       <pubDate>Tue, 23 Oct 2018 19:12:03 +0000</pubDate>
       
       <guid>https://ferrucc.io/posts/sales-for-cybersecurity-saas/</guid>
-      <description>It&#39;s been almost I month after I started working on Magehash
-This is my first cybersecurity product I&#39;ve ever developed so I decided to share what I learned so far!
+      <description>It&amp;rsquo;s been almost I month after I started working on Magehash
+This is my first cybersecurity product I&amp;rsquo;ve ever developed so I decided to share what I learned so far!
 1) Selling Pain Points We can divide products into three different groups: candies, painkillers and vitamins.
-We don&#39;t want to have much to do with candies.
+We don&amp;rsquo;t want to have much to do with candies.
 Vitamins are interesting.
 We love Painkillers.
-For Cyber security software it&#39;s hard to be a painkiller as what we&#39;re generally trying to do is prevent attacks.</description>
+For Cyber security software it&amp;rsquo;s hard to be a painkiller as what we&amp;rsquo;re generally trying to do is prevent attacks.</description>
     </item>
     
     <item>
@@ -259,7 +243,7 @@ For Cyber security software it&#39;s hard to be a painkiller as what we&#39;re g
       
       <guid>https://ferrucc.io/posts/magecart/</guid>
       <description>In the last month a group of hackers called Magecart came back striking in full force.
-They first appeared in the news back in 2015 when RiskIQ found out they injected code in Magento&#39;s &amp;ldquo;Magecart&amp;rdquo; shopping software. Thus the name.
+They first appeared in the news back in 2015 when RiskIQ found out they injected code in Magento&amp;rsquo;s &amp;ldquo;Magecart&amp;rdquo; shopping software. Thus the name.
 The attacks they organized have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.
 This group is specialized in card skimming payment forms on the internet.</description>
     </item>
@@ -270,7 +254,7 @@ This group is specialized in card skimming payment forms on the internet.</descr
       <pubDate>Sat, 22 Sep 2018 19:18:03 +0000</pubDate>
       
       <guid>https://ferrucc.io/posts/lessons-from-ph/</guid>
-      <description>Two months ago I hadn&#39;t launched any solo project that got users.
+      <description>Two months ago I hadn&amp;rsquo;t launched any solo project that got users.
 Until lately everything I had ever done was with someone else, usually with a compatible skillset. The problem with this approach is that if someone on the team loses interest or is busy the project dies out.
 As this happened a couple of times I decided to take some time and work on projects by myself.
 The products I launched Klipped.</description>
@@ -283,7 +267,7 @@ The products I launched Klipped.</description>
       
       <guid>https://ferrucc.io/posts/dripform/</guid>
       <description>A little more than two months ago Konstantin asked me how long would it take for me to develop something that would let him receive forms on his website as Telegram messages.
-I wasn&#39;t sure how long it would take, but finding the task interesting I decided to just do it.
+I wasn&amp;rsquo;t sure how long it would take, but finding the task interesting I decided to just do it.
 In an afternoon of work I made the first version of &amp;ldquo;Dripform&amp;rdquo;.
 After making it I started exchanging ideas via email with Marc-Antoine who is working on a similar product.</description>
     </item>
@@ -307,9 +291,9 @@ Here is a list of existential problems we face:
       <pubDate>Tue, 24 Apr 2018 16:46:03 +0000</pubDate>
       
       <guid>https://ferrucc.io/posts/6-dollar-mvp/</guid>
-      <description>Every time you finish writing a blog post you get that feeling that it&#39;s not ready to post it.
-It&#39;s time for proofreading, but it&#39;s painful to proofread your own writings.
-What is fun instead is reading someone else&#39;s writings.
+      <description>Every time you finish writing a blog post you get that feeling that it&amp;rsquo;s not ready to post it.
+It&amp;rsquo;s time for proofreading, but it&amp;rsquo;s painful to proofread your own writings.
+What is fun instead is reading someone else&amp;rsquo;s writings.
 So how great would it be if you could post your drafts somewhere, read and comment a couple of blog posts by people with your same interests, while your own get proofread by people like you?</description>
     </item>
     
@@ -324,7 +308,7 @@ What had a strong influence on me?
 What is something that shaped who I am?
 Everything below here is my answer to those questions:
 When Breath Becomes Air At the end of 2018 Ryan Kulp suggested that I read this book.
-I&#39;m so glad I followed his advice as it was moving to read this.
+I&amp;rsquo;m so glad I followed his advice as it was moving to read this.
 Being a fairly happy person, I almost always the topic of death and health, in my reading list and even in my daily thoughts.</description>
     </item>
     
