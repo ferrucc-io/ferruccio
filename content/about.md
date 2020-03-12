@@ -13,17 +13,13 @@ I come from Milan and live in Dublin.
 
 I write code, design and write blog posts.
 
-My favorite tool on the job is Clojure, but I don't get to use it much professionally. 
-
-If you're interested in learning it [start from here](https://www.braveclojure.com/).
-
 Over the years I've made [so many projects](/projects) that I've lost count. In this website you can find some articles on what I've learned.
 
 I'm actively collecting a list of useful resources that I take inspiration from and you can find it [here](/references). 
 
 I also like to run [experiments](/experiments), like publicly streaming my [browsing history](/history).
 
-I'm only 22 so it would be pretentious to say I've got all the answers on life, but I hope you'll find my experiences and findings useful.
+I'm only 23 so it would be pretentious to say I've got all the answers on life, but I hope you'll find my experiences and findings useful.
 
 I don't trust anyone that gives orders on how to think or do things, I'm also not interested in most opinions. 
 
