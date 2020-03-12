@@ -36,3 +36,11 @@ To add a page run the following command:
 ```
 hugo new [your page title].md
 ```
+
+After you update the theme run:
+
+```
+    git submodule update --remote
+```
+
+So that the git submodule gets updated
