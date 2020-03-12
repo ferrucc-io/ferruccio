@@ -5,3 +5,4 @@ public
 .cache/
 .idea
 yarn.lock
+themes/hugo-theme
