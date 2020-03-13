@@ -153,13 +153,13 @@ I also specifically told everyone during onboarding that my role, other than bei
 
 After two weeks I also felt very confident about how things were going, so I decided to hire two more developers. One developer would start the iOS app, and another one would work on the frontend, completing the React implementation of our Design System and focusing solely on the reusability of our components.
 
-I found that a team of 4 great developers, with me bridging the gaps and filling any need that comes up to be extremely efficient. Adding any other developers would have had diminished returns.
+I found that a team of 4 great developers, with me bridging the gaps and filling any need that comes up to be extremely efficient. Adding any other developers would have had diminishing returns.
 
 ## Finding a good replacement for myself
 
 Around the same time I started working on Al.ta Cucina I also accepted an offer to move to Dublin and work as a product engineer.
 
-I made this very clear with Simone and Alessandro, so we all had this <3 month deadline to find another Ferruccio.
+I made this very clear with Simone and Alessandro, so we all had this <3 month deadline to find someone to take over my position.
 
 I reached out to my contacts to find possible candidates and found a smart friend.
 
@@ -185,6 +185,8 @@ Depending on the background of each person we tried to find ways to break throug
 For instance, with one person I pair programmed, with one I created an assignment and the other one I came up with a tricky a coding puzzle etc...
 
 I also prepared some questions on the thought process and heuristics they use to translate data and requirements in product decisions.
+
+The CTO search ended happily, with my friend Charlie Desbaux taking the job and moving back to Italy in mid-September.
 
 ## Being Creative
 
@@ -246,11 +248,13 @@ Expenses compared to estimates by other developers and agencies:
 **85% Less**
 
 iOS App state:
-**App is on TestFlight and being actively tested, hopefully will do the launch to the public in September (it smakes no sense to launch MVPs on App Store)**
-
-A win? **A win**
+**App is on TestFlight and being actively tested and is live here** - [App Store](https://apps.apple.com/it/app/al-ta-cucina-italian-recipes/id1465269621?l=en)
 
 What’s next?
+
+Well my friend [Charlie](https://twitter.com/desbaux) moved back to Italy to take the role of CTO!
+
+What’s next for me?
 
 My life is a bit of a video game. In the sense that I try to level up in every area of it.
 
