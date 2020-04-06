@@ -2,7 +2,7 @@
 title: "Embracing the tech bro meme"
 date: 2020-04-06T13:16:05+01:00
 draft: false
-description: "What I've written on the internet has reached millions of people and today I'm opening up the kimono, here's all I know about blogging."
+description: "Every year I look back at myself one year back and cringe. So as a gift to my future self, this is a collection of what are all my current habits"
 featured_image: "/techbro-meme/techbro.png"
 ---
 
