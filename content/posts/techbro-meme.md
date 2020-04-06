@@ -138,6 +138,6 @@ I take caffeine in cycles
 
 I run with toe socks
 
-I do self retreats where I isolate for a certain amount of time and focus on something
+I do self retreats where I isolate for a certain amount of time and focus on something (This is now normalised)
 
-Hope this was fun to read. Email me at hi [at] ferrucc [dot] io with any feedback or ideas.
+**Hope this was fun to read. Email me at hi [at] ferrucc [dot] io with any feedback or ideas.**
