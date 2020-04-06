@@ -8,7 +8,7 @@ featured_image: "/techbro-meme/techbro.png"
 
 Every year I look back at myself one year back and cringe.
 
-So as a gift to my future self, this is a collection of what are all my current habits and things I optimise for.
+So as a gift to my future self, this is a collection of what are all my current habits
 
 > I know I’m making a meme out of myself
 
