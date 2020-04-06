@@ -24,7 +24,7 @@ Here's an example of my latest note:
 
 ![](/techbro-meme/note.jpg)
 
-Tags aren't anything structured. Titles are a use case for the note. And the content is something I want to remember or save.
+Titles are a use case for the note. And the content is something I want to remember or save.
 
 I also use the [Things](https://culturedcode.com/things/) to-do list app to log every task I do at work that for my performance reviews. The workflow here is that I either set reminders for things I want to do in the future (eg. delete a feature flag after 30 days) or log tasks with a tag for the competence they belong to. This is particularly helpful when trying to figure out what are things I should focus on doing more.
 
