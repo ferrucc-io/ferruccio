@@ -6,10 +6,22 @@
     <description>Recent content in Posts on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 11:53:51 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 13:16:05 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Embracing the tech bro meme</title>
+      <link>https://ferrucc.io/posts/techbro-meme/</link>
+      <pubDate>Mon, 06 Apr 2020 13:16:05 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/posts/techbro-meme/</guid>
+      <description>Every year I look back at myself one year back and cringe.
+So as a gift to my future self, this is a collection of what are all my current habits and things I optimise for.
+ I know I’m making a meme out of myself
+ Note taking I take a lot of notes. After having tried many apps I settled on Apple Notes. My thinking here is that the standard Notes app is here to stay.</description>
+    </item>
     
     <item>
       <title>What&#39;s your company size?</title>
