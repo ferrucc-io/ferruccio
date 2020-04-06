@@ -36,10 +36,12 @@ This is their structure:
 
 *   Notable points about the person
 *   What they do, best parts of the conversation, feelings
-*   Call to Action (things I have to improve or do more based on my interaction)
+*   Call to Action, things I have to improve or do more based on my interaction
 *   Call to Action for the other person, my suggestions or otherwise advice and opinions I gave
 
 I like spending my time with people that add value and change the trajectory and challenge my ideas. Writing follow up notes helps and prompts me to reach out more to those that inspire me.
+
+I find Call to Actions the most important part of this. The ultimate impact somebody can have on your life is changing your behaviors.
 
 ## **Daily Learning**
 
