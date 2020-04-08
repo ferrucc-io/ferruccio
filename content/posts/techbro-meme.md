@@ -144,3 +144,5 @@ I run with toe socks
 I do self isolation retreats where I isolate for a certain amount of time and focus on something (this is so cool that the whole world is copying me right now)
 
 **Email me at hi [at] ferrucc [dot] io with any feedback or ideas.**
+
+**Special thanks to [Tom McCarthy](https://twitter.com/fusorfusion) for reviewing this article**
