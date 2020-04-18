@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ferrucc.io/posts/techbro-meme/</loc>
-    <lastmod>2020-04-06T13:16:05+01:00</lastmod>
+    <loc>https://ferrucc.io/</loc>
+    <lastmod>2020-04-18T21:34:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ferrucc.io/</loc>
-    <lastmod>2020-04-06T13:16:05+01:00</lastmod>
+    <loc>https://ferrucc.io/posts/booleans-from-nand/</loc>
+    <lastmod>2020-04-18T21:34:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ferrucc.io/posts/</loc>
+    <lastmod>2020-04-18T21:34:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ferrucc.io/posts/techbro-meme/</loc>
     <lastmod>2020-04-06T13:16:05+01:00</lastmod>
   </url>
   

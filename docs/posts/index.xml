@@ -6,10 +6,23 @@
     <description>Recent content in Posts on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2020 13:16:05 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 21:34:47 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to create boolean operators with nand</title>
+      <link>https://ferrucc.io/posts/booleans-from-nand/</link>
+      <pubDate>Sat, 18 Apr 2020 21:34:47 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/posts/booleans-from-nand/</guid>
+      <description>Doing the nand2tetris course is an extremely enlightning experience into the world of computers.
+The course starts from the simplest building block, the &amp;ldquo;NAND&amp;rdquo; operators and helps you step by step to building a modern, functioning computer, OS and tetris Game.
+The NAnd block stands for Not And.
+It takes two binary inputs, A and B and outputs true only if they both aren&#39;t true.
+   A B Output     0 0 1   1 0    1 1 0   0 1 1    To derive the Not operation we have to find a way of using NAnd to have this output:</description>
+    </item>
     
     <item>
       <title>Embracing the tech bro meme</title>
