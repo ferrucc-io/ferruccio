@@ -1,8 +1,8 @@
 ---
-title: "How to create boolean operators with nand"
+title: "How to create boolean operators with Nand"
 date: 2020-04-18T21:34:47+01:00
 draft: false
-description: "How to create the AND, XOR and OR operators starting from NAND"
+description: "How to create the AND, NOT and OR operators starting from NAND"
 ---
 
 Doing the [nand2tetris](https://www.nand2tetris.org/) course is an extremely enlightning experience into the world of computers.
