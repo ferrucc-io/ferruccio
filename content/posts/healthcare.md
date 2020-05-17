@@ -19,7 +19,7 @@ Let's start with 5 agreeable axioms
 2. Markets are the most efficient price discovery system
 3. We want the best treatment possible for the most people possible
 4. People respond to incentives
-5. Government Money is limited, and it can only be extracted from individuals (governments don't create value, individuals do)
+5. Government Money is limited, and the only way to get more is by extracting it from individuals (governments don't create value, individuals do)
 
 ## 2 + “Free Healthcare” -> 6a 6b
 In a world of free healthcare (no market) we can’t know if we’re paying too much or too little for healthcare.
