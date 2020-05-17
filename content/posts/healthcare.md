@@ -13,7 +13,7 @@ I don't like repeating the same arguments over and over.
 
 So here are some of my thoughts on "Socialised Healthcare"[1] for wider exposure and future reference.
 
-Let's start with 5 agreeable axioms
+I'll start with 5 agreeable axioms and use them systematically to derive "Healthcare should not be free"
 
 1. People own their own time
 2. Markets are the most efficient price discovery system
