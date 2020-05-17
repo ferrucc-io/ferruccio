@@ -56,9 +56,9 @@ If people are paid less then what they should be for healthcare work they’ll m
 
 ## 10 + 3 -> Conclusion
 
-Today with more incompetent doctors and less money in healthcare people would get worse healthcare. 
+With more incompetent doctors in the short term people get worse healthcare.
 
-And in the future too, because of less incentives for research.
+In the long term we'd get even worse results, because of less incentives for research.
 
 [1] In this blog post we'll talk about "Free Healthcare" and "Socialised Healthcare" as interchangeable terms.
 
