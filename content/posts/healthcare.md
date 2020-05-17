@@ -38,29 +38,33 @@ The price of healthcare becomes unfair. Everyone is forced to pay an unfair pric
 
 ## 7 + 4 -> 8
 
-If people have incentives to do things that aren’t productive in the world, the world is less prosperous. 
+If people have incentives to do things that aren’t productive, the world is less prosperous. 
 
 ## 8 + 3 -> Conclusion
 
-If the world is less prosperous and socialised healthcare would be more expensive than individually paid healthcare, we're getting a really bad deal.
+If the world is less prosperous and socialised healthcare is more expensive than individually paid healthcare, we're getting a really bad deal.
 
-To get the best treatment possible for the most people possible we should then just have individually paid healthcare.
+To get the best treatment possible for the most people possible we should then just pay for our own care. (and for the one of the people that are close to us)
 
 ## 1 + 4 -> 9
 
-As people own their own time and they’ll optimize their lives for either more free time, more wealth or status. A higher income will give them freedom to pick the mix of things they want from life.
+As people own their own time and they’ll optimize their lives for either more free time, more wealth or status.
+
+A higher income allows individuals to pick the mix of things they want from life.
 
 ## 6b + 9 -> 10
 
-If people are paid less then what they should be for healthcare work they’ll move to other areas, and health research will be less developed. Healthcare will also be crowded by less skilled people.
+If people are paid less then what they should be for healthcare work they’ll move to other areas, and medical research will be slower.
+
+Healthcare will also be crowded by less skilled people.
 
 ## 10 + 3 -> Conclusion
 
 With more incompetent doctors in the short term people get worse healthcare.
 
-In the long term we'd get even worse results, because of less incentives for research.
+In the long term you get even worse results, because of less incentives for research.
 
-[1] In this blog post we'll talk about "Free Healthcare" and "Socialised Healthcare" as interchangeable terms.
+[1] We'll talk about "Free Healthcare" and "Socialised Healthcare" as interchangeable terms.
 
 ---
 
