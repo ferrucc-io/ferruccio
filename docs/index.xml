@@ -6,10 +6,24 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 21:34:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 19:01:25 +0100</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Healthcare should not be free</title>
+      <link>https://ferrucc.io/posts/healthcare/</link>
+      <pubDate>Sun, 17 May 2020 19:01:25 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/posts/healthcare/</guid>
+      <description>An axiomatic deduction of &amp;ldquo;Healthcare should not be free&amp;rdquo; starting from 5 agreeable axioms.
+I like the idea of my site being a snapshot of my thoughts that I can point to people when having a discussion.
+I don&#39;t like repeating the same arguments over and over.
+So here are some of my thoughts on &amp;ldquo;Socialised Healthcare&amp;rdquo;[1] for wider exposure and future reference.
+Let&#39;s start with 5 agreeable axioms
+ People own their own time Markets are the most efficient price discovery system We want the best treatment possible for the most people possible People respond to incentives Government Money is limited, and it can only be extracted from individuals (governments don&#39;t create value, individuals do)  2 + “Free Healthcare” -&amp;gt; 6a 6b In a world of free healthcare (no market) we can’t know if we’re paying too much or too little for healthcare.</description>
+    </item>
     
     <item>
       <title>How to create boolean operators with Nand</title>
