@@ -1,86 +1,137 @@
 ---
 title: "Beauty"
-date: 2020-04-29T17:34:45+01:00
-draft: true
+date: 2020-05-18T17:34:45+01:00
+draft: false
 ---
 
-I think one of the most interesting mental exercises one can do is exploring the history of aesthetics.
+One of the most interesting thought experiments one can do is exploring the history of aesthetics.
 
 Human aesthetics and symbols change over time in ways that reflect progress.
 
-People got bored of Greek tragedy? Chubby people became unattractive, people started liking squares on a canvas.
+How did people get bored of Greek tragedy? Why did chubby people become unattractive, when did people start liking squares on a canvas?
 
-But there was a moment when Dante's books were considered good. When Marx's ideas were considered interesting.
+There was a moment when Dante's books were considered good. When realistic paintings like Church's [Niagara](https://en.wikipedia.org/wiki/Niagara_(Frederic_Edwin_Church)) were the pinnacle of art.
 
 Looking at the history of aesthetic is spying on the slow movement of human desires.
 
-Most movements are slow, but sometimes we take a leap. These leaps are the most interesting thing we can observe.
-
+Most movements are slow, but sometimes we take a leap. These leaps are the most interesting moments we can observe.
 
 Illuminism took a thousand years
+
 French revolution a couple of years
+
 Impressionism took some years
-Berlin wall was one day
-Internet took 10 years
 
-We went from Proust to Celine in just a couple of years.
-
-## Fosbury's Jump
-
-Fosbury
-Finding the right way to jump
-
-There's a technological change that comes first, in the Fosbury case it's not falling on sand anymore.
-
-It's an illogical first step
-
-When a human is shocked, the reaction is first saying it's illogical -> (it's dangerous) -> ()
-
-A way of looking at the world is broken and against all logic a new world is unlocked, and everyone flocks to it.
-
-In 10 days all jumpers doing things the old way started looking prehistoric, like they belonged to a different species.
+The Berlin wall fall was one day
 
 ## Why does this happen?
 
-Every movement is caused by many different things that change at the same time. So it depends.
+It depends. Every movement is caused by many different things that change at the same time.
 
 ## Kate Moss
 
-In the beginning on the 90s beauty standards were quite standard.
+In the beginning on the 90s beauty standards were quite basic.
 
-The most famous models were 4-5, always in the same poses and in the same kind of photos. Same face, perfect teeth, same haircuts, same make up, same bodies.
+Models were always in the same poses and in the same kind of photos. Same face, perfect teeth, same haircuts, same make up, same bodies.
 
-Lighting is used to enhance the subject's beauty.
+![](/beauty/1990-vogue-covers.png)
+
+Lighting in all photos is used to enhance the subject's beauty.
 
 Most importantly they all represented this same idea of glamour.
 
-Here are some examples of covers from magazines in 1990.
+In June 1990, a hip magazine from the UK called "The Face", published this cover of a 16 year old Kate Moss:
 
-[put magazine covers 1990]
+![](/beauty/kate-moss-the-face.jpg)
 
-In June 1990, a hip magazine called "The Face", published this cover:
+![](/beauty/km-1990.jpg)
 
-```
-Kate Moss - June
-```
+This is a skinny girl, but not in a glamourous way.
 
-She's skinny, but not in a glamourous way.
-
-Smoking, sitting on the floor with the sun in her face.
 Struggling to keep her eyes open, fighting with the light.
-Messy hair, no makeup.
+
+With messy hair, crooked teeth, no makeup and a childish aura.
 
 This is the illogical next step.
 
-This is not something you should look with the eyes of someone that has spent 10 minutes on Instagram.
+This is not something you should look with the eyes of someone that has spent 10 years on Instagram and Tumblr.
 
-You should look at this with the eyes of someone that had seen X for 10 years:
+You should look at this with the eyes of someone that had seen 10 years of Ivana Trump.
 
-Calvin Klein -> Mario Sorrenti photoshoot, obsession
+Within 3 years, the Kate Moss you see on "The Face" was polished to became the mainstream aesthetic.
 
-Within 3 years, the Kate Moss you see on "The Face" was polished a bit and became the mainstream aesthetic.
+{{< youtube oHxs1mLamnE >}}
 
--- Kate Moss standing in front of a desk with wires
+British Vogue put her on their cover in March of 1993
 
-Beauty shifted from women looking like Barbies to broke students standing next to a radiator.
+![](/beauty/1993-kate-moss.jpg)
 
+And inside that edition of the magazine you can see her, freezing, standing next to a radiator.
+
+![](/beauty/kate-moss-corinne-day.jpg)
+
+I like thinking that Kate Moss in 3 years shifted the mainstream idea of beauty to our current aesthetic.
+
+Moving mainstream aesthetics from 6trophy wives to broke students in a room with no heating is fucking cool.
+
+## Maria Callas
+
+Maria Callas was an American-born Greek soprano.
+
+She was educated in Greece and had some experience singing in American theatres.
+
+As an opera singer normal career path she had to gain approval in the Italian scene to get recognition. So she came to Italy.
+
+The Teatro alla Scala in Milan is the Santiago Bernabeu of classical music
+
+![](/beauty/scala.jpg)
+
+At the time the star at the Scala was Renata Tebaldi, an Italian soprano, extremely technical and perfect by traditional standards.
+
+When you hear Renata Tebaldi singing, you can tell she's always in control of her voice, she's the Barbie of opera singing.
+
+Maria Callas instead is a bit of the opposite. Her voice is full of energy, but it's almost like she can't hold it in.
+
+So when Maria Callas arrived to the Scala people went crazy. Opera nuts are still fighting over who's better between Maria Callas and Renata Tebaldi.
+
+Here's a side by side comparison:
+
+{{< youtube TzdOgM3bTz8 >}}
+
+Maria Callas broke the aesthetic bringing chaotic passion and emotions.
+
+If you aren't convinced here's her version of Amami Alfredo - from Verdi's Traviata
+
+{{< youtube 2G3bLB5LVIY >}}
+
+### Disruption
+
+Once something is replicated or executed perfectly the only way to move forward is through disruption.
+
+Breakthroughs can only happen in an illogical ways in an illogical directions.
+
+Iterative progress is about repetition, mastering a skill endlessly until you get it perfect.
+
+Ivanka Trump and Renata Tebaldi are the perfection of a certain aesthetic.
+
+Kate Moss and Maria Callas are the breakthroughs.
+
+Disruption happens everywhere and all of the time, you just have to look for it.
+
+A more recent example of pop culture breakthrough is XXXTentacion's Look At Me hitting the charts in 2017
+
+{{< youtube wJGcwEv7838 >}}
+
+A home made distorted, badly mastered song in 2017 charts was the illogical next step.
+
+### Progress
+
+Aesthetics and human progress move in similar ways. 
+
+To move things forward in the world we have to be on the look for the next breakthrough.
+
+There is no systematic way of coming up with one. 
+
+The best chance we have is staying curious, exploring sudden and weird changes across the world, in our history and in every field.
+
+Then trying to come up with our own.
