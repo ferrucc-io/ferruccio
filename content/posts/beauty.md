@@ -6,23 +6,23 @@ draft: false
 
 One of the most interesting thought experiments one can do is exploring the history of aesthetics.
 
-Human aesthetics and symbols change over time in ways that reflect progress.
+Human aesthetics change over time in ways that reflect progress.
 
 How did people get bored of Greek tragedy? Why did chubby people become unattractive, when did people start liking squares on a canvas?
 
 There was a moment when Dante's books were considered good. When realistic paintings like Church's [Niagara](https://en.wikipedia.org/wiki/Niagara_(Frederic_Edwin_Church)) were the pinnacle of art.
 
-Looking at the history of aesthetic is spying on the slow movement of human desires.
+Looking at the history of aesthetics is spying on the slow movement of human desires.
 
 Most movements are slow, but sometimes we take a leap. These leaps are the most interesting moments we can observe.
 
-Illuminism took a thousand years
+Illuminism came slowly over a thousand years.
 
-French revolution a couple of years
+The French revolution is a leap that couple of years.
 
-Impressionism took some years
+Impressionism took some years too.
 
-The Berlin wall fall was one day
+Berlin wall fall was one day.
 
 ## Why does this happen?
 
