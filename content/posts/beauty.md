@@ -18,7 +18,7 @@ Most movements are slow, but sometimes we take a leap. These leaps are the most 
 
 Illuminism came slowly over a thousand years.
 
-The French revolution is a leap that couple of years.
+The French revolution is a leap that took a couple of years.
 
 Impressionism took some years too.
 
