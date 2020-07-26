@@ -1,7 +1,7 @@
 ---
 title: "Internet Friends"
 date: 2020-07-26T17:24:09+02:00
-draft: true
+draft: false
 featured_image: "/internet-friends/internet-friends.png"
 ---
 
