@@ -91,4 +91,6 @@ Being low-risk contrarian means picking a handful of these and articulating a pl
 
 This gets most of the benefits of being contrarian, at a fraction of the risk
 
+![](/low-risk-contrarian/meme.jpg)
+
 _Inspired by this_ [_blog post_](https://medium.com/@byrnehobart/reasoning-from-first-principles-the-dumbest-thing-smart-people-do-46ff1cbba867) _and a conversation with_ [_Gleb Posobin_](https://twitter.com/posobin)
