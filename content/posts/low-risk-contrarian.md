@@ -68,7 +68,7 @@ We can. 
 
 How?
 
-We can reverse engineer everyone's model of reality. Doing this we figure out the first principles they accept (implicitly). Then we can cherry pick what everyone is wrong about.
+We can reverse engineer everyone's model of reality. Doing this we figure out the first principles they accept (implicitly). Then we can cherry pick what they're wrong about.
 
 Once we find something everyone is wrong about we can act upon that insight.
 
