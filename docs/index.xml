@@ -179,18 +179,6 @@ I think it might be fun for people wanting to introduce themselves via email to 
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://ferrucc.io/projects/</link>
-      <pubDate>Fri, 15 Feb 2019 13:59:23 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/projects/</guid>
-      <description>As soon as I got on the internet I started creating.
-First it was just putting out content, now it&#39;s mostly shipping code.
-Here are most of my products, jobs and skills.
- .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; background-color: black; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article.</description>
-    </item>
-    
-    <item>
       <title>Music I like</title>
       <link>https://ferrucc.io/posts/music/</link>
       <pubDate>Tue, 29 Jan 2019 20:47:34 +0100</pubDate>
@@ -368,6 +356,17 @@ Everything below here is my answer to those questions:
 When Breath Becomes Air At the end of 2018 Ryan Kulp suggested that I read this book.
 I&#39;m so glad I followed his advice as it was moving to read this.
 Being a fairly happy person, I almost always the topic of death and health, in my reading list and even in my daily thoughts.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ferrucc.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ferrucc.io/projects/</guid>
+      <description>I like to make things and have been doing it for some years now
+Here&#39;s a short summary of my experiences
+ .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; background-color: black; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article.center.cf.pv5.ph3.ph4-ns.mw7{ -webkit-animation: fadein 1s;; /* Safari, Chrome and Opera  12.</description>
     </item>
     
   </channel>

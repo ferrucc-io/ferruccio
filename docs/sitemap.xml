@@ -78,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://ferrucc.io/projects/</loc>
-    <lastmod>2019-02-15T13:59:23+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ferrucc.io/posts/music/</loc>
     <lastmod>2019-01-29T20:47:34+01:00</lastmod>
   </url>
@@ -154,6 +149,10 @@
   
   <url>
     <loc>https://ferrucc.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ferrucc.io/projects/</loc>
   </url>
   
   <url>
