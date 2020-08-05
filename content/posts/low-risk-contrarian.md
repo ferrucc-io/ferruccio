@@ -20,13 +20,13 @@ Someone might be able to change this and make VR go mainstream. But the only way
 
 **The models you can build can be either coherent or incoherent**
 
-A coherent model of the world through is either be right or wrong.
+A coherent model of the world is either right or wrong.
 
-An incoherent and implicit view of the world instead doesn't bring us anywhere.
+An incoherent view of the world doesn't help us to make any predictions, so it's useless.
 
 Following the global consensus view all the time is incoherent and messy. It also does not make us realise that we were right or wrong about things. This is bad for coming up with convincing world changing ideas, because if you don't model and predict you can't fine tune on reality.
 
-Following the global consensus is not following a rigorous model of reality. It's more of a following the present _feeling_ of reality.
+The global consensus is not a rigorous model of reality. It's like following the present _feeling_ of reality.
 
 Alternatively, building a model of reality is like an undiversified, high-volatility bet. You can be left with nothing if any of the initial axioms of the model are wrong.
 
