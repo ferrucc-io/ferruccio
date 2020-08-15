@@ -31,7 +31,6 @@ ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{
 body{
     width: 100wh;
 	height: 90vh;
-    background-color: black;
     overflow: hidden;
 }
 
@@ -41,115 +40,6 @@ main.pb1{
     width: 100%;
     height: 100%;
     -webkit-overflow-scrolling: touch;
-}
-
-
-
-article.center.cf.pv5.ph3.ph4-ns.mw7{
-        -webkit-animation: fadein 1s;; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 1s; /* Firefox < 16 */
-        -ms-animation: fadein 1s; /* Internet Explorer */
-         -o-animation: fadein 1s; /* Opera < 12.1 */
-            animation: fadein 1s;
-}
-
-nav.pv3.ph3.ph4-ns{
-    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 1s; /* Firefox < 16 */
-        -ms-animation: fadein 1s; /* Internet Explorer */
-         -o-animation: fadein 1s; /* Opera < 12.1 */
-            animation: fadein 1s;
-}
-
-
-
-@keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-@-moz-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-@-webkit-keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}
-
-
-@-webkit-keyframes reveal {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(100%);
-       -moz-transform: translateY(100%);
-         -o-transform: translateY(100%);
-            transform: translateY(100%);
-  }
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-       -moz-transform: translateY(0);
-         -o-transform: translateY(0);
-            transform: translateY(0);
-  }
-}
-
-@-moz-keyframes reveal {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(100%);
-       -moz-transform: translateY(100%);
-         -o-transform: translateY(100%);
-            transform: translateY(100%);
-  }
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-       -moz-transform: translateY(0);
-         -o-transform: translateY(0);
-            transform: translateY(0);
-  }
-}
-
-@-o-keyframes reveal {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(100%);
-       -moz-transform: translateY(100%);
-         -o-transform: translateY(100%);
-            transform: translateY(100%);
-  }
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-       -moz-transform: translateY(0);
-         -o-transform: translateY(0);
-            transform: translateY(0);
-  }
-}
-
-@keyframes reveal {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(100%);
-       -moz-transform: translateY(100%);
-         -o-transform: translateY(100%);
-            transform: translateY(100%);
-  }
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-       -moz-transform: translateY(0);
-         -o-transform: translateY(0);
-            transform: translateY(0);
-  }
-}
-
-
-
-a{
-    border-color: #fee18b;
 }
 
 article {
@@ -195,19 +85,14 @@ article {
     margin-bottom: 0.4375rem;
     text-decoration: none;
     border-bottom: none;
-}
-
-.project-title-link :hover, .project-title-link :focus, .project-title-link :active {
-    color: white;
-    text-decoration: none;
-    transform: scale(1.05)
+    color: #111;
 }
 
 .project-title {
-        margin: 0px;
-        margin-block-start: 0px;
-        margin-block-end: 0px;
-        line-height: 1.1;
+    margin: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    line-height: 1.1;
 }
 
 .project-description {
@@ -225,16 +110,8 @@ article {
 }
 
 .project-link {
-    color: #fee18b !important;
     border-bottom: none;
 }
-
-.project-link:hover{
-    text-decoration: underline;
-    transform: scale(1.02);
-    font-weight:600;
-}
-
 
 .logo{
     max-height: 60px;
@@ -265,7 +142,6 @@ h2.title {
     justify-content: center;
     -webkit-box-align: center;
     align-items: center;
-    background: rgb(245, 245, 245);
     border-radius: 2px;
     img {
         width: 46px;
@@ -339,10 +215,6 @@ h2.title {
     float:right;
     margin: -20px;
     margin-left: -120px;
-}
-
-.nested-links a:hover{
-    color:white;
 }
 
 img.project-social-icon{
@@ -434,9 +306,6 @@ a.project-social-icon-link{
     </div>
     <div class="project">
         <div class="project-preview">
-            <div class="preview-logo">
-                <p class="f1">🍦</p>
-            </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://venchi.com">
                   <h3 class="project-title">Venchi</h3>
@@ -457,9 +326,6 @@ a.project-social-icon-link{
 <div class="projects">
     <div class="project">
         <div class="project-preview">
-            <div class="preview-logo">
-                <img src="/projects/kit.png" class="logo">
-            </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://kit.st">
                   <h3 class="project-title">KIT - Keep In Touch</h3>
@@ -481,9 +347,6 @@ a.project-social-icon-link{
     </div>
     <div class="project">
         <div class="project-preview">
-            <div class="preview-logo">
-                <img src="/projects/magehash.png" class="logo">
-            </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://magehash.com">
                   <h3 class="project-title">Magehash [Closed]</h3>
@@ -501,9 +364,6 @@ a.project-social-icon-link{
     </div>
     <div class="project">
         <div class="project-preview">
-            <div class="preview-logo">
-                <img src="/projects/klippedin.png" class="logo">
-            </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://klipped.in">
                   <h3 class="project-title">Klipped.in [Sold]</h3>
@@ -525,9 +385,6 @@ a.project-social-icon-link{
     </div>
     <div class="project">
         <div class="project-preview">
-            <div class="preview-logo">
-                <img src="/projects/dripform.png" class="logo">
-            </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://www.producthunt.com/posts/dripform">
                   <h3 class="project-title">Dripform [Closed]</h3>
@@ -549,9 +406,6 @@ a.project-social-icon-link{
     </div>
     <div class="project">
         <div class="project-preview">
-            <div class="preview-logo">
-                <img src="/projects/cryptotrend.png" class="logo">
-            </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://web.archive.org/web/20180426034700/http://cryptotrend.it/">
                   <h3 class="project-title">Cryptotrend [Closed]</h3>
@@ -569,9 +423,6 @@ a.project-social-icon-link{
     </div>
     <div class="project">
         <div class="project-preview">
-            <div class="preview-logo">
-                <img src="/projects/edmnews.png" class="logo">
-            </div>
             <div class="project-content-container">
                 <a class="project-title-link" href="https://edmnews.it">
                   <h3 class="project-title">EDM News Italy [Closed]</h3>
@@ -595,4 +446,4 @@ a.project-social-icon-link{
 </div>
 <h2 class="title">🗺 Around The Internet</h2>
 
-You can find me on [twitter](https://twitter.com/0xferruccio), [github](https://github.com/ferrucc-io) and monthly in your inbox, if you subscribe to my newsletter.
+You can find me on [twitter](https://twitter.com/0xferruccio), [github](https://github.com/ferrucc-io) and monthly in your inbox, if you subscribe to my newsletter:

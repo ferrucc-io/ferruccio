@@ -349,13 +349,10 @@ So how great would it be if you could post your drafts somewhere, read and comme
       <pubDate>Fri, 12 Feb 2010 14:31:50 +0100</pubDate>
       
       <guid>https://ferrucc.io/reading/</guid>
-      <description>I spend a lot of time reading things on the internet and on books.
-What had a strong influence on me?
-What is something that shaped who I am?
-Everything below here is my answer to those questions:
-When Breath Becomes Air At the end of 2018 Ryan Kulp suggested that I read this book.
-I&#39;m so glad I followed his advice as it was moving to read this.
-Being a fairly happy person, I almost always the topic of death and health, in my reading list and even in my daily thoughts.</description>
+      <description>When Breath Becomes Air At the end of 2018 Ryan Kulp told me to read this book.
+It&#39;s about how doctors think and made me think about meaning and how to die with dignity. I strongly recommend.
+Made in America What really stuck with me was the first autobiography I ever read: &amp;ldquo;Made in America&amp;rdquo; by Sam Walton.
+I think that the powerful ideas of &amp;ldquo;every penny we save is a penny our customers save&amp;rdquo; is the only way to keep a huge corporation lean and not wasteful.</description>
     </item>
     
     <item>
@@ -366,7 +363,7 @@ Being a fairly happy person, I almost always the topic of death and health, in m
       <guid>https://ferrucc.io/projects/</guid>
       <description>I like to make things and have been doing it for some years now
 Here&#39;s a short summary of my experiences
- .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; background-color: black; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article.center.cf.pv5.ph3.ph4-ns.mw7{ -webkit-animation: fadein 1s;; /* Safari, Chrome and Opera  12.</description>
+ .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .</description>
     </item>
     
   </channel>
