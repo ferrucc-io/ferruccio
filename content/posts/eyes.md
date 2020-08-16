@@ -11,7 +11,7 @@ This is the world in the eyes of a dog
 
 Our eyes are a also a limited mechanical tool.
 
-The world is the same regardless of the flaws of the tools we use to perceive it.
+The world though is the same regardless of the flaws of the tools we use to perceive it.
 
 This sounds like stoner talk, but has broad implications.
 
