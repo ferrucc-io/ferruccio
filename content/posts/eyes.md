@@ -9,17 +9,19 @@ This is the world in the eyes of a dog
 
 ![](/eyes/world-dog-eyes.webp)
 
-Our eyes are a limited mechanical tool too. But the world is the same regardless of the flaws of the tools we use to perceive it.
+Our eyes are a also a limited mechanical tool.
+
+The world is the same regardless of the flaws of the tools we use to perceive it.
 
 This sounds like stoner talk, but has broad implications.
 
-What you spend a lot of time thinking about becomes the dimension you use to understand the world.
+The things you spend a lot of time thinking about become the tools you use to understand the world.
 
 You spent a lot of energy to find an answer to a question, so you recycle the same thoughts to get another answer.
 
-When trying to answer a question your brain will process all the data it collected and get to an answer. Your ideas are only a remix of the data you collected.
+Your ideas are only a remix of the data you collected.
 
-Different subjects have different ways of organizing information to come up with answers.
+Different subjects have different ways of organizing information and to come up with answers.
 
 **These ways of organizing information are the eyes we use to see the world.**
 
