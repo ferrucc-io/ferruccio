@@ -9,9 +9,9 @@ This is the world in the eyes of a dog
 
 ![](/eyes/world-dog-eyes.webp)
 
-The world that we perceive is the same. Our eyes are a mechanical tool, and the world is the same regardless of the dimensions we perceive.
+Our eyes are a limited mechanical tool too. But the world is the same regardless of the flaws of the tools we use to perceive it.
 
-This sounds like stoner talk, but has broad implications
+This sounds like stoner talk, but has broad implications.
 
 What you spend a lot of time thinking about becomes the dimension you use to understand the world.
 
