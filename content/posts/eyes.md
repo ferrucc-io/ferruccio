@@ -9,7 +9,7 @@ This is the world in the eyes of a dog
 
 ![](/eyes/world-dog-eyes.webp)
 
-The poor things have such a cold experience of the world. Our eyes are also a limited mechanical tool.
+The poor things have such a cold experience of the world. Our eyes while giving us a richer experience of the world are also a limited mechanical tool.
 
 The world doesn't care though. It stays the same regardless of the tools we use to perceive it - whether it's the eyes of a dog or my presbyc ones.
 
