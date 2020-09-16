@@ -2,12 +2,12 @@
 title: "The eyes to think about the world"
 date: 2020-08-16T17:46:44+02:00
 draft: false
-featured_image: '/eyes/eyes.webp'
+featured_image: '/eyes/eyes.jpg'
 ---
 
 This is the world in the eyes of a dog
 
-![](/eyes/world-dog-eyes.webp)
+![](/eyes/world-dog-eyes.jpg)
 
 The poor things have such a cold experience of the world. Our eyes while giving us a richer experience of the world are also a limited mechanical tool.
 
