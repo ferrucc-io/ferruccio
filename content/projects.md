@@ -243,7 +243,7 @@ a.project-social-icon-link{
                   <h3 class="project-title">Intercom</h3>
                 </a>
                 <div class="project-description">
-                    Worked on a team building new product
+                    Started on the Marketplace team. Then worked on a team building [Series](https://www.intercom.com/series) from the ground up
                 </div>
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">June 2019 - July 2020</div>
