@@ -243,7 +243,7 @@ a.project-social-icon-link{
                   <h3 class="project-title">Intercom</h3>
                 </a>
                 <div class="project-description">
-                    Started on the Marketplace team. Then worked on a team building [Series](https://www.intercom.com/series) from the ground up
+                    Started on the Marketplace team. Then worked on a team building <a href="https://www.intercom.com/series">Series</a> from the ground up
                 </div>
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">June 2019 - July 2020</div>
@@ -352,7 +352,7 @@ a.project-social-icon-link{
                   <h3 class="project-title">Magehash [Closed]</h3>
                 </a>
                 <div class="project-description">
-                    Static Asset Monitoring, to avoid Magecart attacks <a href="/magecart" class="project-link">more about it here</a>
+                    Static Asset Monitoring, to avoid Magecart attacks <a href="/magecart">more about it here</a>
                 </div>
                 <div class="project-meta">
                     <div style="margin-right: 0.4375rem;">October 2018</div>
