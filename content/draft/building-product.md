@@ -63,12 +63,11 @@ The common themes, together with our intuition helped us pick the main problems 
 
 ### Requirements
 
-**So what are caracteristics of our solution?**
+Our solution has to be:
 
 * Easy to adopt
-* Transparency on data
-* Friendly and approachable even with no training
-* Non technical people have to be able to gain meaningful insights
+* Transparent with the data
+* Friendly and approachable even with no training (non technical people have to be able to gain meaningful insights)
 
 
 ## Rules of the universe
