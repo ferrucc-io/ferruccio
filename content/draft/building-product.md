@@ -29,7 +29,7 @@ While building [June](https://june.so) me and [Enzo](https://twitter.com/0zne) h
 
 ---
 
-> As we followed this process to build June, we'll use our and learnings and answers as an example.
+> As we followed this process to build June, we'll use our and learnings and answers as an example. To use his framework you can use this [template](https://docs.google.com/document/d/15lA2_4lDx9fXKKew0SFZjx5zYOAYmCAhTKYGk4Zjdeg/edit?usp=sharing)
 
 ## What to build
 
