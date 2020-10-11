@@ -4,16 +4,16 @@ date: 2020-10-11T14:39:58+02:00
 draft: false
 ---
 
-I like building things without thinking too much. This works extremely well when building something small on your own.
+I like building things without thinking too much. This works extremely well when building something small on my own.
 
 When working with other people this doesn't scale.
 Having a rational method and strategy in approaching problems allows your team to make decisions independently, so you can move faster.
 
 If you want to build something amazing having a strong method makes all the difference. 
 
-While building [June](https://june.so) me and Enzo have defined our process and are sharing it with you. 
+While building [June](https://june.so) me and [Enzo](https://twitter.com/0zne) have defined our process and are sharing it with you. 
 
-**With the hope that It will help you build something amazing**
+**We hope that It will help you build something amazing**
 
 ---
 
@@ -29,14 +29,15 @@ While building [June](https://june.so) me and Enzo have defined our process and 
 
 ---
 
-To keep this process pragmatic, we're going to use June, our product, as an example.
+> As we followed this process to build June, we'll use our and learnings and answers as an example.
 
 ## What to build
 
 We want to build a product analytics software.
 
 Almost a year ago me and Enzo were talking about starting a business together.
-After discussions about who we like talking to we realised we love those who build new things into the world.
+After discussions about who we like talking to we realised we love those who build new things.
+
 We believe that analytics software is what enables people to build better products.
 
 So for the next 10 years we decided to narrow our focus and learning efforts to become the best in the world at product analytics.
@@ -45,7 +46,7 @@ So for the next 10 years we decided to narrow our focus and learning efforts to 
 
 To learn what we should build first we started from our personal experience. We used our experience to draft a User Research template (you can find it [here](https://docs.google.com/document/d/1P_8US1nRmsXcEbv-OL8scNWQi_bb_Kx2puOBuUHRWuw/)).
 
-We ran almost 100 user interviews with Product people (from leaders to product managers) at the best companies in the world.
+We ran almost 100 user interviews with Product people (from leaders to individual contributors) at the best companies in the world.
 
 ![](/building-product/user-interviews.png)
 
@@ -57,7 +58,7 @@ All these pain points together with our intuition helped us pick the main proble
 
 - Data is not reliable and opaque
 - “I am not independent in my analysis”
-- It's hard to understand behaviours
+- It's hard to understand user behaviours
 
 
 ### Requirements
@@ -72,7 +73,7 @@ All these pain points together with our intuition helped us pick the main proble
 
 ## Rules of the universe
 
-These requirements then feed into some **Rules of the Universe**, the guiding principles to build our product.
+These requirements then feed into the **Rules of the Universe** of our product. The guiding principles of our product.
 
 > A Principle is a strong opinion that is used to make decisions in a fast and consistent way
 
