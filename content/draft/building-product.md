@@ -29,7 +29,7 @@ While building [June](https://june.so) me and [Enzo](https://twitter.com/0zne) h
 
 ---
 
-> As we followed this process to build June, we'll use our and learnings and answers as an example. To use his framework you can use this [template](https://docs.google.com/document/d/15lA2_4lDx9fXKKew0SFZjx5zYOAYmCAhTKYGk4Zjdeg/edit?usp=sharing)
+> As we followed this process to build June, we'll use our and learnings and answers as an example. To use his framework you can make a copy of this [template](https://docs.google.com/document/d/15lA2_4lDx9fXKKew0SFZjx5zYOAYmCAhTKYGk4Zjdeg/edit?usp=sharing)
 
 ## What to build
 
@@ -46,15 +46,15 @@ So for the next 10 years we decided to narrow our focus and learning efforts to 
 
 To learn what we should build first we started from our personal experience. We used our experience to draft a User Research template (you can find it [here](https://docs.google.com/document/d/1P_8US1nRmsXcEbv-OL8scNWQi_bb_Kx2puOBuUHRWuw/)).
 
-We ran almost 100 user interviews with Product people (from leaders to individual contributors) at the best companies in the world.
+We then used our template to run almost 100 user interviews with Product people (from leaders to individual contributors) at the best companies in the world.
 
 ![](/building-product/user-interviews.png)
 
-We then collected all our learnings in a pain point map
+We then collected all of the pain points people talked about in a map:
 
 ![](/building-product/pain-point-map.png)
 
-All these pain points together with our intuition helped us pick the main problems we want to tackle
+The common themes, together with our intuition helped us pick the main problems we want to tackle
 
 - Data is not reliable and opaque
 - “I am not independent in my analysis”
