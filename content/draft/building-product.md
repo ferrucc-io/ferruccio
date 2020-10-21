@@ -4,14 +4,15 @@ date: 2020-10-11T14:39:58+02:00
 draft: false
 ---
 
-I like building things without thinking too much. This works extremely well when building something small on my own.
+**This is a draft - article is work in progress**
 
-When working with other people this doesn't scale.
-Having a rational method and strategy in approaching problems allows your team to make decisions independently, so you can move faster.
+If you're working on something new, there are so many directions your work and product can take.
 
-If you want to build something amazing having a strong method makes all the difference. 
+The biggest risk is that you build something that is hard to explain and no one wants.
 
-While building [June](https://june.so) me and [Enzo](https://twitter.com/0zne) have defined our process and are sharing it with you. 
+A good process minimizes this risk. Helping  you move in the direction of building something people want.
+
+To build [June](https://june.so) me and my cofounder [Enzo](https://twitter.com/0zne) used a very systematic approach. We decided to shared it as you might find useful.
 
 **We hope that It will help you build something amazing**
 
@@ -20,6 +21,8 @@ While building [June](https://june.so) me and [Enzo](https://twitter.com/0zne) h
 #### Table of contents
 - What to build
   - Problems with the current solutions
+  - Insights
+  - How might we
   - Requirements
 - Rules of the universe
 - Positioning
@@ -29,24 +32,29 @@ While building [June](https://june.so) me and [Enzo](https://twitter.com/0zne) h
 
 ---
 
-> As we followed this process to build June, we'll use our answers to each section as an example. To use his framework you can make a copy of this [template](https://docs.google.com/document/d/15lA2_4lDx9fXKKew0SFZjx5zYOAYmCAhTKYGk4Zjdeg/edit?usp=sharing)
+> *As we followed this process to build June, we'll use our answers to each section as an example. To use his framework you can make a copy of this [template](https://docs.google.com/document/d/15lA2_4lDx9fXKKew0SFZjx5zYOAYmCAhTKYGk4Zjdeg/edit?usp=sharing)*
 
 ## What to build
 
-We want to build a product analytics software.
+***Narrow down your focus to something you like or that would help people you like.***
+
+We want to build analytics software.
 
 Almost a year ago me and Enzo were talking about starting a business together.
+
 After discussions about who we like talking to we realised we love those who build new things.
 
-We believe that analytics software is what enables people to build better products.
+Analytics software enables these people to build better things.
 
-So for the next 10 years we decided to narrow our focus and learning efforts to become the best in the world at product analytics.
+So for the next 10 years we decided to narrow our focus to become the best in the world at product analytics.
 
 ### Problems with the current solutions
 
-To learn what we should build first we started from our personal experience. We used our experience to draft a User Research template (you can find it [here](https://docs.google.com/document/d/1P_8US1nRmsXcEbv-OL8scNWQi_bb_Kx2puOBuUHRWuw/)).
+***Find a way to get some conversations going with your target audience.***
 
-We then used our template to run almost 100 user interviews with Product people (from leaders to individual contributors) at the best companies in the world.
+To learn what we should build first we started from our personal experience. We used our experience to draft a User Research template (you can find it [here](https://docs.google.com/document/d/1cahACtO53cz3l135ktyhaayf9BVrpswEcT_yUh75i78/edit?usp=sharing)).
+
+We then used our template (with many variations) to run almost 100 user interviews with Product people (from leaders to individual contributors) at the best companies in the world.
 
 ![](/building-product/user-interviews.png)
 
@@ -54,14 +62,33 @@ We then collected all of the pain points people talked about in a map:
 
 ![](/building-product/pain-point-map.png)
 
+### Insights
+
+***Make some assumptions based on your conversations***
+
 The common themes, together with our intuition helped us pick the main problems we want to tackle
 
 - Data is not reliable and opaque
 - “I am not independent in my analysis”
 - It's hard to understand user behaviours
 
+### How might we
+
+***Dream about possible solutions you can build***
+
+After collecting some insights it's time to come up with a couple of options of things to build.
+
+The first idea was to expand on the [Figma extension](https://www.figma.com/community/plugin/815605811994993448) we had built as it had a couple hundred users
+
+![](/building-product/figma-extension.png)
+
+The second idea we had was more end to end:
+
+![](/building-product/end-to-end.png)
 
 ### Requirements
+
+***Make sure that what you build tests your assumptions***
 
 Our solution has to be:
 
@@ -71,10 +98,16 @@ Our solution has to be:
 
 
 ## Rules of the universe
+***Define some rules that can make decisions for you***
 
-These requirements then feed into the **Rules of the Universe** of our product. The guiding principles of our product.
+![](/building-product/rules-of-the-universe.png)
 
-> A Principle is a strong opinion that is used to make decisions in a fast and consistent way
+Once you defined your requirements - you can define some guiding principles for your product development
+
+> *A Principle is a strong opinion that is used to make decisions in a fast and consistent way*
+
+These principles then evolved into the **Rules of the Universe** of our product.
+
 
 1. **No black boxes**
 
@@ -86,11 +119,11 @@ The product is built around how the team works, not the other way around.
 
 3. **Optimise for the most common question not the most complex one**
 
-Optimise for speed and ease of use of the happy path use case
+Optimise for speed and ease of use of the happy path
 
 4. **Guarantee trust in data**
 
-Be conservative and aim for a quality over quantity in data collection and analysis
+Be conservative and aim for quality over quantity in both data collection and analysis
 
 5. **Context specific over generic use cases**
 
@@ -99,6 +132,7 @@ eg. Build tools to measure signup activation, not tools to visualize a sequence 
 
 
 ## Positioning
+***Overlap your product with a possible market***
 
 Your product has to be a good fit for someone, it has to serve a market. June is built for non technical product managers.
 
@@ -109,13 +143,19 @@ June is the simplest product analytics solution. We answer the most common quest
 * Is the increased discoverability of this feature increasing adoption?
 * Who are your most successful users?
 
+![](/building-product/positioning.png)
+
 ## Prototyping
+***Turn your ideas into something real***
 
 The next step after positioning the product is turning it into either some mockups, a principle project or a frontend only prototype.
 
 The idea here is to see concretely the look and feel of the app.
 
+![](/building-product/prototype.png)
+
 ## Scoping
+***Decide what corners you'll cut***
 
 Once you have a clear idea of where you're going - you can take a step back - and pick the smallest set of features that makes a lovable product.
 
@@ -123,11 +163,23 @@ You have to be ruthless in this effort. If after finishing this exercise everyon
 
 The idea here is to set a deliberately ambitious deadline of something like 2 weeks to get to something that works end to end.
 
-## Building
+Scoping as an ongoing process. **It's a process that sequences the work in a way that is optimised for discovery**.
 
-This part is the most straightforward, just put your heads down, set small goals and reach them consistently.
+We recalibrate our roadmap week by week on Mondays, to always work to answer our biggest open questions.
+
+![](/building-product/roadmap.png)
+
+
+## Building
+***Make it happen***
+
+This part is the most straightforward, make small bets to get to some early wins to build momentum.
+
+![](/building-product/home.png)
+
 
 We started with a cupcake, but are working towards a wedding cake.
+
 
 ![](/building-product/cupcake.png)
 
