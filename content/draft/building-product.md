@@ -62,7 +62,7 @@ We then collected all of the pain points people talked about in a map:
 
 ![](/building-product/pain-point-map.png)
 
-Looking backward we feel this was the first validation we worked on something meaningful. Setting up interviews with product teams was extremely easy. They were both excited and pro active on sharing about their main problems with product related data.
+Looking back we feel this was the first validation we worked on something meaningful. Setting up interviews with product teams was extremely easy. They were both excited and pro active in sharing their main problems with their analytics setup.
 
 ### Insights
 
