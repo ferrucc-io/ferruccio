@@ -152,8 +152,6 @@ June is the simplest product analytics solution. We answer the most common quest
 * Is the increased discoverability of this feature increasing adoption?
 * Who are your most successful users?
 
-![](/building-product/positioning.png)
-
 ## Prototyping
 ***Turn your ideas into something real***
 
