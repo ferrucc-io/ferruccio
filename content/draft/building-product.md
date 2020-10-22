@@ -36,7 +36,7 @@ To build [June](https://june.so) me and my cofounder [Enzo](https://twitter.com/
 
 ## What to build
 
-***Narrow down your focus to something you like or that would help people you like.***
+***Narrow down your focus to something you love or that would help people you have empathy for***
 
 We want to build analytics software.
 
@@ -62,6 +62,8 @@ We then collected all of the pain points people talked about in a map:
 
 ![](/building-product/pain-point-map.png)
 
+Looking backward we feel this was the first validation we worked on something meaningful. Setting up interviews with product teams was extremely easy. They were both excited and pro active on sharing about their main problems with product related data.
+
 ### Insights
 
 ***Make some assumptions based on your conversations***
@@ -71,6 +73,11 @@ The common themes, together with our intuition helped us pick the main problems 
 - Data is not reliable and opaque
 - “I am not independent in my analysis”
 - It's hard to understand user behaviours
+
+The second order effects of this are that:
+- Analysis gets overseen
+- People don't know what they're tracking and if the numbers are right
+
 
 ### How might we
 
@@ -82,9 +89,11 @@ The first idea was to expand on the [Figma extension](https://www.figma.com/comm
 
 ![](/building-product/figma-extension.png)
 
-The second idea we had was more end to end:
+The second idea we had was more of an end to end experience:
 
 ![](/building-product/end-to-end.png)
+
+What if we built an easy to understand product, that allows product managers to answer their most common questions indipendently?
 
 ### Requirements
 
@@ -153,6 +162,11 @@ The next step after positioning the product is turning it into either some mocku
 The idea here is to see concretely the look and feel of the app.
 
 ![](/building-product/prototype.png)
+
+We used high level mockups to sketch the main flows within our product. 
+
+We then made high fidelity designs to get people around us excited and to start coding with some clear ideas in mind.
+
 
 ## Scoping
 ***Decide what corners you'll cut***
