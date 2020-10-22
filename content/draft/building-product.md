@@ -19,16 +19,16 @@ To build [June](https://june.so) me and my cofounder [Enzo](https://twitter.com/
 ---
 
 #### Table of contents
-- What to build
-  - Problems with the current solutions
-  - Insights
-  - How might we
-  - Requirements
-- Rules of the universe
-- Positioning
-- Prototyping
-- Scoping
-- Building
+- [What to build](#what-to-build)
+  - [Problems with the current solutions](#problems-with-the-current-solutions)
+  - [Insights](#insights)
+  - [How might we](#how-might-we)
+  - [Requirements](#requirements)
+- [Rules of the universe](#rules-of-the-universe)
+- [Positioning](#positioning)
+- [Prototyping](#prototyping)
+- [Scoping](#scoping)
+- [Building](#building)
 
 ---
 
@@ -190,7 +190,7 @@ This part is the most straightforward, make small bets to get to some early wins
 ![](/building-product/home.png)
 
 
-We started with a cupcake, but are working towards a wedding cake.
+We [started with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/), but are working towards a wedding cake.
 
 
 ![](/building-product/cupcake.png)
