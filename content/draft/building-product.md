@@ -185,7 +185,7 @@ We recalibrate our roadmap week by week on Mondays, to always work to answer our
 ## Building
 ***Make it happen***
 
-This part is the most straightforward, make small bets to get to some early wins to build momentum.
+This part is the most straightforward, make small bets to get to some early wins, build momentum.
 
 ![](/building-product/home.png)
 
