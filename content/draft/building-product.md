@@ -1,10 +1,9 @@
 ---
 title: "Building Product"
 date: 2020-10-11T14:39:58+02:00
+featured_image: "/building-product/building-product.png"
 draft: false
 ---
-
-**This is a draft - article is work in progress**
 
 If you're working on something new, there are so many directions your work and product can take.
 
