@@ -15,9 +15,15 @@ function beep() {
 
 $(document).ready(function(){
 	$.getJSON("https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json", function(data) {
-		if(data.data.party_control.find(race => race.race_type === "president" ).winner){
+    debugger
+    const race = data.data.party_control.find(race => race.race_type === "president" )
+		if(race.winner){
       beep()
     }
+    race.parties.democrat
+    var template = Handlebars.compile($("#party-template").html())
+		$("#democrats").html(template(race.parties.democrat))
+    $("#republicans").html(template(race.parties.republican))
 	})
 })
 
@@ -28,6 +34,26 @@ $(document).ready(function(){
 <p>As requested by <a href='https://twitter.com/hunterwalk/status/1324416369857720320'>Hunter Walk</a></p>
 
 <p>Data sourced from the <a href='https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json'>NYT</a></p>
+
+<div id='democrats'></div>
+<div id='republicans'></div>
+
+<script id="party-template" type="text/x-handlebars-template">
+  <div>
+    {{name_abbr}} Votes: {{votes}} - {{percent}}%
+    Is winner? {{winner}}
+  </div>
+</script>
+
+<script id="election-template" type="text/x-handlebars-template">
+
+    <div>
+    <p class="dont-break-out"><span class="b dont-break-out">{{title}}</span> - {{address}}</p>
+    </div>
+  
+  
+</script>
+  
 
 <script>
   $('#winner-beep').click(function(){
