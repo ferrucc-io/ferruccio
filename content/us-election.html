@@ -18,6 +18,9 @@ function loadData(){
     const race = data.data.party_control.find(race => race.race_type === "president" )
 		if(race.winner){
       beep()
+      setInterval(function(){
+        beep()
+      }, 1000);
     }
     race.parties.democrat
     var template = Handlebars.compile($("#party-template").html())
