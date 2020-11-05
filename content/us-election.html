@@ -13,9 +13,8 @@ function beep() {
     snd.play();
 }
 
-$(document).ready(function(){
-	$.getJSON("https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json", function(data) {
-    debugger
+function loadData(){
+  $.getJSON("https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json", function(data) {
     const race = data.data.party_control.find(race => race.race_type === "president" )
 		if(race.winner){
       beep()
@@ -25,6 +24,14 @@ $(document).ready(function(){
 		$("#democrats").html(template(race.parties.democrat))
     $("#republicans").html(template(race.parties.republican))
 	})
+}
+
+setInterval(function(){
+  loadData()
+}, 5000);
+
+$(document).ready(function(){
+	loadData()
 })
 
 
