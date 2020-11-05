@@ -38,12 +38,15 @@ $(document).ready(function(){
 </script>
 
 <button id='winner-beep'>Try the beep</button>
-<p>As requested by <a href='https://twitter.com/hunterwalk/status/1324416369857720320'>Hunter Walk</a></p>
 
-<p>Data sourced from the <a href='https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json'>NYT</a></p>
 
 <div id='democrats'></div>
 <div id='republicans'></div>
+
+
+<p>As requested by <a href='https://twitter.com/hunterwalk/status/1324416369857720320'>Hunter Walk</a></p>
+
+<p>Data sourced from the <a href='https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json'>NYT</a></p>
 
 <script id="party-template" type="text/x-handlebars-template">
   <div>
@@ -67,3 +70,9 @@ $(document).ready(function(){
     beep()
   })
 </script>
+
+<style>
+  .f1{
+    line-height: 48px;
+  }
+</style>
