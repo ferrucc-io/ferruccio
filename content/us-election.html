@@ -21,6 +21,9 @@ function loadData(){
     }
     race.parties.democrat
     var template = Handlebars.compile($("#party-template").html())
+    var winnerTemplate = Handlebars.compile($("#winner-template").html())
+    winnerTemplate
+    $("#winner").html(winnerTemplate(race))
 		$("#democrats").html(template(race.parties.democrat))
     $("#republicans").html(template(race.parties.republican))
 	})
@@ -40,6 +43,7 @@ $(document).ready(function(){
 <button id='winner-beep'>Try the beep</button>
 
 
+<div id='winner'></div>
 <div id='democrats'></div>
 <div id='republicans'></div>
 
@@ -50,8 +54,31 @@ $(document).ready(function(){
 
 <script id="party-template" type="text/x-handlebars-template">
   <div>
-    {{name_abbr}} Votes: {{votes}} - {{percent}}%
-    Is winner? {{winner}}
+    <p style='font-weight: bold; font-size: 36px'>{{name_abbr}}</p>
+    <div style='display: flex; align-items: flex-end'>
+      <div style='font-size: 36px'>
+        {{percent}}%
+      </div>
+      <div style='margin-left: 1rem; color: gray'>
+        {{votes}} votes
+      </div>
+    </div>    
+  </div>
+</script>
+
+<script id="winner-template" type="text/x-handlebars-template">
+  <div>
+    {{#if race.winner}}
+      <h1>The US president is Joe Biden</h1>
+    {{else}}
+    <div style='display: flex; align-items: center; justify-content: flex-start'>
+      <svg height="50" width="50" class="blinking">
+        <circle cx="25" cy="25" r="10" fill="red" />
+        Sorry, your browser does not support inline SVG.  
+      </svg> 
+      <h1>Joe Biden hasn't won yet</h1>
+    </div>
+    {{/if}}
   </div>
 </script>
 
@@ -75,4 +102,58 @@ $(document).ready(function(){
   .f1{
     line-height: 48px;
   }
+
+  .blinking {
+  -webkit-animation: 1s blink ease infinite;
+  -moz-animation: 1s blink ease infinite;
+  -ms-animation: 1s blink ease infinite;
+  -o-animation: 1s blink ease infinite;
+  animation: 1s blink ease infinite;
+  
+}
+
+@keyframes "blink" {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
 </style>
