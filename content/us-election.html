@@ -25,8 +25,8 @@ function loadData(){
     race.parties.democrat
     var template = Handlebars.compile($("#party-template").html())
     var winnerTemplate = Handlebars.compile($("#winner-template").html())
-    winnerTemplate
-    $("#winner").html(winnerTemplate(race))
+    const isWinner = {winner: race.winner === 'democrat'}
+    $("#winner").html(winnerTemplate(isWinner))
 		$("#democrats").html(template(race.parties.democrat))
     $("#republicans").html(template(race.parties.republican))
 	})
@@ -71,7 +71,7 @@ $(document).ready(function(){
 
 <script id="winner-template" type="text/x-handlebars-template">
   <div>
-    {{#if race.winner}}
+    {{#if winner }}
       <h1>The US president is Joe Biden</h1>
     {{else}}
     <div style='display: flex; align-items: center; justify-content: flex-start'>
