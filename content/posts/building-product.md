@@ -1,6 +1,6 @@
 ---
 title: "Building Product"
-date: 2020-10-11T14:39:58+02:00
+date: 2020-11-11T10:00:58+01:00
 featured_image: "/building-product/building-product.png"
 draft: false
 ---
@@ -92,7 +92,7 @@ The second idea we had was more of an end to end experience:
 
 ![](/building-product/end-to-end.png)
 
-What if we built an easy to understand product, that allows product managers to answer their most common questions indipendently?
+What if we built an easy to understand product, that allows product managers to answer their most common questions independently?
 
 ### Requirements
 
@@ -170,7 +170,7 @@ We then made high fidelity designs to get people around us excited and to start 
 
 Once you have a clear idea of where you're going - you can take a step back - and pick the smallest set of features that makes a lovable product.
 
-You have to be ruthless in this effort. If after finishing this exercise everyone in your team isn't in tears and embarassed of the result then you probably didn't cut enough.
+You have to be ruthless in this effort. If after finishing this exercise everyone in your team isn't in tears and embarrassed of the result then you probably didn't cut enough.
 
 The idea here is to set a deliberately ambitious deadline of something like 2 weeks to get to something that works end to end.
 
