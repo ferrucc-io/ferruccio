@@ -12,5 +12,6 @@ Here's a list of experiments I did:
 4. Log every 30 minutes of my life on Twitter
 5. Auto delete all my tweets after one week
 6. Grow an instagram account to 10k followers using fake quotes
+7. Make an [alarm](/us-election) that rang when Biden won the elections
 
 Not many other experiments come to my mind. But I surely did 10x more.
