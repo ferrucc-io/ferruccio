@@ -6,7 +6,7 @@ draft: true
 
 When building software - It’s hard to do napkin math on what your system requirements will be. So the best practice when building something is getting a v0.1 up and running first and then iterate as needed.
 
-To contain complexity and building the simplest solution first, while building June we picked Postgres as our database.
+To contain complexity and building the simplest solution first, while building June we picked Postgres as our first database.
 
 This post is a good introduction to analytics DBs for developers that only have experience building production apps
 
@@ -97,13 +97,17 @@ Add something like Datadog, New Relic or Honeycomb to your stack - it’s expens
 
 ## Keep it 100ms
 
-2020 Saas products have sub 100ms response times for every endpoint
+2020 Saas products have sub 100ms response times for every transactional endpoint (every user interaction with the objects in your app)
 
-Adding this sort of instrumentation will make you find
+Adding this sort of instrumentation will make you find the bottlenecks.
+
+By setting slack alerts when your endpoints become too slow you'll neg yourself into fixing performance issues.
 
 ## Quick wins
 
 ### N+1 Queries
+
+One of th
 
 ### Adding the right indexes
 
@@ -116,7 +120,9 @@ GiST is a good﻿ use case if you have dynamic data that gets updated frequently
 GIN indexes are a lot more heavy to build, but then a lot faster to read from
 
 ## Citus
+
 Citus is used by companies like:
+
 * Heap to manage 5PB of event data
 * Pex - to index and store all of the videos of the internet
 * Algolia - to run analytics on the queries people run
