@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ferrucc.io/posts/building-product/</loc>
-    <lastmod>2020-11-11T10:00:58+01:00</lastmod>
+    <loc>https://ferrucc.io/</loc>
+    <lastmod>2021-04-06T18:33:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ferrucc.io/</loc>
-    <lastmod>2020-11-11T10:00:58+01:00</lastmod>
+    <loc>https://ferrucc.io/posts/immutable-users/</loc>
+    <lastmod>2021-04-06T18:33:39+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://ferrucc.io/posts/</loc>
+    <lastmod>2021-04-06T18:33:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ferrucc.io/posts/building-product/</loc>
     <lastmod>2020-11-11T10:00:58+01:00</lastmod>
   </url>
   
