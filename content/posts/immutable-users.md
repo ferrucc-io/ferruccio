@@ -10,7 +10,9 @@ June allows you to add dynamic traits to your users. For example, if you want to
 
 **The value of these properties is mutable and has no relationship with time. We're thinking about making it immutable.**
 
-Since we added this feature, we haven't entirely made our minds about this compromise. This problem comes up for many companies. I decided to write about how we're thinking about it.
+Since we added this feature, we haven't entirely made our minds about this compromise.
+
+This problem comes up for many companies. Here's how we're thinking about it.
 
 ## Our current data model (mutable)
 
