@@ -20,6 +20,7 @@ Users table
 - user_id (from Segment)
 - email
 - traits
+- updated_at
 
 The traits field is a JSON that gets updated with new data any time one user sends us an identify call.
 
