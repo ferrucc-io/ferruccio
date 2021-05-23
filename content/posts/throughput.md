@@ -10,7 +10,7 @@ Becoming the most prolific version of yourself is the most important thing you c
 
 Making a group of people become the most prolific version of themselves sounds like a reasonable way to build a great company. So that's what we're trying to do.
 
-Throughput is the speed of getting to some outputs. The faster you get, the more things you do, and your build momentum.
+Throughput is the speed of getting to some outputs. The faster you get, the more things you do, and the more you build momentum.
 
 Once you start moving, it's hard to stop. That's why the best choice since starting June was creating a [weekly changelog](https://changelog.june.so/).
 
