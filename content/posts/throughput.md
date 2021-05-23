@@ -12,7 +12,7 @@ Making a group of people become the most prolific version of themselves sounds l
 
 Throughput is the speed of getting to some outputs. The faster you get, the more things you do, and your build momentum.
 
-Once you start moving, it's hard to stop. I think this is the reason why the best thing since we started June was creating a [weekly changelog](https://changelog.june.so/).
+Once you start moving, it's hard to stop. That's why the best choice since starting June was creating a [weekly changelog](https://changelog.june.so/).
 
 {{< tweet 1391116997161885703  >}}
 
