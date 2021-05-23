@@ -87,3 +87,5 @@ Most of the time, thinking through things makes me realize my fear is irrational
 ## Let's be pirates
 
 This will take a lot of time and effort, but it will work out for us! If you're optimistic and ambitious I hope this will help you find your way.
+
+_Ignore any typos - I don't do edits_
