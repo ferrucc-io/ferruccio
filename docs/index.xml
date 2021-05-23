@@ -6,10 +6,22 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Apr 2021 18:33:39 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 May 2021 10:39:53 +0200</lastBuildDate>
     
 	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The heartbeat of your startup</title>
+      <link>https://ferrucc.io/posts/throughput/</link>
+      <pubDate>Sun, 23 May 2021 10:39:53 +0200</pubDate>
+      
+      <guid>https://ferrucc.io/posts/throughput/</guid>
+      <description>The only thing that matters is throughput.
+Becoming the most prolific version of yourself is the most important thing you can do to become proud of your work.
+Making a group of people become the most prolific version of themselves sounds like a reasonable way to build a great company. So that&#39;s what we&#39;re trying to do.
+Throughput is the speed of getting to some outputs. The faster you get, the more things you do, and your build momentum.</description>
+    </item>
     
     <item>
       <title>Mutable or immutable user properties</title>
