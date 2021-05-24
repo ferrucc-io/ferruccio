@@ -18,7 +18,7 @@ Once you start moving, it's hard to stop. That's why the best choice since start
 
 **What is the state of mind that makes me highly prolific? Focus.**
 
-I need to be able to focus. I want to live in a place that allows you to focus on the 4 hours of work in your day where I can do great work.
+I need to be able to focus. I want to live in a place that allows you to focus on the 4 hours of work in my day where I can do great work.
 
 Working as an engineer in an early stage company is not about doing long hours. It's a performance job. I have around 4 hours a day of intense and game-changing work I can squeeze out of myself if I do everything right.
 
@@ -86,6 +86,6 @@ Most of the time, thinking through things makes me realize my fear is irrational
 
 ## Let's be pirates
 
-This will take a lot of time and effort, but it will work out for us! If you're optimistic and ambitious I hope this will help you find your way.
+This is by no means the way of doing things. It takes a lot of time, effort and iterations to find what works. This is where we are today as a team of three, soon to be four. I hope this will encourage you to be a pirate too and find your way.
 
 _Ignore any typos - I don't do edits_
