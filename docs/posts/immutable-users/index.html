@@ -27,7 +27,7 @@ if (!doNotTrack) {
     <meta name="twitter:image" content="https://ferrucc.io/">
     <meta property="og:image" content="https://ferrucc.io/">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.60.1" />
+    <meta name="generator" content="Hugo 0.76.1" />
     
     
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -47,7 +47,7 @@ if (!doNotTrack) {
     
 
     <meta property="og:title" content="Mutable or immutable user properties" />
-<meta property="og:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&#39;re hiring
+<meta property="og:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&rsquo;re hiring
 June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &ldquo;plan&rdquo; trait to your users.
 The value of these properties is mutable and has no relationship with time." />
 <meta property="og:type" content="article" />
@@ -55,18 +55,19 @@ The value of these properties is mutable and has no relationship with time." />
 <meta property="article:published_time" content="2021-04-06T18:33:39+02:00" />
 <meta property="article:modified_time" content="2021-04-06T18:33:39+02:00" />
 <meta itemprop="name" content="Mutable or immutable user properties">
-<meta itemprop="description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&#39;re hiring
+<meta itemprop="description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&rsquo;re hiring
 June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &ldquo;plan&rdquo; trait to your users.
 The value of these properties is mutable and has no relationship with time.">
-<meta itemprop="datePublished" content="2021-04-06T18:33:39&#43;02:00" />
-<meta itemprop="dateModified" content="2021-04-06T18:33:39&#43;02:00" />
+<meta itemprop="datePublished" content="2021-04-06T18:33:39+02:00" />
+<meta itemprop="dateModified" content="2021-04-06T18:33:39+02:00" />
 <meta itemprop="wordCount" content="694">
 
 
 
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Mutable or immutable user properties"/>
-<meta name="twitter:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&#39;re hiring
+<meta name="twitter:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&rsquo;re hiring
 June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &ldquo;plan&rdquo; trait to your users.
 The value of these properties is mutable and has no relationship with time."/>
 
@@ -123,11 +124,11 @@ The value of these properties is mutable and has no relationship with time."/>
       <time class="f6 mv4 dib tracked" datetime="2021-04-06T18:33:39&#43;02:00">April 6, 2021</time>
     </header>
 
-    <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img pr4-l w-two-thirds-l"><p><em>This is an open engineering question at <a href="https://june.so">June</a>. If you want to solve problems like this one, please reach out - <a href="https://www.notion.so/projectanalytics/Founding-Team-Engineer-339274009f594b58aff3d4bfd8e3f93e">we're hiring</a></em></p>
+    <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img pr4-l w-two-thirds-l"><p><em>This is an open engineering question at <a href="https://june.so">June</a>. If you want to solve problems like this one, please reach out - <a href="https://www.notion.so/projectanalytics/Founding-Team-Engineer-339274009f594b58aff3d4bfd8e3f93e">we&rsquo;re hiring</a></em></p>
 <p>June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your <strong>pro plan</strong>, you can do that by adding a &ldquo;plan&rdquo; trait to your users.</p>
-<p><strong>The value of these properties is mutable and has no relationship with time. We're thinking about making it immutable.</strong></p>
-<p>Since we added this feature, we haven't entirely made our minds about this compromise.</p>
-<p>This problem comes up for many companies. Here's how we're thinking about it.</p>
+<p><strong>The value of these properties is mutable and has no relationship with time. We&rsquo;re thinking about making it immutable.</strong></p>
+<p>Since we added this feature, we haven&rsquo;t entirely made our minds about this compromise.</p>
+<p>This problem comes up for many companies. Here&rsquo;s how we&rsquo;re thinking about it.</p>
 <h2 id="our-current-data-model-mutable">Our current data model (mutable)</h2>
 <p>Users table</p>
 <ul>
@@ -146,9 +147,9 @@ The value of these properties is mutable and has no relationship with time."/>
 <li>Analytics databases have poor support for updating data, as they encourage keeping data immutable</li>
 </ul>
 <h2 id="counting-active-users-on-the-pro-plan-case-a">Counting active users on the pro plan (Case A)</h2>
-<p>Here's an example of unexpected behavior you get from modeling data this way:</p>
-<p>I want to know the number of active users on a Pro plan month by month for the last year to see how it changed over time. We can count users with a &ldquo;Pro plan&rdquo; trait that were active each month. If some users from 1 year ago churned and aren't on the pro plan anymore, the graph would not include them.</p>
-<p>This happens because the users&rsquo; traits data is mutable, meaning it can change.</p>
+<p>Here&rsquo;s an example of unexpected behavior you get from modeling data this way:</p>
+<p>I want to know the number of active users on a Pro plan month by month for the last year to see how it changed over time. We can count users with a &ldquo;Pro plan&rdquo; trait that were active each month. If some users from 1 year ago churned and aren&rsquo;t on the pro plan anymore, the graph would not include them.</p>
+<p>This happens because the users' traits data is mutable, meaning it can change.</p>
 <h2 id="an-immutable-alternative">An immutable alternative</h2>
 <p>We can model data in an immutable way to handle this edge case.</p>
 <p>Identify logs table</p>
@@ -161,14 +162,14 @@ The value of these properties is mutable and has no relationship with time."/>
 </ul>
 <p>Now when we run analytical queries, we can select users with a specific trait in our analysis interval.</p>
 <p>So any time we run the Case A analyses, we get the same (and correct) results.</p>
-<p>We also have access to all historical changes to run queries flattening data in the same way as we're doing it with the mutable models.</p>
-<p>There's a new problem, though. There's now more complexity that we need to expose to our users, and the effect of this can be very counterintuitive.</p>
-<p>For example, it's good practice for companies to measure sign-ups by job title.</p>
+<p>We also have access to all historical changes to run queries flattening data in the same way as we&rsquo;re doing it with the mutable models.</p>
+<p>There&rsquo;s a new problem, though. There&rsquo;s now more complexity that we need to expose to our users, and the effect of this can be very counterintuitive.</p>
+<p>For example, it&rsquo;s good practice for companies to measure sign-ups by job title.</p>
 <p>After signing up, you ask users their role in the company. You then want to use this data to make a chart with sign-ups by position.</p>
-<p>If we try and do this using the traits we had at the moment users signed up, we'd get no results. If we run this same analysis on the sum of all the traits we ever received, we'd get the right results. So when defining rules to segment an audience, instead of saying &ldquo;Users on the pro plan&rdquo; we need to specify when they were on the pro plan, is it now, or at the time they performed an event?</p>
+<p>If we try and do this using the traits we had at the moment users signed up, we&rsquo;d get no results. If we run this same analysis on the sum of all the traits we ever received, we&rsquo;d get the right results. So when defining rules to segment an audience, instead of saying &ldquo;Users on the pro plan&rdquo; we need to specify when they were on the pro plan, is it now, or at the time they performed an event?</p>
 <p>This example shows how being technically correct sometimes adds friction and confusion to the experience.</p>
-<p>On the other hand, this approach's benefit is that it helps you partition data more efficiently.</p>
-<p>For example, suppose you partition the users&rsquo; data by time instead of scanning through all your users to find your analyses&rsquo; audience. In that case, you can only look at the active users at the time of your analysis.</p>
+<p>On the other hand, this approach&rsquo;s benefit is that it helps you partition data more efficiently.</p>
+<p>For example, suppose you partition the users' data by time instead of scanning through all your users to find your analyses' audience. In that case, you can only look at the active users at the time of your analysis.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p><strong>So the open question for us is how we should model user data?</strong></p>
 <p>Tools like Mixpanel go with the mutable approach.</p>
@@ -176,7 +177,7 @@ The value of these properties is mutable and has no relationship with time."/>
 <p>When exporting data to a warehouse, segmentation also stores it in an immutable way.</p>
 <p>The <a href="https://en.wikipedia.org/wiki/Apache_Parquet">parquet</a> file of user data that Segment saves to S3 looks like:</p>
 <pre><code>s3://&lt;top-level-Segment-bucket&gt;/data/&lt;source-id&gt;/segment_type=identify/day=&lt;YYYY-MM-DD&gt;/hr=&lt;HH&gt;
-</code></pre><p><strong>This is an open engineering challenge at <a href="https://june.so">June</a>. If you want to solve problems like this one, please reach out - <a href="https://www.notion.so/projectanalytics/Founding-Team-Engineer-339274009f594b58aff3d4bfd8e3f93e">we're hiring</a></strong></p>
+</code></pre><p><strong>This is an open engineering challenge at <a href="https://june.so">June</a>. If you want to solve problems like this one, please reach out - <a href="https://www.notion.so/projectanalytics/Founding-Team-Engineer-339274009f594b58aff3d4bfd8e3f93e">we&rsquo;re hiring</a></strong></p>
 <ul class="pa0">
   
 </ul>

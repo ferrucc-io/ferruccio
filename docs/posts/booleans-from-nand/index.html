@@ -27,7 +27,7 @@ if (!doNotTrack) {
     <meta name="twitter:image" content="https://ferrucc.io/">
     <meta property="og:image" content="https://ferrucc.io/">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.60.1" />
+    <meta name="generator" content="Hugo 0.76.1" />
     
     
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -54,13 +54,14 @@ if (!doNotTrack) {
 <meta property="article:modified_time" content="2020-04-18T21:34:47+01:00" />
 <meta itemprop="name" content="How to create boolean operators with Nand">
 <meta itemprop="description" content="How to create the AND, NOT and OR operators starting from NAND">
-<meta itemprop="datePublished" content="2020-04-18T21:34:47&#43;01:00" />
-<meta itemprop="dateModified" content="2020-04-18T21:34:47&#43;01:00" />
+<meta itemprop="datePublished" content="2020-04-18T21:34:47+01:00" />
+<meta itemprop="dateModified" content="2020-04-18T21:34:47+01:00" />
 <meta itemprop="wordCount" content="324">
 
 
 
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="How to create boolean operators with Nand"/>
 <meta name="twitter:description" content="How to create the AND, NOT and OR operators starting from NAND"/>
 
@@ -120,35 +121,35 @@ if (!doNotTrack) {
     <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img pr4-l w-two-thirds-l"><p>Doing the <a href="https://www.nand2tetris.org/">nand2tetris</a> course is an extremely enlightning experience into the world of computers.</p>
 <p>The course starts from the simplest building block, the &ldquo;NAND&rdquo; operators and helps you step by step to building a modern, functioning computer, OS and tetris Game.</p>
 <p>The NAnd block stands for Not And.</p>
-<p>It takes two binary inputs, A and B and outputs true only if they both aren't true.</p>
+<p>It takes two binary inputs, A and B and outputs true only if they both aren&rsquo;t true.</p>
 <table>
 <thead>
 <tr>
-<th align="center">A</th>
-<th align="center">B</th>
-<th align="center">Output</th>
+<th style="text-align:center">A</th>
+<th style="text-align:center">B</th>
+<th style="text-align:center">Output</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">0</td>
-<td align="center">0</td>
-<td align="center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">1</td>
 </tr>
 <tr>
-<td align="center">1</td>
-<td align="center">0</td>
-<td align="center"></td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center"></td>
 </tr>
 <tr>
-<td align="center">1</td>
-<td align="center">1</td>
-<td align="center">0</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
 </tr>
 <tr>
-<td align="center">0</td>
-<td align="center">1</td>
-<td align="center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
 </tr>
 </tbody>
 </table>
@@ -156,22 +157,22 @@ if (!doNotTrack) {
 <table>
 <thead>
 <tr>
-<th align="center">Input</th>
-<th align="center">Output</th>
+<th style="text-align:center">Input</th>
+<th style="text-align:center">Output</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">0</td>
-<td align="center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">1</td>
 </tr>
 <tr>
-<td align="center">1</td>
-<td align="center">0</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
 </tr>
 </tbody>
 </table>
-<p>If you think about it if you take and Element A and NAnd it with itself you'll get its opposite!</p>
+<p>If you think about it if you take and Element A and NAnd it with itself you&rsquo;ll get its opposite!</p>
 <p>So:</p>
 <pre><code>define Not
     NAnd(A, A)
@@ -179,67 +180,67 @@ if (!doNotTrack) {
 <table>
 <thead>
 <tr>
-<th align="center">A</th>
-<th align="center">B</th>
-<th align="center">Output</th>
+<th style="text-align:center">A</th>
+<th style="text-align:center">B</th>
+<th style="text-align:center">Output</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">0</td>
-<td align="center">0</td>
-<td align="center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
 </tr>
 <tr>
-<td align="center">1</td>
-<td align="center">0</td>
-<td align="center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">1</td>
 </tr>
 <tr>
-<td align="center">1</td>
-<td align="center">1</td>
-<td align="center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
 </tr>
 <tr>
-<td align="center">0</td>
-<td align="center">1</td>
-<td align="center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
 </tr>
 </tbody>
 </table>
 <p>If you apply Not() on every line of the previous table you get the NAnd() table.</p>
-<p>So here's how to create an Or statement:</p>
+<p>So here&rsquo;s how to create an Or statement:</p>
 <pre><code>define Or
     NAnd(Not(A) Not(b))
 </code></pre><p>To derive the And operation we have to find a way of using NAnd to have this output:</p>
 <table>
 <thead>
 <tr>
-<th align="center">A</th>
-<th align="center">B</th>
-<th align="center">Output</th>
+<th style="text-align:center">A</th>
+<th style="text-align:center">B</th>
+<th style="text-align:center">Output</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">0</td>
-<td align="center">0</td>
-<td align="center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">0</td>
 </tr>
 <tr>
-<td align="center">1</td>
-<td align="center">0</td>
-<td align="center"></td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center"></td>
 </tr>
 <tr>
-<td align="center">1</td>
-<td align="center">1</td>
-<td align="center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">1</td>
 </tr>
 <tr>
-<td align="center">0</td>
-<td align="center">1</td>
-<td align="center">0</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">0</td>
 </tr>
 </tbody>
 </table>
@@ -249,7 +250,7 @@ if (!doNotTrack) {
 </code></pre><p>What we did here is define basic boolean logic starting from one logic gate.</p>
 <p>This excercise is useful to keep in mind when writing code and making interfaces and interactions in general.</p>
 <p>The Not, And &amp; Or operations are clear and reusable abstractions of the Nand operation.</p>
-<p>When we judge a layer of abstraction we should consider if it hides all the things we shouldn't care about.</p>
+<p>When we judge a layer of abstraction we should consider if it hides all the things we shouldn&rsquo;t care about.</p>
 <p>Most human made things in the world are interfaces. Designing better abstractions is what gives us superpowers.</p>
 <ul class="pa0">
   

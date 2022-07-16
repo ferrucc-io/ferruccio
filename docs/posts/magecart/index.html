@@ -27,7 +27,7 @@ if (!doNotTrack) {
     <meta name="twitter:image" content="https://ferrucc.io/">
     <meta property="og:image" content="https://ferrucc.io/">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.60.1" />
+    <meta name="generator" content="Hugo 0.76.1" />
     
     
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -54,13 +54,14 @@ if (!doNotTrack) {
 <meta property="article:modified_time" content="2018-10-19T19:12:03+00:00" />
 <meta itemprop="name" content="Everything you need to know on Magecart Attacks">
 <meta itemprop="description" content="An analysis of Magecart attacks and possible measures to prevent them.">
-<meta itemprop="datePublished" content="2018-10-19T19:12:03&#43;00:00" />
-<meta itemprop="dateModified" content="2018-10-19T19:12:03&#43;00:00" />
+<meta itemprop="datePublished" content="2018-10-19T19:12:03+00:00" />
+<meta itemprop="dateModified" content="2018-10-19T19:12:03+00:00" />
 <meta itemprop="wordCount" content="1286">
 
 
 
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Everything you need to know on Magecart Attacks"/>
 <meta name="twitter:description" content="An analysis of Magecart attacks and possible measures to prevent them."/>
 
@@ -118,7 +119,7 @@ if (!doNotTrack) {
     </header>
 
     <main class="nested-copy-line-height lh-copy sans-serif f4 nested-links nested-img pr4-l w-two-thirds-l"><p>In the last month a group of hackers called Magecart came back striking in full force.</p>
-<p>They first appeared in the news back in 2015 when <a href="https://riskiq.com">RiskIQ</a> found out they injected code in Magento's &ldquo;Magecart&rdquo; shopping software. Thus the name.</p>
+<p>They first appeared in the news back in 2015 when <a href="https://riskiq.com">RiskIQ</a> found out they injected code in Magento&rsquo;s &ldquo;Magecart&rdquo; shopping software. Thus the name.</p>
 <p>The attacks they organized have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.</p>
 <p>This group is specialized in card skimming payment forms on the internet.</p>
 <h2 id="how">How?</h2>
@@ -129,7 +130,7 @@ if (!doNotTrack) {
 <p><img src="/on-payment.png" alt=""></p>
 <p>The code in the British Airways attack was the following:</p>
 <p><img src="/british-airways.png" alt=""></p>
-<p>Here's a more readable version of it:</p>
+<p>Here&rsquo;s a more readable version of it:</p>
 <div class="mw100"><iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/0xtswebj/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe></div>
 <h2 id="cdn-security">CDN Security</h2>
 <p>These attacks usually are aimed towards large corporations that are attacked, either <strong>directly</strong>, or in <strong>indirectly</strong>.</p>
@@ -140,13 +141,13 @@ if (!doNotTrack) {
 <p><img src="/sa-clean.png" alt=""></p>
 <p>Malicious file 👇</p>
 <p><img src="/sa-obfuscated.png" alt=""></p>
-<p>The code shown operates exactly how you'd imagine and can be roughly translated as the readable reconstruction already shown above for the BA incident.</p>
+<p>The code shown operates exactly how you&rsquo;d imagine and can be roughly translated as the readable reconstruction already shown above for the BA incident.</p>
 <h3 id="newegg-breach">Newegg Breach</h3>
 <p>In the Newegg attack, the criminals registered the domain <strong>neweggstats.com</strong> and used it paired with a paid Comodo TLS certificate to seem more legitimate.</p>
 <p>This time the card skimmer was placed directly inside the source code of the payment processing page, this means Newegg was compromised <strong>directly</strong>.</p>
-<p>The code used in this attack was the same as the one used in the British Airways hack, adapted to fit the new victim's website.</p>
+<p>The code used in this attack was the same as the one used in the British Airways hack, adapted to fit the new victim&rsquo;s website.</p>
 <h3 id="ticketmaster-attack">Ticketmaster Attack</h3>
-<p>A fourth attack targeted Ticketmaster through Inbenta, a third party tool that &ldquo;Uses Artificial Intelligence and NLP to increase customer happiness and your company's bottomline&rdquo;.</p>
+<p>A fourth attack targeted Ticketmaster through Inbenta, a third party tool that &ldquo;Uses Artificial Intelligence and NLP to increase customer happiness and your company&rsquo;s bottomline&rdquo;.</p>
 <p>This service is integrates through custom subdomains for every client.</p>
 <p>So we should check for the Ticketmaster subdomains that are:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">ticketmasterat.inbenta.com
@@ -172,24 +173,24 @@ ticketmasterus.inbenta.com
 <p><img src="/malicious-inbenta.png" alt=""></p>
 <p>The attackers initially (on June 12th) even deleted the original code by Inbenta and only included their code.</p>
 <p><img src="/inbenta-deleted.png" alt=""></p>
-<p>In this case Inbenta's operations were surely compromised directly as the hackers gained enough access to edit as their pleasing the static assets multiple times.</p>
+<p>In this case Inbenta&rsquo;s operations were surely compromised directly as the hackers gained enough access to edit as their pleasing the static assets multiple times.</p>
 <p>Other Ticketmaster websites around the world were also breached either via Inbenta or via another third party plugin called SOCIAPlus, an &ldquo;E-commerce Big &amp; Social analysis service&rdquo;.</p>
 <p>These breaches are only the tip of the Iceberg.</p>
 <p>Magecart is now targeting the backbones of the internet.</p>
 <p>Sometimes they even have the audacity of blackmailing website admins, like in this case:</p>
 <p><img src="/magecart-blackmail.png" alt=""></p>
-<p>It's clear that these attacks are a dangerous problem, so let's try and figure out the best way organisations can tackle them.</p>
+<p>It&rsquo;s clear that these attacks are a dangerous problem, so let&rsquo;s try and figure out the best way organisations can tackle them.</p>
 <h2 id="neutralising-attacks">Neutralising Attacks</h2>
-<p>Now that we've understood how the group organises its attacks let's figure out and evaluate strategies to tackle them.</p>
+<p>Now that we&rsquo;ve understood how the group organises its attacks let&rsquo;s figure out and evaluate strategies to tackle them.</p>
 <h3 id="subresource-integrity">Subresource Integrity</h3>
 <p>To protect static assets on CDNs like jQuery or other libraries the easiest thing to do is to use the &ldquo;integrity&rdquo; tag inside your HTML code.</p>
-<p>Here's an example of this used in practice:</p>
+<p>Here&rsquo;s an example of this used in practice:</p>
 <iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/tp0Lndj6/embedded/html/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 <p>The idea is to include the script along with its cryptographic hash (e.g. SHA-384) when creating the web page.</p>
 <p>The browser can then download the script and compute the hash over the downloaded file. The script will only be executed if both hashes match.</p>
 <p>The problem of this approach is that if the subresource integrity breaks you need to setup a failover, to make sure the website continues working properly in case the resource breaks. And also the failover can be targeted.</p>
 <p>Also many static scripts load themselves through js code other static assets on other hosts, which can become themselves the new attack vectors.</p>
-<p>This solution would've probably worked to prevent the British Airways exploit on the modernizr js library.</p>
+<p>This solution would&rsquo;ve probably worked to prevent the British Airways exploit on the modernizr js library.</p>
 <p>But all the other instances of skimming attacked dynamic resources (eg. Inbenta, ShopperApproved plugin) or injected javascript directly in the checkout page.</p>
 <h3 id="detecting-code-obfuscation">Detecting Code Obfuscation</h3>
 <p>A pattern we can notice in the Ticketmaster and Shopper Approved breaches is the use of obfuscated Javascript to conduct the attacks.</p>
@@ -197,23 +198,23 @@ ticketmasterus.inbenta.com
 <p>Code obfuscation can be done in infinite different ways.</p>
 <p>Up to now Magecart converted the code into unicode to make it less understandable, but if we wrote something to detect suspect unicode inside javascript they could start obfuscating code in countless other ways like this:</p>
 <iframe width="100%" height="300" src="//jsfiddle.net/ferrucciob/48q7pdym/embedded/js/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
-<p>So the short answer is NO, we can't detect all kinds of code obfuscation and hackers learn fast how to circumvent these measures.</p>
+<p>So the short answer is NO, we can&rsquo;t detect all kinds of code obfuscation and hackers learn fast how to circumvent these measures.</p>
 <h3 id="avoiding-external-cdns">Avoiding external CDNs</h3>
 <p>We could avoid completely hosting files on external CDNs, but in many cases websites depend on external services for Customer Support, to Analytics.</p>
 <p>This is just too much work to make any sense.</p>
-<p>Also we'd have to make sure our static resources don't get compromised on our own servers.</p>
+<p>Also we&rsquo;d have to make sure our static resources don&rsquo;t get compromised on our own servers.</p>
 <h3 id="downloading-static-assets-and-checking-diffs">Downloading Static Assets and Checking Diffs</h3>
 <p>This seems to be the best idea to prevent and detect this kind of attacks.</p>
 <p>The idea is pretty straightforward. To check for a website uptime you ping the server.</p>
 <p>To check if a file changed you open a browser tab and check the page.</p>
-<p>Similarly to check what static assets are loaded and what's their content we could write a software to automate this.</p>
+<p>Similarly to check what static assets are loaded and what&rsquo;s their content we could write a software to automate this.</p>
 <p>The software should have the following features:</p>
 <ul>
 <li>
 <p>It should visit a our website and download all of its javascript. Even the inline scripts.</p>
 </li>
 <li>
-<p>Every x minutes it should load our website, download its static assets and compare them with the ones it has in memory. If there's a change in any of these files it should be able to send an alert.</p>
+<p>Every x minutes it should load our website, download its static assets and compare them with the ones it has in memory. If there&rsquo;s a change in any of these files it should be able to send an alert.</p>
 </li>
 <li>
 <p>It should integrate with the deployment and Version Control system and notified when a new deployment happens, to understand when changes are legitimate.</p>
@@ -226,7 +227,7 @@ ticketmasterus.inbenta.com
 <p>Finding outliers in deployment times (eg. deployment outside of working hours)</p>
 </li>
 <li>
-<p>Using various residential proxies for monitoring, to avoid IP fingerprinting by Magecart (they're doing it)</p>
+<p>Using various residential proxies for monitoring, to avoid IP fingerprinting by Magecart (they&rsquo;re doing it)</p>
 </li>
 <li>
 <p>Collaboration and communication with services that provide dynamic assets to keep track of legitimate code changes.</p>
@@ -235,13 +236,13 @@ ticketmasterus.inbenta.com
 <p>Any good idea that comes from research</p>
 </li>
 </ul>
-<p>In my opinion relying on an external service makes perfect sense as monitoring for this kind of attacks is kind of like checking for uptime pinging a server. It doesn't require any more access priviliges than a regular user.</p>
+<p>In my opinion relying on an external service makes perfect sense as monitoring for this kind of attacks is kind of like checking for uptime pinging a server. It doesn&rsquo;t require any more access priviliges than a regular user.</p>
 <p>You can find the service I developed here <a href="https://magehash.com">Magehash</a></p>
-<p>At the moment it's a service on its own, with its own login and dashboard panel, but I'm looking forward to find out and research what threat monitoring platforms I can integrate with to integrate better in different workflows.</p>
+<p>At the moment it&rsquo;s a service on its own, with its own login and dashboard panel, but I&rsquo;m looking forward to find out and research what threat monitoring platforms I can integrate with to integrate better in different workflows.</p>
 <p><strong>Enjoyed this post? Got any content to suggest?</strong></p>
 <p><em>My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on <a href="https://twitter.com/0xferruccio">Twitter</a></em></p>
 <h4 id="footnotes">Footnotes</h4>
-<p><strong>This analysis would've not been possible without the amazing work done over the years at <a href="https://riskiq.com">RiskIQ</a> by <a href="https://twitter.com/ydklijnsma">Yonathan Klijnsma</a></strong></p>
+<p><strong>This analysis would&rsquo;ve not been possible without the amazing work done over the years at <a href="https://riskiq.com">RiskIQ</a> by <a href="https://twitter.com/ydklijnsma">Yonathan Klijnsma</a></strong></p>
 <ul class="pa0">
   
 </ul>

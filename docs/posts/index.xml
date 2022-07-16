@@ -6,7 +6,20 @@
     <description>Recent content in Posts on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 10:39:53 +0200</lastBuildDate><atom:link href="https://ferrucc.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 17:47:42 +0200</lastBuildDate><atom:link href="https://ferrucc.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building friend catchers</title>
+      <link>https://ferrucc.io/posts/friendcatchers/</link>
+      <pubDate>Sat, 16 Jul 2022 17:47:42 +0200</pubDate>
+      
+      <guid>https://ferrucc.io/posts/friendcatchers/</guid>
+      <description>As a 13 year old, my dad’s advice on internet presence was:
+ “Everything you post will be used against you in the future. So you should never associate your name to anything on the internet”.
+ As a rebellious teenager my view was the opposite:
+ “Everything you post on the internet will get lost. You should associate your real name to everything you find interesting”
+ I think looking back, this might be the most useful lesson I learned from my high school years.</description>
+    </item>
+    
     <item>
       <title>The heartbeat of your startup</title>
       <link>https://ferrucc.io/posts/throughput/</link>
@@ -88,7 +101,7 @@ For example, there&amp;rsquo;s high uncertainty around when VR will become mains
       <description>The ability to make friendships through your passions is the best super power that the internet gives us.
 The best things that happened in my life happened through communities on the internet.
 Here’s a story of all the places I hanged out on the internet and made friends from.
-Until the first year of high school I’ve been offline. My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&amp;rsquo;s still one of my best friends) and having a messenger account on my dad’s computer.</description>
+ Until the first year of high school I’ve been offline. My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&amp;rsquo;s still one of my best friends) and having a messenger account on my dad’s computer.</description>
     </item>
     
     <item>
@@ -126,7 +139,7 @@ I&amp;rsquo;ll start with 5 agreeable axioms and use them systematically to deri
 The course starts from the simplest building block, the &amp;ldquo;NAND&amp;rdquo; operators and helps you step by step to building a modern, functioning computer, OS and tetris Game.
 The NAnd block stands for Not And.
 It takes two binary inputs, A and B and outputs true only if they both aren&amp;rsquo;t true.
-A B Output 0 0 1 1 0 1 1 0 0 1 1 To derive the Not operation we have to find a way of using NAnd to have this output:</description>
+   A B Output     0 0 1   1 0    1 1 0   0 1 1    To derive the Not operation we have to find a way of using NAnd to have this output:</description>
     </item>
     
     <item>
@@ -137,8 +150,8 @@ A B Output 0 0 1 1 0 1 1 0 0 1 1 To derive the Not operation we have to find a w
       <guid>https://ferrucc.io/posts/techbro-meme/</guid>
       <description>Every year I look back at myself one year back and cringe.
 So as a gift to my future self, this is a collection of all my current habits
-I know I’m making a meme out of myself
-Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.</description>
+ I know I’m making a meme out of myself
+ Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.</description>
     </item>
     
     <item>
@@ -148,8 +161,8 @@ Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled
       
       <guid>https://ferrucc.io/posts/company-size/</guid>
       <description>I set out to write this article by interviewing 40+ engineers at companies of all sizes.
-The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
-Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.
+  The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
+ Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.
 You&amp;rsquo;re a competent programmer looking for a change in working environment.
 You’ve got 4 offers from four companies at different stages.</description>
     </item>
@@ -220,7 +233,7 @@ The way he talks makes him likable both on the left and on the right.</descripti
       <description>The music I like isn’t that ordinary, but I&amp;rsquo;d say it&amp;rsquo;s popular among developers in my age group.
 I found that every time I meet someone in person that codes professionally the discussion at a certain point moves to “What do you listen when you code?”, “What is your favourite genre/artist?”.
 Here&amp;rsquo;s what developers from big cities in the 20-30 age group tend to listen.
-Take it easy my brother Charlie</description>
+  Take it easy my brother Charlie</description>
     </item>
     
     <item>
@@ -230,7 +243,7 @@ Take it easy my brother Charlie</description>
       
       <guid>https://ferrucc.io/posts/a-new-ide/</guid>
       <description>6 years ago this video came out.
-At the time I couldn’t code yet.
+  At the time I couldn’t code yet.
 This concept is still mind blowing to me.
 Up until now I always thought about code as a collection of files, connected through imports.
 But really we import functions, not files.
@@ -333,9 +346,8 @@ After making it I started exchanging ideas via email with Marc-Antoine who is wo
       <description>We now have a government in Italy.
 Everyone around me is talking about this, so I figured out I might as well try to analyse what are the biggest problems the country is facing.
 Here is a list of existential problems we face:
-Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
-Organised Crime, Tax evasion, Corruption and waste of public money plague the country.
-The juidicial system is extremely slow and inefficient.</description>
+  Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
+  Organised Crime, Tax evasion, Corruption and waste of public money plague the country.</description>
     </item>
     
     <item>
