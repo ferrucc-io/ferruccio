@@ -6,7 +6,20 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 10:39:53 +0200</lastBuildDate><atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 17:47:42 +0200</lastBuildDate><atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building friend catchers</title>
+      <link>https://ferrucc.io/posts/friendcatchers/</link>
+      <pubDate>Sat, 16 Jul 2022 17:47:42 +0200</pubDate>
+      
+      <guid>https://ferrucc.io/posts/friendcatchers/</guid>
+      <description>As a 13 year old, my dad’s advice on internet presence was:
+ “Everything you post will be used against you in the future. So you should never associate your name to anything on the internet”.
+ As a rebellious teenager my view was the opposite:
+ “Everything you post on the internet will get lost. You should associate your real name to everything you find interesting”
+ I think looking back, this might be the most useful lesson I learned from my high school years.</description>
+    </item>
+    
     <item>
       <title>The heartbeat of your startup</title>
       <link>https://ferrucc.io/posts/throughput/</link>
@@ -48,8 +61,7 @@ To build June me and my cofounder Enzo used a very systematic approach. We decid
       <pubDate>Thu, 05 Nov 2020 23:20:05 +0100</pubDate>
       
       <guid>https://ferrucc.io/us-election/</guid>
-      <description>Try the beep As requested by Hunter Walk
-Data sourced from the NYT</description>
+      <description>function beep() { var snd = new Audio(&#34;data:audio/wav;base64,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qJrx4KOQjahZxWbcZgztj2c49nKmkId44S71j0c8eV9yDK6uPRzx5X18eDvjvQ6yKo9ZSS6l//8elePK/Lf//IInrOF/FvDoADYAGBMGb7FtErm5MXMlmPAJQVgWta7Zx2go+8xJ0UiCb8LHHdftWyLJE0QIAIsI+UbXu67dZMjmgDGCGl1H+vpF4NSDckSIkk7Vd+sxEhBQMRU8j/12UIRhzSaUdQ+rQU5kGeFxm+hb1oh6pWWmv3uvmReDl0UnvtapVaIzo1jZbf/pD6ElLqSX+rUmOQNpJFa/r+sa4e/pBlAABoAAAAA3CUgShLdGIxsY7AUABPRrgCABdDuQ5GC7DqPQCgbbJUAoRSUj+NIEig0YfyWUho1VBBBA//uQZB4ABZx5zfMakeAAAAmwAAAAF5F3P0w9GtAAACfAAAAAwLhMDmAYWMgVEG1U0FIGCBgXBXAtfMH10000EEEEEECUBYln03TTTdNBDZopopYvrTTdNa325mImNg3TTPV9q3pmY0xoO6bv3r00y+IDGid/9aaaZTGMuj9mpu9Mpio1dXrr5HERTZSmqU36A3CumzN/9Robv/Xx4v9ijkSRSNLQhAWumap82WRSBUqXStV/YcS+XVLnSS+WLDroqArFkMEsAS+eWmrUzrO0oEmE40RlMZ5+ODIkAyKAGUwZ3mVKmcamcJnMW26MRPgUw6j+LkhyHGVGYjSUUKNpuJUQoOIAyDvEyG8S5yfK6dhZc0Tx1KI/gviKL6qvvFs1+bWtaz58uUNnryq6kt5RzOCkPWlVqVX2a/EEBUdU1KrXLf40GoiiFXK///qpoiDXrOgqDR38JB0bw7SoL+ZB9o1RCkQjQ2CBYZKd/+VJxZRRZlqSkKiws0WFxUyCwsKiMy7hUVFhIaCrNQsKkTIsLivwKKigsj8XYlwt/WKi2N4d//uQRCSAAjURNIHpMZBGYiaQPSYyAAABLAAAAAAAACWAAAAApUF/Mg+0aohSIRobBAsMlO//Kk4soosy1JSFRYWaLC4qZBYWFRGZdwqKiwkNBVmoWFSJkWFxX4FFRQWR+LsS4W/rFRb/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////VEFHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU291bmRib3kuZGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjAwNGh0dHA6Ly93d3cuc291bmRib3kuZGUAAAAAAAAAACU=&#34;); snd.play(); } function loadData(){ $.getJSON(&#34;https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json&#34;, function(data) { const race = data.data.party_control.find(race = race.race_type === &#34;president&#34; ) if(race.winner){ beep() setInterval(function(){ beep() }, 1000); } race.parties.democrat var template = Handlebars.compile($(&#34;#party-template&#34;).html()) var winnerTemplate = Handlebars.compile($(&#34;#winner-template&#34;).html()) const isWinner = {winner: race.winner === &#39;democrat&#39;} $(&#34;#winner&#34;).html(winnerTemplate(isWinner)) $(&#34;#democrats&#34;).html(template(race.parties.democrat)) $(&#34;#republicans&#34;).html(template(race.parties.republican)) }) } setInterval(function(){ loadData() }, 5000); $(document).ready(function(){ loadData() })  Try the beep    As requested by Hunter Walk</description>
     </item>
     
     <item>
@@ -98,7 +110,7 @@ For example, there&amp;rsquo;s high uncertainty around when VR will become mains
       <description>The ability to make friendships through your passions is the best super power that the internet gives us.
 The best things that happened in my life happened through communities on the internet.
 Here’s a story of all the places I hanged out on the internet and made friends from.
-Until the first year of high school I’ve been offline. My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&amp;rsquo;s still one of my best friends) and having a messenger account on my dad’s computer.</description>
+ Until the first year of high school I’ve been offline. My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&amp;rsquo;s still one of my best friends) and having a messenger account on my dad’s computer.</description>
     </item>
     
     <item>
@@ -136,7 +148,7 @@ I&amp;rsquo;ll start with 5 agreeable axioms and use them systematically to deri
 The course starts from the simplest building block, the &amp;ldquo;NAND&amp;rdquo; operators and helps you step by step to building a modern, functioning computer, OS and tetris Game.
 The NAnd block stands for Not And.
 It takes two binary inputs, A and B and outputs true only if they both aren&amp;rsquo;t true.
-A B Output 0 0 1 1 0 1 1 0 0 1 1 To derive the Not operation we have to find a way of using NAnd to have this output:</description>
+   A B Output     0 0 1   1 0    1 1 0   0 1 1    To derive the Not operation we have to find a way of using NAnd to have this output:</description>
     </item>
     
     <item>
@@ -147,8 +159,8 @@ A B Output 0 0 1 1 0 1 1 0 0 1 1 To derive the Not operation we have to find a w
       <guid>https://ferrucc.io/posts/techbro-meme/</guid>
       <description>Every year I look back at myself one year back and cringe.
 So as a gift to my future self, this is a collection of all my current habits
-I know I’m making a meme out of myself
-Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.</description>
+ I know I’m making a meme out of myself
+ Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.</description>
     </item>
     
     <item>
@@ -158,8 +170,8 @@ Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled
       
       <guid>https://ferrucc.io/posts/company-size/</guid>
       <description>I set out to write this article by interviewing 40+ engineers at companies of all sizes.
-The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
-Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.
+  The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
+ Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.
 You&amp;rsquo;re a competent programmer looking for a change in working environment.
 You’ve got 4 offers from four companies at different stages.</description>
     </item>
@@ -200,7 +212,7 @@ I&amp;rsquo;m trying to figure out where I want to go and what I want to do next
       
       <guid>https://ferrucc.io/experiments/</guid>
       <description>Here&amp;rsquo;s a list of experiments I did:
-Publicly Sharing my browsing history - more about this here Fiverr profile - The goal of this experiment was to see how efficient the internet is at talent discovery and monetization of hard skills. I didn&amp;rsquo;t manage to get any clients except for a friend, so it was a failed experiment. Original tweet Fiverr Profile Calls with strangers Original Tweet - Post Recap coming soon Log every 30 minutes of my life on Twitter Auto delete all my tweets after one week Grow an instagram account to 10k followers using fake quotes Make an alarm that rang when Biden won the elections Not many other experiments come to my mind.</description>
+ Publicly Sharing my browsing history - more about this here Fiverr profile - The goal of this experiment was to see how efficient the internet is at talent discovery and monetization of hard skills. I didn&amp;rsquo;t manage to get any clients except for a friend, so it was a failed experiment. Original tweet Fiverr Profile Calls with strangers Original Tweet - Post Recap coming soon Log every 30 minutes of my life on Twitter Auto delete all my tweets after one week Grow an instagram account to 10k followers using fake quotes Make an alarm that rang when Biden won the elections  Not many other experiments come to my mind.</description>
     </item>
     
     <item>
@@ -237,11 +249,10 @@ The way he talks makes him likable both on the left and on the right.</descripti
       <pubDate>Tue, 19 Feb 2019 01:00:40 +0100</pubDate>
       
       <guid>https://ferrucc.io/history/</guid>
-      <description>This is my full browsing history! (Until March 4th 2019)
+      <description>$(document).ready(function(){ $.getJSON(&#34;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#34;, function(data) { var template = Handlebars.compile($(&#34;#item-template&#34;).html()) $(&#34;#items&#34;).html(template(data.reverse())) }) })  This is my full browsing history! (Until March 4th 2019)
 Why?
 Why not?
-I think it might be fun for people wanting to introduce themselves via email to know where I&amp;rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
-How am I doing this? This script runs every hour and updates a Google Sheet.</description>
+I think it might be fun for people wanting to introduce themselves via email to know where I&amp;rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.</description>
     </item>
     
     <item>
@@ -253,7 +264,7 @@ How am I doing this? This script runs every hour and updates a Google Sheet.</de
       <description>The music I like isn’t that ordinary, but I&amp;rsquo;d say it&amp;rsquo;s popular among developers in my age group.
 I found that every time I meet someone in person that codes professionally the discussion at a certain point moves to “What do you listen when you code?”, “What is your favourite genre/artist?”.
 Here&amp;rsquo;s what developers from big cities in the 20-30 age group tend to listen.
-Take it easy my brother Charlie</description>
+  Take it easy my brother Charlie</description>
     </item>
     
     <item>
@@ -263,7 +274,7 @@ Take it easy my brother Charlie</description>
       
       <guid>https://ferrucc.io/posts/a-new-ide/</guid>
       <description>6 years ago this video came out.
-At the time I couldn’t code yet.
+  At the time I couldn’t code yet.
 This concept is still mind blowing to me.
 Up until now I always thought about code as a collection of files, connected through imports.
 But really we import functions, not files.
@@ -290,8 +301,8 @@ Through blogging I had the opportunity to travel the world, getting free tickets
       <guid>https://ferrucc.io/references/</guid>
       <description>Blog Posts The Matrix Calculus You Need For Deep Learning
 Design Inspiration As I want to improve my UX skills for the next projects I&amp;rsquo;ll be using some standard frameworks like:
-Ant Design Material UI Landing Pages This is a list of landing pages I look to when trying to find inspiration:
-Pitch Not Pot Don&amp;rsquo;t want to miss any of this?
+ Ant Design Material UI  Landing Pages This is a list of landing pages I look to when trying to find inspiration:
+ Pitch Not Pot  Don&amp;rsquo;t want to miss any of this?
 You can find out about everything that gets added here by receiving my monthly email.</description>
     </item>
     
@@ -392,9 +403,8 @@ After making it I started exchanging ideas via email with Marc-Antoine who is wo
       <description>We now have a government in Italy.
 Everyone around me is talking about this, so I figured out I might as well try to analyse what are the biggest problems the country is facing.
 Here is a list of existential problems we face:
-Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
-Organised Crime, Tax evasion, Corruption and waste of public money plague the country.
-The juidicial system is extremely slow and inefficient.</description>
+  Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
+  Organised Crime, Tax evasion, Corruption and waste of public money plague the country.</description>
     </item>
     
     <item>
@@ -429,7 +439,7 @@ I think that the powerful ideas of &amp;ldquo;every penny we save is a penny our
       <guid>https://ferrucc.io/projects/</guid>
       <description>I like to make things and have been doing it for some years now
 Here&amp;rsquo;s a short summary of my experiences
-👨🏼‍💻 My Work Intercom Started on the Marketplace team. Then worked on a team building Series from the ground up June 2019 - July 2020 · https://intercom.com Al.ta Cucina From zero to a product and a team, reaching millions of people [read more here] March 2019 - September 2019 · https://altacucina.</description>
+ .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .</description>
     </item>
     
   </channel>
