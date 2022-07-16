@@ -70,9 +70,9 @@ You need to build the things that will allow you to engage an audience and impro
 
 Friendcatchers are part of this. Friendcatchers are small, contained lists, essays or apps that solve resonant (emotional, relevant), tractable, underserved problems.
 
-One way of doing it is writing in depth guides. The beginners guides to everything have already been written. What’s missing is more advanced, niche content.
+One way of doing it is writing in depth specialised guides. The beginners guides to everything have already been written. What’s missing is more advanced content. This sort of content tends to stand out and be highly appreciated in places like Reddit and Hacker news.
 
-Another way of doing it is by going niche, sharing unconventional niche ideas you have to attract people like you.
+Another way of doing it is by sharing polarising, unconventional ideas you have. These ideas will repulse those that are close minded towards your ideas and attract more people like you.
 
 ## Peter Thiel’s approach to friend catchers
 
