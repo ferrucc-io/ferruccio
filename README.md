@@ -1,13 +1,19 @@
 # The source for the ferrucc.io site
 
-
 In this repository you can find the source of my personal blog.
 
 The site is a static Hugo blog hosted on Github pages.
 
 The deployed version of the site is inside the `docs/` folder. If you push a change it gets deployed automatically.
 
-To run this site locally clone the repository and run:
+To run this site locally clone the repository and install the correct theme:
+
+```bash
+git submodule init
+git submodule update
+```
+
+You can now build the static site with Hugo:
 
 ```bash
 hugo server
