@@ -6,11 +6,7 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 10:39:53 +0200</lastBuildDate>
-    
-	<atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 23 May 2021 10:39:53 +0200</lastBuildDate><atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The heartbeat of your startup</title>
       <link>https://ferrucc.io/posts/throughput/</link>
@@ -19,7 +15,7 @@
       <guid>https://ferrucc.io/posts/throughput/</guid>
       <description>The only thing that matters is throughput.
 Becoming the most prolific version of yourself is the most important thing you can do to become proud of your work.
-Making a group of people become the most prolific version of themselves sounds like a reasonable way to build a great company. So that&#39;s what we&#39;re trying to do.
+Making a group of people become the most prolific version of themselves sounds like a reasonable way to build a great company. So that&amp;rsquo;s what we&amp;rsquo;re trying to do.
 Throughput is the speed of getting to some outputs. The faster you get, the more things you do, and the more you build momentum.</description>
     </item>
     
@@ -29,7 +25,7 @@ Throughput is the speed of getting to some outputs. The faster you get, the more
       <pubDate>Tue, 06 Apr 2021 18:33:39 +0200</pubDate>
       
       <guid>https://ferrucc.io/posts/immutable-users/</guid>
-      <description>This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&#39;re hiring
+      <description>This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&amp;rsquo;re hiring
 June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &amp;ldquo;plan&amp;rdquo; trait to your users.
 The value of these properties is mutable and has no relationship with time.</description>
     </item>
@@ -40,7 +36,7 @@ The value of these properties is mutable and has no relationship with time.</des
       <pubDate>Wed, 11 Nov 2020 10:00:58 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/building-product/</guid>
-      <description>If you&#39;re working on something new, there are so many directions your work and product can take.
+      <description>If you&amp;rsquo;re working on something new, there are so many directions your work and product can take.
 The biggest risk is that you build something that is hard to explain and no one wants.
 A good process minimizes this risk. Helping you move in the direction of building something people want.
 To build June me and my cofounder Enzo used a very systematic approach. We decided to shared it as you might find useful.</description>
@@ -52,7 +48,8 @@ To build June me and my cofounder Enzo used a very systematic approach. We decid
       <pubDate>Thu, 05 Nov 2020 23:20:05 +0100</pubDate>
       
       <guid>https://ferrucc.io/us-election/</guid>
-      <description>function beep() { var snd = new Audio(&#34;data:audio/wav;base64,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qJrx4KOQjahZxWbcZgztj2c49nKmkId44S71j0c8eV9yDK6uPRzx5X18eDvjvQ6yKo9ZSS6l//8elePK/Lf//IInrOF/FvDoADYAGBMGb7FtErm5MXMlmPAJQVgWta7Zx2go+8xJ0UiCb8LHHdftWyLJE0QIAIsI+UbXu67dZMjmgDGCGl1H+vpF4NSDckSIkk7Vd+sxEhBQMRU8j/12UIRhzSaUdQ+rQU5kGeFxm+hb1oh6pWWmv3uvmReDl0UnvtapVaIzo1jZbf/pD6ElLqSX+rUmOQNpJFa/r+sa4e/pBlAABoAAAAA3CUgShLdGIxsY7AUABPRrgCABdDuQ5GC7DqPQCgbbJUAoRSUj+NIEig0YfyWUho1VBBBA//uQZB4ABZx5zfMakeAAAAmwAAAAF5F3P0w9GtAAACfAAAAAwLhMDmAYWMgVEG1U0FIGCBgXBXAtfMH10000EEEEEECUBYln03TTTdNBDZopopYvrTTdNa325mImNg3TTPV9q3pmY0xoO6bv3r00y+IDGid/9aaaZTGMuj9mpu9Mpio1dXrr5HERTZSmqU36A3CumzN/9Robv/Xx4v9ijkSRSNLQhAWumap82WRSBUqXStV/YcS+XVLnSS+WLDroqArFkMEsAS+eWmrUzrO0oEmE40RlMZ5+ODIkAyKAGUwZ3mVKmcamcJnMW26MRPgUw6j+LkhyHGVGYjSUUKNpuJUQoOIAyDvEyG8S5yfK6dhZc0Tx1KI/gviKL6qvvFs1+bWtaz58uUNnryq6kt5RzOCkPWlVqVX2a/EEBUdU1KrXLf40GoiiFXK///qpoiDXrOgqDR38JB0bw7SoL+ZB9o1RCkQjQ2CBYZKd/+VJxZRRZlqSkKiws0WFxUyCwsKiMy7hUVFhIaCrNQsKkTIsLivwKKigsj8XYlwt/WKi2N4d//uQRCSAAjURNIHpMZBGYiaQPSYyAAABLAAAAAAAACWAAAAApUF/Mg+0aohSIRobBAsMlO//Kk4soosy1JSFRYWaLC4qZBYWFRGZdwqKiwkNBVmoWFSJkWFxX4FFRQWR+LsS4W/rFRb/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////VEFHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU291bmRib3kuZGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjAwNGh0dHA6Ly93d3cuc291bmRib3kuZGUAAAAAAAAAACU=&#34;); snd.play(); } function loadData(){ $.getJSON(&#34;https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/president.json&#34;, function(data) { const race = data.data.party_control.find(race = race.race_type === &#34;president&#34; ) if(race.winner){ beep() setInterval(function(){ beep() }, 1000); } race.parties.democrat var template = Handlebars.compile($(&#34;#party-template&#34;).html()) var winnerTemplate = Handlebars.compile($(&#34;#winner-template&#34;).html()) const isWinner = {winner: race.winner === &#39;democrat&#39;} $(&#34;#winner&#34;).html(winnerTemplate(isWinner)) $(&#34;#democrats&#34;).html(template(race.parties.democrat)) $(&#34;#republicans&#34;).html(template(race.parties.republican)) }) } setInterval(function(){ loadData() }, 5000); $(document).ready(function(){ loadData() })  Try the beep    As requested by Hunter Walk</description>
+      <description>Try the beep As requested by Hunter Walk
+Data sourced from the NYT</description>
     </item>
     
     <item>
@@ -62,9 +59,9 @@ To build June me and my cofounder Enzo used a very systematic approach. We decid
       
       <guid>https://ferrucc.io/posts/debug/</guid>
       <description>Sometimes I come back home from work, stuck on something, no adults to ask help to and a deadline in the morning.
-I fall asleep thinking: &amp;ldquo;Tomorrow is the day I&#39;ll get caught. This will be the one problem I won&#39;t be able to solve. The rest of my life is going to be misery and failure&amp;rdquo;
+I fall asleep thinking: &amp;ldquo;Tomorrow is the day I&amp;rsquo;ll get caught. This will be the one problem I won&amp;rsquo;t be able to solve. The rest of my life is going to be misery and failure&amp;rdquo;
 Every morning though, with more or less pain things get sorted.
-Anyways here&#39;s what you should do when you&#39;re stuck:</description>
+Anyways here&amp;rsquo;s what you should do when you&amp;rsquo;re stuck:</description>
     </item>
     
     <item>
@@ -75,7 +72,7 @@ Anyways here&#39;s what you should do when you&#39;re stuck:</description>
       <guid>https://ferrucc.io/posts/eyes/</guid>
       <description>This is the world in the eyes of a dog
 The poor things have such a cold experience of the world. Our eyes while giving us a richer experience of the world are also a limited mechanical tool.
-The world doesn&#39;t care though. It stays the same regardless of the tools we use to perceive it - whether it&#39;s the eyes of a dog or my presbyc ones.
+The world doesn&amp;rsquo;t care though. It stays the same regardless of the tools we use to perceive it - whether it&amp;rsquo;s the eyes of a dog or my presbyc ones.
 This sounds like stoner talk, but hear me out.</description>
     </item>
     
@@ -85,11 +82,11 @@ This sounds like stoner talk, but hear me out.</description>
       <pubDate>Thu, 30 Jul 2020 14:47:05 +0200</pubDate>
       
       <guid>https://ferrucc.io/posts/low-risk-contrarian/</guid>
-      <description>Most founders in tech will tell you that they&#39;re a contrarian
+      <description>Most founders in tech will tell you that they&amp;rsquo;re a contrarian
 But is being a contrarian an optimal decision? What are the alternatives? Is being a contrarian an advantage?
 Founders of high growth companies, are making one big high risk high reward bet.
-If you&#39;re looking for a big win you first have to find something that has high uncertainty.
-For example, there&#39;s high uncertainty around when VR will become mainstream.</description>
+If you&amp;rsquo;re looking for a big win you first have to find something that has high uncertainty.
+For example, there&amp;rsquo;s high uncertainty around when VR will become mainstream.</description>
     </item>
     
     <item>
@@ -101,7 +98,7 @@ For example, there&#39;s high uncertainty around when VR will become mainstream.
       <description>The ability to make friendships through your passions is the best super power that the internet gives us.
 The best things that happened in my life happened through communities on the internet.
 Here’s a story of all the places I hanged out on the internet and made friends from.
- Until the first year of high school I’ve been offline. My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&#39;s still one of my best friends) and having a messenger account on my dad’s computer.</description>
+Until the first year of high school I’ve been offline. My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&amp;rsquo;s still one of my best friends) and having a messenger account on my dad’s computer.</description>
     </item>
     
     <item>
@@ -113,7 +110,7 @@ Here’s a story of all the places I hanged out on the internet and made friends
       <description>One of the most interesting thought experiments one can do is exploring the history of aesthetics.
 Human aesthetics change over time in ways that reflect progress.
 How did people get bored of Greek tragedy? Why did chubby people become unattractive, when did people start liking squares on a canvas?
-There was a moment when Dante&#39;s books were considered good. When realistic paintings like Church&#39;s Niagara were the pinnacle of art.</description>
+There was a moment when Dante&amp;rsquo;s books were considered good. When realistic paintings like Church&amp;rsquo;s Niagara were the pinnacle of art.</description>
     </item>
     
     <item>
@@ -124,9 +121,9 @@ There was a moment when Dante&#39;s books were considered good. When realistic p
       <guid>https://ferrucc.io/posts/healthcare/</guid>
       <description>An axiomatic deduction of &amp;ldquo;Healthcare should not be free&amp;rdquo; starting from 5 agreeable axioms.
 I like the idea of my site being a snapshot of my thoughts that I can point to people when having a discussion.
-I don&#39;t like repeating the same arguments over and over.
+I don&amp;rsquo;t like repeating the same arguments over and over.
 So here are some of my thoughts on &amp;ldquo;Socialised Healthcare&amp;rdquo;[1] for wider exposure and future reference.
-I&#39;ll start with 5 agreeable axioms and use them systematically to derive &amp;ldquo;Healthcare should not be free&amp;rdquo;</description>
+I&amp;rsquo;ll start with 5 agreeable axioms and use them systematically to derive &amp;ldquo;Healthcare should not be free&amp;rdquo;</description>
     </item>
     
     <item>
@@ -138,8 +135,8 @@ I&#39;ll start with 5 agreeable axioms and use them systematically to derive &am
       <description>Doing the nand2tetris course is an extremely enlightning experience into the world of computers.
 The course starts from the simplest building block, the &amp;ldquo;NAND&amp;rdquo; operators and helps you step by step to building a modern, functioning computer, OS and tetris Game.
 The NAnd block stands for Not And.
-It takes two binary inputs, A and B and outputs true only if they both aren&#39;t true.
-   A B Output     0 0 1   1 0    1 1 0   0 1 1    To derive the Not operation we have to find a way of using NAnd to have this output:</description>
+It takes two binary inputs, A and B and outputs true only if they both aren&amp;rsquo;t true.
+A B Output 0 0 1 1 0 1 1 0 0 1 1 To derive the Not operation we have to find a way of using NAnd to have this output:</description>
     </item>
     
     <item>
@@ -150,8 +147,8 @@ It takes two binary inputs, A and B and outputs true only if they both aren&#39;
       <guid>https://ferrucc.io/posts/techbro-meme/</guid>
       <description>Every year I look back at myself one year back and cringe.
 So as a gift to my future self, this is a collection of all my current habits
- I know I’m making a meme out of myself
- Note taking I take a lot of notes. After trying many apps I&#39;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.</description>
+I know I’m making a meme out of myself
+Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.</description>
     </item>
     
     <item>
@@ -161,9 +158,9 @@ So as a gift to my future self, this is a collection of all my current habits
       
       <guid>https://ferrucc.io/posts/company-size/</guid>
       <description>I set out to write this article by interviewing 40+ engineers at companies of all sizes.
-  The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
- Let&#39;s say you&#39;re early in your Software Engineer career.
-You&#39;re a competent programmer looking for a change in working environment.
+The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
+Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.
+You&amp;rsquo;re a competent programmer looking for a change in working environment.
 You’ve got 4 offers from four companies at different stages.</description>
     </item>
     
@@ -174,10 +171,10 @@ You’ve got 4 offers from four companies at different stages.</description>
       
       <guid>https://ferrucc.io/posts/go-and-chess/</guid>
       <description>How two board games shape the concept of conflict in the western world and China.
-Let&#39;s start with two photos:
+Let&amp;rsquo;s start with two photos:
 Who won?
 Try and guess who won in the two games.
-In the first picture, even if you don&#39;t understand the game you can guess who won.
+In the first picture, even if you don&amp;rsquo;t understand the game you can guess who won.
 You can tell that the white is smashing the black into a corner.
 And has more pieces in play.
 Chess is a game based on domination.</description>
@@ -193,7 +190,7 @@ Chess is a game based on domination.</description>
 In two months we went from idea 💡, to product:
 The Story April 15th.
 I just finished interviewing for a bunch of tech companies to move away from Italy.
-I&#39;m trying to figure out where I want to go and what I want to do next.</description>
+I&amp;rsquo;m trying to figure out where I want to go and what I want to do next.</description>
     </item>
     
     <item>
@@ -202,8 +199,8 @@ I&#39;m trying to figure out where I want to go and what I want to do next.</des
       <pubDate>Wed, 12 Jun 2019 00:03:29 +0200</pubDate>
       
       <guid>https://ferrucc.io/experiments/</guid>
-      <description>Here&#39;s a list of experiments I did:
- Publicly Sharing my browsing history - more about this here Fiverr profile - The goal of this experiment was to see how efficient the internet is at talent discovery and monetization of hard skills. I didn&#39;t manage to get any clients except for a friend, so it was a failed experiment. Original tweet Fiverr Profile Calls with strangers Original Tweet - Post Recap coming soon Log every 30 minutes of my life on Twitter Auto delete all my tweets after one week Grow an instagram account to 10k followers using fake quotes Make an alarm that rang when Biden won the elections  Not many other experiments come to my mind.</description>
+      <description>Here&amp;rsquo;s a list of experiments I did:
+Publicly Sharing my browsing history - more about this here Fiverr profile - The goal of this experiment was to see how efficient the internet is at talent discovery and monetization of hard skills. I didn&amp;rsquo;t manage to get any clients except for a friend, so it was a failed experiment. Original tweet Fiverr Profile Calls with strangers Original Tweet - Post Recap coming soon Log every 30 minutes of my life on Twitter Auto delete all my tweets after one week Grow an instagram account to 10k followers using fake quotes Make an alarm that rang when Biden won the elections Not many other experiments come to my mind.</description>
     </item>
     
     <item>
@@ -213,9 +210,9 @@ I&#39;m trying to figure out where I want to go and what I want to do next.</des
       
       <guid>https://ferrucc.io/posts/create-a-testing-gmail-account/</guid>
       <description>You are developing an app that uses emails, and need a testing account?
-What&#39;s the fastest and easiest way to get a test account up and running?
-By default Gmail doesn&#39;t support email importing from a file.
-So the first step we&#39;ll have to go through is creating an Outlook email account here:
+What&amp;rsquo;s the fastest and easiest way to get a test account up and running?
+By default Gmail doesn&amp;rsquo;t support email importing from a file.
+So the first step we&amp;rsquo;ll have to go through is creating an Outlook email account here:
 Create an Outlook Account
 After creating an Outlook account we need to import data into it.
 The reason I suggest you use Outlook is that it supports a format called .</description>
@@ -227,7 +224,7 @@ The reason I suggest you use Outlook is that it supports a format called .</desc
       <pubDate>Tue, 05 Mar 2019 21:41:47 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/ubi/</guid>
-      <description>If there&#39;s something that I held as a deep belief growing up is that there is not such a thing as a free lunch.
+      <description>If there&amp;rsquo;s something that I held as a deep belief growing up is that there is not such a thing as a free lunch.
 I also developed an instinct to spot trends.
 Mostly to find opportunities, but also for fun.
 So when I stumbled upon Andrew Yang. I listened to a couple of his interviews and realised his ideas are powerful and bipartisan.
@@ -240,10 +237,11 @@ The way he talks makes him likable both on the left and on the right.</descripti
       <pubDate>Tue, 19 Feb 2019 01:00:40 +0100</pubDate>
       
       <guid>https://ferrucc.io/history/</guid>
-      <description>$(document).ready(function(){ $.getJSON(&#34;https://api.sheety.co/5b7e111f-74d8-4ec1-b0c4-7c0b8d8d8d33&#34;, function(data) { var template = Handlebars.compile($(&#34;#item-template&#34;).html()) $(&#34;#items&#34;).html(template(data.reverse())) }) })  This is my full browsing history! (Until March 4th 2019)
+      <description>This is my full browsing history! (Until March 4th 2019)
 Why?
 Why not?
-I think it might be fun for people wanting to introduce themselves via email to know where I&#39;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.</description>
+I think it might be fun for people wanting to introduce themselves via email to know where I&amp;rsquo;m hanging out on the interwebz. I hope to get some good reading suggestions from this. I also hope to get more picky with the content I decide to consume.
+How am I doing this? This script runs every hour and updates a Google Sheet.</description>
     </item>
     
     <item>
@@ -252,10 +250,10 @@ I think it might be fun for people wanting to introduce themselves via email to 
       <pubDate>Tue, 29 Jan 2019 20:47:34 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/music/</guid>
-      <description>The music I like isn’t that ordinary, but I&#39;d say it&#39;s popular among developers in my age group.
+      <description>The music I like isn’t that ordinary, but I&amp;rsquo;d say it&amp;rsquo;s popular among developers in my age group.
 I found that every time I meet someone in person that codes professionally the discussion at a certain point moves to “What do you listen when you code?”, “What is your favourite genre/artist?”.
-Here&#39;s what developers from big cities in the 20-30 age group tend to listen.
-  Take it easy my brother Charlie</description>
+Here&amp;rsquo;s what developers from big cities in the 20-30 age group tend to listen.
+Take it easy my brother Charlie</description>
     </item>
     
     <item>
@@ -265,11 +263,11 @@ Here&#39;s what developers from big cities in the 20-30 age group tend to listen
       
       <guid>https://ferrucc.io/posts/a-new-ide/</guid>
       <description>6 years ago this video came out.
-  At the time I couldn’t code yet.
+At the time I couldn’t code yet.
 This concept is still mind blowing to me.
 Up until now I always thought about code as a collection of files, connected through imports.
 But really we import functions, not files.
-We use files to store code because they&#39;re a convenient way to serialize code. They&#39;re not the best representation, in fact functions might provide a better one.</description>
+We use files to store code because they&amp;rsquo;re a convenient way to serialize code. They&amp;rsquo;re not the best representation, in fact functions might provide a better one.</description>
     </item>
     
     <item>
@@ -278,9 +276,9 @@ We use files to store code because they&#39;re a convenient way to serialize cod
       <pubDate>Sat, 15 Dec 2018 20:57:56 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/starting-a-blog/</guid>
-      <description>I&#39;m 21, but I&#39;ve been blogging for almost 10 years.
+      <description>I&amp;rsquo;m 21, but I&amp;rsquo;ve been blogging for almost 10 years.
 I grew up doing this.
-What I&#39;ve written on the internet has reached millions of people. Most of what I&#39;ve written is in Italian, but I was also quite successful when writing in english. My Quora profile, reached 400k people in three months.
+What I&amp;rsquo;ve written on the internet has reached millions of people. Most of what I&amp;rsquo;ve written is in Italian, but I was also quite successful when writing in english. My Quora profile, reached 400k people in three months.
 Through blogging I had the opportunity to travel the world, getting free tickets to all the biggest music festivals (Ultra, Tomorrowland.</description>
     </item>
     
@@ -291,9 +289,9 @@ Through blogging I had the opportunity to travel the world, getting free tickets
       
       <guid>https://ferrucc.io/references/</guid>
       <description>Blog Posts The Matrix Calculus You Need For Deep Learning
-Design Inspiration As I want to improve my UX skills for the next projects I&#39;ll be using some standard frameworks like:
- Ant Design Material UI  Landing Pages This is a list of landing pages I look to when trying to find inspiration:
- Pitch Not Pot  Don&#39;t want to miss any of this?
+Design Inspiration As I want to improve my UX skills for the next projects I&amp;rsquo;ll be using some standard frameworks like:
+Ant Design Material UI Landing Pages This is a list of landing pages I look to when trying to find inspiration:
+Pitch Not Pot Don&amp;rsquo;t want to miss any of this?
 You can find out about everything that gets added here by receiving my monthly email.</description>
     </item>
     
@@ -303,11 +301,11 @@ You can find out about everything that gets added here by receiving my monthly e
       <pubDate>Mon, 10 Dec 2018 14:31:50 +0100</pubDate>
       
       <guid>https://ferrucc.io/about/</guid>
-      <description>I&#39;m Ferruccio Balestreri
-Most of my time is spent working on June - we&#39;re hiring so reach out if you&#39;d like to work with me
-Over the years I&#39;ve made so many projects that I&#39;ve lost count. In this website you can find some articles on what I&#39;ve learned.
+      <description>I&amp;rsquo;m Ferruccio Balestreri
+Most of my time is spent working on June - we&amp;rsquo;re hiring so reach out if you&amp;rsquo;d like to work with me
+Over the years I&amp;rsquo;ve made so many projects that I&amp;rsquo;ve lost count. In this website you can find some articles on what I&amp;rsquo;ve learned.
 I also like to run experiments, like publicly streaming my browsing history.
-I don&#39;t trust anyone that gives orders on how to think or do things, I&#39;m also not interested in most opinions.</description>
+I don&amp;rsquo;t trust anyone that gives orders on how to think or do things, I&amp;rsquo;m also not interested in most opinions.</description>
     </item>
     
     <item>
@@ -316,10 +314,10 @@ I don&#39;t trust anyone that gives orders on how to think or do things, I&#39;m
       <pubDate>Mon, 05 Nov 2018 11:44:01 +0100</pubDate>
       
       <guid>https://ferrucc.io/posts/old-school-marketers/</guid>
-      <description>Marketing on the internet isn&#39;t much different from Marketing on any other medium.
-So let&#39;s go back a hundred years to get some inspiration.
+      <description>Marketing on the internet isn&amp;rsquo;t much different from Marketing on any other medium.
+So let&amp;rsquo;s go back a hundred years to get some inspiration.
 Inspiration from the 1920s After selling 100 million books of his series Little Blue Book marketer Julius Hadleman wrote a book analysing all the data he had collected.
-The book title is &amp;ldquo;The First Hundred Million&amp;rdquo; and it came out in 1928 (email me if you need help finding it) and features an interesting collection of proven Titles that work and insights on what we&#39;re interested in reading.</description>
+The book title is &amp;ldquo;The First Hundred Million&amp;rdquo; and it came out in 1928 (email me if you need help finding it) and features an interesting collection of proven Titles that work and insights on what we&amp;rsquo;re interested in reading.</description>
     </item>
     
     <item>
@@ -340,13 +338,13 @@ USSR Financing projects without asking too many questions.</description>
       <pubDate>Tue, 23 Oct 2018 19:12:03 +0000</pubDate>
       
       <guid>https://ferrucc.io/posts/sales-for-cybersecurity-saas/</guid>
-      <description>It&#39;s been almost I month after I started working on Magehash
-This is my first cybersecurity product I&#39;ve ever developed so I decided to share what I learned so far!
+      <description>It&amp;rsquo;s been almost I month after I started working on Magehash
+This is my first cybersecurity product I&amp;rsquo;ve ever developed so I decided to share what I learned so far!
 1) Selling Pain Points We can divide products into three different groups: candies, painkillers and vitamins.
-We don&#39;t want to have much to do with candies.
+We don&amp;rsquo;t want to have much to do with candies.
 Vitamins are interesting.
 We love Painkillers.
-For Cyber security software it&#39;s hard to be a painkiller as what we&#39;re generally trying to do is prevent attacks.</description>
+For Cyber security software it&amp;rsquo;s hard to be a painkiller as what we&amp;rsquo;re generally trying to do is prevent attacks.</description>
     </item>
     
     <item>
@@ -356,7 +354,7 @@ For Cyber security software it&#39;s hard to be a painkiller as what we&#39;re g
       
       <guid>https://ferrucc.io/posts/magecart/</guid>
       <description>In the last month a group of hackers called Magecart came back striking in full force.
-They first appeared in the news back in 2015 when RiskIQ found out they injected code in Magento&#39;s &amp;ldquo;Magecart&amp;rdquo; shopping software. Thus the name.
+They first appeared in the news back in 2015 when RiskIQ found out they injected code in Magento&amp;rsquo;s &amp;ldquo;Magecart&amp;rdquo; shopping software. Thus the name.
 The attacks they organized have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.
 This group is specialized in card skimming payment forms on the internet.</description>
     </item>
@@ -367,7 +365,7 @@ This group is specialized in card skimming payment forms on the internet.</descr
       <pubDate>Sat, 22 Sep 2018 19:18:03 +0000</pubDate>
       
       <guid>https://ferrucc.io/posts/lessons-from-ph/</guid>
-      <description>Two months ago I hadn&#39;t launched any solo project that got users.
+      <description>Two months ago I hadn&amp;rsquo;t launched any solo project that got users.
 Until lately everything I had ever done was with someone else, usually with a compatible skillset. The problem with this approach is that if someone on the team loses interest or is busy the project dies out.
 As this happened a couple of times I decided to take some time and work on projects by myself.
 The products I launched Klipped.</description>
@@ -380,7 +378,7 @@ The products I launched Klipped.</description>
       
       <guid>https://ferrucc.io/posts/dripform/</guid>
       <description>A little more than two months ago Konstantin asked me how long would it take for me to develop something that would let him receive forms on his website as Telegram messages.
-I wasn&#39;t sure how long it would take, but finding the task interesting I decided to just do it.
+I wasn&amp;rsquo;t sure how long it would take, but finding the task interesting I decided to just do it.
 In an afternoon of work I made the first version of &amp;ldquo;Dripform&amp;rdquo;.
 After making it I started exchanging ideas via email with Marc-Antoine who is working on a similar product.</description>
     </item>
@@ -394,8 +392,9 @@ After making it I started exchanging ideas via email with Marc-Antoine who is wo
       <description>We now have a government in Italy.
 Everyone around me is talking about this, so I figured out I might as well try to analyse what are the biggest problems the country is facing.
 Here is a list of existential problems we face:
-  Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
-  Organised Crime, Tax evasion, Corruption and waste of public money plague the country.</description>
+Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
+Organised Crime, Tax evasion, Corruption and waste of public money plague the country.
+The juidicial system is extremely slow and inefficient.</description>
     </item>
     
     <item>
@@ -404,9 +403,9 @@ Here is a list of existential problems we face:
       <pubDate>Tue, 24 Apr 2018 16:46:03 +0000</pubDate>
       
       <guid>https://ferrucc.io/posts/6-dollar-mvp/</guid>
-      <description>Every time you finish writing a blog post you get that feeling that it&#39;s not ready to post it.
-It&#39;s time for proofreading, but it&#39;s painful to proofread your own writings.
-What is fun instead is reading someone else&#39;s writings.
+      <description>Every time you finish writing a blog post you get that feeling that it&amp;rsquo;s not ready to post it.
+It&amp;rsquo;s time for proofreading, but it&amp;rsquo;s painful to proofread your own writings.
+What is fun instead is reading someone else&amp;rsquo;s writings.
 So how great would it be if you could post your drafts somewhere, read and comment a couple of blog posts by people with your same interests, while your own get proofread by people like you?</description>
     </item>
     
@@ -417,7 +416,7 @@ So how great would it be if you could post your drafts somewhere, read and comme
       
       <guid>https://ferrucc.io/reading/</guid>
       <description>When Breath Becomes Air At the end of 2018 Ryan Kulp told me to read this book.
-It&#39;s about how doctors think and made me think about meaning and how to die with dignity. I strongly recommend.
+It&amp;rsquo;s about how doctors think and made me think about meaning and how to die with dignity. I strongly recommend.
 Made in America What really stuck with me was the first autobiography I ever read: &amp;ldquo;Made in America&amp;rdquo; by Sam Walton.
 I think that the powerful ideas of &amp;ldquo;every penny we save is a penny our customers save&amp;rdquo; is the only way to keep a huge corporation lean and not wasteful.</description>
     </item>
@@ -429,8 +428,8 @@ I think that the powerful ideas of &amp;ldquo;every penny we save is a penny our
       
       <guid>https://ferrucc.io/projects/</guid>
       <description>I like to make things and have been doing it for some years now
-Here&#39;s a short summary of my experiences
- .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .</description>
+Here&amp;rsquo;s a short summary of my experiences
+👨🏼‍💻 My Work Intercom Started on the Marketplace team. Then worked on a team building Series from the ground up June 2019 - July 2020 · https://intercom.com Al.ta Cucina From zero to a product and a team, reaching millions of people [read more here] March 2019 - September 2019 · https://altacucina.</description>
     </item>
     
   </channel>
