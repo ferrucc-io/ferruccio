@@ -40,13 +40,13 @@ Serendipitous encounters on the internet shaped a large part of my life, and sin
 
 ## How Fabrizio & Francesco from Typefully met on Dribbble
 
-[Fabrizio](https://fabrizio.so) is one of the best designer’s I’ve ever met. When we first met I learned about the story of how they met.
+[Fabrizio](https://fabrizio.so) is one of the best designer’s I’ve ever met. When I first met with him and [Francesco](https://twitter.com/frankdilo) they told me the story of how they met.
 
 Fabrizio shared in 2015 a mockup on Dribbble of how the Google Inbox would’ve looked like if it was a native Mac app.
 
 ![](/friendcatchers/inbox-for-mac.jpeg)
 
-[Francesco](https://twitter.com/frankdilo), was following Fabrizio on Dribbble, reached out to him with a .dmg of a working prototype of this native Inbox.
+[Francesco](https://twitter.com/frankdilo), was following Fabrizio on Twitter, reached out to him with a .dmg of a working prototype of this native Inbox.
 
 Soon after that as complete internet strangers they launched [Boxy](https://www.producthunt.com/products/boxy-2#boxy-3), a gmail client for Mac on the App Store and raked in $10.000 of earnings in a month.
 
