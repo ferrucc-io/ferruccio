@@ -58,9 +58,9 @@ Since then they’ve been working together on a series of different products.
 
 They’ve now been working on [Typefully](https://typefully.com) and [Mailbrew](https://mailbrew.com). Each product they build they keep having more and more success.
 
-Fabrizio and Francesco aren’t the only people I’ve heard this story form. When I was working at Intercom, I met [Davey](https://twitter.com/daveyheuser), the creator of Iconjar.
+Fabrizio and Francesco aren’t the only people I’ve heard this story form. When I was working at Intercom, I met [Davey](https://twitter.com/daveyheuser), the creator of [Iconjar](https://geticonjar.com/).
 
-He’s been working with [Curtis](https://twitter.com/curthard89) for 5 years and they’ve never met in all the years they’ve been working on Iconjar.
+He’s been working with [Curtis](https://twitter.com/curthard89) for 5 years and they’ve never met in person.
 
 ## Friend catchers
 
