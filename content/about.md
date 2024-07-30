@@ -1,6 +1,7 @@
 ---
-title: "about"
+title: "About"
 date: 2018-12-10T14:31:50+01:00
+lastmod: 2024-07-30T00:03:29+02:00
 draft: false
 type: "page"
 layout: "page"

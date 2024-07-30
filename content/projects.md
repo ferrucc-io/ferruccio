@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 date: 2020-08-1T13:59:23+01:00
+lastmod: 2024-07-30T00:03:29+02:00
 draft: false
 type: "page"
 layout: "page"
@@ -8,9 +9,7 @@ featured_image: "/projects/projects-social.png"
 description: "Here you can find an overview of all the projects I made over the years"
 ---
 
-I like to make things and have been doing it for some years now
-
-Here's a short summary of my experiences
+I like to make things and have been doing it for many years now
 
 <style>
 
@@ -239,6 +238,23 @@ a.project-social-icon-link{
     <div class="project">
         <div class="project-preview">
             <div class="project-content-container">
+                <a class="project-title-link" href="https://june.so">
+                  <h3 class="project-title">June</h3>
+                </a>
+                <div class="project-description">
+                    We're building a new new way to figure out how people use your product.
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">September 2020 - Now</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a href="https://june.so" class="project-link" style="margin-right: 0.4375rem;">https://june.so</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="project-content-container">
                 <a class="project-title-link" href="https://intercom.com">
                   <h3 class="project-title">Intercom</h3>
                 </a>
@@ -446,4 +462,4 @@ a.project-social-icon-link{
 </div>
 <h2 class="title">🗺 Around The Internet</h2>
 
-You can find me on [twitter](https://twitter.com/0xferruccio), [github](https://github.com/ferrucc-io) and monthly in your inbox, if you subscribe to my newsletter:
+You can find me on [X](https://x.com/0xferruccio), [github](https://github.com/ferrucc-io) and occasionally in your inbox, if you subscribe to my newsletter:

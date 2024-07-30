@@ -1,6 +1,7 @@
 ---
 title: "History"
 date: 2019-02-19T01:00:40+01:00
+lastmod: 2024-07-30T00:03:29+02:00
 draft: false
 description: "This is my full browsing history! If you want to introduce yourself and don't know what to say, pick something from here as an inspiration"
 ---

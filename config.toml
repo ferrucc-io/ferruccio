@@ -11,9 +11,20 @@ enableRobotsTXT = true
 HUGO_ENV="production"
 
 [params]
+    name="Ferruccio Balestreri"
+    currentStatus="Currently having a great time building <a href='https://june.so?ref=ferrucc.io'>June</a>."
     twitterHandle="0xferruccio"
     socialLink="https://twitter.com/0xferruccio"
     socialMedia="twitter"
+    [[params.popularPosts]]
+        title = "👨‍💻 Everything I learned in 10 years of blogging"
+        link = "/posts/starting-a-blog/"
+    [[params.popularPosts]]
+        title = "👨‍🍳 From idea to 100k uniques per week in two months"
+        link = "/posts/altacucina/"
+    [[params.popularPosts]]
+        title = "💰 Principles of Bitcoin Maximalism"
+        link = "https://bitcoin.ferrucc.io/"
 
 [markup]
   [markup.goldmark]

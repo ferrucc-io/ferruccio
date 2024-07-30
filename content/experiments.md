@@ -1,6 +1,7 @@
 ---
 title: "Experiments"
 date: 2019-06-12T00:03:29+02:00
+lastmod: 2024-07-30T00:03:29+02:00
 draft: false
 ---
 
