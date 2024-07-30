@@ -8,6 +8,12 @@ layout: "page"
 ---
 
 
+Since starting to work on my company I haven't read a lot of books. I only reads a few Substack posts for fun and go out for long walks.
+
+My favorite blog right now is [Samo Burja's Bismarck Brief](https://brief.bismarckanalysis.com/). Every week I get a new post on something I would've never thought of being interesting.
+
+Other than that I like reading reactionary blogs from people like Curtis Yarvin.
+
 ### When Breath Becomes Air
 
 At the end of 2018 [Ryan Kulp](https://www.ryanckulp.com/) told me to read this book.
