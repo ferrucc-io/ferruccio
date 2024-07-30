@@ -1,6 +1,7 @@
 ---
 title: "Reading List"
-date: 2010-02-12T14:31:50+01:00
+date: 2018-02-12T14:31:50+01:00
+lastmod: 2024-07-30T00:03:29+02:00
 draft: false
 type: "page"
 layout: "page"
@@ -47,6 +48,5 @@ It's a long term play, but it's worth it.
 * [Kevin Lynagh](https://kevinlynagh.com/)
 * [Patio11's Blog](https://www.kalzumeus.com/greatest-hits/)
 * Surely You're Joking Mr. Feynman
-* [Manuel Frigerio's blog](https://manuel.friger.io/blog)
-* [Francesco Di Lorenzo's blog](https://frankdilo.xyz/)
-* [Leonardo Federico's blog](http://leonardofed.io/)
+* [Francesco Di Lorenzo's blog](https://francescodilorenzo.com/)
+* [Samo Burja's Bismarck Brief](https://brief.bismarckanalysis.com/)

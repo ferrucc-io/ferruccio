@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Jul 2022 17:47:42 +0200</lastBuildDate><atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects</title>
+      <link>https://ferrucc.io/projects/</link>
+      <pubDate>Tue, 30 Jul 2024 00:03:29 +0200</pubDate>
+      
+      <guid>https://ferrucc.io/projects/</guid>
+      <description>I like to make things and have been doing it for many years now
+ .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .preview-logo{ width: 90px; height: 90px; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; background: rgb(245, 245, 245); border-radius: 2px; margin-right: 1.</description>
+    </item>
+    
+    <item>
       <title>Building friend catchers</title>
       <link>https://ferrucc.io/posts/friendcatchers/</link>
       <pubDate>Sat, 16 Jul 2022 17:47:42 +0200</pubDate>
@@ -307,7 +317,7 @@ You can find out about everything that gets added here by receiving my monthly e
     </item>
     
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>https://ferrucc.io/about/</link>
       <pubDate>Mon, 10 Dec 2018 14:31:50 +0100</pubDate>
       
@@ -422,24 +432,13 @@ So how great would it be if you could post your drafts somewhere, read and comme
     <item>
       <title>Reading List</title>
       <link>https://ferrucc.io/reading/</link>
-      <pubDate>Fri, 12 Feb 2010 14:31:50 +0100</pubDate>
+      <pubDate>Mon, 12 Feb 2018 14:31:50 +0100</pubDate>
       
       <guid>https://ferrucc.io/reading/</guid>
       <description>When Breath Becomes Air At the end of 2018 Ryan Kulp told me to read this book.
 It&amp;rsquo;s about how doctors think and made me think about meaning and how to die with dignity. I strongly recommend.
 Made in America What really stuck with me was the first autobiography I ever read: &amp;ldquo;Made in America&amp;rdquo; by Sam Walton.
 I think that the powerful ideas of &amp;ldquo;every penny we save is a penny our customers save&amp;rdquo; is the only way to keep a huge corporation lean and not wasteful.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://ferrucc.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ferrucc.io/projects/</guid>
-      <description>I like to make things and have been doing it for some years now
-Here&amp;rsquo;s a short summary of my experiences
- .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .</description>
     </item>
     
   </channel>
