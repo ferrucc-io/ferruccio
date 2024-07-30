@@ -12,6 +12,8 @@ Since starting to work on June, I haven't read a lot of books. I only reads a fe
 
 My favorite blog right now is [Samo Burja's Bismarck Brief](https://brief.bismarckanalysis.com/). Every week I get a new post on something I would've never thought of being interesting.
 
-Other than that I like reading reactionary blogs from people like Curtis Yarvin.
+I also like reading the [Palladium Magazine](https://palladiummagazine.org/).
+
+Occasionally, I also like reading reactionary blogs like Curtis Yarvin's [Gray Mirror](https://graymirror.substack.com/) - but I've found them a bit too repetitive with time. I enjoy reading about edgy ideas of every kind, so if you have any recommendations, please let me know!
 
 I'll get back to reading books when I'm less busy with work.
