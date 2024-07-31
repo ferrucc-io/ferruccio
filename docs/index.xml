@@ -6,7 +6,7 @@
     <description>Recent content on ferrucc.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2022 17:47:42 +0200</lastBuildDate><atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Oct 2023 17:53:36 +0100</lastBuildDate><atom:link href="https://ferrucc.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://ferrucc.io/projects/</link>
@@ -15,6 +15,17 @@
       <guid>https://ferrucc.io/projects/</guid>
       <description>I like to make things and have been doing it for many years now
  .flex-l.justify-between.items-center.center{ text-align:center; } a.f3.no-underline.white.dib{ text-align: center; margin: 0 auto; float: none; } ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{ display: none; } body{ width: 100wh; height: 90vh; overflow: hidden; } main.pb1{ padding-bottom:0px; overflow-y: scroll; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; } article { padding-top: 0.5rem !important; } .project-preview{ display: flex; margin-bottom: 0.875rem; } .preview-logo{ width: 90px; height: 90px; display: flex; -webkit-box-pack: center; justify-content: center; -webkit-box-align: center; align-items: center; background: rgb(245, 245, 245); border-radius: 2px; margin-right: 1.</description>
+    </item>
+    
+    <item>
+      <title>Reaching Product Market Fit - Our journey</title>
+      <link>https://ferrucc.io/posts/reaching-pmf/</link>
+      <pubDate>Tue, 10 Oct 2023 17:53:36 +0100</pubDate>
+      
+      <guid>https://ferrucc.io/posts/reaching-pmf/</guid>
+      <description>This article was originally posted on the June blog. I am reposting it here for my own reference.
+Two years ago we raised a little over $2 million dollars as a seed round from some of the smartest investors in the world.
+Last week, Louis, our board member asked us to give a presentation to share our learnings with other companies in the Pointnine portfolio. We got great feedback from fellow founders after the presentation - so today I&amp;rsquo;m sharing our learnings publicly.</description>
     </item>
     
     <item>

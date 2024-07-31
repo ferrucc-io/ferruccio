@@ -1,7 +1,8 @@
 ---
 title: "Reaching Product Market Fit - Our journey"
 date: 2023-10-10T17:53:36+01:00
-draft: true
+lastmod: 2023-10-10T17:53:36+01:00
+draft: false
 ---
 
 _This article was originally posted on the [June blog](https://www.june.so/blog/reaching-product-market-fit). I am reposting it here for my own reference._
@@ -50,15 +51,19 @@ Wouldn’t it be great if there was a product so fun and easy to use that the wh
 
 From this vision we started building June. Here’s the timeline of our progress.
 
+![](/reaching-pmf/2021-start.png)
+
 **End of 2020 to 2021 - $0 ACV**
 
 In the first months we decided to stay broad in our focus and launch a product quickly. We would then see who would end up using our product.
 
 We had enough traction to raise a seed round.
 
-**March 2021 until 2022 - $0-500 ACV**
+![](/reaching-pmf/2021-phase-1.png)
 
-Target users: Hobbyists and early stage non-technical startup founders
+### March 2021 until 2022 - $0-500 ACV
+
+**Target users: Hobbyists and early stage non-technical startup founders**
 
 At this point we had a product and a little over a hundred monthly active users. No revenue yet.
 
@@ -67,6 +72,8 @@ The retention of users was around 7% which was very low. The only people really 
 The people that helped us shape June in those early days were:
 
 We met with all of our hardcore users in person apart from Jayme
+
+![](/reaching-pmf/first-believers.png)
 
 Without them taking a chance and using our product, June wouldn’t exist.
 
@@ -81,9 +88,12 @@ The whole team only worked on things that could delight the users that were part
 
 Once we reached 11 companies on the design committee we doubled the price for the next batch of 10 companies.
 
-**2022 to 2023 - $0 to $2k ACV**
 
-Target users: Seed stage B2B SaaS startups
+![](/reaching-pmf/2021-phase-1.png)
+
+### 2022 to 2023 - $0 to $2k ACV
+
+**Target users: Seed stage B2B SaaS startups**
 
 As our design committee grew to 30 companies we decided it was now time to introduce a standard pricing as part of the product.
 
@@ -93,23 +103,29 @@ We focused exclusively on their problems and their needs. That led us to build r
 
 Over the course of the year we crossed the 100 companies paying for June and in September came to the conclusion that yes, we’re solving a problem that people are willing to pay for.
 
-**2023 to now - $0 to $15k ACV**
+![](/reaching-pmf/2022-phase-2.png)
 
-Target users: B2B SaaS startups at seed or Series A
+### 2023 to now - $0 to $15k ACV
+
+**Target users: B2B SaaS startups at seed or Series A**
 
 Right now our focus is to keep building more and more value for our target customers and we want to automate and improve all of the rough edges and things that don’t scale, that we’re struggling to keep up with because of our new usage and users volume.
 
-**2024 to 2034 - $0 to $1m ACV**
+![](/reaching-pmf/2023-phase-3.png)
 
-Target users: SaaS startups from MVP to IPO
+### 2024 to 2034 - $0 to $1m ACV
+
+**Target users: SaaS startups from MVP to IPO**
 
 Over the next ten years we'll keep growing with our customers and follow them in their journey from getting their first 10 customers, raising their rounds and eventually IPO.
+
+![](/reaching-pmf/phase-4.png)
 
 ## Explaining the problem effectively
 
 Once we had more than 100 paying customers it was time to think about scaling.
 
-But before scaling our board member Louis told us there’s one thing we needed to nail - our positioning and our messaging.
+But before scaling our board member [Louis](https://fr.linkedin.com/in/louiscoppey) told us there’s one thing we needed to nail - our positioning and our messaging.
 
 Our landing page conversion was less than 1% so something was very off.
 
@@ -117,9 +133,9 @@ I spent three months reading books, blog posts, doing PMF surveys and experiment
 
 I’d change the copy of our site every thousand visitors and see if it worked better.
 
-Alberto described June in different ways during onboarding calls. What we ended up keeping was sweet and concise - and has been converting visitors to sign ups 10 times better for months now.
+[Alberto](https://fr.linkedin.com/in/alberto-incisa-6174281b8) described June in different ways during onboarding calls. What we ended up keeping was sweet and concise - and has been converting visitors to sign ups 10 times better for months now.
 
-If you're interested in learning more about the details I shared our process in this article "From Chaos to Clarity: How We Nailed Our Product Positioning".
+If you're interested in learning more about the details I shared our process in this article "[From Chaos to Clarity: How We Nailed Our Product Positioning](https://www.june.so/blog/from-chaos-to-clarity-how-we-nailed-our-product-positioning-2)".
 
 ## Reach new users reliably
 
@@ -147,9 +163,9 @@ Some of the things that worked best for us were:
 - Sharing everything we learn - especially when it feels a bit uncomfortable, like in this article
 - Sharing lessons from the smartest people we know
 - Doing things like the June podcast
-- Open sourcing our changelog - so that we can save time and money to our users
+- [Open sourcing our changelog](https://github.com/juneHQ/changelog) - so that we can save time and money to our users
 
-If that's where you're stuck, as part of this process working on growth and talking with 100+ successful founders we wrote the most comprehensive guide to growing a B2B SaaS startup.
+If that's where you're stuck, as part of this process working on growth and talking with 100+ successful founders we wrote the [most comprehensive guide to growing a B2B SaaS startup](https://www.june.so/blog/how-to-grow-b2b-saas-startup).
 
 ## Conclusion
 
