@@ -2,7 +2,7 @@
 
 In this repository you can find the source of my personal blog.
 
-The site is a static Hugo blog hosted on Github pages.
+The site is a static Hugo blog hosted on Github pages. It's currently running on Hugo 0.84.4.
 
 The deployed version of the site is inside the `docs/` folder. If you push a change it gets deployed automatically.
 
