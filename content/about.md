@@ -12,6 +12,8 @@ I'm Ferruccio Balestreri
 
 I spend most of my time working on [June](https://june.so) - *we're hiring so reach out if you'd like to work with me*
 
+I also help out with building [Balloon](https://balloonguthealth.com/) - an app to help women improve their gut health.
+
 Over the years I've made [so many projects](/projects) that I've lost count.
 
 I like to run [experiments](/experiments), like publicly streaming my [browsing history](/history).
