@@ -3,15 +3,16 @@
 
 HUGO_ENV=production hugo
 
-cd themes/ferruccio
+cd themes/ferruccio/src
+npm run build
+
+cd ..
 git add .
 git commit -m "Update theme"
 git push origin master
 
-cd src
-npm run build
 
-cd ../../..
+cd ../..
 
 git add .
 git commit -m "Update site content"
