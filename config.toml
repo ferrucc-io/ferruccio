@@ -17,13 +17,13 @@ HUGO_ENV="production"
     socialLink="https://twitter.com/0xferruccio"
     socialMedia="twitter"
     [[params.popularPosts]]
-        title = "👨‍💻 Everything I learned in 10 years of blogging"
+        title = "Everything I learned in 10 years of blogging"
         link = "/posts/starting-a-blog/"
     [[params.popularPosts]]
-        title = "👨‍🍳 From idea to 100k uniques per week in two months"
+        title = "From idea to 100k uniques per week in two months"
         link = "/posts/altacucina/"
     [[params.popularPosts]]
-        title = "💰 Principles of Bitcoin Maximalism"
+        title = "Principles of Bitcoin Maximalism"
         link = "https://bitcoin.ferrucc.io/"
 
 [markup]
