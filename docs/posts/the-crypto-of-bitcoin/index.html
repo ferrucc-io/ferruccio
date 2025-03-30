@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    
+    <title>ferrucc.io  | What is the Crypto of Bitcoin [WIP]</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@0xferruccio">
+    
+    
+    <meta name="twitter:image" content="http://localhost:1313/">
+    <meta property="og:image" content="http://localhost:1313/">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.145.0">
+    
+    
+    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    
+    
+      <link href="/dist/css/app.1298a3f9d786e9c0882125a134fb0711.css" rel="stylesheet">
+    
+
+    
+
+    
+      
+    
+
+    
+
+    <meta property="og:url" content="http://localhost:1313/posts/the-crypto-of-bitcoin/">
+  <meta property="og:site_name" content="ferrucc.io">
+  <meta property="og:title" content="What is the Crypto of Bitcoin [WIP]">
+  <meta property="og:description" content="As the term crypto, is now widely used to refer to cryptocurrencies I thought it would be interesting to write a simple blog post explaining the cryptography behind Bitcoin, which is one of the many layers of the digital gold we all love.
+Hashing Algorithms A hashing algortihm is a code used to uniquely map objects. The main reason hashing algorithms were introduced was that if in a program you want to look for a value it makes no sense to check all existing values to find what we need.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2018-06-02T16:46:03+00:00">
+    <meta property="article:modified_time" content="2018-06-02T16:46:03+00:00">
+
+  <meta itemprop="name" content="What is the Crypto of Bitcoin [WIP]">
+  <meta itemprop="description" content="As the term crypto, is now widely used to refer to cryptocurrencies I thought it would be interesting to write a simple blog post explaining the cryptography behind Bitcoin, which is one of the many layers of the digital gold we all love.
+Hashing Algorithms A hashing algortihm is a code used to uniquely map objects. The main reason hashing algorithms were introduced was that if in a program you want to look for a value it makes no sense to check all existing values to find what we need.">
+  <meta itemprop="datePublished" content="2018-06-02T16:46:03+00:00">
+  <meta itemprop="dateModified" content="2018-06-02T16:46:03+00:00">
+  <meta itemprop="wordCount" content="585">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="What is the Crypto of Bitcoin [WIP]">
+  <meta name="twitter:description" content="As the term crypto, is now widely used to refer to cryptocurrencies I thought it would be interesting to write a simple blog post explaining the cryptography behind Bitcoin, which is one of the many layers of the digital gold we all love.
+Hashing Algorithms A hashing algortihm is a code used to uniquely map objects. The main reason hashing algorithms were introduced was that if in a program you want to look for a value it makes no sense to check all existing values to find what we need.">
+
+  </head>
+
+  <body class="ma0 sans-serif">
+
+    
+   
+  
+
+  <header>
+    <div class="">
+      
+  <div class="pb1-m pb1-l ">
+    <nav class="pv3 ph3 ph4-ns" role="navigation">
+      <div class="flex-l justify-between items-center center">
+        <a href="http://localhost:1313/" class="f3 no-underline black dib">
+          ferrucc.io
+        </a>
+        <div class="flex-l dib fr">
+          
+            <ul class="pl0 mr2 mr3-ns tr mt1 pt3-l">
+              
+              <li class="list f4 f4-m f4-l fw4 dib pr3">
+                <a class="no-underline black" href="/about/" title="About page">
+                  About
+                </a>
+              </li>
+              
+            </ul>
+          
+        </div>
+      </div>
+    </nav>
+  </div>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb1" role="main">
+      
+  <article class="flex-l flex-wrap justify-between mw8 center ph3 ph0-l">
+
+    <header class="mt4 w-100 mw7">
+      <h1 class="lh-solid f1 sans-serif mb1">What is the Crypto of Bitcoin [WIP]</h1>
+      
+      <time class="f6 mv4" datetime="2018-06-02T16:46:03Z">
+        Published on June 2, 2018 | Last updated on June 2, 2018
+      </time>
+    </header>
+
+    <main class="nested-copy-line-height lh-copy sans-serif f5 nested-links nested-img pr4-l w-two-thirds-l"><p>As the term crypto, is now widely used to refer to cryptocurrencies I thought it would be interesting to write a simple blog post explaining the cryptography behind Bitcoin, which is one of the many layers of the digital gold we all love.</p>
+<h2 id="hashing-algorithms">Hashing Algorithms</h2>
+<p>A hashing algortihm is a code used to uniquely map objects.
+The main reason hashing algorithms were introduced was that if in a program you want to look for a value it makes no sense to check all existing values to find what we need.</p>
+<p><strong>How do they work ?</strong></p>
+<p>Imagine an enourmous library that has a librarian that for every book can tell you its unique position.
+<img src="/library.png" alt=""></p>
+<p>In programming if we didn&rsquo;t have hashing functions we would have to sift through everything we have saved on our computers and check if it&rsquo;s what we&rsquo;re looking for:
+<img src="/digital-dictionary.png" alt=""></p>
+<p>With hashing functions we can find or know that we don&rsquo;t have what we need in only one step, whatever the size of our &ldquo;library&rdquo;.</p>
+<p>In Bitcoin there are two hashing functions used: SHA256 and RIPEMD-160.
+Here&rsquo;s the output of SHA256 when the input is &ldquo;bitcoin&rdquo;:</p>
+<pre tabindex="0"><code>6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b
+</code></pre><p>In Bitcoin generally the SHA256 is applied twice:</p>
+<p>Initial input:</p>
+<pre tabindex="0"><code>bitcoin
+</code></pre><p>Output of first round of SHA256 on &ldquo;bitcoin&rdquo;:</p>
+<pre tabindex="0"><code>6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b
+</code></pre><p>Output of second round of SHA256 on it is:</p>
+<pre tabindex="0"><code>a23b7f87e4250b3a64b737f349c06422f752f419cbb25ae9169a6cf1e23f4462
+</code></pre><p>When we want to get a shorter output from our hashing function, like when a Bitcoin address is created the RIPEMD-160 hash function is used in the second round:</p>
+<p>Initial input:</p>
+<pre tabindex="0"><code>bitcoin address
+</code></pre><p>Output of SHA256 on &ldquo;bitcoin address&rdquo;:</p>
+<pre tabindex="0"><code>338fc17627ab215e5cb0c4ef807dfd161ef96febdb00e997c50db5f4bf76f383
+</code></pre><p>And the output of RIPEMD-160 on it is:</p>
+<pre tabindex="0"><code>edb33402f008c1fed31f57f625aa30403f3a9b33
+</code></pre><h2 id="merkle-tree">Merkle Tree</h2>
+<p>A Merkle Tree is a signature of all the transactions contained in a block.</p>
+<p>I tried to understand Merkle trees from definitions on the internet and textbooks, but couldn&rsquo;t understand how they worked until I visualised them:
+<img src="/merkle.gif" alt=""></p>
+<ol>
+<li>hash all the transaction.</li>
+<li>pair the hashes and hash together.</li>
+<li>if you have more than 1 element left go back to step one using the combined hashes as &ldquo;transactions&rdquo;.</li>
+<li>you now have the merkle root.</li>
+</ol>
+<p>If you change the value of the transaction in a block, the merkle root changes.
+For this reason if you want to verify the validity of a transaction you can simply check the validity of the branch on which a transaction is on:
+<img src="/tx-validity.png" alt=""></p>
+<h2 id="elliptic-curve-cyptography">Elliptic Curve Cyptography</h2>
+<p>To explain Bitcoin&rsquo;s ECDSA (Elliptic Curve Digital Signature Algorithm) we have to understand what a Signature Algorithm is.</p>
+<p>A <strong>Signature Algorithm</strong> is composed by three parts:</p>
+<ul>
+<li>a key generation algorithm, which can be shared with other public-key algorithms</li>
+<li>a signature generation algorithm</li>
+<li>a signature verification algorithm</li>
+</ul>
+<p>We can build signature algorithms using hashing functions.
+Using the private key we generate a unique text using the hash function on the message we want to sign.</p>
+<p>Anyone can then use the public key to see the content of the message and the signature proves that someone with the private key of the corresponding public key signed the message.</p>
+<p>A cryptographic system with a public and a private key is an asymmetric system.</p>
+<p>These systems work because it&rsquo;s easy to calculate outputs in one direction, extremely hard in the other.
+A -&gt; B easy
+B -&gt; A extremely hard</p>
+<p>A property of elliptic curves is that if a line crosses an elliptic curve twice, it will cross it in another point, unless the points are opposite to each other.</p>
+<p>The Elliptic Curve used in Bitcoin is called secp256k1 here is its plot:</p>
+<p><img src="/secp256k1.png" alt=""></p>
+<h1 id="this-is-a-draft-dont-take-too-seriously">This is a draft don&rsquo;t take <em>too</em> seriously</h1>
+<ul class="pa0">
+  
+</ul>
+<div class="newsletter-signup">  
+
+        <iframe src="https://ferruccio.substack.com/embed" width="480" height="320" style="max-width: 95%; background:white;" frameborder="0" scrolling="no"></iframe>
+      </div>
+    </main>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <p class="f4 fw4 no-underline white-100 dib pv2 ph3 center tc">
+    
+    <a class="f4 fw4 no-underline pv2" href="https://twitter.com/0xferruccio" id="twitter-footer-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height='48px' width="48px"><defs><style>.a{fill:#000;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><title>social-media-twitter</title><path class="a" d="M23,6.628l-2-.5,1-2-2.464.7A4.48,4.48,0,0,0,12,8.128v1c-3.539.73-6.634-1.2-9.5-4.5q-.75,4,1.5,6l-3-.5c.405,2.069,1.362,3.7,4,4l-2.5,1c1,2,2.566,2.31,5,2.5a10.748,10.748,0,0,1-6.5,2c12.755,5.669,20-2.664,20-10V8.3Z"></path></svg>
+    </a>
+  </p>
+  </div>
+</footer>
+
+    
+
+  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>

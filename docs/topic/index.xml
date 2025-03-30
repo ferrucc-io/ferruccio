@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on ferrucc.io</title>
+    <link>http://localhost:1313/topic/</link>
+    <description>Recent content in Topics on ferrucc.io</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2019 18:20:08 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/topic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swift</title>
+      <link>http://localhost:1313/topic/swift/</link>
+      <pubDate>Mon, 05 Aug 2019 18:20:08 +0100</pubDate>
+      <guid>http://localhost:1313/topic/swift/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m mostly a web developer, but the Swift programming language and writing native code has always been something I wanted to explore more in depth.&lt;/p&gt;&#xA;&lt;p&gt;Swift functions are strongly typed and let you know in advance what kind of data they handle:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-swift&#34; data-lang=&#34;swift&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sendMessage&lt;/span&gt; (text: String, user: User) -&amp;gt; (Result) {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#75715e&#34;&gt;/// Your code&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; res&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;What I found a bit counter intuitive was variable declaration which works in the following way:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

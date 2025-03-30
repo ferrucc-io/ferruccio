@@ -30,7 +30,7 @@ They even have the same job requirements:
 
 **Which job should you pick?**
 
-{{< tweet 1165639344197160961 >}}
+{{< x user="0xferruccio" id="1165639344197160961" >}}
 
 There’s a lot of literature and blog posts around how to pass the job interviews, how to negotiate a great salary, but few people talk about the difference in what you’ll end up working on in the day to day.
 

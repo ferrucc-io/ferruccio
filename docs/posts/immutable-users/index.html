@@ -1,20 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-100447722-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
 
     
     <title>ferrucc.io  | Mutable or immutable user properties</title>
@@ -24,10 +12,10 @@ if (!doNotTrack) {
     <meta name="twitter:creator" content="@0xferruccio">
     
     
-    <meta name="twitter:image" content="https://ferrucc.io/">
-    <meta property="og:image" content="https://ferrucc.io/">
+    <meta name="twitter:image" content="http://localhost:1313/">
+    <meta property="og:image" content="http://localhost:1313/">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.84.4" />
+    <meta name="generator" content="Hugo 0.145.0">
     
     
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -46,26 +34,30 @@ if (!doNotTrack) {
 
     
 
-    <meta property="og:title" content="Mutable or immutable user properties" />
-<meta property="og:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&rsquo;re hiring
-June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &ldquo;plan&rdquo; trait to your users.
-The value of these properties is mutable and has no relationship with time." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://ferrucc.io/posts/immutable-users/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-04-06T18:33:39+02:00" />
-<meta property="article:modified_time" content="2021-04-06T18:33:39+02:00" />
+    <meta property="og:url" content="http://localhost:1313/posts/immutable-users/">
+  <meta property="og:site_name" content="ferrucc.io">
+  <meta property="og:title" content="Mutable or immutable user properties">
+  <meta property="og:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we’re hiring
+June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a “plan” trait to your users.
+The value of these properties is mutable and has no relationship with time. We’re thinking about making it immutable.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2021-04-06T18:33:39+02:00">
+    <meta property="article:modified_time" content="2021-04-06T18:33:39+02:00">
 
-<meta itemprop="name" content="Mutable or immutable user properties">
-<meta itemprop="description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&rsquo;re hiring
-June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &ldquo;plan&rdquo; trait to your users.
-The value of these properties is mutable and has no relationship with time."><meta itemprop="datePublished" content="2021-04-06T18:33:39+02:00" />
-<meta itemprop="dateModified" content="2021-04-06T18:33:39+02:00" />
-<meta itemprop="wordCount" content="694">
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Mutable or immutable user properties"/>
-<meta name="twitter:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&rsquo;re hiring
-June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &ldquo;plan&rdquo; trait to your users.
-The value of these properties is mutable and has no relationship with time."/>
+  <meta itemprop="name" content="Mutable or immutable user properties">
+  <meta itemprop="description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we’re hiring
+June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a “plan” trait to your users.
+The value of these properties is mutable and has no relationship with time. We’re thinking about making it immutable.">
+  <meta itemprop="datePublished" content="2021-04-06T18:33:39+02:00">
+  <meta itemprop="dateModified" content="2021-04-06T18:33:39+02:00">
+  <meta itemprop="wordCount" content="694">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Mutable or immutable user properties">
+  <meta name="twitter:description" content="This is an open engineering question at June. If you want to solve problems like this one, please reach out - we’re hiring
+June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a “plan” trait to your users.
+The value of these properties is mutable and has no relationship with time. We’re thinking about making it immutable.">
 
   </head>
 
@@ -81,7 +73,7 @@ The value of these properties is mutable and has no relationship with time."/>
   <div class="pb1-m pb1-l ">
     <nav class="pv3 ph3 ph4-ns" role="navigation">
       <div class="flex-l justify-between items-center center">
-        <a href="https://ferrucc.io/" class="f3 no-underline black dib">
+        <a href="http://localhost:1313/" class="f3 no-underline black dib">
           ferrucc.io
         </a>
         <div class="flex-l dib fr">
@@ -143,7 +135,7 @@ The value of these properties is mutable and has no relationship with time."/>
 <h2 id="counting-active-users-on-the-pro-plan-case-a">Counting active users on the pro plan (Case A)</h2>
 <p>Here&rsquo;s an example of unexpected behavior you get from modeling data this way:</p>
 <p>I want to know the number of active users on a Pro plan month by month for the last year to see how it changed over time. We can count users with a &ldquo;Pro plan&rdquo; trait that were active each month. If some users from 1 year ago churned and aren&rsquo;t on the pro plan anymore, the graph would not include them.</p>
-<p>This happens because the users' traits data is mutable, meaning it can change.</p>
+<p>This happens because the users&rsquo; traits data is mutable, meaning it can change.</p>
 <h2 id="an-immutable-alternative">An immutable alternative</h2>
 <p>We can model data in an immutable way to handle this edge case.</p>
 <p>Identify logs table</p>
@@ -163,14 +155,14 @@ The value of these properties is mutable and has no relationship with time."/>
 <p>If we try and do this using the traits we had at the moment users signed up, we&rsquo;d get no results. If we run this same analysis on the sum of all the traits we ever received, we&rsquo;d get the right results. So when defining rules to segment an audience, instead of saying &ldquo;Users on the pro plan&rdquo; we need to specify when they were on the pro plan, is it now, or at the time they performed an event?</p>
 <p>This example shows how being technically correct sometimes adds friction and confusion to the experience.</p>
 <p>On the other hand, this approach&rsquo;s benefit is that it helps you partition data more efficiently.</p>
-<p>For example, suppose you partition the users' data by time instead of scanning through all your users to find your analyses' audience. In that case, you can only look at the active users at the time of your analysis.</p>
+<p>For example, suppose you partition the users&rsquo; data by time instead of scanning through all your users to find your analyses&rsquo; audience. In that case, you can only look at the active users at the time of your analysis.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p><strong>So the open question for us is how we should model user data?</strong></p>
 <p>Tools like Mixpanel go with the mutable approach.</p>
 <p>Amplitude instead goes with the immutable approach, with no option to &ldquo;flatten&rdquo; all historical data.</p>
 <p>When exporting data to a warehouse, segmentation also stores it in an immutable way.</p>
 <p>The <a href="https://en.wikipedia.org/wiki/Apache_Parquet">parquet</a> file of user data that Segment saves to S3 looks like:</p>
-<pre><code>s3://&lt;top-level-Segment-bucket&gt;/data/&lt;source-id&gt;/segment_type=identify/day=&lt;YYYY-MM-DD&gt;/hr=&lt;HH&gt;
+<pre tabindex="0"><code>s3://&lt;top-level-Segment-bucket&gt;/data/&lt;source-id&gt;/segment_type=identify/day=&lt;YYYY-MM-DD&gt;/hr=&lt;HH&gt;
 </code></pre><p><strong>This is an open engineering challenge at <a href="https://june.so">June</a>. If you want to solve problems like this one, please reach out - <a href="https://www.notion.so/projectanalytics/Founding-Team-Engineer-339274009f594b58aff3d4bfd8e3f93e">we&rsquo;re hiring</a></strong></p>
 <ul class="pa0">
   

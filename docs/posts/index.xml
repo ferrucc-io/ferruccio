@@ -2,376 +2,235 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ferrucc.io</title>
-    <link>https://ferrucc.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on ferrucc.io</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2023 17:53:36 +0100</lastBuildDate><atom:link href="https://ferrucc.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Oct 2023 17:53:36 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reaching Product Market Fit - Our journey</title>
-      <link>https://ferrucc.io/posts/reaching-pmf/</link>
+      <link>http://localhost:1313/posts/reaching-pmf/</link>
       <pubDate>Tue, 10 Oct 2023 17:53:36 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/reaching-pmf/</guid>
-      <description>This article was originally posted on the June blog. I am reposting it here for my own reference.
-Two years ago we raised a little over $2 million dollars as a seed round from some of the smartest investors in the world.
-Last week, Louis, our board member asked us to give a presentation to share our learnings with other companies in the Pointnine portfolio. We got great feedback from fellow founders after the presentation - so today I&amp;rsquo;m sharing our learnings publicly.</description>
+      <guid>http://localhost:1313/posts/reaching-pmf/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This article was originally posted on the &lt;a href=&#34;https://www.june.so/blog/reaching-product-market-fit&#34;&gt;June blog&lt;/a&gt;. I am reposting it here for my own reference.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Two years ago we raised a little over $2 million dollars as a seed round from some of the smartest investors in the world.&lt;/p&gt;&#xA;&lt;p&gt;Last week, Louis, our board member asked us to give a presentation to share our learnings with other companies in the Pointnine portfolio. We got great feedback from fellow founders after the presentation - so today I&amp;rsquo;m sharing our learnings publicly.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Building friend catchers</title>
-      <link>https://ferrucc.io/posts/friendcatchers/</link>
+      <link>http://localhost:1313/posts/friendcatchers/</link>
       <pubDate>Sat, 16 Jul 2022 17:47:42 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/posts/friendcatchers/</guid>
-      <description>As a 13 year old, my dad’s advice on internet presence was:
- “Everything you post will be used against you in the future. So you should never associate your name with anything on the internet”.
- As a rebellious teenager my view was the opposite:
- “Everything you post on the internet will get lost. You should associate your real name with everything you find interesting”
- I think looking back, this might be the most useful lesson I learned from my high school years.</description>
+      <guid>http://localhost:1313/posts/friendcatchers/</guid>
+      <description>&lt;p&gt;As a 13 year old, my dad’s advice on internet presence was:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Everything you post will be used against you in the future. So you should never associate your name with anything on the internet”.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As a rebellious teenager my view was the opposite:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Everything you post on the internet will get lost. You should associate your real name with everything you find interesting”&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I think looking back, this might be the most useful lesson I learned from my high school years.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The heartbeat of your startup</title>
-      <link>https://ferrucc.io/posts/throughput/</link>
+      <link>http://localhost:1313/posts/throughput/</link>
       <pubDate>Sun, 23 May 2021 10:39:53 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/posts/throughput/</guid>
-      <description>The only thing that matters is throughput.
-Becoming the most prolific version of yourself is the most important thing you can do to become proud of your work.
-Making a group of people become the most prolific version of themselves sounds like a reasonable way to build a great company. So that&amp;rsquo;s what we&amp;rsquo;re trying to do.
-Throughput is the speed of getting to some outputs. The faster you get, the more things you do, and the more you build momentum.</description>
+      <guid>http://localhost:1313/posts/throughput/</guid>
+      <description>&lt;p&gt;The only thing that matters is throughput.&lt;/p&gt;&#xA;&lt;p&gt;Becoming the most prolific version of yourself is the most important thing you can do to become proud of your work.&lt;/p&gt;&#xA;&lt;p&gt;Making a group of people become the most prolific version of themselves sounds like a reasonable way to build a great company. So that&amp;rsquo;s what we&amp;rsquo;re trying to do.&lt;/p&gt;&#xA;&lt;p&gt;Throughput is the speed of getting to some outputs. The faster you get, the more things you do, and the more you build momentum.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mutable or immutable user properties</title>
-      <link>https://ferrucc.io/posts/immutable-users/</link>
+      <link>http://localhost:1313/posts/immutable-users/</link>
       <pubDate>Tue, 06 Apr 2021 18:33:39 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/posts/immutable-users/</guid>
-      <description>This is an open engineering question at June. If you want to solve problems like this one, please reach out - we&amp;rsquo;re hiring
-June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your pro plan, you can do that by adding a &amp;ldquo;plan&amp;rdquo; trait to your users.
-The value of these properties is mutable and has no relationship with time.</description>
+      <guid>http://localhost:1313/posts/immutable-users/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is an open engineering question at &lt;a href=&#34;https://june.so&#34;&gt;June&lt;/a&gt;. If you want to solve problems like this one, please reach out - &lt;a href=&#34;https://www.notion.so/projectanalytics/Founding-Team-Engineer-339274009f594b58aff3d4bfd8e3f93e&#34;&gt;we&amp;rsquo;re hiring&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;June allows you to add dynamic traits to your users. For example, if you want to run an analysis only on users that are on your &lt;strong&gt;pro plan&lt;/strong&gt;, you can do that by adding a &amp;ldquo;plan&amp;rdquo; trait to your users.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The value of these properties is mutable and has no relationship with time. We&amp;rsquo;re thinking about making it immutable.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Building Product</title>
-      <link>https://ferrucc.io/posts/building-product/</link>
+      <link>http://localhost:1313/posts/building-product/</link>
       <pubDate>Wed, 11 Nov 2020 10:00:58 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/building-product/</guid>
-      <description>If you&amp;rsquo;re working on something new, there are so many directions your work and product can take.
-The biggest risk is that you build something that is hard to explain and no one wants.
-A good process minimizes this risk. Helping you move in the direction of building something people want.
-To build June me and my cofounder Enzo used a very systematic approach. We decided to shared it as you might find useful.</description>
+      <guid>http://localhost:1313/posts/building-product/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re working on something new, there are so many directions your work and product can take.&lt;/p&gt;&#xA;&lt;p&gt;The biggest risk is that you build something that is hard to explain and no one wants.&lt;/p&gt;&#xA;&lt;p&gt;A good process minimizes this risk. Helping  you move in the direction of building something people want.&lt;/p&gt;&#xA;&lt;p&gt;To build &lt;a href=&#34;https://june.so&#34;&gt;June&lt;/a&gt; me and my cofounder &lt;a href=&#34;https://twitter.com/0zne&#34;&gt;Enzo&lt;/a&gt; used a very systematic approach. We decided to shared it as you might find useful.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debug</title>
-      <link>https://ferrucc.io/posts/debug/</link>
+      <link>http://localhost:1313/posts/debug/</link>
       <pubDate>Tue, 22 Sep 2020 00:15:44 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/posts/debug/</guid>
-      <description>Sometimes I come back home from work, stuck on something, no adults to ask help to and a deadline in the morning.
-I fall asleep thinking: &amp;ldquo;Tomorrow is the day I&amp;rsquo;ll get caught. This will be the one problem I won&amp;rsquo;t be able to solve. The rest of my life is going to be misery and failure&amp;rdquo;
-Every morning though, with more or less pain things get sorted.
-Anyways here&amp;rsquo;s what you should do when you&amp;rsquo;re stuck:</description>
+      <guid>http://localhost:1313/posts/debug/</guid>
+      <description>&lt;p&gt;Sometimes I come back home from work, stuck on something, no adults to ask help to and a deadline in the morning.&lt;/p&gt;&#xA;&lt;p&gt;I fall asleep thinking: &amp;ldquo;Tomorrow is the day I&amp;rsquo;ll get caught. This will be the one problem I won&amp;rsquo;t be able to solve. The rest of my life is going to be misery and failure&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Every morning though, with more or less pain things get sorted.&lt;/p&gt;&#xA;&lt;p&gt;Anyways here&amp;rsquo;s what you should do when you&amp;rsquo;re stuck:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The eyes to think about the world</title>
-      <link>https://ferrucc.io/posts/eyes/</link>
+      <link>http://localhost:1313/posts/eyes/</link>
       <pubDate>Sun, 16 Aug 2020 17:46:44 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/posts/eyes/</guid>
-      <description>This is the world in the eyes of a dog
-The poor things have such a cold experience of the world. Our eyes while giving us a richer experience of the world are also a limited mechanical tool.
-The world doesn&amp;rsquo;t care though. It stays the same regardless of the tools we use to perceive it - whether it&amp;rsquo;s the eyes of a dog or my presbyc ones.
-This sounds like stoner talk, but hear me out.</description>
+      <guid>http://localhost:1313/posts/eyes/</guid>
+      <description>&lt;p&gt;This is the world in the eyes of a dog&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/eyes/world-dog-eyes.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The poor things have such a cold experience of the world. Our eyes while giving us a richer experience of the world are also a limited mechanical tool.&lt;/p&gt;&#xA;&lt;p&gt;The world doesn&amp;rsquo;t care though. It stays the same regardless of the tools we use to perceive it - whether it&amp;rsquo;s the eyes of a dog or my presbyc ones.&lt;/p&gt;&#xA;&lt;p&gt;This sounds like stoner talk, but hear me out.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Low Risk Contrarian</title>
-      <link>https://ferrucc.io/posts/low-risk-contrarian/</link>
+      <link>http://localhost:1313/posts/low-risk-contrarian/</link>
       <pubDate>Thu, 30 Jul 2020 14:47:05 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/posts/low-risk-contrarian/</guid>
-      <description>Most founders in tech will tell you that they&amp;rsquo;re a contrarian
-But is being a contrarian an optimal decision? What are the alternatives? Is being a contrarian an advantage?
-Founders of high growth companies, are making one big high risk high reward bet.
-If you&amp;rsquo;re looking for a big win you first have to find something that has high uncertainty.
-For example, there&amp;rsquo;s high uncertainty around when VR will become mainstream.</description>
+      <guid>http://localhost:1313/posts/low-risk-contrarian/</guid>
+      <description>&lt;p&gt;Most founders in tech will tell you that they&amp;rsquo;re a contrarian&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;But is being a contrarian an optimal decision? What are the alternatives? Is being a contrarian an advantage?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Founders of high growth companies, are making one big high risk high reward bet.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re looking for a big win you first have to find something that has high uncertainty.&lt;/p&gt;&#xA;&lt;p&gt;For example, there&amp;rsquo;s high uncertainty around when VR will become mainstream.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Internet Friends</title>
-      <link>https://ferrucc.io/posts/internet-friends/</link>
+      <link>http://localhost:1313/posts/internet-friends/</link>
       <pubDate>Sun, 26 Jul 2020 17:24:09 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/posts/internet-friends/</guid>
-      <description>The ability to make friendships through your passions is the best super power that the internet gives us.
-The best things that happened in my life happened through communities on the internet.
-Here’s a story of all the places I hanged out on the internet and made friends from.
- Until the first year of high school I’ve been offline. My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&amp;rsquo;s still one of my best friends) and having a messenger account on my dad’s computer.</description>
+      <guid>http://localhost:1313/posts/internet-friends/</guid>
+      <description>&lt;p&gt;The ability to make friendships through your passions is the best super power that the internet gives us.&lt;/p&gt;&#xA;&lt;p&gt;The best things that happened in my life happened through communities on the internet.&lt;/p&gt;&#xA;&lt;p&gt;Here’s a story of all the places I hanged out on the internet and made friends from.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Until the first year of high school I’ve been offline. &lt;/p&gt;&#xA;&lt;p&gt;My experience until then with the internet was running a Blogspot to sell snacks in middle school (with someone who&amp;rsquo;s still one of my best friends) and having a messenger account on my dad’s computer.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Beauty</title>
-      <link>https://ferrucc.io/posts/beauty/</link>
+      <link>http://localhost:1313/posts/beauty/</link>
       <pubDate>Mon, 18 May 2020 17:34:45 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/beauty/</guid>
-      <description>One of the most interesting thought experiments one can do is exploring the history of aesthetics.
-Human aesthetics change over time in ways that reflect progress.
-How did people get bored of Greek tragedy? Why did chubby people become unattractive, when did people start liking squares on a canvas?
-There was a moment when Dante&amp;rsquo;s books were considered good. When realistic paintings like Church&amp;rsquo;s Niagara were the pinnacle of art.</description>
+      <guid>http://localhost:1313/posts/beauty/</guid>
+      <description>&lt;p&gt;One of the most interesting thought experiments one can do is exploring the history of aesthetics.&lt;/p&gt;&#xA;&lt;p&gt;Human aesthetics change over time in ways that reflect progress.&lt;/p&gt;&#xA;&lt;p&gt;How did people get bored of Greek tragedy? Why did chubby people become unattractive, when did people start liking squares on a canvas?&lt;/p&gt;&#xA;&lt;p&gt;There was a moment when Dante&amp;rsquo;s books were considered good. When realistic paintings like Church&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Niagara_(Frederic_Edwin_Church)&#34;&gt;Niagara&lt;/a&gt; were the pinnacle of art.&lt;/p&gt;&#xA;&lt;p&gt;Looking at the history of aesthetics is spying on the slow movement of human desires.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Healthcare should not be free</title>
-      <link>https://ferrucc.io/posts/healthcare/</link>
+      <link>http://localhost:1313/posts/healthcare/</link>
       <pubDate>Sun, 17 May 2020 19:01:25 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/healthcare/</guid>
-      <description>An axiomatic deduction of &amp;ldquo;Healthcare should not be free&amp;rdquo; starting from 5 agreeable axioms.
-I like the idea of my site being a snapshot of my thoughts that I can point to people when having a discussion.
-I don&amp;rsquo;t like repeating the same arguments over and over.
-So here are some of my thoughts on &amp;ldquo;Socialised Healthcare&amp;rdquo;[1] for wider exposure and future reference.
-I&amp;rsquo;ll start with 5 agreeable axioms and use them systematically to derive &amp;ldquo;Healthcare should not be free&amp;rdquo;</description>
+      <guid>http://localhost:1313/posts/healthcare/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;An axiomatic deduction of &amp;ldquo;Healthcare should not be free&amp;rdquo; starting from 5 agreeable axioms.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I like the idea of my site being a snapshot of my thoughts that I can point to people when having a discussion.&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t like repeating the same arguments over and over.&lt;/p&gt;&#xA;&lt;p&gt;So here are some of my thoughts on &amp;ldquo;Socialised Healthcare&amp;rdquo;[1] for wider exposure and future reference.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll start with 5 agreeable axioms and use them systematically to derive &amp;ldquo;Healthcare should not be free&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to create boolean operators with Nand</title>
-      <link>https://ferrucc.io/posts/booleans-from-nand/</link>
+      <link>http://localhost:1313/posts/booleans-from-nand/</link>
       <pubDate>Sat, 18 Apr 2020 21:34:47 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/booleans-from-nand/</guid>
-      <description>Doing the nand2tetris course is an extremely enlightning experience into the world of computers.
-The course starts from the simplest building block, the &amp;ldquo;NAND&amp;rdquo; operators and helps you step by step to building a modern, functioning computer, OS and tetris Game.
-The NAnd block stands for Not And.
-It takes two binary inputs, A and B and outputs true only if they both aren&amp;rsquo;t true.
-   A B Output     0 0 1   1 0    1 1 0   0 1 1    To derive the Not operation we have to find a way of using NAnd to have this output:</description>
+      <guid>http://localhost:1313/posts/booleans-from-nand/</guid>
+      <description>&lt;p&gt;Doing the &lt;a href=&#34;https://www.nand2tetris.org/&#34;&gt;nand2tetris&lt;/a&gt; course is an extremely enlightning experience into the world of computers.&lt;/p&gt;&#xA;&lt;p&gt;The course starts from the simplest building block, the &amp;ldquo;NAND&amp;rdquo; operators and helps you step by step to building a modern, functioning computer, OS and tetris Game.&lt;/p&gt;&#xA;&lt;p&gt;The NAnd block stands for Not And.&lt;/p&gt;&#xA;&lt;p&gt;It takes two binary inputs, A and B and outputs true only if they both aren&amp;rsquo;t true.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;A&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;B&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Output&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;To derive the Not operation we have to find a way of using NAnd to have this output:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Embracing the tech bro meme</title>
-      <link>https://ferrucc.io/posts/techbro-meme/</link>
+      <link>http://localhost:1313/posts/techbro-meme/</link>
       <pubDate>Mon, 06 Apr 2020 13:16:05 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/techbro-meme/</guid>
-      <description>Every year I look back at myself one year back and cringe.
-So as a gift to my future self, this is a collection of all my current habits
- I know I’m making a meme out of myself
- Note taking I take a lot of notes. After trying many apps I&amp;rsquo;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.</description>
+      <guid>http://localhost:1313/posts/techbro-meme/</guid>
+      <description>&lt;p&gt;Every year I look back at myself one year back and cringe.&lt;/p&gt;&#xA;&lt;p&gt;So as a gift to my future self, this is a collection of all my current habits&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I know I’m making a meme out of myself&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;note-taking&#34;&gt;&lt;strong&gt;Note taking&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I take a lot of notes. After trying many apps I&amp;rsquo;ve settled on Apple Notes. My thinking here is that the standard Notes app is here to stay. Even if I ever go broke I still should still be able to access it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What&#39;s your company size?</title>
-      <link>https://ferrucc.io/posts/company-size/</link>
+      <link>http://localhost:1313/posts/company-size/</link>
       <pubDate>Sun, 29 Dec 2019 11:53:51 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/company-size/</guid>
-      <description>I set out to write this article by interviewing 40+ engineers at companies of all sizes.
-  The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.
- Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.
-You&amp;rsquo;re a competent programmer looking for a change in working environment.
-You’ve got 4 offers from four companies at different stages.</description>
+      <guid>http://localhost:1313/posts/company-size/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;I set out to write this article by interviewing 40+ engineers at companies of all sizes.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;The main learning here was that organizational design and culture are a fascinating topic, and that they might be as important then company size when picking a job.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s say you&amp;rsquo;re early in your Software Engineer career.&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;re a competent programmer looking for a change in working environment.&lt;/p&gt;&#xA;&lt;p&gt;You’ve got 4 offers from four companies at different stages.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Go, Chess - East, West</title>
-      <link>https://ferrucc.io/posts/go-and-chess/</link>
+      <link>http://localhost:1313/posts/go-and-chess/</link>
       <pubDate>Sun, 20 Oct 2019 21:42:44 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/go-and-chess/</guid>
-      <description>How two board games shape the concept of conflict in the western world and China.
-Let&amp;rsquo;s start with two photos:
-Who won?
-Try and guess who won in the two games.
-In the first picture, even if you don&amp;rsquo;t understand the game you can guess who won.
-You can tell that the white is smashing the black into a corner.
-And has more pieces in play.
-Chess is a game based on domination.</description>
+      <guid>http://localhost:1313/posts/go-and-chess/</guid>
+      <description>&lt;p&gt;How two board games shape the concept of conflict in the western world and China.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s start with two photos:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/go-and-chess/chess.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/go-and-chess/go.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Who won?&lt;/p&gt;&#xA;&lt;p&gt;Try and guess who won in the two games.&lt;/p&gt;&#xA;&lt;p&gt;In the first picture, even if you don&amp;rsquo;t understand the game you can guess who won.&lt;/p&gt;&#xA;&lt;p&gt;You can tell that the white is smashing the black into a corner.&lt;/p&gt;&#xA;&lt;p&gt;And has more pieces in play.&lt;/p&gt;&#xA;&lt;p&gt;Chess is a game based on domination.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>From idea to 100k uniques per week in two months</title>
-      <link>https://ferrucc.io/posts/altacucina/</link>
+      <link>http://localhost:1313/posts/altacucina/</link>
       <pubDate>Sun, 30 Jun 2019 15:06:19 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/altacucina/</guid>
-      <description>This is a roundup of my experience as a 👨🏻‍🍳 Chef Technology Officer, building the tech side of Al.ta Cucina, the fastest growing recipe site in Italy!
-In two months we went from idea 💡, to product:
-The Story April 15th.
-I just finished interviewing for a bunch of tech companies to move away from Italy.
-I&amp;rsquo;m trying to figure out where I want to go and what I want to do next.</description>
+      <guid>http://localhost:1313/posts/altacucina/</guid>
+      <description>&lt;p&gt;This is a roundup of my experience as a 👨🏻‍🍳 Chef Technology Officer, building the tech side of &lt;a href=&#34;https://altacucina.co&#34;&gt;Al.ta Cucina&lt;/a&gt;, the fastest growing recipe site in Italy!&lt;/p&gt;&#xA;&lt;p&gt;In two months we went from idea 💡, to &lt;a href=&#34;https://altacucina.co&#34;&gt;product&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/altacucina/site.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/altacucina/recipe-view.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/altacucina/step-by-step.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-story&#34;&gt;The Story&lt;/h3&gt;&#xA;&lt;p&gt;April 15th.&lt;/p&gt;&#xA;&lt;p&gt;I just finished interviewing for a bunch of tech companies to move away from Italy.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m trying to figure out where I want to go and what I want to do next.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Create a Development Gmail Account for Testing</title>
-      <link>https://ferrucc.io/posts/create-a-testing-gmail-account/</link>
+      <link>http://localhost:1313/posts/create-a-testing-gmail-account/</link>
       <pubDate>Sat, 30 Mar 2019 15:58:06 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/create-a-testing-gmail-account/</guid>
-      <description>You are developing an app that uses emails, and need a testing account?
-What&amp;rsquo;s the fastest and easiest way to get a test account up and running?
-By default Gmail doesn&amp;rsquo;t support email importing from a file.
-So the first step we&amp;rsquo;ll have to go through is creating an Outlook email account here:
-Create an Outlook Account
-After creating an Outlook account we need to import data into it.
-The reason I suggest you use Outlook is that it supports a format called .</description>
+      <guid>http://localhost:1313/posts/create-a-testing-gmail-account/</guid>
+      <description>&lt;p&gt;You are developing an app that uses emails, and need a testing account?&lt;/p&gt;&#xA;&lt;p&gt;What&amp;rsquo;s the fastest and easiest way to get a test account up and running?&lt;/p&gt;&#xA;&lt;p&gt;By default Gmail doesn&amp;rsquo;t support email importing from a file.&lt;/p&gt;&#xA;&lt;p&gt;So the first step we&amp;rsquo;ll have to go through is creating an Outlook email account here:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://signup.live.com/signup&#34;&gt;Create an Outlook Account&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/create-a-test-gmail-account/signup.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;After creating an Outlook account we need to import data into it.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Emacs for dummies</title>
+      <link>http://localhost:1313/posts/emacs/</link>
+      <pubDate>Sun, 10 Mar 2019 14:31:50 +0100</pubDate>
+      <guid>http://localhost:1313/posts/emacs/</guid>
+      <description>&lt;p&gt;I finally decided to start using emacs as my text editor for &lt;em&gt;everything&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Is Universal Basic Income a free lunch?</title>
-      <link>https://ferrucc.io/posts/ubi/</link>
+      <link>http://localhost:1313/posts/ubi/</link>
       <pubDate>Tue, 05 Mar 2019 21:41:47 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/ubi/</guid>
-      <description>If there&amp;rsquo;s something that I held as a deep belief growing up is that there is not such a thing as a free lunch.
-I also developed an instinct to spot trends.
-Mostly to find opportunities, but also for fun.
-So when I stumbled upon Andrew Yang. I listened to a couple of his interviews and realised his ideas are powerful and bipartisan.
-The way he talks makes him likable both on the left and on the right.</description>
+      <guid>http://localhost:1313/posts/ubi/</guid>
+      <description>&lt;p&gt;If there&amp;rsquo;s something that I held as a deep belief growing up is that there is not such a thing as a free lunch.&lt;/p&gt;&#xA;&lt;p&gt;I also developed an instinct to spot trends.&lt;/p&gt;&#xA;&lt;p&gt;Mostly to find opportunities, but also for fun.&lt;/p&gt;&#xA;&lt;p&gt;So when I stumbled upon &lt;a href=&#34;https://www.yang2020.com/&#34;&gt;Andrew Yang&lt;/a&gt;. I listened to a couple of his interviews and realised his ideas are powerful and bipartisan.&lt;/p&gt;&#xA;&lt;p&gt;The way he talks makes him likable both on the left and on the right.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>I Shared my browsing History for 2 weeks and this is what happened</title>
+      <link>http://localhost:1313/posts/i-publicly-shared-my-history/</link>
+      <pubDate>Mon, 04 Mar 2019 21:19:48 +0100</pubDate>
+      <guid>http://localhost:1313/posts/i-publicly-shared-my-history/</guid>
+      <description>&lt;p&gt;On February 19th I asked myself the following question:&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-happens-if-i-share-my-browsing-history-publicly&#34;&gt;What happens if I share my browsing history publicly?&lt;/h2&gt;&#xA;&lt;p&gt;Initially I thought that people would have some cool things to say when introducing themselves via email and maybe suggest some cool resources.&lt;/p&gt;&#xA;&lt;p&gt;I also thought that maybe someone was going to stalk me and do something weird.&lt;/p&gt;&#xA;&lt;p&gt;I obviously decided to move forward and try to implement this with software.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-the-code-side-of-things&#34;&gt;👨🏼‍💻 The Code side of things&lt;/h2&gt;&#xA;&lt;p&gt;The first step was figuring out &amp;ldquo;Where does Chrome store my browsing history?&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Music I like</title>
-      <link>https://ferrucc.io/posts/music/</link>
+      <link>http://localhost:1313/posts/music/</link>
       <pubDate>Tue, 29 Jan 2019 20:47:34 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/music/</guid>
-      <description>The music I like isn’t that ordinary, but I&amp;rsquo;d say it&amp;rsquo;s popular among developers in my age group.
-I found that every time I meet someone in person that codes professionally the discussion at a certain point moves to “What do you listen when you code?”, “What is your favourite genre/artist?”.
-Here&amp;rsquo;s what developers from big cities in the 20-30 age group tend to listen.
-  Take it easy my brother Charlie</description>
+      <guid>http://localhost:1313/posts/music/</guid>
+      <description>&lt;p&gt;The music I like isn’t that ordinary, but I&amp;rsquo;d say it&amp;rsquo;s popular among developers in my age group.&lt;/p&gt;&#xA;&lt;p&gt;I found that every time I meet someone in person that codes professionally the discussion at a certain point moves to “What do you listen when you code?”, “What is your favourite genre/artist?”.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s what developers from big cities in the 20-30 age group tend to listen.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BjhMp-FlBEk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Take it easy my brother Charlie&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A functional IDE for React</title>
-      <link>https://ferrucc.io/posts/a-new-ide/</link>
+      <link>http://localhost:1313/posts/a-new-ide/</link>
       <pubDate>Fri, 21 Dec 2018 20:43:10 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/a-new-ide/</guid>
-      <description>6 years ago this video came out.
-  At the time I couldn’t code yet.
-This concept is still mind blowing to me.
-Up until now I always thought about code as a collection of files, connected through imports.
-But really we import functions, not files.
-We use files to store code because they&amp;rsquo;re a convenient way to serialize code. They&amp;rsquo;re not the best representation, in fact functions might provide a better one.</description>
+      <guid>http://localhost:1313/posts/a-new-ide/</guid>
+      <description>&lt;p&gt;6 years ago this video came out.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/H58-n7uldoU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;At the time I couldn’t code yet.&lt;/p&gt;&#xA;&lt;p&gt;This concept is still mind blowing to me.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/a-new-ide/light-table.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Up until now I always thought about code as a collection of files, connected through imports.&lt;/p&gt;&#xA;&lt;p&gt;But really we import functions, not files.&lt;br&gt;&#xA;We use files to store code because they&amp;rsquo;re a convenient way to serialize code. They&amp;rsquo;re not the best representation, in fact functions might provide a better one.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Everything I&#39;ve learned in 10 years of Blogging</title>
-      <link>https://ferrucc.io/posts/starting-a-blog/</link>
+      <link>http://localhost:1313/posts/starting-a-blog/</link>
       <pubDate>Sat, 15 Dec 2018 20:57:56 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/starting-a-blog/</guid>
-      <description>I&amp;rsquo;m 21, but I&amp;rsquo;ve been blogging for almost 10 years.
-I grew up doing this.
-What I&amp;rsquo;ve written on the internet has reached millions of people. Most of what I&amp;rsquo;ve written is in Italian, but I was also quite successful when writing in english. My Quora profile, reached 400k people in three months.
-Through blogging I had the opportunity to travel the world, getting free tickets to all the biggest music festivals (Ultra, Tomorrowland.</description>
+      <guid>http://localhost:1313/posts/starting-a-blog/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m 21, but I&amp;rsquo;ve been blogging for almost 10 years.&lt;/p&gt;&#xA;&lt;p&gt;I grew up doing this.&lt;/p&gt;&#xA;&lt;p&gt;What I&amp;rsquo;ve written on the internet has reached millions of people. Most of what I&amp;rsquo;ve written is in Italian, but I was also quite successful when writing in english. My Quora profile, reached 400k people in three months.&lt;/p&gt;&#xA;&lt;p&gt;Through blogging I had the opportunity to travel the world, getting free tickets to all the biggest music festivals (Ultra, Tomorrowland.. you name it), getting promos from the Majors and interviewing my favorite artists.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The art of Sales, (Not So) Secrets from Old School Marketers</title>
-      <link>https://ferrucc.io/posts/old-school-marketers/</link>
+      <link>http://localhost:1313/posts/old-school-marketers/</link>
       <pubDate>Mon, 05 Nov 2018 11:44:01 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/old-school-marketers/</guid>
-      <description>Marketing on the internet isn&amp;rsquo;t much different from Marketing on any other medium.
-So let&amp;rsquo;s go back a hundred years to get some inspiration.
-Inspiration from the 1920s After selling 100 million books of his series Little Blue Book marketer Julius Hadleman wrote a book analysing all the data he had collected.
-The book title is &amp;ldquo;The First Hundred Million&amp;rdquo; and it came out in 1928 (email me if you need help finding it) and features an interesting collection of proven Titles that work and insights on what we&amp;rsquo;re interested in reading.</description>
+      <guid>http://localhost:1313/posts/old-school-marketers/</guid>
+      <description>&lt;p&gt;Marketing on the internet isn&amp;rsquo;t much different from Marketing on any other medium.&lt;/p&gt;&#xA;&lt;p&gt;So let&amp;rsquo;s go back a hundred years to get some inspiration.&lt;/p&gt;&#xA;&lt;h2 id=&#34;inspiration-from-the-1920s&#34;&gt;Inspiration from the 1920s&lt;/h2&gt;&#xA;&lt;p&gt;After selling &lt;strong&gt;100 million books&lt;/strong&gt; of his series Little Blue Book marketer &lt;a href=&#34;https://en.wikipedia.org/wiki/E._Haldeman-Julius&#34;&gt;Julius Hadleman&lt;/a&gt; wrote a book analysing all the data he had collected.&lt;/p&gt;&#xA;&lt;p&gt;The book title is &amp;ldquo;The First Hundred Million&amp;rdquo; and it came out in 1928 (email me if you need help finding it) and features an interesting collection of proven Titles that work and insights on what we&amp;rsquo;re interested in reading.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>VC is like Soviet Statism</title>
-      <link>https://ferrucc.io/posts/vc-is-ussr/</link>
+      <link>http://localhost:1313/posts/vc-is-ussr/</link>
       <pubDate>Wed, 31 Oct 2018 23:37:21 +0100</pubDate>
-      
-      <guid>https://ferrucc.io/posts/vc-is-ussr/</guid>
-      <description>VCs do everything you would expect the USSR would do, while being a private company.
-VC Financing projects without asking too many questions. Sometimes people refer to this as VC welfare. If a company puts the right combination of &amp;ldquo;disruptive&amp;rdquo;, &amp;ldquo;blockchain&amp;rdquo; and &amp;ldquo;AI&amp;rdquo; in their slides they receive funding. Showing some APIs, an app with users (real or fake) the money flows him.
-With no real technical evaluation.
-USSR Financing projects without asking too many questions.</description>
+      <guid>http://localhost:1313/posts/vc-is-ussr/</guid>
+      <description>&lt;p&gt;VCs do everything you would expect the USSR would do, while being a private company.&lt;/p&gt;&#xA;&lt;h3 id=&#34;vc&#34;&gt;VC&lt;/h3&gt;&#xA;&lt;p&gt;Financing projects without asking too many questions. Sometimes people refer to this as &lt;em&gt;VC welfare&lt;/em&gt;.&#xA;If a company puts the right combination of &lt;em&gt;&amp;ldquo;disruptive&amp;rdquo;, &amp;ldquo;blockchain&amp;rdquo; and &amp;ldquo;AI&amp;rdquo; in their slides&lt;/em&gt; they receive funding.&#xA;Showing some &lt;em&gt;APIs, an app with users (real or fake)&lt;/em&gt; the money flows him.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;With no real technical evaluation.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;ussr&#34;&gt;USSR&lt;/h3&gt;&#xA;&lt;p&gt;Financing projects without asking too many questions. Sometimes people refer to this as &lt;em&gt;Social welfare&lt;/em&gt;.&#xA;If a company puts the right combination of &lt;em&gt;&amp;ldquo;surplus&amp;rdquo;, &amp;ldquo;proletarians&amp;rdquo; in their presentations&lt;/em&gt; they receive funding.&#xA;Showing some &lt;em&gt;building, a product and have employees (working or not)&lt;/em&gt; the money flows him.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sales for Cybersecurity Saas</title>
-      <link>https://ferrucc.io/posts/sales-for-cybersecurity-saas/</link>
+      <link>http://localhost:1313/posts/sales-for-cybersecurity-saas/</link>
       <pubDate>Tue, 23 Oct 2018 19:12:03 +0000</pubDate>
-      
-      <guid>https://ferrucc.io/posts/sales-for-cybersecurity-saas/</guid>
-      <description>It&amp;rsquo;s been almost I month after I started working on Magehash
-This is my first cybersecurity product I&amp;rsquo;ve ever developed so I decided to share what I learned so far!
-1) Selling Pain Points We can divide products into three different groups: candies, painkillers and vitamins.
-We don&amp;rsquo;t want to have much to do with candies.
-Vitamins are interesting.
-We love Painkillers.
-For Cyber security software it&amp;rsquo;s hard to be a painkiller as what we&amp;rsquo;re generally trying to do is prevent attacks.</description>
+      <guid>http://localhost:1313/posts/sales-for-cybersecurity-saas/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been almost I month after I started working on &lt;a href=&#34;https://magehash.com&#34;&gt;Magehash&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is my first cybersecurity product I&amp;rsquo;ve ever developed so I decided to share what I learned so far!&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-selling-pain-points&#34;&gt;1) Selling Pain Points&lt;/h2&gt;&#xA;&lt;p&gt;We can divide products into three different groups: candies, painkillers and vitamins.&lt;/p&gt;&#xA;&lt;p&gt;We don&amp;rsquo;t want to have much to do with candies.&lt;/p&gt;&#xA;&lt;p&gt;Vitamins are interesting.&lt;/p&gt;&#xA;&lt;p&gt;We love Painkillers.&lt;/p&gt;&#xA;&lt;p&gt;For Cyber security software it&amp;rsquo;s hard to be a painkiller as what we&amp;rsquo;re generally trying to do is prevent attacks. Generally these kinds of products are like vitamins, they make us stronger, but we don&amp;rsquo;t really notice the effect they have on our health.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Everything you need to know on Magecart Attacks</title>
-      <link>https://ferrucc.io/posts/magecart/</link>
+      <link>http://localhost:1313/posts/magecart/</link>
       <pubDate>Fri, 19 Oct 2018 19:12:03 +0000</pubDate>
-      
-      <guid>https://ferrucc.io/posts/magecart/</guid>
-      <description>In the last month a group of hackers called Magecart came back striking in full force.
-They first appeared in the news back in 2015 when RiskIQ found out they injected code in Magento&amp;rsquo;s &amp;ldquo;Magecart&amp;rdquo; shopping software. Thus the name.
-The attacks they organized have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.
-This group is specialized in card skimming payment forms on the internet.</description>
+      <guid>http://localhost:1313/posts/magecart/</guid>
+      <description>&lt;p&gt;In the last month a group of hackers called Magecart came back striking in full force.&lt;/p&gt;&#xA;&lt;p&gt;They first appeared in the news back in 2015 when &lt;a href=&#34;https://riskiq.com&#34;&gt;RiskIQ&lt;/a&gt; found out they injected code in Magento&amp;rsquo;s &amp;ldquo;Magecart&amp;rdquo; shopping software. Thus the name.&lt;/p&gt;&#xA;&lt;p&gt;The attacks they organized have caused massive damages to hundreds, likely even thousands of companies like British Airways, Ticketmaster and even Newegg.&lt;/p&gt;&#xA;&lt;p&gt;This group is specialized in card skimming payment forms on the internet.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lessons from launching on Product Hunt</title>
-      <link>https://ferrucc.io/posts/lessons-from-ph/</link>
+      <link>http://localhost:1313/posts/lessons-from-ph/</link>
       <pubDate>Sat, 22 Sep 2018 19:18:03 +0000</pubDate>
-      
-      <guid>https://ferrucc.io/posts/lessons-from-ph/</guid>
-      <description>Two months ago I hadn&amp;rsquo;t launched any solo project that got users.
-Until lately everything I had ever done was with someone else, usually with a compatible skillset. The problem with this approach is that if someone on the team loses interest or is busy the project dies out.
-As this happened a couple of times I decided to take some time and work on projects by myself.
-The products I launched Klipped.</description>
+      <guid>http://localhost:1313/posts/lessons-from-ph/</guid>
+      <description>&lt;p&gt;Two months ago I hadn&amp;rsquo;t launched any solo project that got users.&lt;/p&gt;&#xA;&lt;p&gt;Until lately everything I had ever done was with someone else, usually with a compatible skillset.&#xA;The problem with this approach is that if someone on the team loses interest or is busy the project dies out.&lt;/p&gt;&#xA;&lt;p&gt;As this happened a couple of times I decided to take some time and work on projects by myself.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-products-i-launched&#34;&gt;The products I launched&lt;/h2&gt;&#xA;&lt;h4 id=&#34;klippedin-httpsklippedin&#34;&gt;Klipped.in (&lt;a href=&#34;https://klipped.in&#34;&gt;https://klipped.in&lt;/a&gt;)&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/klipped-in.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dripform - No Bullshit Forms</title>
-      <link>https://ferrucc.io/posts/dripform/</link>
+      <link>http://localhost:1313/posts/dripform/</link>
       <pubDate>Sat, 25 Aug 2018 16:46:03 +0000</pubDate>
-      
-      <guid>https://ferrucc.io/posts/dripform/</guid>
-      <description>A little more than two months ago Konstantin asked me how long would it take for me to develop something that would let him receive forms on his website as Telegram messages.
-I wasn&amp;rsquo;t sure how long it would take, but finding the task interesting I decided to just do it.
-In an afternoon of work I made the first version of &amp;ldquo;Dripform&amp;rdquo;.
-After making it I started exchanging ideas via email with Marc-Antoine who is working on a similar product.</description>
+      <guid>http://localhost:1313/posts/dripform/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/dripform.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A little more than two months ago &lt;a href=&#34;https://twitter.com/kpavlovsky_pro&#34;&gt;Konstantin&lt;/a&gt; asked me how long would it take for me to develop something that would let him receive forms on his website as Telegram messages.&lt;/p&gt;&#xA;&lt;p&gt;I wasn&amp;rsquo;t sure how long it would take, but finding the task interesting I decided to just do it.&lt;/p&gt;&#xA;&lt;p&gt;In an afternoon of work I made the first version of &amp;ldquo;Dripform&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;After making it I started exchanging ideas via email with &lt;a href=&#34;https://twitter.com/marcantoinefon&#34;&gt;Marc-Antoine&lt;/a&gt; who is working on a similar product. (btw Marc thanks for correcting my messages in french)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What is wrong with Italy?</title>
-      <link>https://ferrucc.io/posts/italy-s-problems/</link>
+      <link>http://localhost:1313/posts/italy-s-problems/</link>
       <pubDate>Mon, 04 Jun 2018 19:12:03 +0000</pubDate>
-      
-      <guid>https://ferrucc.io/posts/italy-s-problems/</guid>
-      <description>We now have a government in Italy.
-Everyone around me is talking about this, so I figured out I might as well try to analyse what are the biggest problems the country is facing.
-Here is a list of existential problems we face:
-  Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.
-  Organised Crime, Tax evasion, Corruption and waste of public money plague the country.</description>
+      <guid>http://localhost:1313/posts/italy-s-problems/</guid>
+      <description>&lt;p&gt;We now have a government in Italy.&lt;/p&gt;&#xA;&lt;p&gt;Everyone around me is talking about this, so I figured out I might as well try to analyse what are the biggest problems the country is facing.&lt;/p&gt;&#xA;&lt;p&gt;Here is a list of existential problems we face:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Labor Market laws make it almost impossible or extremely costly to hire/fire anyone.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Organised Crime, Tax evasion, Corruption and waste of public money plague the country.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The juidicial system is extremely slow and inefficient. If someone scams you, you might have to wait years for them to be prosecuted.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>What is the Crypto of Bitcoin [WIP]</title>
+      <link>http://localhost:1313/posts/the-crypto-of-bitcoin/</link>
+      <pubDate>Sat, 02 Jun 2018 16:46:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-crypto-of-bitcoin/</guid>
+      <description>&lt;p&gt;As the term crypto, is now widely used to refer to cryptocurrencies I thought it would be interesting to write a simple blog post explaining the cryptography behind Bitcoin, which is one of the many layers of the digital gold we all love.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hashing-algorithms&#34;&gt;Hashing Algorithms&lt;/h2&gt;&#xA;&lt;p&gt;A hashing algortihm is a code used to uniquely map objects.&#xA;The main reason hashing algorithms were introduced was that if in a program you want to look for a value it makes no sense to check all existing values to find what we need.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>From Idea to MVP in a Saturday Night</title>
-      <link>https://ferrucc.io/posts/6-dollar-mvp/</link>
+      <link>http://localhost:1313/posts/6-dollar-mvp/</link>
       <pubDate>Tue, 24 Apr 2018 16:46:03 +0000</pubDate>
-      
-      <guid>https://ferrucc.io/posts/6-dollar-mvp/</guid>
-      <description>Every time you finish writing a blog post you get that feeling that it&amp;rsquo;s not ready to post it.
-It&amp;rsquo;s time for proofreading, but it&amp;rsquo;s painful to proofread your own writings.
-What is fun instead is reading someone else&amp;rsquo;s writings.
-So how great would it be if you could post your drafts somewhere, read and comment a couple of blog posts by people with your same interests, while your own get proofread by people like you?</description>
+      <guid>http://localhost:1313/posts/6-dollar-mvp/</guid>
+      <description>&lt;p&gt;Every time you finish writing a blog post you get that feeling that it&amp;rsquo;s not ready to post it.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s time for proofreading, but it&amp;rsquo;s painful to proofread your own writings.&lt;/p&gt;&#xA;&lt;p&gt;What is fun instead is reading someone else&amp;rsquo;s writings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;So how great would it be if you could post your drafts somewhere, read and comment a couple of blog posts by people with your same interests, while your own get proofread by people like you?&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

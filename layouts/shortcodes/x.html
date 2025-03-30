@@ -1,0 +1,7 @@
+{{ if .IsNamedParams }}
+<blockquote class="twitter-tweet"><a href="https://twitter.com/{{ .Get "user" }}/status/{{ .Get "id" }}"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{ else }}
+<blockquote class="twitter-tweet"><a href="https://twitter.com/{{ .Get 0 }}/status/{{ .Get 1 }}"></a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{ end }}

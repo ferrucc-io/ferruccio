@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2020-08-1T13:59:23+01:00
+date: 2020-08-01T13:59:23+01:00
 lastmod: 2024-07-30T00:03:29+02:00
 draft: false
 type: "page"

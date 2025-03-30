@@ -2,26 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drafts on ferrucc.io</title>
-    <link>https://ferrucc.io/draft/</link>
+    <link>http://localhost:1313/draft/</link>
     <description>Recent content in Drafts on ferrucc.io</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 14:39:58 +0200</lastBuildDate>
-    
-	<atom:link href="https://ferrucc.io/draft/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 20 Oct 2019 14:59:34 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building Product</title>
-      <link>https://ferrucc.io/draft/building-product/</link>
-      <pubDate>Sun, 11 Oct 2020 14:39:58 +0200</pubDate>
-      
-      <guid>https://ferrucc.io/draft/building-product/</guid>
-      <description>If you&#39;re working on something new, there are so many directions your work and product can take.
-The biggest risk is that you build something that is hard to explain and no one wants.
-A good process minimizes this risk. Helping you move in the direction of building something people want.
-To build June me and my cofounder Enzo used a very systematic approach. We decided to shared it as you might find useful.</description>
+      <title>Chrome Hacks</title>
+      <link>http://localhost:1313/draft/chrome-hacks/</link>
+      <pubDate>Sun, 20 Oct 2019 14:59:34 +0100</pubDate>
+      <guid>http://localhost:1313/draft/chrome-hacks/</guid>
+      <description>&lt;p&gt;Most of the time you spend on your laptop is generally spent inside of Google Chrome.&lt;/p&gt;&#xA;&lt;p&gt;After looking into my RescueTime activity I realised I spend around 50% of my time at my laptop inside of Google Chrome.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/chrome-hacks/chrome-time.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;1 - I&amp;rsquo;m sure I&amp;rsquo;m not the only one&#xA;2 - I might have learned some cool tricks over time&#xA;3 - My tricks might turn out to be useful to you&#xA;4 - I might be missing out on something&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
