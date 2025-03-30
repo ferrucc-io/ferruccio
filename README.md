@@ -28,7 +28,7 @@ hugo server -D
 To build the changes you made run:
 
 ```
-hugo
+HUGO_ENV=production hugo
 ```
 
 To add a blog post run the following command:
