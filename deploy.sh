@@ -1,8 +1,5 @@
 #!/bin/bash
 
-
-HUGO_ENV=production hugo
-
 cd themes/ferruccio/src
 npm run build
 
@@ -13,6 +10,8 @@ git push origin master
 
 
 cd ../..
+
+HUGO_ENV=production hugo
 
 git add .
 git commit -m "Update site content"
