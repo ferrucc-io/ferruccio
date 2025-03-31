@@ -121,10 +121,6 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
 @media print {
     body {
         background: none;
@@ -165,6 +161,11 @@ h2.title:first-of-type {
 }
 </style>
 
+<div style="margin-bottom: 1rem;">
+    <h1 style="font-size: 2rem; margin-bottom: 1rem; text-align: center;">Ferruccio Balestreri</h1>
+    <p style="font-size: 1rem; color: #333; margin: 0.25rem 0;">I love making things and take pride in it.</p>
+    <p style="font-size: 1rem; color: #333; margin: 0.25rem 0;">Since teaching myself how to code, I've never stopped learning and building.</p>
+</div>
 
 <h2 class="title">Work</h2>
 
@@ -278,8 +279,59 @@ h2.title:first-of-type {
     <div class="project">
         <div class="project-preview">
             <div class="project-content-container">
+                <a class="project-title-link" href="https://fleurmcp.com">
+                  <h3 class="project-title">Fleur</h3>
+                </a>
+                <div class="project-description">
+                    The easiest way for non-technical people to play with MCPs
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">March 2025</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a rel="noopener noreferrer" target="_blank" href="https://fleurmcp.com" class="project-link" style="margin-right: 0.4375rem;">https://fleurmcp.com</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="project-content-container">
+                <a class="project-title-link" href="https://emoji.ferrucc.io">
+                  <h3 class="project-title">Emoji picker</h3>
+                </a>
+                <div class="project-description">
+                    An emoji picker for Tailwind CSS
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">February 2025</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a rel="noopener noreferrer" target="_blank" href="https://emoji.ferrucc.io" class="project-link" style="margin-right: 0.4375rem;">https://emoji.ferrucc.io</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="project-content-container">
+                <a class="project-title-link" href="https://digest.ferrucc.io">
+                  <h3 class="project-title">reMarkable Digest</h3>
+                </a>
+                <div class="project-description">
+                    A daily newspaper like digest for the reMarkable tablet 
+                </div>
+                <div class="project-meta">
+                    <div style="margin-right: 0.4375rem;">January 2025</div>
+                    <div style="margin-right: 0.4375rem;">·</div>
+                    <a rel="noopener noreferrer" target="_blank" href="https://digest.ferrucc.io" class="project-link" style="margin-right: 0.4375rem;">https://digest.ferrucc.io</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="project">
+        <div class="project-preview">
+            <div class="project-content-container">
                 <a class="project-title-link" href="https://kit.st">
-                  <h3 class="project-title">KIT - Keep In Touch</h3>
+                  <h3 class="project-title">KIT - Keep In Touch [Closed]</h3>
                 </a>
                 <div class="project-description">
                     A personal CRM built on Blockstack
