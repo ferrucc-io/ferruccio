@@ -5,233 +5,168 @@ lastmod: 2024-07-30T00:03:29+02:00
 draft: false
 type: "page"
 layout: "page"
-featured_image: "/projects/projects-social.png"
 description: "Here you can find an overview of all the projects I made over the years"
 ---
 
-I like to make things and have been doing it for many years now
-
 <style>
-
-.flex-l.justify-between.items-center.center{
-    text-align:center;
+body {
+    margin: 0;
+    padding: 20px;
 }
 
-a.f3.no-underline.white.dib{
-    text-align: center;
-    margin: 0 auto;
-    float: none;
-}
-
-ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, footer.bottom-0.w-100.pa3, img.w-100{
+header h1 {
     display: none;
 }
 
-body{
-    width: 100wh;
-	height: 90vh;
-    overflow: hidden;
+header p {
+    display: none;
 }
 
-main.pb1{
-    padding-bottom:0px;
-    overflow-y: scroll;
-    width: 100%;
-    height: 100%;
-    -webkit-overflow-scrolling: touch;
-}
-
-article {
-    padding-top: 0.5rem !important;
-}
-
-.project-preview{
-    display: flex;
-    margin-bottom: 0.875rem;
-}
-
-.preview-logo{
-    width: 90px;
-    height: 90px;
-    display: flex;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
-    background: rgb(245, 245, 245);
+main {
+    max-width: 21cm;
+    margin: 0 auto;
+    background: white;
+    padding: 1.5cm;
     border-radius: 2px;
-    margin-right: 1.16667rem;
-    img {
-        width: 46px;
-        height: 46px;
-    }
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.4;
 }
 
-.project{
-    :not(:last-child) {
-        margin-bottom: 2.625rem;
-    }
+.title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 1rem 0 0.5rem 0;
+    padding-bottom: 0.2rem;
+    border-bottom: 1px solid #000;
+    color: #000;
 }
 
-.project-content-container{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    flex-shrink: 0;
+.projects {
+    margin-bottom: 1rem;
+}
+
+.project {
+    margin-bottom: 0.7rem;
+}
+
+.project-preview {
+    display: block;
+}
+
+.project-content-container {
+    display: block;
 }
 
 .project-title-link {
-    margin-bottom: 0.4375rem;
     text-decoration: none;
-    border-bottom: none;
-    color: #111;
+    color: #000;
+}
+
+.project-title-link:hover {
+    text-decoration: none;
 }
 
 .project-title {
-    margin: 0px;
-    margin-block-start: 0px;
-    margin-block-end: 0px;
-    line-height: 1.1;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+    display: inline;
 }
 
 .project-description {
-    font-size: 1.05rem;
-    margin-bottom: 0.4375rem;
+    font-size: 0.9rem;
+    margin: 0.1rem 0;
+    color: #333;
 }
 
 .project-meta {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 0.1rem;
     display: flex;
-    flex-direction: row;
-    -webkit-box-pack: start;
-    justify-content: flex-start;
+    align-items: center;
+    gap: 0.1rem;
     flex-wrap: wrap;
-    font-size: 14px;
+}
+
+.project-meta > * {
+    display: inline-flex;
+    align-items: center;
 }
 
 .project-link {
-    border-bottom: none;
+    color: #666;
+    text-decoration: none;
 }
 
-.logo{
-    max-height: 60px;
-    max-width: 60px !important;
-}
-
-
-h2.title {
-    font-size: 3rem;
-}
-
-.skills {
-    display: flex;
-    flex-direction: row;
-}
-
-
-.skill{
-    display: block;
-    margin-right: 0.875rem;
-}
-
-.preview-skill{
-    width: 90px;
-    height: 90px;
-    display: flex;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
+.project-social-icon-link {
+    display: inline-flex;
     align-items: center;
-    border-radius: 2px;
-    img {
-        width: 46px;
-        height: 46px;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.project-social-icon-link > img.project-social-icon {
+    height: 12px;
+    width: 12px;
+    vertical-align: middle;
+    opacity: 0.7;
+    margin-top: -2px;
+    text-decoration: none;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+@media print {
+    body {
+        background: none;
+        padding: 0;
+    }
+    main {
+        box-shadow: none;
+        padding: 0;
+        max-width: none;
     }
 }
 
-.skill-icon {
-    max-height: 60px;
-    max-width: 60px !important;
+/* Hide unnecessary elements */
+ul.pl0.mr2.mr3-ns.tr.mt1.pt3-l, 
+footer.bottom-0.w-100.pa3, 
+img.w-100 {
+    display: none;
 }
 
-.skill-name {
-    display: block;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
-    text-align: center;
-    margin: 0px;
-    margin-top: 0.2rem;
+/* Ensure proper content flow */
+article {
+    padding-top: 0 !important;
 }
 
-@media (max-width: 576px) {
-    .project-preview {
-        flex-direction: column;
-        margin-bottom: 1rem;
-    }
-
-    .preview-logo{
-        width: 100%;
-        height: 70px;
-    }
-
-    .logo{
-        height: 40px;
-        width: 40px !important;
-    }
-
-    .project-content-container{
-        margin-top: 1rem;
-    }
-
-
-    .preview-skill{
-        width: 64px;
-        height: 64px;
-            img {
-                width: 46px;
-                height: 46px;
-            }
-        }
-
-    .skill-icon {
-        max-height: 45px;
-        max-width: 45px !important;
-    }
-
-    .skill-name {
-        font-size: 0.6em;
-    }
+/* Remove unnecessary spacing */
+.flex-l.justify-between.items-center.center {
+    text-align: left;
+    margin: 0;
 }
 
-.radius2 {
-    border-radius: 2px;
-}
-.label {
-    background-color: #385e94;
-    border-radius: 8px;
-    padding: 0 8px;
-    float:right;
-    margin: -20px;
-    margin-left: -120px;
+/* Adjust spacing for better density */
+h2.title:first-of-type {
+    margin-top: 0;
 }
 
-img.project-social-icon{
-    margin-top:2px;
-    height:18px;
-    width:18px;
-    border-radius:100%;
+.project-meta > *:not(:last-child) {
+    margin-right: 0.4rem;
 }
-
-a.project-social-icon-link{
-    text-decoration: none !important;
-    border: none !important;
-}
-
 </style>
 
 
-<h2 class="title">👨🏼‍💻 My Work</h2>
+<h2 class="title">Work</h2>
 
 
 <div class="projects">
@@ -239,7 +174,7 @@ a.project-social-icon-link{
         <div class="project-preview">
             <div class="project-content-container">
                 <a class="project-title-link" href="https://june.so">
-                  <h3 class="project-title">June</h3>
+                  <h3 class="project-title">Co-Founder & CTO @ June</h3>
                 </a>
                 <div class="project-description">
                     We're building a new new way to figure out how people use your product.
@@ -256,7 +191,7 @@ a.project-social-icon-link{
         <div class="project-preview">
             <div class="project-content-container">
                 <a class="project-title-link" href="https://intercom.com">
-                  <h3 class="project-title">Intercom</h3>
+                  <h3 class="project-title">Product Engineer @ Intercom</h3>
                 </a>
                 <div class="project-description">
                     Started on the Marketplace team. Then worked on a team building <a href="https://www.intercom.com/series">Series</a> from the ground up
@@ -273,7 +208,7 @@ a.project-social-icon-link{
         <div class="project-preview">
             <div class="project-content-container">
                 <a class="project-title-link" href="https://altacucina.co">
-                  <h3 class="project-title">Al.ta Cucina</h3>
+                  <h3 class="project-title">CTO (Contractor) @ Al.ta Cucina</h3>
                 </a>
                 <div class="project-description">
                     From zero to a product and a team, reaching millions of people <a href="https://ferrucc.io/posts/altacucina/">[read more here]</a>
@@ -338,7 +273,7 @@ a.project-social-icon-link{
         </div>
     </div>
 </div>
-<h2 class="title">📦 Products</h2>
+<h2 class="title">Projects</h2>
 <div class="projects">
     <div class="project">
         <div class="project-preview">
@@ -456,10 +391,7 @@ a.project-social-icon-link{
     </div>
     <div class="project">
         <div class="project-preview">
-                  <h3 class="project-title">💀 and many more failed ones..</h3>
+                  <h3 class="project-title">And many more...</h3>
         </div>
     </div>
 </div>
-<h2 class="title">🗺 Around The Internet</h2>
-
-You can find me on [X](https://x.com/0xferruccio), [github](https://github.com/ferrucc-io) and occasionally in your inbox, if you subscribe to my newsletter:
