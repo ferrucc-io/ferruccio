@@ -13,8 +13,8 @@ HUGO_ENV="production"
 [params]
     name="Ferruccio Balestreri"
     currentStatus="Currently having a great time building <a href='https://june.so?ref=ferrucc.io'>June</a> and occasionally helping out with <a href='https://balloonguthealth.com/'>Balloon</a>"
-    twitterHandle="0xferruccio"
-    socialLink="https://twitter.com/0xferruccio"
+    twitter="0xferruccio"
+    linkedin="ferrucc-io"
     socialMedia="twitter"
     [[params.popularPosts]]
         title = "Everything I learned in 10 years of blogging"
