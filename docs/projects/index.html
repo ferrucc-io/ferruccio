@@ -272,6 +272,55 @@ h2.title:first-of-type {
 .project-meta > *:not(:last-child) {
     margin-right: 0.4rem;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        padding: 0;
+    }
+
+    main {
+        padding: 0.25cm;
+        margin: 0;
+        box-shadow: none;
+    }
+
+    .title {
+        margin: 0.5rem 0 0.25rem 0;
+        font-size: 1.1rem;
+    }
+
+    .projects {
+        margin-bottom: 0.5rem;
+    }
+
+    .project {
+        margin-bottom: 0.5rem;
+    }
+
+    .project-description {
+        font-size: 0.85rem;
+        margin: 0.05rem 0;
+    }
+
+    .project-meta {
+        font-size: 0.75rem;
+        margin-top: 0.05rem;
+    }
+
+    h1 {
+        font-size: 1.5rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    div[style*="margin-bottom: 1rem"] {
+        margin-bottom: 0.5rem !important;
+    }
+
+    div[style*="margin-bottom: 1rem"] p {
+        margin: 0.15rem 0 !important;
+        font-size: 0.9rem !important;
+    }
+}
 </style>
 <div style="margin-bottom: 1rem;">
     <h1 style="font-size: 2rem; margin-bottom: 1rem; text-align: center;">Ferruccio Balestreri</h1>
