@@ -1,7 +1,7 @@
 ---
 title: "Multi Day Hikes"
 date: 2025-06-29T13:00:00+02:00
-draft: true
+draft: false
 ---
 
 I've found that doing multi-day hikes is the perfect break from the keyboard.
