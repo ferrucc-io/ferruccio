@@ -35,9 +35,9 @@ The Tour du Mont Blanc (TMB) is a 170km hike that circles Mont Blanc, the highes
 
 ![](/multi-day-hikes/tmb-route.png)
 
-Me, my wife and two friends all had a great time.
+With my wife and two friends all had a great time.
 
-We took the train to Geneva, and then a bus to the start of the hike in Les Houches - close to Chamonix.
+We took the train to Geneva from Paris, and then a bus to the start of the hike in Les Houches - close to Chamonix.
 
 As we didn't have either the time or the physical condition to do the full hike we created our own itinerary, which included a short train ride on one of the days in Switzerland.
 
