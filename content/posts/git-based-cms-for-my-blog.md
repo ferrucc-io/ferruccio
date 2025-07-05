@@ -23,6 +23,6 @@ The main pain points I wanted to address were:
 
 Now I just need to see whether this helps me keep writing more articles regularly.
 
-This is the first post I'm writing using my new editor, if it sticks I'd love to abstract it and turn it into something other people can use too!
+This is the first post I'm writing using my new editor, if it sticks I'd love to abstract it and turn it into something other people can use too! One candidate application is my [changelog repo](https://github.com/juneHQ/changelog)
 
 Thanks for reading, in the coming weeks I'll be writing more.
