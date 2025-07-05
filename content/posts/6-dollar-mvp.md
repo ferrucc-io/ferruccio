@@ -70,4 +70,4 @@ In around two hours of messing around with the server I managed to deploy the ap
 
 **Enjoyed this post? Got any content to suggest?**
 
-*My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [Twitter](https://twitter.com/0xferruccio)*
+*My articles are always a work in progress, and almost never complete so if you have any suggestions of how I can improve hit me up at hi[at]ferrucc[dot].io or DM me on [X](https://x.com/0xferruccio)*
