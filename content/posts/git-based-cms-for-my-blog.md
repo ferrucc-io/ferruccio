@@ -1,6 +1,7 @@
 ---
 title: "Git based CMS for my blog"
 date: 2025-07-05T09:10:00+02:00
+lastmod: 2025-07-06T09:10:00+02:00
 draft: false
 ---
 
@@ -26,3 +27,5 @@ Now I just need to see whether this helps me keep writing more articles regularl
 This is the first post I'm writing using my new editor, if it sticks I'd love to abstract it and turn it into something other people can use too! One candidate application is my [changelog repo](https://github.com/juneHQ/changelog)
 
 Thanks for reading, in the coming weeks I'll be writing more.
+
+**Update 07/06/2025:** I just changed the build system of the blog to run on GitHub actions. The build process and making changes should be much smoother now.
