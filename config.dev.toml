@@ -1,0 +1,32 @@
+pygmentsCodeFences = true
+googleAnalytics = "UA-100447722-1"
+
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "ferrucc.io"
+description = "Ferruccio Balestreri's personal blog. On technology, sales and other interesting topics."
+theme = "ferruccio"
+publishDir = "public"
+enableRobotsTXT = true
+HUGO_ENV="development"
+
+[params]
+    name="Ferruccio Balestreri"
+    currentStatus="Currently having a great time building <a href='https://june.so?ref=ferrucc.io'>June</a> and occasionally helping out with <a href='https://balloonguthealth.com/'>Balloon</a>"
+    twitter="0xferruccio"
+    linkedin="ferrucc-io"
+    socialMedia="twitter"
+    [[params.popularPosts]]
+        title = "Everything I learned in 10 years of blogging"
+        link = "/posts/starting-a-blog/"
+    [[params.popularPosts]]
+        title = "From idea to 100k uniques per week in two months"
+        link = "/posts/altacucina/"
+    [[params.popularPosts]]
+        title = "Principles of Bitcoin Maximalism"
+        link = "https://bitcoin.ferrucc.io/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true 
