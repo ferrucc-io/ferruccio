@@ -10,10 +10,6 @@ menu: "main"
 
 I'm Ferruccio Balestreri
 
-I spend most of my time working on [June](https://june.so) - *we're hiring so reach out if you'd like to work with me*
+I've founded and was the CTO at [June](https://june.so). Before that I worked at Intercom as an engineer.
 
-I also help out with building [Balloon](https://balloonguthealth.com/) - an app to help women improve their gut health.
-
-Over the years I've made [so many projects](/projects) that I've lost count.
-
-I like to run [experiments](/experiments), like publicly streaming my [browsing history](/history).
+My hobby is to make [small projects](/projects) every couple of months I make something new to have fun and sharpen my skills.
