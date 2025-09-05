@@ -34,6 +34,12 @@ hugo server --config config.dev.toml
 
 The development server will be available at `http://localhost:1313/`.
 
+If you want to run the editor, theme development server and admin UI you can run the following command:
+
+```bash
+foreman start -f Procfile "$@"
+```
+
 ## Building Locally
 
 If you need to build the site locally for testing:
