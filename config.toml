@@ -4,7 +4,7 @@ googleAnalytics = "UA-100447722-1"
 baseURL = "https://ferrucc.io/"
 languageCode = "en-us"
 title = "ferrucc.io"
-description = "Ferruccio Balestreri's personal blog. On technology, sales and other interesting topics."
+description = "Ferruccio Balestreri's personal blog. Sharing what I find interesting."
 theme = "ferruccio"
 publishDir = "docs"
 enableRobotsTXT = true
@@ -12,7 +12,7 @@ HUGO_ENV="production"
 
 [params]
     name="Ferruccio Balestreri"
-    currentStatus="On a little break before joining <a href='https://amplitude.com?ref=ferrucc.io'>Amplitude</a>"
+    currentStatus="Helping build <a href='https://amplitude.com?ref=ferrucc.io'>Amplitude</a> and having fun"
     twitter="0xferruccio"
     linkedin="ferrucc-io"
     socialMedia="twitter"
@@ -23,8 +23,8 @@ HUGO_ENV="production"
         title = "From idea to 100k uniques per week in two months"
         link = "/posts/altacucina/"
     [[params.popularPosts]]
-        title = "Principles of Bitcoin Maximalism"
-        link = "https://bitcoin.ferrucc.io/"
+        title = "Building friend catchers"
+        link = "/posts/friendcatchers/"
 
 [markup]
   [markup.goldmark]
