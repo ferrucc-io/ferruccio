@@ -62,11 +62,19 @@
         z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
     })('3124654c-dc02-41c2-a7b9-a807331d47e2');
 
-    pendo.initialize({
-      visitor: {
-        id: ''
+    (function () {
+      var STORAGE_KEY = 'pendo_visitor_id';
+      var visitorId = localStorage.getItem(STORAGE_KEY);
+      if (!visitorId) {
+        visitorId = 'anon-' + Math.random().toString(36).slice(2, 10) + Math.random().toString(36).slice(2, 10);
+        localStorage.setItem(STORAGE_KEY, visitorId);
       }
-    });
+      pendo.initialize({
+        visitor: {
+          id: visitorId
+        }
+      });
+    })();
     </script>
   </head>
 
