@@ -52,30 +52,6 @@
       </script>
       {{ end }}
     {{ end }}
-
-    <script>
-    (function(apiKey){
-        (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=o._q||[];
-        v=['initialize','identify','updateOptions','pageLoad','track', 'trackAgent'];for(w=0,x=v.length;w<x;++w)(function(m){
-        o[m]=o[m]||function(){o._q[m===v[0]?'unshift':'push']([m].concat([].slice.call(arguments,0)));};})(v[w]);
-        y=e.createElement(n);y.async=!0;y.src='https://cdn.pendo.io/agent/static/'+apiKey+'/pendo.js';
-        z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
-    })('3124654c-dc02-41c2-a7b9-a807331d47e2');
-
-    (function () {
-      var STORAGE_KEY = 'pendo_visitor_id';
-      var visitorId = localStorage.getItem(STORAGE_KEY);
-      if (!visitorId) {
-        visitorId = 'anon-' + Math.random().toString(36).slice(2, 10) + Math.random().toString(36).slice(2, 10);
-        localStorage.setItem(STORAGE_KEY, visitorId);
-      }
-      pendo.initialize({
-        visitor: {
-          id: visitorId
-        }
-      });
-    })();
-    </script>
   </head>
 
   <body class="ma0 {{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
@@ -85,6 +61,5 @@
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
-    {{ partial "pendo-tracking.html" . }}
   </body>
 </html>
